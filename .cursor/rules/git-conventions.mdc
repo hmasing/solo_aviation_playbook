@@ -1,167 +1,467 @@
 ---
-description: GIT Conventions
-alwaysApply: Intelligently
+description: Whenever git actions are taking place, such as merges, pull requests, commit, etc.
+globs: 
+alwaysApply: false
 ---
-# Process Name
+# Git Conventions and Workflow Guidelines 🔄
 
-Provide a clear, descriptive name for the process.
+## General Language Standards
 
-_____________________________________________________________________________________________
+All written communication in this project MUST follow these language standards:
 
-## Purpose
+### Factual and Precise Language
+- Use clear, factual language throughout all documentation, commit messages, PR descriptions, code comments, and technical communication
+- Focus on specific changes and their purpose rather than subjective impact
+- Use precise, measurable terms when possible
+- Keep descriptions objective and data-driven
+- Be specific about what functionality was added, fixed, or changed
 
-Explain why this process exists and its intended outcome.
+### Prohibited Hyperbolic Terms
+**AVOID** subjective and exaggerated terms including but not limited to:
+- "comprehensive", "significant", "major", "huge", "massive", "extensive"
+- "revolutionary", "game-changing", "cutting-edge", "innovative"
+- "robust", "powerful", "advanced", "sophisticated", "complex"
+- "outstanding", "excellent", "amazing", "incredible", "fantastic"
+- "critical", "essential", "vital", "crucial" (unless objectively true)
+- "complete", "full", "total", "entire" (unless literally complete)
 
-_____________________________________________________________________________________________
+### Preferred Language Patterns
+✅ **Use these objective patterns**:
+- "Adds [specific functionality]"
+- "Fixes [specific issue]" 
+- "Updates [specific component] to [specific change]"
+- "Implements [specific feature]"
+- "Reduces [metric] by [measurable amount]"
+- "Handles [specific case]"
+- "Optimizes [specific process]"
 
-## Roles and Responsibilities
+❌ **Avoid these subjective patterns**:
+- "Massively improves [something]"
+- "Significantly enhances [something]"
+- "Major overhaul of [something]"
+- "Huge improvements to [something]"
+- "Comprehensive implementation of [something]"
+- "Robust and sophisticated solution"
+- "Revolutionary approach to [something]"
 
-List the roles involved and their specific responsibilities.
+### Context-Specific Applications
+These language standards apply to:
+- All git commit messages and PR content (detailed below)
+- Code comments and documentation
+- README files and technical documentation
+- Issue descriptions and code review comments
+- API documentation and user guides
+- Testing documentation and notes
+- All written communication about the codebase
 
-**Role 1 (e.g., Line Service Technician):**
-________________________________________________________________
-________________________________________________________________
+## Language Requirements
 
-**Role 2 (e.g., Operations Supervisor):**
-________________________________________________________________
-________________________________________________________________
+All git-related text MUST be written in English:
+- Commit messages
+- Branch names
+- Pull request titles and descriptions
+- Code review comments
+- Issue titles and descriptions
 
-## Process Steps
+## Commit Message Format
 
-Detail each step in a clear, numbered sequence.
+All commit messages MUST follow the [Conventional Commits](mdc:https:/www.conventionalcommits.org) specification:
 
-**Step 1:**
-______________________________________________________________________________________
+```
+<type>[optional scope]: <description>
 
-**Step 2:**
-______________________________________________________________________________________
+[optional body]
 
-[Continue through Step 15]
-
-## Process Mapping
-
-Flowchart to show sequential steps
-
-## Tools and Resources
-
-List all tools, software, or templates required.
-
-_____________________________________________________________________________________________
-
-## Success Metrics
-
-Define measurable indicators to evaluate process effectiveness.
-
-**Completion Time:** Process completed within [X hours/days].
-**Quality Standard:** [Specific quality measure]
-**Safety Standard:** [Safety requirement met]
-**Customer Satisfaction:** [Target satisfaction level]
-
-## Common Issues and Solutions
-
-Identify potential challenges and their resolutions.
-
-**Issue:** [Problem description]
-**Solution:** [Resolution steps]
-
-## Safety Considerations
-⚠️ **WARNING**: Critical safety information
-⚡ **CAUTION**: Operational cautions
-ℹ️ **NOTE**: Important operational information
-
-## Regulatory References
-- [FAA Regulation/Advisory Circular]
-- [OSHA Standard]
-- [Company Policy Reference]
-
-## Notes:
-___________________________________________________________________________________
-[Multiple lines of blank space for notes]
-
-## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|------|---------|---------|--------|----------|
-| YYYY-MM-DD | 1.0 | Initial creation | [Name] | [Name] |
+[optional footer(s)]
 ```
 
-## Aviation Industry Requirements
+### Types
 
-### Terminology Standards
-- Use proper aviation terminology and acronyms
-- Define acronyms on first use: `Federal Aviation Administration (FAA)`
-- Use standard aircraft designations: `Cessna 172`, `King Air 350`
-- Include ICAO aircraft type codes when appropriate: `C172`, `BE20`
+- `feat`: A new feature
+- `fix`: A bug fix
+- `docs`: Documentation only changes
+- `style`: Changes that do not affect the meaning of the code (formatting, etc)
+- `refactor`: A code change that neither fixes a bug nor adds a feature
+- `perf`: A code change that improves performance
+- `test`: Adding missing tests or correcting existing tests
+- `chore`: Changes to the build process or auxiliary tools
+- `ci`: Changes to CI configuration files and scripts
 
-### Safety Language Hierarchy
-- **⚠️ WARNING**: Immediate danger to life or limb
-- **⚡ CAUTION**: Risk of equipment damage or operational problems  
-- **ℹ️ NOTE**: Important operational information
-- **✅ BEST PRACTICE**: Recommended approaches for optimal results
+### Scope
+- The scope should be the name of the components affected (as perceived by the person reading the changelog).
+- The type should be in square brackets, a space, and then the scope in parenthesis.
 
-### Regulatory References
-Always reference current regulations:
-- **14 CFR** (Code of Federal Regulations) - Use specific part numbers
-- **FAA Advisory Circulars (AC)** - Include AC number and title
-- **OSHA Standards** - Reference specific standard numbers
-- **EPA Regulations** - Include relevant environmental standards
+Examples:
+- `[feat] (auth): add login with Google`
+- `[fix] (api): handle null response from server`
+- `[docs] (readme): update installation steps`
 
-### Fuel Specifications
-- **Jet A**: Turbine engine fuel (specify Jet A-1 for international)
-- **100LL**: 100 Low Lead aviation gasoline
-- **Mogas**: Motor gasoline (automotive fuel approved for aircraft use)
+### Description
+- Use the imperative, present tense: "change" not "changed" nor "changes"
+- Don't capitalize first letter
+- No dot (.) at the end
+- Write in english
+- For multiple changes in one commit, use semicolons to separate them:
+  ```
+  [type1] (scope1): first change; [type2] (scope2): second change
+  ```
+- Each change should follow the same format: `[type] (scope): description`
 
-### Radio Communications
-Use standard phraseology:
+## Commit Message Accuracy
+
+- Always base commit messages on the actual staged changes (the diff), not just the conversation or intent
+- Before committing, review the staged diff (`git diff --cached`) to ensure the commit message accurately describes what is being committed
+- Conversation context, suggestions, or prior intent may change during the coding process. The final commit message must reflect the real, current state of the code
+- If changes are made after a suggestion, update the commit message accordingly
+- This ensures the commit history is a true and useful record of what was actually changed, not just what was discussed
+- When committing multiple changes:
+  1. Review all staged changes using `git diff --cached`
+  2. Identify each distinct type of change (e.g., fix, docs, feat)
+  3. Group related changes together
+  4. Write a commit message that accurately describes each major change
+  5. Use semicolons to separate multiple changes in the commit message
+  6. Ensure each change follows the conventional commits format
+
+Example of a good multi-change commit message:
 ```
-"Podunk Ground, Cessna 123AB, ready to taxi with Information Alpha"
-"Cessna 123AB, Podunk Ground, taxi to Runway 27 via Alpha, contact Tower 118.1"
+[fix] (buyflow): fix network technology checkboxes in form; [docs] (git): update git conventions documentation
 ```
 
-## Content Quality Standards
+## Branch Naming Convention
 
-### Writing Requirements
-- Steps must be actionable and specific
-- Include realistic success metrics with target values
-- Address common operational challenges
-- Maintain professional aviation industry tone
-- Ensure regulatory compliance considerations
-- Include cross-references to related procedures
-- Use consistent formatting with horizontal line separators
-- Provide comprehensive but practical guidance
+Branches should follow this pattern:
+```
+<type>/<short-description>
+```
 
-### Aviation-Specific Considerations
-- Include relevant safety warnings for airport operations
-- Reference appropriate FAA regulations (14 CFR parts)
-- Consider OSHA workplace safety standards
-- Include emergency contact protocols where relevant
-- Address quality control and compliance requirements
-- Use realistic timeframes for aviation operations
-- Consider weather, equipment, and regulatory dependencies
+For features and fixes that are tracked in a project management system, include the ticket number:
+```
+<type>/<ticket-number>-<short-description>
+```
 
-### Review Requirements
-All procedures must be reviewed by qualified personnel:
-- **FBO Services**: Operations Manager, Customer Service Lead
-- **Maintenance**: Chief of Maintenance, Quality Assurance Manager
-- **Flight Training**: Chief Flight Instructor, Training Manager
-- **Safety**: Safety Officer, Compliance Manager
-- **Marketing**: Marketing Manager, Customer Relations Manager
-- **Administrative**: Business Manager, Finance Manager
+Examples:
+- `feat/add-google-auth`
+- `fix/handle-null-responses`
+- `docs/update-readme`
+- `feat/PROJ-123-add-google-auth`
+- `fix/PROJ-456-handle-null-responses`
 
-### Regulatory Expertise Required
-Procedures involving these areas need appropriate regulatory review:
-- **Aircraft maintenance**: A&P mechanic or IA review
-- **Flight operations**: Commercial pilot or CFI review
-- **Fuel operations**: Fuel safety specialist review
-- **Security**: TSA compliance officer review
-- **Environmental**: Environmental compliance officer review
+## Staging Changes
 
-## Maintenance Standards
-- **Annual review**: All procedures reviewed yearly minimum
-- **Event-driven updates**: Changes due to regulation updates, equipment changes, or incident lessons learned
-- **Version control**: Track all changes with date, author, and reason
-- **Distribution control**: Ensure all users have current versions
+- **Always stage all changed files before committing, unless you have a specific reason to commit only a subset.**
+- Use `git add -A` to ensure new, modified, and deleted files are included.
+- Before every commit, run:
+  ```bash
+  git add -A
+  git status
+  ```
+- Review the output of `git status` to confirm all intended changes are staged.
+- Only proceed with the commit if all relevant files are included.
 
----
-**Document Owner**: Operations Management  
-**Review Frequency**: Annual or as regulations change  
-**Distribution**: All department heads and content creators
+## Workflow Guidelines
+
+1. **Protected Branches**
+   - `main` (or `master`): Production-ready code, protected branch
+   - Direct commits to protected branches are NOT allowed
+   - All changes must come through Pull Requests
+
+2. **Feature Development**
+   ```bash
+   # First, check if you're on a protected branch
+   git branch --show-current
+   
+   # If on main/master, create and checkout a new feature branch
+   git checkout -b feat/my-new-feature main
+   
+   # Make changes and commit
+   git add .
+   git commit -m "feat(scope): add new feature"
+   
+   # Keep branch updated with main
+   git fetch origin main
+   git rebase origin/main
+   
+   # Push changes
+   git push origin feat/my-new-feature
+   ```
+
+3. **Pull Request Process**
+   - Create PR from feature branch to staging unless otherwise indicated in the request
+   - Follow these steps IN ORDER:
+     1. Pull and update target branch FIRST:
+        ```bash
+        # Replace 'target-branch' with your actual target branch (e.g., main, staging, etc.)
+        git checkout target-branch
+        git pull origin target-branch
+        ```
+     2. Return to your source branch:
+        ```bash
+        git checkout your-feature-branch  # or staging, etc.
+        ```
+     3. Create PR description:
+        - Create a DETAILED PR description that includes:
+          1. A summary of changes, organized by category/area
+          2. A complete list of all modified files, organized by type
+          3. Any relevant notes about testing, dependencies, or deployment
+        - Store this description in a file named `pr_description.md`
+          - This file should be in .gitignore
+          - Do not commit this file to the repository
+          - Use it as a template for the PR description
+     4. Review changes:
+        ```bash
+        # Replace 'target-branch' with your actual target branch
+        git diff target-branch..your-feature-branch --name-status | cat
+        ```
+     5. Create the PR using the GitHub CLI:
+        ```bash
+        gh pr create --base target-branch --head your-branch --title "Your PR Title" --body "$(cat pr_description.md)"
+        ```
+   - Ensure there are no merge conflicts
+   - NEVER skip the target branch update step - it must be done first
+
+4. **Pull Request Title Conventions**
+   - PR titles MUST be complete sentences
+   - Use proper sentence capitalization
+   - Do NOT include conventional commit prefixes (feat:, fix:, etc.)
+   - Focus on what the changes accomplish, not how they were implemented
+   - Keep titles concise but descriptive
+   - Use present tense
+   - Avoid technical jargon unless necessary
+   - **Follow the General Language Standards above** - use clear, factual language and avoid hyperbolic terms
+
+   Examples:
+   ✅ Good PR Titles:
+   - "Add Google authentication to login flow"
+   - "Implement client KPI calculation and reporting system"
+   - "Fix validation errors in contact form"
+   - "Update documentation for API endpoints"
+   - "Add database indexes for API query performance"
+   - "Migrate database schema from schema.rb to structure.sql"
+
+   ❌ Bad PR Titles:
+   - "feat: add google auth"
+   - "fix: validation errors"
+   - "updates to docs"
+   - "WIP: working on search"
+   - "Major overhaul of authentication system"
+   - "Comprehensive feature enhancements and performance optimizations"
+   - "Significant performance improvements"
+   - "Huge update to API documentation"
+   - "Revolutionary changes to the KPI system"
+   - "Robust implementation of advanced features"
+
+5. **Pull Request Description Guidelines**
+   - **Follow the General Language Standards above** - use clear, factual language throughout and avoid hyperbolic terms
+   - Focus on specific changes and their purpose
+   - Structure the description to highlight:
+     1. What changed
+     2. Why it changed
+     3. How it was implemented
+     4. Impact on the system
+   - Include concrete examples when relevant
+   - Use bullet points for clarity
+   - Keep technical details precise and measurable
+   - Each major change MUST include detailed subbullet points explaining:
+     - Specific implementation details
+     - Technical improvements
+     - User-facing changes
+     - Performance impacts
+     - Accessibility enhancements
+     - Testing coverage
+   - Group changes by component/area with clear section headers
+   - Include measurable impacts where possible (e.g., "Reduces load time by 200ms")
+   - Document all modified files with their specific changes
+   - List removed files in a separate "Removed Files" section without additional commentary
+   - Provide clear testing notes for each major change
+   - List all dependencies affected and their status
+   - Include detailed deployment notes and requirements
+
+   Examples:
+   ✅ Good Description Language:
+   - "Adds request header logging to API calls"
+   - "Reduces response time by 200ms"
+   - "Updates JSON viewer to use 2-space indentation"
+   - "Handles array values in header extraction"
+   - "Implements KPI calculation for provider metrics"
+   - "Adds database indexes for query optimization"
+
+   ❌ Bad Description Language:
+   - "Massively improves performance"
+   - "Significantly enhances user experience"
+   - "Major overhaul of the system"
+   - "Huge improvements to code quality"
+   - "Comprehensive implementation of features"
+   - "Robust and sophisticated solution"
+   - "Revolutionary approach to data handling"
+
+   Example PR Description Structure:
+   ```markdown
+   # Summary of Changes
+
+   This PR [brief description of main changes]:
+
+   1. [Major Change 1]
+      - [Specific implementation detail]
+      - [Technical improvement]
+      - [User-facing change]
+      - [Performance impact]
+
+   2. [Major Change 2]
+      - [Specific implementation detail]
+      - [Technical improvement]
+      - [User-facing change]
+      - [Performance impact]
+
+   ## Modified Files
+
+   ### [Component Type 1]
+   - [File 1]
+     - [Specific change]
+     - [Implementation detail]
+     - [Impact]
+   - [File 2]
+     - [Specific change]
+     - [Implementation detail]
+     - [Impact]
+
+   ### [Component Type 2]
+   - [File 1]
+     - [Specific change]
+     - [Implementation detail]
+     - [Impact]
+
+   ## Removed Files
+   - [File 1]
+   - [File 2]
+   - [File 3]
+
+   ## Testing Notes
+   - [Component 1]
+     - [Test case 1]
+     - [Test case 2]
+     - [Test coverage]
+   - [Component 2]
+     - [Test case 1]
+     - [Test case 2]
+     - [Test coverage]
+
+   ## Dependencies
+   - [Dependency 1]
+     - [Status]
+     - [Impact]
+   - [Dependency 2]
+     - [Status]
+     - [Impact]
+
+   ## Deployment Notes
+   - [Deployment step 1]
+     - [Details]
+     - [Requirements]
+   - [Deployment step 2]
+     - [Details]
+     - [Requirements]
+   ```
+
+6. **Release Process**
+   ```bash
+   # Create release branch from main
+   git checkout main
+   git pull origin main
+   git checkout -b release/v1.0.0
+   
+   # After testing, merge back to main via PR
+   # After PR is approved and merged:
+   git checkout main
+   git pull origin main
+   git tag -a v1.0.0 -m "version 1.0.0"
+   git push origin main --tags
+   ```
+
+## Examples
+
+✅ Good Commits:
+```bash
+feat(auth): implement JWT authentication
+fix(api): handle edge case in user validation
+docs(api): update API documentation
+style(components): format according to style guide
+refactor(database): optimize query performance
+test(auth): add unit tests for login flow
+```
+
+❌ Bad Commits:
+```bash
+Fixed stuff
+Updated code
+WIP
+Quick fix
+```
+
+## Pre-commit Hooks
+
+Consider using pre-commit hooks to enforce these conventions:
+- Commit message format validation
+- Code linting
+- Test execution
+- Branch naming validation
+- Protected branch validation
+
+## AI Assistant Requirements
+
+When handling git-related tasks, AI assistants MUST:
+1. Always check this file before suggesting or executing any git commands
+2. Follow these steps for every git operation:
+   - Review the staged changes using `git diff --cached`
+   - Identify all types of changes present
+   - Format commit messages according to the conventions
+   - Verify the message follows the format before executing
+3. For multiple changes:
+   - List each change separately in the commit message
+   - Use semicolons to separate changes
+   - Ensure each change has proper type and scope
+4. Never execute git commands without:
+   - Checking the current branch
+   - Verifying all relevant files are staged
+   - Confirming the commit message follows conventions
+
+Note: This file is automatically included in the AI's system prompt for every chat request. The AI should:
+1. Acknowledge that it has access to these conventions
+2. Explicitly state when it's following these conventions
+3. Reference specific sections of these conventions when making git-related decisions
+4. Use the example workflow as a template for all git operations
+
+Example workflow:
+```bash
+# 1. Check current state
+git status
+git diff --cached
+
+# 2. Review changes and identify types
+# - Found a bug fix in buyflow form
+# - Found documentation updates in git conventions
+
+# 3. Format commit message
+# [fix] (buyflow): fix network technology checkboxes in form; [docs] (git): update git conventions documentation
+
+# 4. Verify and execute
+git commit -m "[fix] (buyflow): fix network technology checkboxes in form; [docs] (git): update git conventions documentation"
+```
+
+## PR Description Markdown File Requirements (UPDATED)
+
+- For a **new pull request**, always create a fresh, empty `pr_description.md` file
+- If you are **amending or correcting an existing PR in context**, you may edit the current `pr_description.md` file
+- Otherwise, for each new PR, create a new file and do not reuse or append to an old one
+- Before creating a new PR description, delete or clear any existing `pr_description.md` file to prevent inclusion of legacy or unrelated content
+- The PR description markdown file **must only contain details relevant to the current PR**
+- Each PR description MUST include:
+  1. A detailed summary of changes with subbullet points
+  2. A complete list of modified files with specific changes
+  3. Comprehensive testing notes for each component
+  4. Detailed dependency information
+  5. Clear deployment requirements
+- Use the provided template structure for consistency
+- Include measurable impacts where possible
+- Document all technical details and implementation specifics
+- Ensure all changes are properly categorized and explained
+- This ensures PR descriptions are always accurate, relevant, and free of legacy content

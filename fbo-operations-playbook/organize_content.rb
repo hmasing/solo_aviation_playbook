@@ -55,7 +55,7 @@ content_structure = [
   {
     file: '08_Content_Guidelines.md',
     title: '# Content Guidelines',
-    content: File.read("#{SOURCE_DIR}/CONTENT-GUIDELINES.md")
+    content: File.read("#{SOURCE_DIR}/.cursor/rules/aviation-content-guidelines.mdc")
   },
   {
     file: '09_Template_Reference.md',
