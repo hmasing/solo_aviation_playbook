@@ -1,0 +1,122 @@
+# General Markdown Formatting Rules
+
+## Core Formatting Standards
+
+### Heading Hierarchy
+- **H1 (`#`)**: Main document titles or section titles
+- **H2 (`##`)**: Major sections or individual topics
+- **H3 (`###`)**: Subsections or major steps
+- **H4 (`####`)**: Detailed sub-steps or components
+- **H5 (`#####`)**: Specific actions or notes
+- **H6 (`######`)**: References or additional details
+
+### Alert and Notice Formatting
+- **⚠️ WARNING**: Use for critical information that could result in serious consequences
+- **⚡ CAUTION**: Use for operational cautions that could result in problems
+- **ℹ️ NOTE**: Use for important information or reminders
+- **✅ BEST PRACTICE**: Use for recommended approaches
+
+### Checklists and Procedures
+- Use numbered lists for sequential procedures: `1. Step one`
+- Use bullet points for non-sequential items: `- Item`
+- Use checkboxes for verification items: `- [ ] Item to verify`
+- Use sub-bullets with consistent indentation: `  - Sub-item`
+
+### Cross-References
+- Link to other sections: `[Section Name](../section/file.md)`
+- Link to assets: `[Asset Name](../../assets/category/file-name.pdf)`
+- Link to external resources: `[External Resource](https://example.com/...)`
+
+### Terminology Standards
+- Use consistent terminology throughout documents
+- Define acronyms on first use: `Example Organization (EO)`
+- Use proper capitalization and formatting for names and titles
+
+### Code Blocks and Examples
+- Use code blocks for structured data, examples, or formatted text:
+```
+EXAMPLE FORMAT:
+"Sample text or structured data example"
+```
+
+### File Naming Conventions
+- Use kebab-case: `example-document-name.md`
+- Include logical prefixes when organizing: `01-section/01-document-name.md`
+- Keep names descriptive but concise
+
+### Version Control
+- Include revision date in frontmatter
+- Track major changes in document history
+- Use semantic versioning for major updates
+
+### Basic Document Template
+
+```markdown
+---
+title: "Document Title"
+section: "Category"
+revision_date: "YYYY-MM-DD"
+version: "1.0"
+author: "Author Name"
+---
+
+# Document Title
+
+Brief description of the document purpose.
+
+## Overview
+
+Explain what this document covers.
+
+## Main Content
+
+Organize content in logical sections with appropriate headings.
+
+### Subsection
+
+Use subsections to break down complex topics.
+
+## References
+
+- [Related Document](../path/to/document.md)
+- [External Resource](https://example.com)
+
+## Revision History
+
+| Date | Version | Changes | Author |
+|------|---------|---------|--------|
+| YYYY-MM-DD | 1.0 | Initial creation | Name |
+```
+
+## Document Templates
+
+### Standard Document Structure
+For consistent document formatting across projects:
+
+1. **YAML Frontmatter**: Include title, section, dates, author, reviewer
+2. **Document Title**: Clear, descriptive title
+3. **Purpose/Overview**: Brief explanation of document purpose
+4. **Main Content**: Organized in logical sections
+5. **References**: Links to related documents or external resources
+6. **Revision History**: Track changes and updates
+
+### Frontmatter Template
+```yaml
+---
+title: "Document Title"
+section: "Category"
+revision_date: "YYYY-MM-DD"
+version: "1.0"
+author: "Author Name"
+reviewed_by: "Reviewer Name"
+---
+```
+
+## Quality Standards
+- All documents should be reviewed by appropriate personnel
+- Include relevant references and citations
+- Maintain consistent terminology throughout documents
+- Ensure all cross-references and links are functional
+- Regular review and updates as content evolves
+- Use clear, concise language appropriate for the audience
+- Follow established formatting conventions consistently
