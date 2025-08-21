@@ -1,5 +1,5 @@
 ---
-title: "Aircraft Arrival and Departure Handling Process"
+title: "Aircraft Arrival and Departure Handling"
 section: "FBO Services"
 procedure_number: "01"
 revision_date: "2024-01-15"
@@ -10,15 +10,15 @@ approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Aircraft Arrival and Departure Handling Process
+# Aircraft Arrival and Departure Handling
 
-Provide comprehensive handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
+Provide handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
 
 _____________________________________________________________________________________________
 
 ## Purpose
 
-This process establishes procedures for managing aircraft arrivals and departures to ensure safe ground operations, exceptional client experience, and efficient ramp utilization while maintaining regulatory compliance and operational excellence.
+This process establishes procedures for managing general aviation aircraft arrivals and departures to ensure safe ground operations, quality client experience, and efficient ramp utilization while maintaining regulatory compliance and operational excellence. Our 3,500-foot runway accommodates aircraft such as Cessna 172, Piper Cherokee, King Air, Pilatus, and TBM series aircraft.
 
 _____________________________________________________________________________________________
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 Provide direct aircraft handling services including marshalling, parking guidance, and initial client contact
 Execute safety protocols and coordinate with ground support equipment operators during aircraft movements
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee ramp operations and coordinate between multiple aircraft movements and service requests
 Monitor safety compliance and resolve operational challenges during peak activity periods
 
@@ -100,8 +100,8 @@ ________________________________________________________________________________
 
 ## Common Issues and Solutions
 
-**Issue:** Aircraft arrives during peak ramp traffic with limited parking space
-**Solution:** Coordinate with operations supervisor for alternative parking assignments and communicate revised timing to client
+**Issue:** Training aircraft (Cessna 172) arrives during peak flight school operations with limited parking space
+**Solution:** Coordinate with operations leader for alternative parking assignments and communicate revised timing to flight instructor
 
 **Issue:** Ground support equipment malfunction during critical service period
 **Solution:** Implement backup equipment protocols and coordinate with maintenance team for immediate repair or replacement
@@ -122,16 +122,3 @@ ________________________________________________________________________________
 - FAA Advisory Circular AC 150/5210-5D - Painting, Marking, and Lighting of Vehicles
 - OSHA Standard 29 CFR 1910.95 - Occupational Noise Exposure
 - Company Safety Management System (SMS) procedures
-
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer          |
-|------------|---------|-------------------|---------------------|-------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Operations Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: FBO Operations Leader  
-**Emergency Contact**: Operations Center - Extension 2100

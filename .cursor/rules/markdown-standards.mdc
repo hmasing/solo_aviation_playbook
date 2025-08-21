@@ -7,7 +7,7 @@ alwaysApply: false
 ## Core Formatting Standards
 
 ### Heading Hierarchy
-- **H1 (`#`)**: Main document titles or section titles
+- **H1 (`#`)**: Main document titles or section titles (avoid redundant words like "Process")
 - **H2 (`##`)**: Major sections or individual topics
 - **H3 (`###`)**: Subsections or major steps
 - **H4 (`####`)**: Detailed sub-steps or components

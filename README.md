@@ -2,7 +2,7 @@
 
 ## Overview
 
-This playbook provides standardized procedures for Solo Aviation Services Fixed Base Operator (FBO) operations. It covers aircraft handling, maintenance operations, and client experience delivery. The playbook follows organizational vocabulary standards emphasizing clients, team members, and operational excellence.
+This playbook provides standardized procedures for Solo Aviation Services Fixed Base Operator (FBO) operations at our small Midwest airport. We operate a 3,500-foot runway serving Part 91 general aviation operations, including our Part 61 flight school with aircraft ranging from single-engine trainers (Cessna 172, Piper Cherokee) to turboprop business aircraft (King Air, Pilatus, TBM series). The playbook follows organizational vocabulary standards emphasizing clients, team members, and operational excellence.
 
 ## 🚀 Quick Start
 

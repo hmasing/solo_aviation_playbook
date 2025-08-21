@@ -1,5 +1,5 @@
 ---
-title: "Hangar and Ramp Space Allocation Process"
+title: "Hangar and Ramp Space Allocation"
 section: "FBO Services"
 procedure_number: "03"
 revision_date: "2024-01-15"
@@ -10,7 +10,7 @@ approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Hangar and Ramp Space Allocation Process
+# Hangar and Ramp Space Allocation
 
 Manage hangar and ramp space reservations to optimize facility utilization while providing clients with appropriate aircraft storage and parking solutions.
 
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Purpose
 
-This process establishes procedures for efficient hangar and ramp space allocation to maximize facility utilization, ensure appropriate aircraft accommodation, and provide clients with reliable space reservations while maintaining operational flexibility and safety standards.
+This process establishes procedures for efficient hangar and ramp space allocation to maximize facility utilization, ensure appropriate general aviation aircraft accommodation, and provide clients with reliable space reservations while maintaining operational flexibility and safety standards. Our facility accommodates typical Part 91 operations with aircraft ranging from single-engine trainers (Cessna 172, Piper Cherokee) to turboprop business aircraft (King Air, Pilatus PC-12, TBM series).
 
 _____________________________________________________________________________________________
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 Manage space reservations and coordinate hangar door operations while maintaining current occupancy records
 Monitor space utilization and coordinate with maintenance team for facility condition assessments and improvements
 
-**Ramp Supervisor:**
+**Ramp Leader:**
 Oversee aircraft positioning and coordinate ramp traffic flow during peak operational periods
 Ensure proper spacing between aircraft and monitor compliance with safety regulations for ground operations
 
@@ -117,16 +117,3 @@ ________________________________________________________________________________
 - NFPA 409 - Standard on Aircraft Hangars
 - Local zoning and building code requirements
 - Company facility management and safety procedures
-
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer          |
-|------------|---------|-------------------|---------------------|-------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Operations Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: FBO Operations Leader  
-**Emergency Contact**: Operations Center - Extension 2100

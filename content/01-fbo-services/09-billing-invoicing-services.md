@@ -1,16 +1,16 @@
 ---
-title: "Billing and Invoicing for Services Process"
+title: "Billing and Invoicing for Services"
 section: "FBO Services"
 procedure_number: "09"
 revision_date: "2024-01-15"
 version: "1.0"
 author: "FBO Operations Team"
-reviewed_by: "Finance Manager"
+reviewed_by: "Finance Leader"
 approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Billing and Invoicing for Services Process
+# Billing and Invoicing for Services
 
 Manage accurate billing and invoicing for all FBO services to ensure proper revenue collection, maintain client relationships, and provide transparent financial transactions.
 
@@ -32,35 +32,39 @@ Monitor payment collection and coordinate with clients regarding billing inquiri
 Document billable services during client interactions and coordinate with billing team for accurate service recording
 Communicate billing information to clients and assist with payment processing and billing inquiry resolution
 
-**Finance Manager:**
+**Finance Leader:**
 Oversee billing accuracy and coordinate payment collection procedures while managing client credit arrangements
 Monitor billing system performance and coordinate with operations team for service documentation improvements
 
-**Operations Supervisor:**
+**Operations Leader:**
 Ensure accurate service documentation and coordinate with billing team for timely service recording
 Monitor service delivery and coordinate with billing team to resolve any service documentation discrepancies
 
 ## Process Steps
 
 ### Service Documentation Phase
-- [ ] **Collect service documentation** - Gather detailed documentation of all services including fuel, handling, facilities, and ancillary services
+
+- [ ] **Collect service documentation** - Gather documentation of all services including fuel, handling, facilities, and ancillary services
 - [ ] **Verify service accuracy** - Confirm service quantities and pricing accuracy while validating client authorization for all billable services
 - [ ] **Review client account information** - Check billing preferences, credit terms, and special pricing arrangements
-- [ ] **Generate detailed invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
+- [ ] **Generate invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
 
 ### Invoice Processing Phase
-- [ ] **Review invoice accuracy** - Conduct comprehensive review of service descriptions, quantities, and pricing calculations
-- [ ] **Deliver invoice to client** - Send invoice using preferred method and provide detailed explanation of charges and payment terms
+
+- [ ] **Review invoice accuracy** - Conduct review of service descriptions, quantities, and pricing calculations
+- [ ] **Deliver invoice to client** - Send invoice using preferred method and provide explanation of charges and payment terms
 - [ ] **Coordinate payment method** - Process payment using client preferred method including credit cards, checks, or account billing
 - [ ] **Process payment transaction** - Handle payments accurately and update client account records with payment information
 
 ### Account Management Phase
+
 - [ ] **Reconcile account balances** - Balance client accounts and coordinate with finance team for accurate financial record maintenance
 - [ ] **Monitor past due accounts** - Track overdue accounts and coordinate collection activities while maintaining professional relationships
 - [ ] **Resolve billing inquiries** - Address client billing questions promptly and coordinate with operations team for documentation resolution
 - [ ] **Process credit applications** - Handle credit applications for established clients and coordinate terms with finance management
 
 ### Reporting and Maintenance Phase
+
 - [ ] **Generate financial reports** - Create billing reports for management review including revenue analysis and client payment performance
 - [ ] **Maintain billing systems** - Keep billing system accurate and coordinate with IT team for system improvements and updates
 - [ ] **Document audit trail** - Maintain detailed audit trail documentation for all billing transactions and coordinate with auditors
@@ -100,27 +104,16 @@ ________________________________________________________________________________
 **Solution:** Offer multiple payment methods and coordinate with finance team for flexible payment arrangements while maintaining collection procedures
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Protect client financial information and maintain confidentiality in accordance with privacy regulations
 ⚡ **CAUTION**: Verify service authorization before processing charges and maintain accurate documentation for all billable services
 ℹ️ **NOTE**: Maintain current knowledge of tax regulations and coordinate with tax professionals for compliance requirements
 ✅ **BEST PRACTICE**: Conduct regular billing system audits and maintain backup procedures for critical financial data
 
 ## Regulatory References
+
 - Generally Accepted Accounting Principles (GAAP)
 - Privacy regulations for financial information protection
 - Tax regulations for aviation services billing
 - Credit card processing security standards (PCI DSS)
 - Company financial procedures and audit requirements
-
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer        |
-|------------|---------|-------------------|---------------------|-----------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Finance Leader  |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Finance Manager  
-**Emergency Contact**: Operations Center - Extension 2100

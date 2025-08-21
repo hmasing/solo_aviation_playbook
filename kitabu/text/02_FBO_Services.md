@@ -5,7 +5,7 @@ Core client-facing operations that define the Fixed Base Operator experience. Th
 ### Procedures in this Section
 
 #### [Aircraft Arrival and Departure Handling Process](01-aircraft-arrival-departure-handling.md)
-Provide comprehensive handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
+Provide handling services for arriving and departing general aviation aircraft to ensure safe, efficient, and professional client experience.
 - Aircraft marshalling and parking coordination
 - Client greeting and service coordination  
 - Departure preparation and assistance
@@ -76,19 +76,13 @@ Provide weather briefing and flight planning assistance to support safe and effi
 - Flight planning assistance
 - Regulatory briefing support
 
-#### [Customs and Immigration Coordination Process](13-customs-immigration-coordination.md)
-Coordinate customs and immigration procedures for international flights to ensure regulatory compliance and smooth processing.
-- International arrival procedures
-- Customs and immigration liaison
-- Documentation and compliance requirements
-
-#### [Catering and In-Flight Service Requests Process](14-catering-inflight-services.md)
+#### [Catering and In-Flight Service Requests Process](13-catering-inflight-services.md)
 Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
 - Catering vendor coordination
 - Special service arrangements
 - Quality control and delivery timing
 
-#### [Emergency Response and Incident Reporting Process](15-emergency-response-incident-reporting.md)
+#### [Emergency Response and Incident Reporting Process](14-emergency-response-incident-reporting.md)
 Manage emergency response procedures and incident reporting to ensure rapid response and proper documentation of safety events.
 - Emergency procedure activation
 - Incident documentation and reporting
@@ -110,15 +104,15 @@ All FBO service personnel must complete:
 
 ---
 
-## Aircraft Arrival and Departure Handling Process
+## Aircraft Arrival and Departure Handling
 
-Provide comprehensive handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
+Provide handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
 
 _____________________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for managing aircraft arrivals and departures to ensure safe ground operations, exceptional client experience, and efficient ramp utilization while maintaining regulatory compliance and operational excellence.
+This process establishes procedures for managing general aviation aircraft arrivals and departures to ensure safe ground operations, quality client experience, and efficient ramp utilization while maintaining regulatory compliance and operational excellence. Our 3,500-foot runway accommodates aircraft such as Cessna 172, Piper Cherokee, King Air, Pilatus, and TBM series aircraft.
 
 _____________________________________________________________________________________________
 
@@ -128,7 +122,7 @@ ________________________________________________________________________________
 Provide direct aircraft handling services including marshalling, parking guidance, and initial client contact
 Execute safety protocols and coordinate with ground support equipment operators during aircraft movements
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee ramp operations and coordinate between multiple aircraft movements and service requests
 Monitor safety compliance and resolve operational challenges during peak activity periods
 
@@ -200,8 +194,8 @@ ________________________________________________________________________________
 
 ### Common Issues and Solutions
 
-**Issue:** Aircraft arrives during peak ramp traffic with limited parking space
-**Solution:** Coordinate with operations supervisor for alternative parking assignments and communicate revised timing to client
+**Issue:** Training aircraft (Cessna 172) arrives during peak flight school operations with limited parking space
+**Solution:** Coordinate with operations leader for alternative parking assignments and communicate revised timing to flight instructor
 
 **Issue:** Ground support equipment malfunction during critical service period
 **Solution:** Implement backup equipment protocols and coordinate with maintenance team for immediate repair or replacement
@@ -223,22 +217,9 @@ ________________________________________________________________________________
 - OSHA Standard 29 CFR 1910.95 - Occupational Noise Exposure
 - Company Safety Management System (SMS) procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer          |
-|------------|---------|-------------------|---------------------|-------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Operations Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: FBO Operations Leader  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Fueling Operations Process
+## Fueling Operations
 
 Provide safe, accurate, and efficient aircraft fueling services for both Jet A and 100LL aviation gasoline while maintaining quality control and regulatory compliance.
 
@@ -246,27 +227,27 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for safe aircraft fueling operations to ensure proper fuel quality, accurate quantity delivery, and compliance with aviation fuel handling regulations while maintaining operational efficiency and client satisfaction.
+This process establishes procedures for safe general aviation aircraft fueling operations to ensure proper fuel quality, accurate quantity delivery, and compliance with aviation fuel handling regulations while maintaining operational efficiency and client satisfaction. Our facility services aircraft requiring both Jet A fuel (turbine aircraft like King Air, Pilatus, TBM) and 100LL aviation gasoline (piston aircraft like Cessna 172, Piper Cherokee).
 
 _____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
 **Fuel Service Technician:**
-Conduct aircraft fueling operations following safety protocols and verify fuel quality before delivery
-Maintain fuel system equipment and document all fuel transactions accurately for billing and inventory control
+- Conduct aircraft fueling operations following safety protocols and verify fuel quality before delivery
+- Maintain fuel system equipment and document all fuel transactions accurately for billing and inventory control
 
 **Fuel Safety Coordinator:**
-Monitor fuel quality testing schedules and ensure compliance with fuel storage and handling regulations
-Coordinate fuel deliveries and maintain fuel inventory records while overseeing safety training for fuel personnel
+- Monitor fuel quality testing schedules and ensure compliance with fuel storage and handling regulations
+- Coordinate fuel deliveries and maintain fuel inventory records while overseeing safety training for fuel personnel
 
-**Line Service Supervisor:**
-Oversee fueling operations during complex aircraft servicing and coordinate fuel truck positioning and scheduling
-Ensure proper grounding procedures and monitor environmental compliance during all fuel handling activities
+**Line Service Leader:**
+- Oversee fueling operations during complex aircraft servicing and coordinate fuel truck positioning and scheduling
+- Ensure proper grounding procedures and monitor environmental compliance during all fuel handling activities
 
 **Quality Assurance Technician:**
-Conduct fuel quality testing and maintain testing equipment calibration and documentation
-Investigate fuel quality issues and coordinate with suppliers for product quality assurance and corrective actions
+- Conduct fuel quality testing and maintain testing equipment calibration and documentation
+- Investigate fuel quality issues and coordinate with suppliers for product quality assurance and corrective actions
 
 ### Process Steps
 
@@ -284,7 +265,7 @@ Investigate fuel quality issues and coordinate with suppliers for product qualit
 
 #### Post-Fueling Phase
 - [ ] **Secure fuel caps** - Ensure all aircraft fuel caps are properly secured and torqued to manufacturer specifications
-- [ ] **Complete documentation** - Fill fuel delivery ticket with quantity, type, aircraft information, and quality test results
+- [ ] **Fill documentation** - Fill fuel delivery ticket with quantity, type, aircraft information, and quality test results
 - [ ] **Process billing transaction** - Enter transaction in billing system and provide detailed receipt to client
 - [ ] **Update inventory records** - Record fuel usage and monitor levels for reorder requirements
 
@@ -292,7 +273,7 @@ Investigate fuel quality issues and coordinate with suppliers for product qualit
 - [ ] **Shutdown fuel systems** - Shut down fuel truck systems and conduct post-operation inspection
 - [ ] **Return equipment to storage** - Secure equipment in designated storage area following proper procedures
 - [ ] **Inspect equipment condition** - Document any maintenance requirements or operational issues identified
-- [ ] **Complete environmental compliance** - Inspect area for spills and complete required environmental documentation
+- [ ] **Ensure environmental compliance** - Inspect area for spills and fill required environmental documentation
 
 ### Process Mapping
 
@@ -321,8 +302,8 @@ ________________________________________________________________________________
 **Issue:** Fuel contamination detected during quality testing
 **Solution:** Isolate contaminated fuel supply, conduct additional testing, and coordinate with supplier for fuel replacement and system cleaning
 
-**Issue:** Aircraft fuel system malfunction during fueling operation
-**Solution:** Stop fuel flow immediately, disconnect equipment safely, and coordinate with maintenance personnel for aircraft system inspection
+**Issue:** Training aircraft (Cessna 172) fuel system malfunction during fueling operation
+**Solution:** Stop fuel flow immediately, disconnect equipment safely, and coordinate with Part 61 flight school maintenance personnel for aircraft system inspection
 
 **Issue:** Fuel truck equipment malfunction during peak operations
 **Solution:** Implement backup fuel truck deployment and coordinate with maintenance team for immediate repair while continuing operations
@@ -341,22 +322,9 @@ ________________________________________________________________________________
 - OSHA 29 CFR 1910.106 - Flammable Liquids Standards
 - FAA Advisory Circular AC 150/5230-4B - Aircraft Fuel Storage, Handling, Training, and Dispensing
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer             |
-|------------|---------|-------------------|---------------------|----------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Fuel Safety Specialist |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Fuel Operations Manager  
-**Emergency Contact**: Fire Department - 911 / Operations Center - Extension 2100
-
 ---
 
-## Hangar and Ramp Space Allocation Process
+## Hangar and Ramp Space Allocation
 
 Manage hangar and ramp space reservations to optimize facility utilization while providing clients with appropriate aircraft storage and parking solutions.
 
@@ -364,7 +332,7 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for efficient hangar and ramp space allocation to maximize facility utilization, ensure appropriate aircraft accommodation, and provide clients with reliable space reservations while maintaining operational flexibility and safety standards.
+This process establishes procedures for efficient hangar and ramp space allocation to maximize facility utilization, ensure appropriate general aviation aircraft accommodation, and provide clients with reliable space reservations while maintaining operational flexibility and safety standards. Our facility accommodates typical Part 91 operations with aircraft ranging from single-engine trainers (Cessna 172, Piper Cherokee) to turboprop business aircraft (King Air, Pilatus PC-12, TBM series).
 
 _____________________________________________________________________________________________
 
@@ -374,7 +342,7 @@ ________________________________________________________________________________
 Manage space reservations and coordinate hangar door operations while maintaining current occupancy records
 Monitor space utilization and coordinate with maintenance team for facility condition assessments and improvements
 
-**Ramp Supervisor:**
+**Ramp Leader:**
 Oversee aircraft positioning and coordinate ramp traffic flow during peak operational periods
 Ensure proper spacing between aircraft and monitor compliance with safety regulations for ground operations
 
@@ -464,30 +432,17 @@ ________________________________________________________________________________
 - Local zoning and building code requirements
 - Company facility management and safety procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer          |
-|------------|---------|-------------------|---------------------|-------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Operations Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: FBO Operations Leader  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Client Check-In and Concierge Services Process
+## Client Check-In and Concierge Services
 
-Provide exceptional client reception and concierge services to ensure professional welcome experience and coordinate comprehensive support services for visiting clients.
+Provide client reception and concierge services to ensure professional welcome experience and coordinate support services for visiting clients.
 
 _____________________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for professional client check-in and concierge services to create exceptional first impressions, coordinate comprehensive client support services, and maintain high standards of hospitality while efficiently managing client needs and requests.
+This process establishes procedures for professional client check-in and concierge services to create positive first impressions, coordinate client support services, and maintain high standards of hospitality while efficiently managing client needs and requests.
 
 _____________________________________________________________________________________________
 
@@ -501,7 +456,7 @@ Maintain client communication throughout visit and ensure all service needs are 
 Coordinate special service arrangements including transportation, accommodations, and local area recommendations
 Manage vendor relationships and ensure quality delivery of all contracted services while maintaining client satisfaction
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee client service delivery and coordinate between multiple service providers during complex client visits
 Monitor service quality and resolve operational challenges while maintaining professional client relationships
 
@@ -514,7 +469,7 @@ Coordinate with local vendors and service providers to fulfill unique client req
 #### Client Arrival Phase
 - [ ] **Recognize client arrival** - Monitor for arriving clients and initiate professional greeting with immediate acknowledgment
 - [ ] **Initiate check-in process** - Guide clients to reception area and begin procedures with required information collection
-- [ ] **Assess service needs** - Conduct comprehensive assessment of client requirements including immediate needs and planned activities
+- [ ] **Assess service needs** - Conduct assessment of client requirements including immediate needs and planned activities
 - [ ] **Provide facility orientation** - Offer facility tour highlighting amenities, services, and safety information relevant to client needs
 
 #### Service Coordination Phase
@@ -581,160 +536,9 @@ ________________________________________________________________________________
 - Company client service standards and hospitality procedures
 - Emergency response and evacuation procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer             |
-|------------|---------|-------------------|---------------------|----------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Experience Lead |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Client Services Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Client Check-In and Concierge Services Process
-
-Provide exceptional client reception and concierge services to ensure professional welcome experience and coordinate comprehensive support services for visiting clients.
-
-_____________________________________________________________________________________________
-
-### Purpose
-
-This process establishes procedures for professional client check-in and concierge services to create exceptional first impressions, coordinate comprehensive client support services, and maintain high standards of hospitality while efficiently managing client needs and requests.
-
-_____________________________________________________________________________________________
-
-### Roles and Responsibilities
-
-**Client Service Representative:**
-Greet clients professionally and process check-in procedures while coordinating service requests and facility orientation
-Maintain client communication throughout visit and ensure all service needs are addressed promptly and professionally
-
-**Concierge Coordinator:**
-Coordinate special service arrangements including transportation, accommodations, and local area recommendations
-Manage vendor relationships and ensure quality delivery of all contracted services while maintaining client satisfaction
-
-**Operations Supervisor:**
-Oversee client service delivery and coordinate between multiple service providers during complex client visits
-Monitor service quality and resolve operational challenges while maintaining professional client relationships
-
-**Guest Services Specialist:**
-Provide facility tours and amenity information while assisting with special requests and accommodation needs
-Coordinate with local vendors and service providers to fulfill unique client requirements and preferences
-
-### Process Steps
-
-**Step 1: Client Arrival Recognition**
-Monitor for arriving clients and initiate professional greeting with immediate acknowledgment and welcome
-
-**Step 2: Check-In Process Initiation**
-Guide clients to reception area and begin check-in procedures with collection of required information and documentation
-
-**Step 3: Service Needs Assessment**
-Conduct comprehensive assessment of client service requirements including immediate needs and planned activities
-
-**Step 4: Facility Orientation**
-Provide facility tour highlighting amenities, services, and safety information relevant to client needs
-
-**Step 5: Service Coordination**
-Coordinate requested services with appropriate team members and vendors while establishing timing and delivery expectations
-
-**Step 6: Documentation Processing**
-Complete client registration forms and service requests while updating client preference records for future visits
-
-**Step 7: Amenity Provision**
-Provide access to facility amenities including lounge areas, refreshments, and communication services
-
-**Step 8: Transportation Coordination**
-Arrange ground transportation services according to client preferences and coordinate timing with departure schedules
-
-**Step 9: Accommodation Arrangements**
-Process hotel reservations and coordinate special accommodation requests with preferred vendor partners
-
-**Step 10: Local Information Services**
-Provide local area information including dining recommendations, attractions, and business services as requested
-
-**Step 11: Ongoing Service Monitoring**
-Monitor service delivery progress and maintain communication with clients regarding timing and any updates
-
-**Step 12: Special Request Processing**
-Coordinate special requests with appropriate vendors and ensure quality delivery within client expectations
-
-**Step 13: Departure Preparation**
-Coordinate departure timing and ensure all services are completed and documented for billing purposes
-
-**Step 14: Follow-Up Communication**
-Conduct post-visit follow-up to gather feedback and coordinate any additional services or future visit planning
-
-**Step 15: Service Quality Documentation**
-Document service delivery quality and client feedback for continuous improvement and team member recognition
-
-### Process Mapping
-
-Flowchart showing client greeting, check-in procedures, service coordination, and ongoing client support with decision points for special requests and service quality assurance.
-
-### Tools and Resources
-
-- Client management system and check-in documentation forms
-- Facility amenity access controls and communication equipment
-- Vendor contact directory and service coordination tools
-- Transportation and accommodation booking systems
-- Local area information resources and recommendation guides
-- Service quality feedback forms and client preference tracking systems
-
-_____________________________________________________________________________________________
-
-### Success Metrics
-
-**Completion Time:** Check-in process completed within 10 minutes with service coordination within 15 minutes.
-**Quality Standard:** 98% client satisfaction with check-in experience and concierge service delivery.
-**Safety Standard:** 100% completion of safety orientation and emergency information provision.
-**Client Satisfaction:** 95% client satisfaction with overall hospitality experience and service coordination.
-
-### Common Issues and Solutions
-
-**Issue:** Multiple client arrivals during peak periods creating check-in delays
-**Solution:** Implement expedited check-in procedures for returning clients and coordinate additional team member support during peak periods
-
-**Issue:** Special service requests exceed available vendor capacity
-**Solution:** Maintain backup vendor relationships and coordinate alternative service options while communicating realistic timing expectations
-
-**Issue:** Client accommodation preferences unavailable during high-demand periods
-**Solution:** Provide alternative accommodation options with comparable amenities and coordinate special arrangements to meet client preferences
-
-### Safety Considerations
-⚠️ **WARNING**: Verify client identification and aircraft ownership before providing facility access or sensitive information
-⚡ **CAUTION**: Maintain confidentiality of client information and coordinate with security personnel for access control
-ℹ️ **NOTE**: Provide emergency contact information and facility safety briefing to all visiting clients
-✅ **BEST PRACTICE**: Maintain current local vendor relationships and service quality standards through regular communication
-
-### Regulatory References
-- TSA security requirements for airport facility access
-- Privacy regulations for client information protection
-- Local business licensing requirements for vendor coordination
-- Company client service standards and hospitality procedures
-- Emergency response and evacuation procedures
-
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer             |
-|------------|---------|-------------------|---------------------|----------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Experience Lead |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Client Services Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
----
-
-## Aircraft Marshalling and Parking Process
+## Aircraft Marshalling and Parking
 
 Provide safe and efficient aircraft ground guidance and parking services to ensure proper aircraft positioning while maintaining ramp safety and operational efficiency.
 
@@ -742,7 +546,7 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for aircraft marshalling and parking operations to ensure safe aircraft ground movement, optimal ramp space utilization, and compliance with ground safety regulations while providing professional guidance services to pilots and aircraft operators.
+This process establishes procedures for general aviation aircraft marshalling and parking operations to ensure safe aircraft ground movement, optimal ramp space utilization, and compliance with ground safety regulations while providing professional guidance services to pilots and aircraft operators. Our operations focus on Part 91 general aviation aircraft including single-engine aircraft (Cessna 172, Piper Cherokee), light twins, and turboprop aircraft (King Air, Pilatus, TBM series).
 
 _____________________________________________________________________________________________
 
@@ -837,22 +641,9 @@ ________________________________________________________________________________
 - OSHA 29 CFR 1910.95 - Occupational Noise Exposure
 - Company Ground Safety Management procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer                |
-|------------|---------|-------------------|---------------------|-------------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Ramp Safety Coordinator |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Ground Operations Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Ground Support Equipment Management Process
+## Ground Support Equipment Management
 
 Manage ground support equipment inventory, maintenance, and deployment to ensure reliable equipment availability and safe operation for all aircraft service requirements.
 
@@ -866,7 +657,7 @@ ________________________________________________________________________________
 
 ### Roles and Responsibilities
 
-**Equipment Manager:**
+**Equipment Leader:**
 Oversee equipment inventory management and coordinate maintenance schedules while ensuring regulatory compliance
 Monitor equipment utilization and coordinate procurement of new equipment based on operational requirements and usage analysis
 
@@ -874,7 +665,7 @@ Monitor equipment utilization and coordinate procurement of new equipment based 
 Conduct daily equipment inspections and perform routine maintenance procedures according to manufacturer specifications
 Operate equipment safely and document any operational issues or maintenance requirements for management review
 
-**Operations Supervisor:**
+**Operations Leader:**
 Coordinate equipment deployment and scheduling while ensuring adequate equipment availability during peak operational periods
 Monitor equipment operator certification status and coordinate training programs for new team members
 
@@ -955,22 +746,9 @@ ________________________________________________________________________________
 - Company equipment safety and maintenance procedures
 - Equipment operator training and certification standards
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer          |
-|------------|---------|-------------------|---------------------|-------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Equipment Leader  |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Ground Equipment Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Maintenance Coordination for Visiting Aircraft Process
+## Maintenance Coordination for Visiting Aircraft
 
 Coordinate maintenance services for visiting aircraft by managing vendor relationships and ensuring quality service delivery while maintaining client communication and regulatory compliance.
 
@@ -978,7 +756,7 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for coordinating maintenance services for visiting aircraft to ensure timely, quality repairs and inspections while managing vendor relationships, maintaining regulatory compliance, and providing exceptional client communication throughout the maintenance process.
+This process establishes procedures for coordinating maintenance services for visiting general aviation aircraft to ensure timely, quality repairs and inspections while managing vendor relationships, maintaining regulatory compliance, and providing clear client communication throughout the maintenance process. Our facility coordinates maintenance for typical Part 91 aircraft including single-engine trainers from our Part 61 flight school (Cessna 172, Piper Cherokee) and transient turboprop aircraft (King Air, Pilatus, TBM series).
 
 _____________________________________________________________________________________________
 
@@ -996,7 +774,7 @@ Process maintenance service requests and coordinate billing arrangements with cl
 Review maintenance work quality and ensure compliance with regulatory requirements before aircraft return to service
 Coordinate with maintenance providers for any corrective actions and maintain documentation for regulatory compliance
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee maintenance operations coordination and ensure minimal disruption to other FBO operations during maintenance activities
 Coordinate hangar space allocation and equipment requirements for maintenance activities
 
@@ -1006,7 +784,7 @@ Coordinate hangar space allocation and equipment requirements for maintenance ac
 - [ ] **Evaluate maintenance request** - Assess client request and determine appropriate maintenance provider based on aircraft type and requirements
 - [ ] **Select qualified vendor** - Choose maintenance provider and coordinate service scheduling based on availability and client timing
 - [ ] **Communicate with client** - Present maintenance proposal including cost estimates, timing, and service provider information for approval
-- [ ] **Process work order** - Create detailed work order with service requirements and coordinate with provider for service initiation
+- [ ] **Process work order** - Create work order with service requirements and coordinate with provider for service initiation
 
 #### Service Coordination Phase
 - [ ] **Coordinate facility requirements** - Arrange hangar space allocation and specialized equipment with facility management and provider
@@ -1072,22 +850,9 @@ ________________________________________________________________________________
 - FAA Advisory Circular AC 43-9C - Maintenance Records
 - Company maintenance coordination and quality assurance procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer                |
-|------------|---------|-------------------|---------------------|-------------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Maintenance Coordinator |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Maintenance Services Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Crew and Passenger Transportation Arrangements Process
+## Crew and Passenger Transportation Arrangements
 
 Coordinate ground transportation and accommodation services for aircraft crew and passengers to ensure convenient, reliable, and professional support services throughout their visit.
 
@@ -1095,7 +860,7 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for arranging ground transportation and accommodation services to provide comprehensive support for visiting crew and passengers while maintaining vendor relationships, ensuring service quality, and delivering exceptional client experience.
+This process establishes procedures for arranging ground transportation and accommodation services to provide support for visiting crew and passengers while maintaining vendor relationships, ensuring service quality, and delivering quality client experience.
 
 _____________________________________________________________________________________________
 
@@ -1113,7 +878,7 @@ Provide local area information and recommendations while assisting with special 
 Communicate transportation and accommodation options with clients and coordinate service timing with flight schedules
 Process service requests and maintain client preference records for future visits and improved service delivery
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee transportation coordination during peak periods and resolve service issues while maintaining operational efficiency
 Monitor vendor performance and coordinate alternative service arrangements when primary vendors are unavailable
 
@@ -1189,22 +954,9 @@ ________________________________________________________________________________
 - Company vendor management and service quality standards
 - Emergency response and communication procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer             |
-|------------|---------|-------------------|---------------------|----------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Services Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Guest Services Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Billing and Invoicing for Services Process
+## Billing and Invoicing for Services
 
 Manage accurate billing and invoicing for all FBO services to ensure proper revenue collection, maintain client relationships, and provide transparent financial transactions.
 
@@ -1226,25 +978,25 @@ Monitor payment collection and coordinate with clients regarding billing inquiri
 Document billable services during client interactions and coordinate with billing team for accurate service recording
 Communicate billing information to clients and assist with payment processing and billing inquiry resolution
 
-**Finance Manager:**
+**Finance Leader:**
 Oversee billing accuracy and coordinate payment collection procedures while managing client credit arrangements
 Monitor billing system performance and coordinate with operations team for service documentation improvements
 
-**Operations Supervisor:**
+**Operations Leader:**
 Ensure accurate service documentation and coordinate with billing team for timely service recording
 Monitor service delivery and coordinate with billing team to resolve any service documentation discrepancies
 
 ### Process Steps
 
 #### Service Documentation Phase
-- [ ] **Collect service documentation** - Gather detailed documentation of all services including fuel, handling, facilities, and ancillary services
+- [ ] **Collect service documentation** - Gather documentation of all services including fuel, handling, facilities, and ancillary services
 - [ ] **Verify service accuracy** - Confirm service quantities and pricing accuracy while validating client authorization for all billable services
 - [ ] **Review client account information** - Check billing preferences, credit terms, and special pricing arrangements
-- [ ] **Generate detailed invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
+- [ ] **Generate invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
 
 #### Invoice Processing Phase
-- [ ] **Review invoice accuracy** - Conduct comprehensive review of service descriptions, quantities, and pricing calculations
-- [ ] **Deliver invoice to client** - Send invoice using preferred method and provide detailed explanation of charges and payment terms
+- [ ] **Review invoice accuracy** - Conduct review of service descriptions, quantities, and pricing calculations
+- [ ] **Deliver invoice to client** - Send invoice using preferred method and provide explanation of charges and payment terms
 - [ ] **Coordinate payment method** - Process payment using client preferred method including credit cards, checks, or account billing
 - [ ] **Process payment transaction** - Handle payments accurately and update client account records with payment information
 
@@ -1306,22 +1058,9 @@ ________________________________________________________________________________
 - Credit card processing security standards (PCI DSS)
 - Company financial procedures and audit requirements
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer        |
-|------------|---------|-------------------|---------------------|-----------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Finance Leader  |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Finance Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Safety and Security Inspections Process
+## Safety and Security Inspections
 
 Conduct systematic safety and security inspections to maintain facility compliance, prevent incidents, and ensure safe operations for all team members and clients.
 
@@ -1329,7 +1068,7 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for conducting comprehensive safety and security inspections to maintain regulatory compliance, prevent safety incidents, and ensure secure facility operations while protecting team members, clients, and facility assets.
+This process establishes procedures for conducting safety and security inspections to maintain regulatory compliance, prevent safety incidents, and ensure secure facility operations while protecting team members, clients, and facility assets.
 
 _____________________________________________________________________________________________
 
@@ -1343,7 +1082,7 @@ Maintain safety documentation and coordinate with regulatory authorities for com
 Perform security system inspections and coordinate with law enforcement and TSA for security compliance requirements
 Monitor access control systems and coordinate security incident response and investigation procedures
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee daily safety checks and coordinate with team members for immediate hazard correction and reporting
 Monitor operational safety compliance and coordinate with safety officer for systematic safety improvement initiatives
 
@@ -1446,30 +1185,17 @@ ________________________________________________________________________________
 - EPA regulations for environmental safety and hazardous materials
 - Company Safety Management System (SMS) procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer       |
-|------------|---------|-------------------|---------------------|----------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Safety Officer |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Safety and Security Manager  
-**Emergency Contact**: Emergency Services - 911 / Operations Center - Extension 2100
-
 ---
 
-## Facility Maintenance and Cleaning Process
+## Facility Maintenance and Cleaning
 
-Maintain facility cleanliness and operational condition to ensure professional appearance, equipment reliability, and exceptional client experience through systematic maintenance and cleaning procedures.
+Maintain facility cleanliness and operational condition to ensure professional appearance, equipment reliability, and quality client experience through systematic maintenance and cleaning procedures.
 
 _____________________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for facility maintenance and cleaning to ensure professional facility appearance, equipment reliability, and exceptional client experience while maintaining regulatory compliance and operational efficiency.
+This process establishes procedures for facility maintenance and cleaning to ensure professional facility appearance, equipment reliability, and quality client experience while maintaining regulatory compliance and operational efficiency.
 
 _____________________________________________________________________________________________
 
@@ -1483,11 +1209,11 @@ Coordinate with vendors for specialized maintenance services and ensure complian
 Oversee facility cleaning operations and maintain cleaning supply inventory while ensuring consistent cleanliness standards
 Train cleaning team members and monitor cleaning quality while coordinating with operations for minimal disruption
 
-**Operations Supervisor:**
+**Operations Leader:**
 Monitor facility condition and coordinate maintenance priorities while ensuring minimal impact on client services
 Coordinate between maintenance and operations teams for efficient facility management and client satisfaction
 
-**Maintenance Manager:**
+**Maintenance Leader:**
 Plan preventive maintenance schedules and coordinate major facility improvements while managing maintenance budgets
 Monitor equipment performance and coordinate replacement planning while ensuring regulatory compliance
 
@@ -1570,30 +1296,17 @@ ________________________________________________________________________________
 - Manufacturer equipment maintenance and warranty requirements
 - Company facility management and safety procedures
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer         |
-|------------|---------|-------------------|---------------------|------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Facility Leader  |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Facility Management  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Weather Briefing and Flight Planning Support Process
+## Weather Briefing and Flight Planning Support
 
-Provide comprehensive weather briefing and flight planning support services to assist pilots with safe flight operations and regulatory compliance requirements.
+Provide weather briefing and flight planning support services to assist pilots with safe flight operations and regulatory compliance requirements.
 
 _____________________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for weather briefing and flight planning support to assist pilots with safe flight decision-making, regulatory compliance, and efficient flight operations while providing professional aviation support services.
+This process establishes procedures for weather briefing and flight planning support to assist Part 91 general aviation pilots with safe flight decision-making, regulatory compliance, and efficient flight operations while providing professional aviation support services. Our services support pilots operating aircraft from our Part 61 flight school training operations (Cessna 172, Piper Cherokee) to business aviation turboprop aircraft (King Air, Pilatus, TBM series).
 
 _____________________________________________________________________________________________
 
@@ -1601,24 +1314,24 @@ ________________________________________________________________________________
 
 **Flight Planning Specialist:**
 Provide weather briefings and flight planning assistance while maintaining current knowledge of weather systems and aviation regulations
-Coordinate with Flight Service Station and air traffic control for comprehensive flight planning support and regulatory compliance
+Coordinate with Flight Service Station and air traffic control for flight planning support and regulatory compliance
 
 **Client Service Representative:**
-Assist pilots with basic weather information access and coordinate with flight planning specialist for detailed briefings
+Assist pilots with basic weather information access and coordinate with flight planning specialist for weather briefings
 Provide facility resources and coordinate with operations team for flight planning equipment and communication access
 
-**Operations Supervisor:**
+**Operations Leader:**
 Monitor weather conditions affecting airport operations and coordinate with pilots regarding operational impacts
 Coordinate with air traffic control and airport management for weather-related operational decisions and safety measures
 
 **Meteorology Consultant:**
 Provide specialized weather analysis and interpretation for complex weather situations affecting flight operations
-Coordinate with pilots for detailed weather briefings and assist with weather-related flight planning decisions
+Coordinate with pilots for weather briefings and assist with weather-related flight planning decisions
 
 ### Process Steps
 
 #### Information Access and Assessment Phase
-- [ ] **Access weather information systems** - Retrieve current METAR, TAF, radar, and satellite imagery for comprehensive weather analysis
+- [ ] **Access weather information systems** - Retrieve current METAR, TAF, radar, and satellite imagery for weather analysis
 - [ ] **Assess pilot briefing requirements** - Evaluate weather briefing and flight planning needs including route, aircraft type, and operations
 - [ ] **Analyze current weather conditions** - Review current conditions along proposed route including departure, destination, and alternate airports
 - [ ] **Review weather forecasts** - Examine forecasts and trends for flight time period including potential developments and timing
@@ -1669,7 +1382,7 @@ ________________________________________________________________________________
 **Solution:** Provide updated briefings closer to departure time and coordinate with pilots for real-time weather monitoring during flight
 
 **Issue:** Complex weather systems requiring specialized meteorological analysis
-**Solution:** Coordinate with meteorology consultant for detailed analysis and provide comprehensive briefing with multiple weather scenarios
+**Solution:** Coordinate with meteorology consultant for analysis and provide briefing with multiple weather scenarios for safe Part 91 operations
 
 **Issue:** Communication system failures affecting access to weather information
 **Solution:** Maintain backup weather information sources and coordinate with Flight Service Station for alternative briefing methods
@@ -1688,140 +1401,9 @@ ________________________________________________________________________________
 - National Weather Service Aviation Weather Products
 - Flight Service Station briefing procedures and requirements
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer                 |
-|------------|---------|-------------------|---------------------|--------------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Flight Operations Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Flight Operations Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Customs and Immigration Coordination Process
-
-Coordinate customs and immigration services for international flights to ensure regulatory compliance and efficient processing while providing professional support for international clients.
-
-_____________________________________________________________________________________________
-
-### Purpose
-
-This process establishes procedures for coordinating customs and immigration services to ensure regulatory compliance for international flights while providing efficient processing and professional client support throughout the international arrival and departure process.
-
-_____________________________________________________________________________________________
-
-### Roles and Responsibilities
-
-**International Operations Coordinator:**
-Coordinate with customs and immigration authorities while managing international flight documentation and compliance requirements
-Maintain current knowledge of international regulations and coordinate with authorities for efficient processing procedures
-
-**Client Service Representative:**
-Assist international clients with documentation requirements and coordinate with customs and immigration for processing schedules
-Provide client communication regarding processing requirements and coordinate with operations team for facility access
-
-**Operations Supervisor:**
-Oversee international flight operations and coordinate with authorities for facility security and access control requirements
-Monitor international processing activities and coordinate with team members for efficient operations and client service
-
-**Compliance Officer:**
-Ensure compliance with international regulations and coordinate with authorities for regulatory updates and requirement changes
-Monitor documentation accuracy and coordinate with legal counsel for complex regulatory compliance issues
-
-### Process Steps
-
-#### Pre-Arrival Coordination Phase
-- [ ] **Receive flight notification** - Process international flight notification and coordinate with customs and immigration authorities for requirements
-- [ ] **Review documentation requirements** - Check flight manifests, crew documentation, and passenger information for compliance verification
-- [ ] **Coordinate with authorities** - Arrange processing schedules and facility requirements with customs and immigration authorities
-- [ ] **Prepare processing facilities** - Set up designated international processing areas and coordinate security measures for authority operations
-
-#### Client Communication Phase
-- [ ] **Communicate pre-arrival procedures** - Inform clients regarding arrival procedures, documentation requirements, and processing expectations
-- [ ] **Coordinate authority arrival** - Manage customs and immigration authority arrival and provide facility access and operational support
-- [ ] **Process aircraft arrival** - Coordinate aircraft arrival procedures and guide international clients through processing
-- [ ] **Assist with documentation verification** - Help with documentation verification and coordinate with authorities for any issues
-
-#### Processing Coordination Phase
-- [ ] **Coordinate inspections** - Manage aircraft and baggage inspections with customs authorities while maintaining operational efficiency
-- [ ] **Coordinate processing completion** - Manage processing completion and provide clearance documentation to clients for continued operations
-- [ ] **Coordinate departure procedures** - Handle international departure procedures including documentation review and authority clearance
-- [ ] **Maintain compliance documentation** - Keep detailed records of international operations for regulatory compliance and audit requirements
-
-#### Support and Improvement Phase
-- [ ] **Resolve compliance issues** - Coordinate resolution of any compliance issues or documentation discrepancies with authorities
-- [ ] **Provide ongoing client support** - Offer continuous client support during processing including authority communication and coordination
-- [ ] **Analyze process efficiency** - Review international processing efficiency and coordinate with authorities for improvements
-- [ ] **Update coordination procedures** - Incorporate process improvements and regulatory changes into international coordination procedures
-
-### Process Mapping
-
-Flowchart showing international flight coordination, authority liaison, processing support, and compliance documentation with decision points for regulatory requirements and issue resolution.
-
-### Tools and Resources
-
-- International flight documentation and manifest systems
-- Customs and immigration authority contact directory
-- Regulatory compliance reference materials and current requirements
-- Secure communication systems for authority coordination
-- International processing facility access and security systems
-- Documentation tracking and compliance recording systems
-
-_____________________________________________________________________________________________
-
-### Success Metrics
-
-**Completion Time:** International processing coordination completed within regulatory timeframes.
-**Quality Standard:** 100% regulatory compliance for all international flight operations.
-**Safety Standard:** 100% compliance with security requirements and authority procedures.
-**Client Satisfaction:** 92% client satisfaction with international processing coordination and support.
-
-### Common Issues and Solutions
-
-**Issue:** Documentation discrepancies affecting processing completion and client operations
-**Solution:** Coordinate with authorities for clarification procedures and assist clients with documentation correction while maintaining regulatory compliance
-
-**Issue:** Authority scheduling conflicts affecting processing timing
-**Solution:** Maintain relationships with multiple authority contacts and coordinate alternative processing arrangements while communicating timing changes to clients
-
-**Issue:** Regulatory requirement changes affecting processing procedures
-**Solution:** Maintain current regulatory knowledge, coordinate with authorities for requirement clarification, and update processing procedures accordingly
-
-### Safety Considerations
-⚠️ **WARNING**: Maintain strict compliance with security requirements and coordinate with authorities for any security concerns
-⚠️ **WARNING**: Never compromise regulatory compliance and coordinate with legal counsel for complex compliance issues
-⚡ **CAUTION**: Protect sensitive client information and maintain confidentiality in accordance with privacy regulations
-ℹ️ **NOTE**: Maintain current knowledge of international regulations and coordinate with authorities for requirement updates
-✅ **BEST PRACTICE**: Conduct regular training on international regulations and maintain current authority contact information
-
-### Regulatory References
-- 19 CFR - Customs Regulations
-- 8 CFR - Immigration and Nationality Regulations
-- TSA security requirements for international operations
-- ICAO international aviation standards and procedures
-- Company international operations and compliance procedures
-
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer                         |
-|------------|---------|-------------------|---------------------|----------------------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | International Operations Leader  |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: International Operations Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
----
-
-## Catering and In-Flight Service Requests Process
+## Catering and In-Flight Service Requests
 
 Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
 
@@ -1829,7 +1411,7 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for coordinating catering and in-flight services to meet diverse client requirements while maintaining vendor relationships, ensuring service quality, and providing exceptional client experience through reliable service coordination.
+This process establishes procedures for coordinating catering and in-flight services to meet diverse client requirements while maintaining vendor relationships, ensuring service quality, and providing quality client experience through reliable service coordination.
 
 _____________________________________________________________________________________________
 
@@ -1843,11 +1425,11 @@ Maintain vendor relationships and monitor service delivery while ensuring client
 Process client catering requests and communicate service options while coordinating timing with flight schedules
 Document special dietary requirements and coordinate with catering coordinator for accurate service delivery
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee catering delivery operations and coordinate with ramp team for aircraft service coordination
 Monitor service quality and resolve operational challenges while maintaining efficient catering operations
 
-**Vendor Relations Manager:**
+**Vendor Relations Leader:**
 Manage catering vendor relationships and negotiate service agreements while ensuring quality standards and pricing
 Monitor vendor performance and coordinate alternative service arrangements when primary vendors are unavailable
 
@@ -1923,22 +1505,9 @@ ________________________________________________________________________________
 - Company food service quality and safety procedures
 - Vendor certification and licensing requirements
 
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer             |
-|------------|---------|-------------------|---------------------|----------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Services Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Client Services Manager  
-**Emergency Contact**: Operations Center - Extension 2100
-
 ---
 
-## Emergency Response and Incident Reporting Process
+## Emergency Response and Incident Reporting
 
 Implement emergency response procedures and incident reporting to ensure rapid response to emergencies while maintaining safety, regulatory compliance, and operational continuity.
 
@@ -1946,7 +1515,7 @@ ________________________________________________________________________________
 
 ### Purpose
 
-This process establishes procedures for emergency response and incident reporting to ensure rapid, effective response to emergency situations while maintaining team member and client safety, regulatory compliance, and operational continuity through systematic emergency management.
+This process establishes procedures for emergency response and incident reporting to ensure rapid, effective response to emergency situations while maintaining team member and client safety, regulatory compliance, and operational continuity through systematic emergency management. Our procedures address emergencies typical to general aviation operations including aircraft incidents, fuel spills, medical emergencies, and weather-related events at our Part 61 flight school and FBO operations.
 
 _____________________________________________________________________________________________
 
@@ -1960,7 +1529,7 @@ Implement emergency procedures and coordinate with management for incident resol
 Oversee emergency response compliance and coordinate incident investigation while maintaining regulatory reporting requirements
 Conduct emergency training and coordinate with authorities for emergency response planning and procedure updates
 
-**Operations Supervisor:**
+**Operations Leader:**
 Implement immediate emergency response actions and coordinate with team members for safety measures and operational continuity
 Monitor emergency situations and coordinate with emergency response coordinator for effective incident management
 
@@ -2046,16 +1615,3 @@ ________________________________________________________________________________
 - NFPA emergency response and fire protection standards
 - Local emergency services coordination requirements
 - Company Emergency Response Plan and Safety Management System
-
-### Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer       |
-|------------|---------|-------------------|---------------------|----------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Safety Officer |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Safety and Emergency Response Manager  
-**Emergency Contact**: Emergency Services - 911 / Operations Center - Extension 2100

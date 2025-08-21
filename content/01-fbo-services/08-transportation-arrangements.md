@@ -1,16 +1,16 @@
 ---
-title: "Crew and Passenger Transportation Arrangements Process"
+title: "Crew and Passenger Transportation Arrangements"
 section: "FBO Services"
 procedure_number: "08"
 revision_date: "2024-01-15"
 version: "1.0"
 author: "FBO Operations Team"
-reviewed_by: "Client Services Manager"
+reviewed_by: "Client Services Leader"
 approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Crew and Passenger Transportation Arrangements Process
+# Crew and Passenger Transportation Arrangements
 
 Coordinate ground transportation and accommodation services for aircraft crew and passengers to ensure convenient, reliable, and professional support services throughout their visit.
 
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Purpose
 
-This process establishes procedures for arranging ground transportation and accommodation services to provide comprehensive support for visiting crew and passengers while maintaining vendor relationships, ensuring service quality, and delivering exceptional client experience.
+This process establishes procedures for arranging ground transportation and accommodation services to provide support for visiting crew and passengers while maintaining vendor relationships, ensuring service quality, and delivering quality client experience.
 
 _____________________________________________________________________________________________
 
@@ -36,31 +36,35 @@ Provide local area information and recommendations while assisting with special 
 Communicate transportation and accommodation options with clients and coordinate service timing with flight schedules
 Process service requests and maintain client preference records for future visits and improved service delivery
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee transportation coordination during peak periods and resolve service issues while maintaining operational efficiency
 Monitor vendor performance and coordinate alternative service arrangements when primary vendors are unavailable
 
 ## Process Steps
 
 ### Needs Assessment Phase
+
 - [ ] **Assess transportation requirements** - Evaluate passenger count, destination, timing, and special accommodation needs
 - [ ] **Present service options** - Show available transportation options with pricing and timing while considering client preferences
 - [ ] **Select vendor and process booking** - Choose appropriate provider and process reservation with confirmed pickup timing and details
 - [ ] **Analyze accommodation needs** - Determine room count, duration, location preferences, and special requests or requirements
 
 ### Reservation Processing Phase
+
 - [ ] **Process hotel reservations** - Handle hotel bookings with preferred vendors and confirm room availability, rates, and arrangements
 - [ ] **Document service confirmations** - Record all service arrangements and provide confirmation details with vendor contact information
 - [ ] **Coordinate service timing** - Align service timing with flight schedules and communicate changes to vendors and clients promptly
 - [ ] **Communicate with vendors** - Relay service requirements including pickup locations, passenger information, and special instructions
 
 ### Information and Monitoring Phase
+
 - [ ] **Provide client information** - Share comprehensive service information including vendor contacts and confirmation numbers
 - [ ] **Monitor service delivery** - Track service delivery and maintain communication regarding any timing changes or issues
 - [ ] **Provide local area information** - Share dining recommendations, attractions, and business services as requested by clients
 - [ ] **Coordinate special requests** - Handle special requests including restaurant reservations, entertainment tickets, or meeting arrangements
 
 ### Quality Assurance Phase
+
 - [ ] **Conduct service follow-up** - Communicate with clients regarding service quality and address any concerns or feedback
 - [ ] **Process billing and payments** - Handle billing for transportation and accommodation services and coordinate payment arrangements
 - [ ] **Evaluate vendor performance** - Assess vendor performance and document service quality for continuous improvement
@@ -100,27 +104,16 @@ ________________________________________________________________________________
 **Solution:** Implement flexible booking policies with vendors and maintain real-time communication for schedule adjustments
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Verify all transportation vendors maintain current licensing, insurance, and safety certifications
 ⚡ **CAUTION**: Confirm passenger information accuracy and coordinate with vendors for any special transportation requirements
 ℹ️ **NOTE**: Provide emergency contact information to clients and maintain 24-hour communication availability
 ✅ **BEST PRACTICE**: Conduct regular vendor performance reviews and maintain current local area information and recommendations
 
 ## Regulatory References
+
 - Local transportation licensing and regulatory requirements
 - Hotel industry standards and safety regulations
 - Privacy regulations for client information protection
 - Company vendor management and service quality standards
 - Emergency response and communication procedures
-
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer             |
-|------------|---------|-------------------|---------------------|----------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Services Leader |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Guest Services Manager  
-**Emergency Contact**: Operations Center - Extension 2100

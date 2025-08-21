@@ -1,24 +1,24 @@
 ---
-title: "Facility Maintenance and Cleaning Process"
+title: "Facility Maintenance and Cleaning"
 section: "FBO Services"
 procedure_number: "11"
 revision_date: "2024-01-15"
 version: "1.0"
 author: "FBO Operations Team"
-reviewed_by: "Facility Manager"
+reviewed_by: "Facility Leader"
 approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Facility Maintenance and Cleaning Process
+# Facility Maintenance and Cleaning
 
-Maintain facility cleanliness and operational condition to ensure professional appearance, equipment reliability, and exceptional client experience through systematic maintenance and cleaning procedures.
+Maintain facility cleanliness and operational condition to ensure professional appearance, equipment reliability, and quality client experience through systematic maintenance and cleaning procedures.
 
 _____________________________________________________________________________________________
 
 ## Purpose
 
-This process establishes procedures for facility maintenance and cleaning to ensure professional facility appearance, equipment reliability, and exceptional client experience while maintaining regulatory compliance and operational efficiency.
+This process establishes procedures for facility maintenance and cleaning to ensure professional facility appearance, equipment reliability, and quality client experience while maintaining regulatory compliance and operational efficiency.
 
 _____________________________________________________________________________________________
 
@@ -32,11 +32,11 @@ Coordinate with vendors for specialized maintenance services and ensure complian
 Oversee facility cleaning operations and maintain cleaning supply inventory while ensuring consistent cleanliness standards
 Train cleaning team members and monitor cleaning quality while coordinating with operations for minimal disruption
 
-**Operations Supervisor:**
+**Operations Leader:**
 Monitor facility condition and coordinate maintenance priorities while ensuring minimal impact on client services
 Coordinate between maintenance and operations teams for efficient facility management and client satisfaction
 
-**Maintenance Manager:**
+**Maintenance Leader:**
 Plan preventive maintenance schedules and coordinate major facility improvements while managing maintenance budgets
 Monitor equipment performance and coordinate replacement planning while ensuring regulatory compliance
 
@@ -118,16 +118,3 @@ ________________________________________________________________________________
 - Local building codes and facility maintenance requirements
 - Manufacturer equipment maintenance and warranty requirements
 - Company facility management and safety procedures
-
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer         |
-|------------|---------|-------------------|---------------------|------------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Facility Leader  |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Facility Management  
-**Emergency Contact**: Operations Center - Extension 2100

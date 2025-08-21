@@ -1,7 +1,7 @@
 ---
-title: "Emergency Response and Incident Reporting Process"
+title: "Emergency Response and Incident Reporting"
 section: "FBO Services"
-procedure_number: "15"
+procedure_number: "14"
 revision_date: "2024-01-15"
 version: "1.0"
 author: "FBO Operations Team"
@@ -10,7 +10,7 @@ approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Emergency Response and Incident Reporting Process
+# Emergency Response and Incident Reporting
 
 Implement emergency response procedures and incident reporting to ensure rapid response to emergencies while maintaining safety, regulatory compliance, and operational continuity.
 
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Purpose
 
-This process establishes procedures for emergency response and incident reporting to ensure rapid, effective response to emergency situations while maintaining team member and client safety, regulatory compliance, and operational continuity through systematic emergency management.
+This process establishes procedures for emergency response and incident reporting to ensure rapid, effective response to emergency situations while maintaining team member and client safety, regulatory compliance, and operational continuity through systematic emergency management. Our procedures address emergencies typical to general aviation operations including aircraft incidents, fuel spills, medical emergencies, and weather-related events at our Part 61 flight school and FBO operations.
 
 _____________________________________________________________________________________________
 
@@ -32,7 +32,7 @@ Implement emergency procedures and coordinate with management for incident resol
 Oversee emergency response compliance and coordinate incident investigation while maintaining regulatory reporting requirements
 Conduct emergency training and coordinate with authorities for emergency response planning and procedure updates
 
-**Operations Supervisor:**
+**Operations Leader:**
 Implement immediate emergency response actions and coordinate with team members for safety measures and operational continuity
 Monitor emergency situations and coordinate with emergency response coordinator for effective incident management
 
@@ -118,16 +118,3 @@ ________________________________________________________________________________
 - NFPA emergency response and fire protection standards
 - Local emergency services coordination requirements
 - Company Emergency Response Plan and Safety Management System
-
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer       |
-|------------|---------|-------------------|---------------------|----------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Safety Officer |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Safety and Emergency Response Manager  
-**Emergency Contact**: Emergency Services - 911 / Operations Center - Extension 2100

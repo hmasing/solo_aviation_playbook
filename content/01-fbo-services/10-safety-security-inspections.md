@@ -1,5 +1,5 @@
 ---
-title: "Safety and Security Inspections Process"
+title: "Safety and Security Inspections"
 section: "FBO Services"
 procedure_number: "10"
 revision_date: "2024-01-15"
@@ -10,7 +10,7 @@ approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Safety and Security Inspections Process
+# Safety and Security Inspections
 
 Conduct systematic safety and security inspections to maintain facility compliance, prevent incidents, and ensure safe operations for all team members and clients.
 
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Purpose
 
-This process establishes procedures for conducting comprehensive safety and security inspections to maintain regulatory compliance, prevent safety incidents, and ensure secure facility operations while protecting team members, clients, and facility assets.
+This process establishes procedures for conducting safety and security inspections to maintain regulatory compliance, prevent safety incidents, and ensure secure facility operations while protecting team members, clients, and facility assets.
 
 _____________________________________________________________________________________________
 
@@ -32,7 +32,7 @@ Maintain safety documentation and coordinate with regulatory authorities for com
 Perform security system inspections and coordinate with law enforcement and TSA for security compliance requirements
 Monitor access control systems and coordinate security incident response and investigation procedures
 
-**Operations Supervisor:**
+**Operations Leader:**
 Oversee daily safety checks and coordinate with team members for immediate hazard correction and reporting
 Monitor operational safety compliance and coordinate with safety officer for systematic safety improvement initiatives
 
@@ -121,6 +121,7 @@ ________________________________________________________________________________
 **Solution:** Maintain current regulatory knowledge, coordinate with authorities for clarification, and update inspection procedures accordingly
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Report all safety hazards immediately and implement temporary protective measures until permanent corrections are completed
 ⚠️ **WARNING**: Never compromise security protocols and coordinate with law enforcement for any security concerns or incidents
 ⚡ **CAUTION**: Use appropriate personal protective equipment during all inspections and follow lockout/tagout procedures for equipment inspection
@@ -128,22 +129,10 @@ ________________________________________________________________________________
 ✅ **BEST PRACTICE**: Conduct monthly safety meetings and maintain current emergency response procedures and contact information
 
 ## Regulatory References
+
 - 14 CFR Part 139 - Airport Operating Requirements
 - OSHA 29 CFR 1910 - General Industry Safety Standards
 - 49 CFR Part 1542 - Airport Security Requirements
 - NFPA standards for fire protection and emergency response
 - EPA regulations for environmental safety and hazardous materials
 - Company Safety Management System (SMS) procedures
-
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author              | Reviewer       |
-|------------|---------|-------------------|---------------------|----------------|
-| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Safety Officer |
-```
-
----
-**Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: Safety and Security Manager  
-**Emergency Contact**: Emergency Services - 911 / Operations Center - Extension 2100

@@ -5,7 +5,7 @@ Core client-facing operations that define the Fixed Base Operator experience. Th
 ## Procedures in this Section
 
 ### [Aircraft Arrival and Departure Handling Process](01-aircraft-arrival-departure-handling.md)
-Provide comprehensive handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
+Provide handling services for arriving and departing general aviation aircraft to ensure safe, efficient, and professional client experience.
 - Aircraft marshalling and parking coordination
 - Client greeting and service coordination  
 - Departure preparation and assistance
@@ -76,19 +76,15 @@ Provide weather briefing and flight planning assistance to support safe and effi
 - Flight planning assistance
 - Regulatory briefing support
 
-### [Customs and Immigration Coordination Process](13-customs-immigration-coordination.md)
-Coordinate customs and immigration procedures for international flights to ensure regulatory compliance and smooth processing.
-- International arrival procedures
-- Customs and immigration liaison
-- Documentation and compliance requirements
 
-### [Catering and In-Flight Service Requests Process](14-catering-inflight-services.md)
+
+### [Catering and In-Flight Service Requests Process](13-catering-inflight-services.md)
 Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
 - Catering vendor coordination
 - Special service arrangements
 - Quality control and delivery timing
 
-### [Emergency Response and Incident Reporting Process](15-emergency-response-incident-reporting.md)
+### [Emergency Response and Incident Reporting Process](14-emergency-response-incident-reporting.md)
 Manage emergency response procedures and incident reporting to ensure rapid response and proper documentation of safety events.
 - Emergency procedure activation
 - Incident documentation and reporting

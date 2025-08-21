@@ -33,25 +33,23 @@ When creating new FBO procedures, use this prompt structure to generate comprehe
 Create a complete procedure document following this exact structure:
 
 1. **YAML Frontmatter**: Include title, section, procedure number, dates, author, reviewer, approver
-2. **Process Name**: Clear, descriptive title with "Process" suffix
+2. **Procedure Name**: Clear, descriptive title without "Process" suffix
 3. **Purpose**: 2-3 sentences explaining why this process exists and intended outcome
-4. **Roles and Responsibilities**: 3-4 relevant aviation roles with specific responsibilities (2 lines each)
+4. **Roles and Responsibilities**: 3-4 relevant aviation roles with specific responsibilities formatted as bulleted lists
 5. **Process Steps**: Checklist format organized by logical phases with actionable items and detailed descriptions
 6. **Process Mapping**: Placeholder for flowchart description
 7. **Tools and Resources**: Specific equipment, software, forms, or references needed
-8. **Success Metrics**: 4 measurable indicators (Completion Time, Quality Standard, Safety Standard, Customer Satisfaction)
+8. **Success Metrics**: 4 measurable indicators (Completion Time, Quality Standard, Safety Standard, Client Satisfaction)
 9. **Common Issues and Solutions**: 2-3 realistic problems with specific solutions
 10. **Safety Considerations**: Aviation-appropriate WARNING, CAUTION, and NOTE items
 11. **Regulatory References**: Relevant FAA, OSHA, and industry standards
 12. **Notes Section**: Extensive blank space with line breaks
-13. **Revision History**: Standard table format
-14. **Footer**: Review date, procedure owner, emergency contact
 
 ### Document Structure Template
 
 ```markdown
 ---
-title: "Process Name"
+title: "Procedure Name"
 section: "Main Category"
 procedure_number: "XX"
 revision_date: "YYYY-MM-DD"
@@ -62,9 +60,9 @@ approved_by: "[Approver Name]"
 effective_date: "YYYY-MM-DD"
 ---
 
-# Process Name
+# Procedure Name
 
-Provide a clear, descriptive name for the process.
+Provide a clear, descriptive name for the procedure.
 
 _____________________________________________________________________________________________
 
@@ -79,12 +77,12 @@ ________________________________________________________________________________
 List the roles involved and their specific responsibilities.
 
 **Role 1 (e.g., Line Service Technician):**
-________________________________________________________________
-________________________________________________________________
+- ________________________________________________________________
+- ________________________________________________________________
 
 **Role 2 (e.g., Operations Supervisor):**
-________________________________________________________________
-________________________________________________________________
+- ________________________________________________________________
+- ________________________________________________________________
 
 ## Process Steps
 
@@ -145,14 +143,6 @@ Identify potential challenges and their resolutions.
 ___________________________________________________________________________________
 [Multiple lines of blank space for notes]
 
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author | Reviewer |
-|------------|---------|-------------------|--------|----------|
-| YYYY-MM-DD | 1.0     | Initial creation  | [Name] | [Name]   |
-```
-
 ## Aviation Industry Requirements
 
 ### Terminology Standards
@@ -207,11 +197,7 @@ Use standard phraseology:
 - **Maintain operational flow** ensuring phases follow logical sequence of actual work
 - **Enable field use** format suitable for printed checklists, mobile devices, and operational reference
 
-### Revision History Format Requirements
-- **Always use fixed-width font formatting** by placing revision history tables inside code blocks
-- **Maintain consistent column alignment** with proper spacing for professional appearance
-- **Include header separators** using dashes to clearly define column boundaries
-- **Use standard column widths** to accommodate typical content lengths
+
 
 ### Process Steps Example Format
 ```markdown
@@ -234,13 +220,14 @@ Use standard phraseology:
 ```
 
 ### Aviation-Specific Considerations
-- Include relevant safety warnings for airport operations
-- Reference appropriate FAA regulations (14 CFR parts)
+- Include relevant safety warnings for general aviation airport operations
+- Reference appropriate FAA regulations (14 CFR parts, especially Part 61 for flight training, Part 91 for operations)
 - Consider OSHA workplace safety standards
 - Include emergency contact protocols where relevant
-- Address quality control and compliance requirements
-- Use realistic timeframes for aviation operations
-- Consider weather, equipment, and regulatory dependencies
+- Address quality control and compliance requirements for Part 91 operations
+- Use realistic timeframes for general aviation operations (Cessna 172, Piper Cherokee, King Air, Pilatus, TBM series)
+- Consider weather, equipment, and regulatory dependencies for 3,500-foot runway operations
+- Account for Part 61 flight school training operations and transient general aviation traffic
 
 ### Review Requirements
 All procedures must be reviewed by qualified personnel:
