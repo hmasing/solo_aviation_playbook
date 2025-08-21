@@ -3,6 +3,19 @@
 ## Overview
 This comprehensive playbook provides standardized procedures for all aspects of Fixed Base Operator (FBO) operations at our airport facility. It covers everything from daily aircraft handling to complex maintenance operations, ensuring consistent, safe, and efficient service delivery.
 
+## 🚀 Quick Start
+
+### Generate PDF Documentation
+```bash
+./build_playbook.sh
+```
+This creates: `fbo-operations-playbook.pdf` (professional 287KB document)
+
+**To open the PDF:**
+```bash
+open fbo-operations-playbook.pdf
+```
+
 ## Playbook Structure
 
 ### 📋 Main Categories
@@ -156,6 +169,57 @@ playbook/
 - Safety training protocols
 - Performance evaluation criteria
 
+## 📖 PDF Generation System
+
+### ✅ Implementation Status
+**PDF generation is now fully set up and working!**
+
+### 🛠️ What Was Implemented
+
+#### Kitabu Setup
+- **Ruby gem installed**: Kitabu 3.1.0 for professional PDF generation
+- **Project structure**: Organized in `fbo-operations-playbook/` directory
+- **Configuration**: Customized for FBO Operations Playbook branding
+
+#### Content Organization
+- **Automated script**: `organize_content.rb` structures your Markdown files
+- **9 chapters**: Introduction + 6 operational sections + guidelines + templates
+- **Asset handling**: Images and references properly integrated
+- **Clean formatting**: Navigation links removed, YAML stripped, links fixed
+
+#### Build Automation
+- **Shell script**: `build_playbook.sh` for simple one-command builds
+- **Ruby script**: `build_playbook.rb` alternative with detailed output
+- **Manual process**: Step-by-step commands for customization
+
+#### Professional Output
+- **High-quality PDF**: ~287KB professional document
+- **Multiple formats**: PDF, HTML, EPUB available
+- **Proper styling**: Clean typography and layout
+- **Table of contents**: Automatic generation from headers
+
+### 📁 Generated Files
+
+Your PDF generation creates:
+- `fbo-operations-playbook.pdf` - Main document (287KB) **[Root directory]**
+- `fbo-operations-playbook/output/fbo-operations-playbook.html` - Web version
+- `fbo-operations-playbook/output/fbo-operations-playbook.print.pdf` - Print-optimized version
+
+### 🎨 Customization Options
+
+- **Styling**: Edit `templates/styles/pdf.css`
+- **Branding**: Modify `config/kitabu.yml`
+- **Content**: Update source files and rebuild
+- **Structure**: Customize `organize_content.rb`
+
+### 📖 Additional Documentation
+
+See `PDF-GENERATION.md` for complete documentation including:
+- Detailed setup instructions
+- Customization options
+- Troubleshooting guide
+- Future enhancement ideas
+
 ## Document Standards
 All procedures follow standardized formatting rules defined in [`.cursor/rules/markdown-rules.md`](.cursor/rules/markdown-rules.md) to ensure consistency and usability.
 
@@ -168,6 +232,10 @@ This playbook is a living document that requires regular updates to reflect:
 
 ---
 **Total Procedures**: 90  
+**PDF Generation**: ✅ Ready for production use  
+**Technology**: Kitabu (Ruby-based)  
+**Output Quality**: Professional aviation documentation standard  
+**Build Time**: ~5 seconds for full playbook  
 **Last Updated**: [Current Date]  
 **Version**: 1.0  
 **Maintained by**: FBO Operations Team
