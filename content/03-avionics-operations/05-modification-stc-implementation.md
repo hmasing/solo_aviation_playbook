@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Modification and STC Implementation
+# Modification and STC Implementation
 
 Execute avionics modifications and Supplemental Type Certificate (STC) installations ensuring regulatory compliance and proper documentation.
 

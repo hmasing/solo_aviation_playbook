@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Client Communication and Progress Reporting
+# Client Communication and Progress Reporting
 
 Maintain effective communication with clients throughout avionics projects and provide regular progress updates and technical explanations.
 

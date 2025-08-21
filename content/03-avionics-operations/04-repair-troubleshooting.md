@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Repair and Troubleshooting
+# Repair and Troubleshooting
 
 Diagnose and repair avionics system malfunctions using systematic troubleshooting procedures and approved repair techniques.
 

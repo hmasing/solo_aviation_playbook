@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Test Equipment Calibration
+# Test Equipment Calibration
 
 Maintain and calibrate avionics test equipment to ensure accurate measurements and reliable test results for all avionics operations.
 

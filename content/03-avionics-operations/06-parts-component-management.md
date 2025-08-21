@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Parts and Component Management
+# Parts and Component Management
 
 Manage avionics parts inventory, procurement, and component tracking to ensure availability of approved parts and maintain traceability.
 

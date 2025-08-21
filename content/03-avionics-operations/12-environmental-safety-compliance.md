@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Environmental and Safety Compliance
+# Environmental and Safety Compliance
 
 Ensure compliance with environmental regulations and safety requirements specific to avionics operations and electronic component handling.
 

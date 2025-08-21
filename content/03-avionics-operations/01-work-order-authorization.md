@@ -1,5 +1,5 @@
 ---
-title: "Avionics Work Order Creation and Authorization"
+title: "Work Order Creation and Authorization"
 section: "Avionics Operations"
 procedure_number: "01"
 revision_date: "2025-01-27"
@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Work Order Creation and Authorization
+# Work Order Creation and Authorization
 
 Create and authorize avionics work orders ensuring proper documentation and client approval for avionics maintenance and installation projects.
 

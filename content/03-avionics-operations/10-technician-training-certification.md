@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Technician Training and Certification
+# Technician Training and Certification
 
 Manage avionics technician training, certification, and competency assessment to ensure qualified personnel perform all avionics work.
 

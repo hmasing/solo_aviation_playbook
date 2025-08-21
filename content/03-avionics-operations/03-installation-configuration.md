@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Installation and Configuration
+# Installation and Configuration
 
 Install and configure avionics equipment according to manufacturer specifications and regulatory requirements while ensuring proper system integration.
 

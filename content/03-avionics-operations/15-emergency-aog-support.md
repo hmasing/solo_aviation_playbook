@@ -1,5 +1,5 @@
 ---
-title: "Avionics Emergency and AOG Support"
+title: "Emergency and AOG Support"
 section: "Avionics Operations"
 procedure_number: "15"
 revision_date: "2025-01-27"

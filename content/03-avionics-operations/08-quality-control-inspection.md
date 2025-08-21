@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Quality Control and Inspection
+# Quality Control and Inspection
 
 Conduct quality control inspections and final verification of avionics work to ensure compliance with regulatory requirements and quality standards.
 

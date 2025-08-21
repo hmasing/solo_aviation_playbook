@@ -10,8 +10,6 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Warranty and Service Support
-
 Manage warranty claims, service bulletins, and ongoing support for avionics installations and repairs.
 
 _____________________________________________________________________________________________
@@ -84,7 +82,7 @@ ________________________________________________________________________________
 
 ## Process Mapping
 
-```
+```text
 Warranty Tracking → Issue Identification → Claim Preparation → Claim Processing → Service Bulletin Monitoring → Implementation Planning → Technical Support → System Updates
 ```
 

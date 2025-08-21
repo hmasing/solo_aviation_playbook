@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Component Inspection and Testing
+# Component Inspection and Testing
 
 Conduct thorough inspection and testing of avionics components to verify functionality and airworthiness before installation or return to service.
 

@@ -10,7 +10,7 @@ approved_by: "Chief of Maintenance"
 effective_date: "2025-01-27"
 ---
 
-# Avionics Billing and Cost Management
+# Billing and Cost Management
 
 Manage accurate billing and cost tracking for avionics services while maintaining transparency in pricing and labor charges.
 
