@@ -39,11 +39,13 @@ class OrganizeContent
 
       dir_name = File.basename(dir_path)
       
-      # Check if directory has any non-README.md files
+      # Check if directory has a README.md file
+      readme_path = File.join(dir_path, 'README.md')
+      next unless File.exist?(readme_path)
+
+      # Get procedure files (non-README.md files)
       procedure_files = Dir.glob(File.join(dir_path, '*.md'))
                            .reject { |f| File.basename(f) == 'README.md' }
-      
-      next if procedure_files.empty?
 
       # Extract section number and name from directory
       if dir_name.match(/^(\d+)-(.+)$/)
@@ -55,7 +57,8 @@ class OrganizeContent
           section_number: section_num,
           section_name: section_name,
           output_file: format('%02d_%s.md', section_num + 1, section_name.gsub(' ', '_')),
-          readme_path: nil  # No longer using README files
+          readme_path: readme_path,
+          procedure_files: procedure_files
         }
       end
     end.compact
@@ -86,10 +89,20 @@ class OrganizeContent
   end
 
   def read_and_process_content(section)
-    # Since we're excluding README files, start with a section header
-    content = "# #{section[:section_name]}\n\n"
+    # Start with README content as the chapter introduction
+    content = ""
     
-    # Add all procedure files directly
+    if section[:readme_path] && File.exist?(section[:readme_path])
+      readme_content = File.read(section[:readme_path])
+      cleaned_readme = clean_content_for_pdf(readme_content)
+      # Convert README H2+ headers to H3+ so they don't appear in TOC
+      content = convert_readme_headers(cleaned_readme)
+    else
+      # Fallback to simple header if no README
+      content = "# #{section[:section_name]}\n\n"
+    end
+    
+    # Add all procedure files as subsections
     expand_procedure_stubs(section, content)
   end
 
@@ -109,22 +122,61 @@ class OrganizeContent
     content.gsub(/\n{3,}/, "\n\n").strip
   end
 
+  def convert_readme_headers(content)
+    # Convert README H2+ headers to H3+ so they don't appear in TOC
+    # Keep H1 as-is (chapter title), but push everything else down
+    content.gsub(/^(#+) (.+)$/) do |match|
+      level = $1.length
+      title = $2
+      if level == 1
+        match # Keep H1 unchanged
+      elsif level <= 5
+        "#{'#' * (level + 1)} #{title}" # H2->H3, H3->H4, etc.
+      else
+        match # Leave H6 unchanged
+      end
+    end
+  end
+
+  def convert_h1_to_h2(content)
+    # Convert all headers down one level so only the main procedure title appears in TOC
+    # H1 -> H2 (procedure title becomes subsection under chapter)
+    # H2 -> H3 (major sections become sub-subsections)  
+    # H3 -> H4 (process steps become deeper subsections)
+    # etc.
+    content.gsub(/^(#+) (.+)$/) do |match|
+      level = $1.length
+      title = $2
+      # Only convert up to H5 to avoid going too deep
+      if level <= 5
+        "#{'#' * (level + 1)} #{title}"
+      else
+        match # Leave H6 unchanged
+      end
+    end
+  end
+
   def expand_procedure_stubs(section, content)
-    # Look for individual procedure files in the section directory
-    procedure_files = Dir.glob(File.join(section[:source_dir], '*.md'))
-                         .reject { |f| File.basename(f) == 'README.md' }
-                         .sort
+    # Use the procedure files from the section data
+    procedure_files = section[:procedure_files] || []
 
     if procedure_files.any?
       puts "    Found #{procedure_files.length} procedure files to include"
 
-      procedure_content = procedure_files.map do |proc_file|
+      procedure_content = procedure_files.sort.map do |proc_file|
         proc_content = File.read(proc_file)
-        clean_content_for_pdf(proc_content)
+        cleaned_content = clean_content_for_pdf(proc_content)
+        
+        # Convert H1 headers in procedures to H2 to make them subsections
+        cleaned_content = convert_h1_to_h2(cleaned_content)
+        
+        cleaned_content
       end.join("\n\n---\n\n")
 
       # Append procedure content after the main section content
       content += "\n\n#{procedure_content}" unless procedure_content.strip.empty?
+    else
+      puts "    No procedure files found - using README content only"
     end
 
     content
