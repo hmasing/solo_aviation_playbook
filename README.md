@@ -28,7 +28,7 @@ open solo-aviation-services-playbook.pdf
 2. **[Maintenance Operations](content/02-maintenance-operations/)** - Aircraft maintenance and repair procedures  
 3. **[Flight School Operations](content/03-flight-school-operations/)** - Training and education services
 4. **[Safety and Compliance](content/04-safety-compliance/)** - Regulatory and safety procedures
-5. **[Marketing and Client Retention](content/05-marketing-customer-retention/)** - Business development and client engagement
+5. **[Marketing and Client Retention](content/05-marketing-client-retention/)** - Business development and client engagement
 6. **[Administrative and Financial](content/06-administrative-financial/)** - Business operations and financial management
 
 ### 📁 Directory Structure

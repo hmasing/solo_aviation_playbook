@@ -180,7 +180,7 @@ Provide emergency avionics support and Aircraft on Ground (AOG) services to mini
 - Independent quality control inspections for all avionics work
 - Final operational testing before return to service
 - Documentation review and approval procedures
-- Customer acceptance and sign-off requirements
+- Client acceptance and sign-off requirements
 
 **Regulatory Compliance:**
 

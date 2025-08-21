@@ -43,11 +43,6 @@ EXAMPLE FORMAT:
 "Sample text or structured data example"
 ```
 
-### Revision History Tables
-- Always format revision history tables using code blocks for fixed-width font alignment
-- Use consistent column widths with proper spacing for readability
-- Include header separators using dashes to clearly define columns
-
 ### File Naming Conventions
 - Use kebab-case: `example-document-name.md`
 - Include logical prefixes when organizing: `01-section/01-document-name.md`
@@ -90,14 +85,6 @@ Use subsections to break down complex topics.
 - [Related Document](../path/to/document.md)
 - [External Resource](https://example.com)
 
-## Revision History
-
-```text
-| Date       | Version | Changes           | Author |
-|------------|---------|-------------------|--------|
-| YYYY-MM-DD | 1.0     | Initial creation  | Name   |
-```
-
 ## Document Templates
 
 ### Standard Document Structure
@@ -108,7 +95,6 @@ For consistent document formatting across projects:
 3. **Purpose/Overview**: Brief explanation of document purpose
 4. **Main Content**: Organized in logical sections
 5. **References**: Links to related documents or external resources
-6. **Revision History**: Track changes and updates
 
 ### Frontmatter Template
 ```yaml

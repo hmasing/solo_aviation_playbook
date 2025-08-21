@@ -4,7 +4,7 @@ Essential business operations and financial management procedures that support a
 
 ## Procedures in this Section
 
-### [Client Billing and Invoicing Process](01-customer-billing-invoicing.md)
+### [Client Billing and Invoicing Process](01-client-billing-invoicing.md)
 
 Manage client billing and invoicing operations to ensure accurate charges and timely payment collection for all services.
 
@@ -100,7 +100,7 @@ Manage fuel and supply inventory to ensure adequate stock levels while minimizin
 - Procurement planning and execution
 - Stock level optimization and monitoring
 
-### [Client Account Management in CRM Process](13-customer-account-crm.md)
+### [Client Account Management in CRM Process](13-client-account-crm.md)
 
 Manage client accounts in CRM system to maintain accurate client information and support relationship management.
 
@@ -125,4 +125,4 @@ Prepare for and support audit activities to ensure compliance verification and o
 - Audit coordination and follow-up procedures
 
 ---
-[← Previous: Marketing and Customer Retention](../05-marketing-customer-retention/README.md) | [Back to Main Playbook](../../README.md)
+[← Previous: Marketing and Client Retention](../05-marketing-client-retention/README.md) | [Back to Main Playbook](../../README.md)

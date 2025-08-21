@@ -1,6 +1,6 @@
 # Maintenance Operations
 
-Comprehensive aircraft maintenance procedures ensuring airworthiness, regulatory compliance, and customer satisfaction. These procedures cover all aspects of aircraft maintenance from routine inspections to complex repairs.
+Comprehensive aircraft maintenance procedures ensuring airworthiness, regulatory compliance, and client satisfaction. These procedures cover all aspects of aircraft maintenance from routine inspections to complex repairs.
 
 ## Procedures in this Section
 
@@ -92,7 +92,7 @@ Manage technician training and certification requirements to maintain qualified 
 - Certification renewal tracking
 - Competency assessment and documentation
 
-### [Client Communication and Work Approval Process](12-customer-communication-approval.md)
+### [Client Communication and Work Approval Process](12-client-communication-approval.md)
 
 Maintain effective communication with clients throughout maintenance process and obtain required approvals for work changes.
 

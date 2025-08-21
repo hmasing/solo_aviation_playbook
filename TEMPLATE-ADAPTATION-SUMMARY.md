@@ -30,7 +30,7 @@ The Solo Aviation Services Playbook templates have been updated to match your or
 ### 1. Standard Procedure Template
 
 - **Purpose**: Regular operational procedures
-- **Use Cases**: Aircraft handling, customer service, routine maintenance
+- **Use Cases**: Aircraft handling, client service, routine maintenance
 - **Key Features**: 15-step process structure, role definitions, success metrics
 - **Aviation Additions**: Safety warnings, regulatory references, emergency contacts
 
@@ -82,7 +82,7 @@ The Solo Aviation Services Playbook templates have been updated to match your or
 
 **Standard Procedure Template:**
 
-- Daily operations (aircraft arrival/departure, fueling, customer service)
+- Daily operations (aircraft arrival/departure, fueling, client service)
 - Administrative processes (billing, scheduling, inventory)
 - Maintenance procedures (routine inspections, repairs)
 

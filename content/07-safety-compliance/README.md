@@ -125,4 +125,4 @@ Maintain regulatory documentation and records to ensure compliance with aviation
 - Regulatory reporting obligations
 
 ---
-[← Previous: Flight School Operations](../03-flight-school-operations/README.md) | [Back to Main Playbook](../../README.md) | [Next Section: Marketing and Customer Retention →](../05-marketing-customer-retention/README.md)
+[← Previous: Flight School Operations](../03-flight-school-operations/README.md) | [Back to Main Playbook](../../README.md) | [Next Section: Marketing and Client Retention →](../05-marketing-client-retention/README.md)

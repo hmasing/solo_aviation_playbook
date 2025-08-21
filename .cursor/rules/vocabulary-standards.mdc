@@ -5,6 +5,14 @@ alwaysApply: true
 
 # Solo Aviation Services Vocabulary Standards
 
+## CRITICAL TERMINOLOGY RULE
+
+**⚠️ NEVER USE "CUSTOMER" OR "CUSTOMERS"**
+- Always use "client" or "clients" instead
+- This applies to all documentation, procedures, templates, and communications
+- "Customer" implies a transactional relationship; "client" reflects our partnership approach
+- This rule has NO exceptions - scan all content to ensure compliance
+
 ## Organizational Terminology
 Use these terms consistently throughout all FBO procedures to reflect our values and culture:
 
@@ -50,6 +58,7 @@ When combining organizational vocabulary with aviation terminology:
 - outstanding, exceptional, amazing
 - cutting-edge, state-of-the-art, advanced
 - world-class, premier, superior
+- customer, customers (always use "client" or "clients" instead)
 
 **Preferred Language Patterns:**
 - Use active voice: "Complete the inspection" not "The inspection should be completed"

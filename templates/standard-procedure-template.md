@@ -31,7 +31,7 @@ List the roles involved and their specific responsibilities.
 ________________________________________________________________
 ________________________________________________________________
 
-**Role 2 (e.g., Customer Service Representative):**
+**Role 2 (e.g., Client Service Representative):**
 ________________________________________________________________
 ________________________________________________________________
 
@@ -117,7 +117,7 @@ Define measurable indicators to evaluate process effectiveness.
 
 **Safety Standard:** [Safety requirement met]
 
-**Customer Satisfaction:** [Target satisfaction level]
+**Client Satisfaction:** [Target satisfaction level]
 
 ____________________________________________________________________________________________
 
@@ -147,14 +147,3 @@ ________________________________________________________________________________
 - [OSHA Standard]
 - [Company Policy Reference]
 - [Industry Standard/Best Practice]
-
-## Revision History
-
-| Date | Version | Changes | Author | Reviewer |
-|------|---------|---------|--------|----------|
-| YYYY-MM-DD | 1.0 | Initial creation | [Name] | [Name] |
-
----
-**Next Review Date**: [Date]  
-**Procedure Owner**: [Department/Role]  
-**Emergency Contact**: [Phone/Extension]
