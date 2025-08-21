@@ -40,6 +40,12 @@ li code {
   margin: 0;
 }
 
+.frontcover .logo img {
+  max-width: 300px;
+  max-height: 150px;
+  margin-bottom: 20px;
+}
+
 .frontcover .description {
   width: 45%;
   margin: 20px auto;

@@ -204,8 +204,8 @@ playbook/
 
 Your PDF generation creates:
 - `solo-aviation-services-playbook.pdf` - Main document (287KB) **[Root directory]**
-- `kitabu/output/solo-aviation-services-playbook.html` - Web version
-- `kitabu/output/solo-aviation-services-playbook.print.pdf` - Print-optimized version
+- `kitabu/output/kitabu.html` - Web version
+- `kitabu/output/kitabu.print.pdf` - Print-optimized version
 
 ### 🎨 Customization Options
 

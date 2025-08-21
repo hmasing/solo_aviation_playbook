@@ -1,11 +1,11 @@
 # The book's title. Will be used everywhere!
-title: "Solo Aviation Services Operations Playbook"
+title: "Operations Playbook"
 
 # The book's language.
 language: en
 
 # Your book copyright info.
-copyright: "Copyright (C) 2025 Solo Aviation Services. All rights reserved."
+copyright: "Copyright (C) 2025 Solo Aviation Services, LLC. All rights reserved."
 
 # Who's publishing this book.
 publisher: "Solo Aviation Services"
@@ -14,7 +14,7 @@ publisher: "Solo Aviation Services"
 published_at: "2025-08-21"
 
 # Some book description.
-subject: "Solo Aviation Services Operations Playbook"
+subject: "Operations Playbook"
 
 # Some keywords that identify this book.
 keywords: "FBO, aviation, operations, procedures, aircraft, maintenance, safety, compliance"
@@ -29,11 +29,11 @@ identifier:
 
 # This book authors.
 authors:
-  - "Hans Masing"
-  - "Clint White"
+  - "Solo Aviation Services, LLC"
 
 # Syntax highlight theme. Can be any of supported by Rouge.
-theme: github
+# theme: github
+theme: monokai
 
 # Output directory - keeping default for now
 # Custom copying handled in build script

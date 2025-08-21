@@ -110,7 +110,8 @@ a {
 }
 
 .frontcover .logo {
-  background: url("../images/kitabu-word.svg") no-repeat center bottom;
+  background: url("../images/solo-logo.jpg") no-repeat center center;
+  background-size: contain;
   height: 150px;
   margin-bottom: 35px;
 }
@@ -129,9 +130,7 @@ a {
 .frontcover .description:after {
   content: "";
   display: block;
-  background: url("../images/kitabu-icon.svg") no-repeat center bottom;
-  background-size: 200px;
-  height: 300px;
+  height: 50px;
   margin-top: 50px;
 }
 
