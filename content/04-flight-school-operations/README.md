@@ -28,6 +28,7 @@ Maintain training aircraft airworthiness through systematic maintenance and insp
 
 - Scheduled maintenance coordination
 - Pre-flight inspection procedures
+- Post-Flight pilot and student procedures
 - Maintenance record management
 
 ### [Student Progress Tracking and Certification Process](04-student-progress-certification.md)
