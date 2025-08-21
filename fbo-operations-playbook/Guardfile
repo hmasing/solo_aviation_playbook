@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+
+notification :off
+interactor :off
+
+guard :shell do
+  watch(/^(?!output)/) do |_m|
+    `kitabu export`
+  end
+end

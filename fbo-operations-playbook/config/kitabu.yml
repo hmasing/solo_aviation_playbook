@@ -1,0 +1,38 @@
+# The book's title. Will be used everywhere!
+title: "Solo Aviation Services Operations Playbook"
+
+# The book's language.
+language: en
+
+# Your book copyright info.
+copyright: "Copyright (C) 2025 Solo Aviation Services. All rights reserved."
+
+# Who's publishing this book.
+publisher: "Solo Aviation Services"
+
+# When this book was published.
+published_at: "2025-08-21"
+
+# Some book description.
+subject: "Solo Aviation Services Operations Playbook"
+
+# Some keywords that identify this book.
+keywords: "FBO, aviation, operations, procedures, aircraft, maintenance, safety, compliance"
+
+# Some unique identification. Works great with your domain
+uid: "fbo-operations-playbook-2025"
+
+# Your book identification like ISBN or ISSN.
+identifier:
+  id: "fbo-operations-playbook"
+  type: "URL"
+
+# This book authors.
+authors:
+  - "Hans Masing, Vice President of Operations"
+
+# Syntax highlight theme. Can be any of supported by Rouge.
+theme: github
+
+# Output directory - keeping default for now
+# Custom copying handled in build script
