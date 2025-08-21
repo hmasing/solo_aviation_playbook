@@ -3,7 +3,7 @@ description: Solo Aviation Vocabulary
 alwaysApply: true
 ---
 
-# FBO Vocabulary Standards
+# Solo Aviation Services Vocabulary Standards
 
 ## Organizational Terminology
 Inspired by Rocket Mortgage and Quicken Loans' ISMs, use these terms consistently throughout all FBO procedures to reflect our values and culture:
@@ -40,7 +40,27 @@ When combining organizational vocabulary with aviation terminology:
 - **Safety Excellence**: Our unwavering commitment to the highest safety standards
 - **Operational Solutions**: Aviation-specific procedures that address operational opportunities
 
----
-**Document Owner**: Operations Management  
-**Review Frequency**: Annual or as company culture evolves  
-**Distribution**: All team members and content creators
+## Hyperbole and Language Temperature
+
+**Language Philosophy**: Use clear, direct language that communicates effectively without exaggeration or unnecessary complexity. Maintain a medium reading comprehension level to ensure accessibility for all team members and clients.
+
+**Words to Avoid Entirely:**
+- comprehensive, complete, detailed
+- extreme, significant, important
+- outstanding, exceptional, amazing
+- cutting-edge, state-of-the-art, advanced
+- world-class, premier, superior
+
+**Preferred Language Patterns:**
+- Use active voice: "Complete the inspection" not "The inspection should be completed"
+- Choose specific terms: "Check fuel levels" not "Ensure fuel adequacy"
+- Avoid intensifiers: Remove words like "very," "extremely," "incredibly"
+- Use simple sentence structure: One main idea per sentence
+- Select common words: "Help" instead of "facilitate," "use" instead of "utilize"
+
+**Reading Level Guidelines:**
+- Target 8th-10th grade reading level
+- Keep sentences under 20 words when possible
+- Use familiar aviation terms but define technical acronyms
+- Break complex procedures into simple steps
+- Choose clarity over formality
