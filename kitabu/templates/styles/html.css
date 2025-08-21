@@ -1,21 +1,30 @@
 @import "./files/normalize.css";
 
 :root {
-  --cover-color: #5091b1;
-  --link-color: var(--cover-color);
+  --primary-color: #2c3e50;
+  --accent-color: #3498db;
+  --text-color: #2c3e50;
+  --light-gray: #ecf0f1;
+  --border-color: #bdc3c7;
+  --background-color: #f8f9fa;
 }
 
 html {
-  background: #eee;
-  padding: 50px;
+  background: var(--background-color);
+  padding: 2rem;
+  font-size: 16px;
 }
 
 body {
-  width: 700px;
-  padding: 50px;
+  max-width: 800px;
+  padding: 3rem;
   background: #fff;
   margin: 0 auto;
-  line-height: 1.4;
+  line-height: 1.6;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--text-color);
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  border-radius: 8px;
 }
 
 a {
@@ -201,22 +210,36 @@ li code {
   border-bottom: 1px solid #eee;
 }
 
-.table-of-contents .level2 {
-  counter-increment: toc-level2;
-  counter-reset: toc-level3;
+/* Table of Contents - Level 1 (H1) headers */
+.table-of-contents .level1 {
+  counter-increment: toc-level1;
   position: relative;
   margin-bottom: 10px;
 }
 
-.table-of-contents .level2 a {
+.table-of-contents .level1 a {
   text-decoration: none;
   color: #000;
   text-transform: uppercase;
   font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
-.table-of-contents .level2:before {
-  content: "Chapter " counter(toc-level2);
+.table-of-contents .level1 a::after {
+  content: "....................................................";
+  font-weight: normal;
+  font-size: 14px;
+  color: #666;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-left: 10px;
+  flex-shrink: 0;
+}
+
+.table-of-contents .level1:before {
+  content: "Chapter " counter(toc-level1);
   font-size: 13px;
   text-transform: uppercase;
   font-weight: bold;
@@ -224,8 +247,43 @@ li code {
   display: block;
 }
 
-.table-of-contents .level2 ~ .level2 {
+.table-of-contents .level1 ~ .level1 {
   margin-top: 40px;
+}
+
+/* Table of Contents - Level 2 (H2) subheadings */
+.table-of-contents .level2 {
+  margin-top: 8px;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.table-of-contents .level2 a {
+  text-decoration: none;
+  color: #333;
+  font-weight: normal;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.table-of-contents .level2 a::after {
+  content: "....................................................";
+  font-weight: normal;
+  font-size: 12px;
+  color: #666;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-left: 10px;
+  flex-shrink: 0;
+}
+
+.table-of-contents .level3,
+.table-of-contents .level4,
+.table-of-contents .level5,
+.table-of-contents .level6 {
+  display: none;
 }
 
 #toc {

@@ -9,7 +9,7 @@
 }
 
 @page {
-  size: 19.05cm 22.86cm portrait;
+  size: letter portrait;
 }
 
 @page chapter:left {
@@ -43,7 +43,7 @@
 }
 
 @page chapter {
-  margin: 100px 100px 50px;
+  margin: 1in 1in 0.75in;
   background: #fff;
 
   @footnotes {
@@ -65,13 +65,36 @@
 }
 
 body {
-  font-family: Caslon, serif;
-  font-size: 14px;
-  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+  line-height: 1.6;
+  color: #333;
+  font-weight: 400;
 }
 
 a {
-  color: var(--frontcover-color);
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Improved text formatting */
+p {
+  margin: 0 0 0.5cm 0;
+  text-align: justify;
+}
+
+ul, ol {
+  margin: 0.4cm 0;
+  padding-left: 1cm;
+}
+
+li {
+  margin: 0.2cm 0;
+  line-height: 1.5;
 }
 
 .go-top {
@@ -96,13 +119,13 @@ a {
   transform: translatey(-50%);
 }
 
-/* Style frontcover */
+/* Clean frontcover */
 .frontcover {
   page: frontcover;
-  padding: var(--frontcover-padding);
-  padding-left: 0;
+  padding: 3cm 2cm;
   text-align: center;
-  font-family: sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
 }
 
 .frontcover * {
@@ -112,8 +135,8 @@ a {
 .frontcover .logo {
   background: url("../images/solo-logo.jpg") no-repeat center center;
   background-size: contain;
-  height: 150px;
-  margin-bottom: 35px;
+  height: 200px;
+  margin-bottom: 2cm;
 }
 
 .frontcover .logo img {
@@ -121,30 +144,30 @@ a {
 }
 
 .frontcover .description {
-  display: inline-block;
-  width: 400px;
-  font-size: 20px;
-  color: rgba(#fff, 0.7);
+  font-size: 28pt;
+  font-weight: 300;
+  color: #2c3e50;
+  margin-bottom: 2cm;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.3;
 }
 
 .frontcover .description:after {
   content: "";
-  display: block;
-  height: 50px;
-  margin-top: 50px;
 }
 
 .frontcover .authors {
-  font-size: 24px;
-  padding: var(--frontcover-padding);
-  font-weight: bold;
-  margin-top: 30px;
-  color: rgba(#000, 0.4);
+  font-size: 14pt;
+  font-weight: 400;
+  color: #7f8c8d;
   text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 .frontcover .authors:before {
-  content: "By ";
+  content: "";
 }
 
 /* Style chapter */
@@ -159,24 +182,40 @@ a {
 }
 
 .chapter > h2 {
-  font-family: sans-serif;
-  margin: -100px -100px 75px -100px;
-  background: var(--frontcover-color);
-  padding: 100px;
-  color: rgba(#fff, 0.6);
-  font-size: 40px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 24pt;
+  color: #2c3e50;
+  margin: 0 0 1.5cm 0;
+  padding-bottom: 0.5cm;
+  border-bottom: 2px solid #ecf0f1;
 }
 
 .chapter > h3 {
-  margin-top: 40px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 16pt;
+  color: #2c3e50;
+  margin: 1.2cm 0 0.6cm 0;
+}
+
+.chapter > h4 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 13pt;
+  color: #2c3e50;
+  margin: 1cm 0 0.4cm 0;
 }
 
 .chapter > h2:before {
   content: "Chapter " counter(chapter);
   display: block;
-  font-size: 18px;
+  font-size: 12pt;
+  font-weight: 400;
   text-transform: uppercase;
-  color: #fff;
+  color: #3498db;
+  margin-bottom: 0.3cm;
+  letter-spacing: 1px;
 }
 
 /* Code highlighting */
@@ -221,67 +260,99 @@ li code {
   margin-top: 15px;
 }
 
-/* Table of contents */
+/* Modern table of contents */
 .table-of-contents {
   page: chapter;
-  font-family: sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .table-of-contents > h2 {
-  font-family: sans-serif;
-  margin: -100px -100px 75px -100px;
-  background: var(--frontcover-color);
-  padding: 100px;
-  color: rgba(#fff, 0.6);
-  font-size: 40px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 24pt;
+  color: #2c3e50;
+  margin: 0 0 1.5cm 0;
+  padding-bottom: 0.5cm;
+  border-bottom: 2px solid #ecf0f1;
 }
 
 .table-of-contents a {
   text-decoration: none;
 }
 
+.table-of-contents .level3,
 .table-of-contents .level4,
 .table-of-contents .level5,
 .table-of-contents .level6 {
   display: none;
 }
 
-.table-of-contents * + .level2 {
+/* Table of Contents - Level 1 (H1) headers */
+.table-of-contents .level1 {
   margin-top: 25px;
+  counter-increment: toc-level1;
 }
 
-.table-of-contents .level2 a {
+.table-of-contents .level1 a {
   text-transform: uppercase;
   font-weight: bold;
   color: #000;
-  font-size: 20px;
+  font-size: 18px;
   position: relative;
-  padding-left: 25px;
+  display: block;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+  padding-bottom: 2px;
 }
 
-.table-of-contents .level2 a:before {
-  content: target-counter(attr(href), page) " ";
+.table-of-contents .level1 a::before {
+  content: "Chapter " counter(toc-level1) ": ";
+  font-weight: bold;
+  color: #666;
+  font-size: 14px;
+  display: block;
+  text-transform: none;
+  margin-bottom: 3px;
+}
+
+.table-of-contents .level1 a::after {
+  content: target-counter(attr(href), page);
   position: absolute;
-  left: 0;
-  transform: translatex(-100%);
+  right: 0;
+  top: 0;
+  background: white;
+  padding-left: 5px;
+  font-weight: bold;
+  color: #000;
 }
 
-.table-of-contents .level3 {
-  padding-left: 25px;
+/* Table of Contents - Level 2 (H2) subheadings */
+.table-of-contents .level2 {
+  margin-top: 6px;
+  margin-left: 25px;
+  margin-bottom: 3px;
 }
 
-.table-of-contents .level3 {
-  margin-top: 10px;
-}
-
-.table-of-contents .level3 a {
+.table-of-contents .level2 a {
+  font-weight: normal;
+  color: #444;
+  font-size: 14px;
   position: relative;
-  color: #777;
+  display: block;
+  text-decoration: none;
+  border-bottom: 1px dotted #ccc;
+  padding-bottom: 1px;
 }
 
-.table-of-contents .level3 a:after {
-  content: leader(".") target-counter(attr(href), page) " ";
-  cursor: default;
+.table-of-contents .level2 a::after {
+  content: target-counter(attr(href), page);
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: white;
+  padding-left: 5px;
+  font-weight: normal;
+  color: #666;
 }
 
 /* Footnotes */

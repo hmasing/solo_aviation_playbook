@@ -43,6 +43,11 @@ EXAMPLE FORMAT:
 "Sample text or structured data example"
 ```
 
+### Revision History Tables
+- Always format revision history tables using code blocks for fixed-width font alignment
+- Use consistent column widths with proper spacing for readability
+- Include header separators using dashes to clearly define columns
+
 ### File Naming Conventions
 - Use kebab-case: `example-document-name.md`
 - Include logical prefixes when organizing: `01-section/01-document-name.md`
@@ -87,9 +92,10 @@ Use subsections to break down complex topics.
 
 ## Revision History
 
-| Date | Version | Changes | Author |
-|------|---------|---------|--------|
-| YYYY-MM-DD | 1.0 | Initial creation | Name |
+```text
+| Date       | Version | Changes           | Author |
+|------------|---------|-------------------|--------|
+| YYYY-MM-DD | 1.0     | Initial creation  | Name   |
 ```
 
 ## Document Templates

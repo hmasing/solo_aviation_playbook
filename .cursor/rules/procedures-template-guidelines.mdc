@@ -146,9 +146,11 @@ ________________________________________________________________________________
 [Multiple lines of blank space for notes]
 
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|------|---------|---------|--------|----------|
-| YYYY-MM-DD | 1.0 | Initial creation | [Name] | [Name] |
+
+```text
+| Date       | Version | Changes           | Author | Reviewer |
+|------------|---------|-------------------|--------|----------|
+| YYYY-MM-DD | 1.0     | Initial creation  | [Name] | [Name]   |
 ```
 
 ## Aviation Industry Requirements
@@ -204,6 +206,12 @@ Use standard phraseology:
 - **Include specific details** such as tools required, coordination needs, and success criteria
 - **Maintain operational flow** ensuring phases follow logical sequence of actual work
 - **Enable field use** format suitable for printed checklists, mobile devices, and operational reference
+
+### Revision History Format Requirements
+- **Always use fixed-width font formatting** by placing revision history tables inside code blocks
+- **Maintain consistent column alignment** with proper spacing for professional appearance
+- **Include header separators** using dashes to clearly define column boundaries
+- **Use standard column widths** to accommodate typical content lengths
 
 ### Process Steps Example Format
 ```markdown

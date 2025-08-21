@@ -35,29 +35,34 @@ Conduct safety briefings and maintain situational awareness during complex aircr
 ## Process Steps
 
 ### Pre-Arrival Phase
+
 - [ ] **Review flight plan information** - Confirm aircraft type, arrival time, and special requirements
 - [ ] **Verify ramp space availability** - Check assigned parking position and clearance requirements
 - [ ] **Prepare ground support equipment** - Position required equipment and verify operational status
 - [ ] **Monitor aircraft approach** - Track inbound aircraft progress via radio communications and ATC coordination
 
 ### Aircraft Arrival Phase
+
 - [ ] **Set up marshalling position** - Position equipment and personnel with proper safety gear and communication devices
 - [ ] **Guide aircraft to parking** - Provide visual marshalling signals using standard hand signals for precise positioning
 - [ ] **Conduct initial safety assessment** - Verify aircraft position, chock placement, and equipment positioning
 - [ ] **Greet clients professionally** - Welcome clients and assess immediate service needs (fuel, ground power, passenger services)
 
 ### Service Coordination Phase
+
 - [ ] **Document service requests** - Record all requested services and coordinate timing with team members and vendors
 - [ ] **Monitor service progress** - Maintain client communication regarding timing and operational updates
 - [ ] **Coordinate ongoing services** - Ensure efficient delivery of fuel, maintenance, catering, and other requested services
 
 ### Pre-Departure Phase
+
 - [ ] **Confirm service completion** - Verify all services are completed and documented for billing
 - [ ] **Coordinate departure timing** - Communicate with clients regarding departure requirements and timing
 - [ ] **Prepare for engine start** - Remove ground support equipment and conduct final safety inspection
 - [ ] **Provide fire guard services** - Monitor engine start for safety concerns and irregularities
 
 ### Departure Phase
+
 - [ ] **Guide aircraft to taxiway** - Provide marshalling signals for safe taxi using appropriate safety protocols
 - [ ] **Complete final documentation** - Update service records, billing information, and operational notes
 - [ ] **Reset ramp area** - Clear and inspect parking area, return equipment to storage, prepare for next aircraft
@@ -97,37 +102,30 @@ ________________________________________________________________________________
 **Solution:** Activate adverse weather procedures, use alternative communication methods, and coordinate with air traffic control for timing adjustments
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Maintain minimum 25-foot clearance from operating aircraft engines and propellers at all times
 ⚡ **CAUTION**: Verify aircraft parking brake engagement and proper chock placement before approaching aircraft
 ℹ️ **NOTE**: Monitor weather conditions and wind direction during all marshalling operations
 ✅ **BEST PRACTICE**: Conduct pre-shift briefing on current NOTAMs, runway conditions, and operational priorities
 
 ## Regulatory References
+
 - 14 CFR Part 139 - Airport Operating Requirements
 - FAA Advisory Circular AC 150/5210-5D - Painting, Marking, and Lighting of Vehicles
 - OSHA Standard 29 CFR 1910.95 - Occupational Noise Exposure
 - Company Safety Management System (SMS) procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Operations Leader |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer          |
+|------------|---------|-------------------|---------------------|-------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Operations Leader |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: FBO Operations Manager  
+**Procedure Owner**: FBO Operations Leader  
 **Emergency Contact**: Operations Center - Extension 2100
 
 ---
@@ -235,22 +233,13 @@ ________________________________________________________________________________
 - OSHA 29 CFR 1910.106 - Flammable Liquids Standards
 - FAA Advisory Circular AC 150/5230-4B - Aircraft Fuel Storage, Handling, Training, and Dispensing
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Fuel Safety Specialist |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer             |
+|------------|---------|-------------------|---------------------|----------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Fuel Safety Specialist |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -292,24 +281,28 @@ Perform routine facility inspections and coordinate repairs to ensure space avai
 ## Process Steps
 
 ### Space Assessment and Reservation Phase
+
 - [ ] **Assess space availability** - Review current hangar and ramp occupancy, confirm dimensions, and assess aircraft compatibility
 - [ ] **Analyze client requirements** - Determine aircraft specifications, storage duration, and special needs (power, heating, security)
 - [ ] **Coordinate space assignment** - Assign appropriate space based on aircraft size, client preferences, and operational efficiency
 - [ ] **Complete reservation documentation** - Process reservation forms with aircraft information, duration, and service requirements
 
 ### Aircraft Positioning Phase
+
 - [ ] **Operate hangar doors safely** - Use proper procedures and verify door systems are functioning correctly
 - [ ] **Guide aircraft positioning** - Use marshalling techniques to ensure adequate clearance from obstacles and proper placement
 - [ ] **Optimize space utilization** - Monitor usage and coordinate repositioning to accommodate additional aircraft when needed
 - [ ] **Activate facility systems** - Turn on required lighting, heating, ventilation, and electrical power as needed
 
 ### Ongoing Management Phase
+
 - [ ] **Implement security protocols** - Establish access control and facility monitoring for client aircraft protection
 - [ ] **Monitor space utilization** - Track usage and coordinate with clients regarding changes to reservation requirements
 - [ ] **Coordinate departure logistics** - Plan aircraft departure timing and prepare for hangar door operation and removal
 - [ ] **Inspect and reset space** - Check vacated space for damage or cleanliness issues and prepare for next assignment
 
 ### Administrative Phase
+
 - [ ] **Complete billing documentation** - Record space utilization for billing and update reservation system with usage information
 - [ ] **Coordinate facility maintenance** - Arrange required maintenance or cleaning before reassigning space to new clients
 - [ ] **Generate utilization reports** - Analyze efficiency metrics for operational improvement and capacity planning
@@ -349,38 +342,31 @@ ________________________________________________________________________________
 **Solution:** Coordinate alternative space arrangements, provide outdoor parking with enhanced services, or refer to partner facilities
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Ensure minimum 10-foot clearance on all sides of aircraft when positioning in hangars
 ⚡ **CAUTION**: Verify hangar door operation is clear of personnel and equipment before activating door controls
 ℹ️ **NOTE**: Monitor weather conditions and prioritize hangar space allocation during adverse weather forecasts
 ✅ **BEST PRACTICE**: Conduct daily hangar inspections and maintain current aircraft positioning diagrams
 
 ## Regulatory References
+
 - 14 CFR Part 139 - Airport Operating Requirements
 - OSHA 29 CFR 1910.176 - Materials Handling and Storage
 - NFPA 409 - Standard on Aircraft Hangars
 - Local zoning and building code requirements
 - Company facility management and safety procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Operations Leader |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer          |
+|------------|---------|-------------------|---------------------|-------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Operations Leader |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: FBO Operations Manager  
+**Procedure Owner**: FBO Operations Leader  
 **Emergency Contact**: Operations Center - Extension 2100
 
 ---
@@ -487,22 +473,13 @@ ________________________________________________________________________________
 - Company client service standards and hospitality procedures
 - Emergency response and evacuation procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Client Experience Lead |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer             |
+|------------|---------|-------------------|---------------------|----------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Experience Lead |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -634,22 +611,13 @@ ________________________________________________________________________________
 - Company client service standards and hospitality procedures
 - Emergency response and evacuation procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Client Experience Lead |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer             |
+|------------|---------|-------------------|---------------------|----------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Experience Lead |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -761,22 +729,13 @@ ________________________________________________________________________________
 - OSHA 29 CFR 1910.95 - Occupational Noise Exposure
 - Company Ground Safety Management procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Ramp Safety Coordinator |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer                |
+|------------|---------|-------------------|---------------------|-------------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Ramp Safety Coordinator |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -888,22 +847,13 @@ ________________________________________________________________________________
 - Company equipment safety and maintenance procedures
 - Equipment operator training and certification standards
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Equipment Manager |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer          |
+|------------|---------|-------------------|---------------------|-------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Equipment Leader  |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1014,22 +964,13 @@ ________________________________________________________________________________
 - FAA Advisory Circular AC 43-9C - Maintenance Records
 - Company maintenance coordination and quality assurance procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Maintenance Coordinator |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer                |
+|------------|---------|-------------------|---------------------|-------------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Maintenance Coordinator |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1140,22 +1081,13 @@ ________________________________________________________________________________
 - Company vendor management and service quality standards
 - Emergency response and communication procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Client Services Manager |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer             |
+|------------|---------|-------------------|---------------------|----------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Services Leader |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1266,22 +1198,13 @@ ________________________________________________________________________________
 - Credit card processing security standards (PCI DSS)
 - Company financial procedures and audit requirements
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Finance Manager |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer        |
+|------------|---------|-------------------|---------------------|-----------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Finance Leader  |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1415,22 +1338,13 @@ ________________________________________________________________________________
 - EPA regulations for environmental safety and hazardous materials
 - Company Safety Management System (SMS) procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Safety Officer |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer       |
+|------------|---------|-------------------|---------------------|----------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Safety Officer |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1472,24 +1386,28 @@ Monitor equipment performance and coordinate replacement planning while ensuring
 ## Process Steps
 
 ### Daily Assessment Phase
+
 - [ ] **Assess facility condition** - Conduct comprehensive inspection of interior and exterior areas to identify maintenance and cleaning needs
 - [ ] **Review maintenance schedules** - Check scheduled maintenance requirements and coordinate with team for timely completion
 - [ ] **Establish cleaning priorities** - Set daily cleaning priorities based on client activity, facility usage, and cleanliness standards
 - [ ] **Verify equipment operation** - Test facility systems including HVAC, lighting, plumbing, and electrical systems for proper performance
 
 ### Cleaning and Maintenance Phase
+
 - [ ] **Clean client areas** - Service lounges, restrooms, conference rooms, and reception areas to maintain professional appearance
 - [ ] **Maintain operational areas** - Service hangars, ramp areas, and equipment storage while ensuring safety and functionality
 - [ ] **Maintain exterior facilities** - Care for landscaping, signage, parking areas, and building exterior cleanliness
 - [ ] **Perform equipment maintenance** - Execute scheduled maintenance including lubrication, filter changes, and system calibration
 
 ### Supply and Repair Coordination Phase
+
 - [ ] **Manage supply inventory** - Monitor maintenance and cleaning supplies and coordinate with vendors for timely replenishment
 - [ ] **Coordinate repair services** - Arrange repair services for equipment malfunctions and facility issues while minimizing disruption
 - [ ] **Coordinate vendor services** - Manage specialized maintenance services with qualified vendors ensuring quality and compliance
 - [ ] **Document maintenance activities** - Maintain detailed maintenance and cleaning records for regulatory compliance and warranties
 
 ### Quality Assurance Phase
+
 - [ ] **Conduct quality inspections** - Review completed maintenance and cleaning work to ensure standards compliance
 - [ ] **Integrate client feedback** - Incorporate client feedback regarding facility condition and coordinate improvements
 - [ ] **Implement continuous improvement** - Execute facility improvements based on usage patterns, feedback, and efficiency opportunities
@@ -1529,6 +1447,7 @@ ________________________________________________________________________________
 **Solution:** Maintain adequate supply inventory, establish relationships with multiple suppliers, and implement emergency procurement procedures
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Use appropriate personal protective equipment during all maintenance and cleaning activities
 ⚠️ **WARNING**: Follow lockout/tagout procedures when servicing electrical or mechanical equipment
 ⚡ **CAUTION**: Use appropriate cleaning chemicals and maintain proper ventilation during cleaning operations
@@ -1536,28 +1455,20 @@ ________________________________________________________________________________
 ✅ **BEST PRACTICE**: Conduct regular facility condition assessments and maintain current equipment maintenance schedules
 
 ## Regulatory References
+
 - OSHA 29 CFR 1910 - General Industry Standards for Facility Maintenance
 - EPA regulations for chemical storage and waste disposal
 - Local building codes and facility maintenance requirements
 - Manufacturer equipment maintenance and warranty requirements
 - Company facility management and safety procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Facility Manager |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer         |
+|------------|---------|-------------------|---------------------|------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Facility Leader  |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1669,22 +1580,13 @@ ________________________________________________________________________________
 - National Weather Service Aviation Weather Products
 - Flight Service Station briefing procedures and requirements
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Flight Operations Manager |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer                 |
+|------------|---------|-------------------|---------------------|--------------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Flight Operations Leader |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1796,22 +1698,13 @@ ________________________________________________________________________________
 - ICAO international aviation standards and procedures
 - Company international operations and compliance procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | International Operations Manager |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer                         |
+|------------|---------|-------------------|---------------------|----------------------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | International Operations Leader  |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1922,22 +1815,13 @@ ________________________________________________________________________________
 - Company food service quality and safety procedures
 - Vendor certification and licensing requirements
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Client Services Manager |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer             |
+|------------|---------|-------------------|---------------------|----------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Client Services Leader |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
@@ -1979,24 +1863,28 @@ Analyze incident causes and coordinate corrective actions to prevent future occu
 ## Process Steps
 
 ### Immediate Response Phase
+
 - [ ] **Recognize emergency situation** - Identify emergency situations and implement immediate response actions while ensuring team member and client safety
 - [ ] **Notify emergency services** - Contact appropriate emergency services including fire, medical, and law enforcement with accurate situation information
 - [ ] **Implement immediate safety actions** - Execute evacuation procedures, area isolation, and hazard mitigation as required
 - [ ] **Activate emergency response team** - Mobilize emergency response team and coordinate response activities while maintaining emergency service communication
 
 ### Assessment and Coordination Phase
+
 - [ ] **Assess situation and communicate** - Evaluate emergency situation severity and communicate with management, authorities, and affected parties
 - [ ] **Coordinate response resources** - Manage emergency response resources including equipment, personnel, and external services for effective incident management
 - [ ] **Assess operational impact** - Evaluate operational impact and implement continuity measures while maintaining essential services and safety standards
 - [ ] **Document incident details** - Record incident details including timeline, actions taken, and personnel involved while maintaining accurate records
 
 ### Notification and Communication Phase
+
 - [ ] **Notify regulatory authorities** - Contact appropriate regulatory authorities and coordinate compliance reporting requirements within established timeframes
 - [ ] **Communicate with affected clients** - Inform affected clients regarding incident impact and coordinate alternative service arrangements as required
 - [ ] **Coordinate media communication** - Manage media communication through appropriate channels while maintaining accurate information and company representation
 - [ ] **Initiate incident investigation** - Begin comprehensive incident investigation and coordinate with authorities and internal teams for thorough analysis
 
 ### Recovery and Improvement Phase
+
 - [ ] **Implement corrective actions** - Execute corrective actions based on investigation findings and coordinate with team members for procedure improvements
 - [ ] **Conduct follow-up monitoring** - Monitor corrective actions and coordinate with authorities for compliance verification
 - [ ] **Integrate lessons learned** - Incorporate lessons learned into emergency procedures and coordinate training updates for continuous improvement
@@ -2036,6 +1924,7 @@ ________________________________________________________________________________
 **Solution:** Coordinate with legal counsel and regulatory authorities for reporting timeline adjustments while maintaining compliance
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Prioritize life safety above all other considerations and coordinate with emergency services for professional response
 ⚠️ **WARNING**: Never compromise team member or client safety for operational continuity or property protection
 ⚡ **CAUTION**: Follow established emergency procedures and coordinate with trained emergency response personnel
@@ -2043,28 +1932,20 @@ ________________________________________________________________________________
 ✅ **BEST PRACTICE**: Conduct regular emergency drills and maintain current emergency equipment and supplies
 
 ## Regulatory References
+
 - OSHA 29 CFR 1910.38 - Emergency Action Plans
 - 14 CFR Part 139 - Airport Emergency Response Requirements
 - NFPA emergency response and fire protection standards
 - Local emergency services coordination requirements
 - Company Emergency Response Plan and Safety Management System
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Safety Officer |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer       |
+|------------|---------|-------------------|---------------------|----------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Safety Officer |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  

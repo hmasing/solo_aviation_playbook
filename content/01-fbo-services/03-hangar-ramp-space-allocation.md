@@ -6,7 +6,7 @@ revision_date: "2024-01-15"
 version: "1.0"
 author: "FBO Operations Team"
 reviewed_by: "Operations Leader"
-approved_by: "FBO Manager"
+approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
@@ -43,24 +43,28 @@ Perform routine facility inspections and coordinate repairs to ensure space avai
 ## Process Steps
 
 ### Space Assessment and Reservation Phase
+
 - [ ] **Assess space availability** - Review current hangar and ramp occupancy, confirm dimensions, and assess aircraft compatibility
 - [ ] **Analyze client requirements** - Determine aircraft specifications, storage duration, and special needs (power, heating, security)
 - [ ] **Coordinate space assignment** - Assign appropriate space based on aircraft size, client preferences, and operational efficiency
 - [ ] **Complete reservation documentation** - Process reservation forms with aircraft information, duration, and service requirements
 
 ### Aircraft Positioning Phase
+
 - [ ] **Operate hangar doors safely** - Use proper procedures and verify door systems are functioning correctly
 - [ ] **Guide aircraft positioning** - Use marshalling techniques to ensure adequate clearance from obstacles and proper placement
 - [ ] **Optimize space utilization** - Monitor usage and coordinate repositioning to accommodate additional aircraft when needed
 - [ ] **Activate facility systems** - Turn on required lighting, heating, ventilation, and electrical power as needed
 
 ### Ongoing Management Phase
+
 - [ ] **Implement security protocols** - Establish access control and facility monitoring for client aircraft protection
 - [ ] **Monitor space utilization** - Track usage and coordinate with clients regarding changes to reservation requirements
 - [ ] **Coordinate departure logistics** - Plan aircraft departure timing and prepare for hangar door operation and removal
 - [ ] **Inspect and reset space** - Check vacated space for damage or cleanliness issues and prepare for next assignment
 
 ### Administrative Phase
+
 - [ ] **Complete billing documentation** - Record space utilization for billing and update reservation system with usage information
 - [ ] **Coordinate facility maintenance** - Arrange required maintenance or cleaning before reassigning space to new clients
 - [ ] **Generate utilization reports** - Analyze efficiency metrics for operational improvement and capacity planning
@@ -100,36 +104,29 @@ ________________________________________________________________________________
 **Solution:** Coordinate alternative space arrangements, provide outdoor parking with enhanced services, or refer to partner facilities
 
 ## Safety Considerations
+
 ⚠️ **WARNING**: Ensure minimum 10-foot clearance on all sides of aircraft when positioning in hangars
 ⚡ **CAUTION**: Verify hangar door operation is clear of personnel and equipment before activating door controls
 ℹ️ **NOTE**: Monitor weather conditions and prioritize hangar space allocation during adverse weather forecasts
 ✅ **BEST PRACTICE**: Conduct daily hangar inspections and maintain current aircraft positioning diagrams
 
 ## Regulatory References
+
 - 14 CFR Part 139 - Airport Operating Requirements
 - OSHA 29 CFR 1910.176 - Materials Handling and Storage
 - NFPA 409 - Standard on Aircraft Hangars
 - Local zoning and building code requirements
 - Company facility management and safety procedures
 
-## Notes:
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-___________________________________________________________________________________
-
 ## Revision History
-| Date | Version | Changes | Author | Reviewer |
-|---|---|---|-----|----|
-| 2024-01-15 | 1.0 | Initial creation | FBO Operations Team | Operations Leader |
+
+```text
+| Date       | Version | Changes           | Author              | Reviewer          |
+|------------|---------|-------------------|---------------------|-------------------|
+| 2024-01-15 | 1.0     | Initial creation  | FBO Operations Team | Operations Leader |
+```
 
 ---
 **Review Date**: Annual review required by January 15, 2025  
-**Procedure Owner**: FBO Operations Manager  
+**Procedure Owner**: FBO Operations Leader  
 **Emergency Contact**: Operations Center - Extension 2100
