@@ -13,11 +13,11 @@ alwaysApply: true
 - Store supporting materials in `assets/` directory
 
 ### Content Categories
-1. **FBO Services** (01) - Customer-facing operations
+1. **FBO Services** (01) - Client-facing operations
 2. **Maintenance Operations** (02) - Aircraft maintenance and repair
 3. **Flight School Operations** (03) - Training and education services
 4. **Safety and Compliance** (04) - Regulatory and safety procedures
-5. **Marketing and Customer Retention** (05) - Business development
+5. **Marketing and Client Retention** (05) - Business development
 6. **Administrative and Financial** (06) - Business operations
 
 ## Procedure Generation Prompt
@@ -26,7 +26,7 @@ When creating new FBO procedures, use this prompt structure to generate comprehe
 
 ### Input Requirements:
 - **Procedure Name**: [Specific procedure title]
-- **Section**: [One of: FBO Services, Maintenance Operations, Flight School Operations, Safety and Compliance, Marketing and Customer Retention, Administrative and Financial]
+- **Section**: [One of: FBO Services, Maintenance Operations, Flight School Operations, Safety and Compliance, Marketing and Client Retention, Administrative and Financial]
 - **Brief Description**: [1-2 sentence overview of what this procedure accomplishes]
 
 ### Generation Instructions:
@@ -36,7 +36,7 @@ Create a complete procedure document following this exact structure:
 2. **Process Name**: Clear, descriptive title with "Process" suffix
 3. **Purpose**: 2-3 sentences explaining why this process exists and intended outcome
 4. **Roles and Responsibilities**: 3-4 relevant aviation roles with specific responsibilities (2 lines each)
-5. **Process Steps**: Up to 15 numbered steps with detailed actions, inputs, outputs, and tools
+5. **Process Steps**: Checklist format organized by logical phases with actionable items and detailed descriptions
 6. **Process Mapping**: Placeholder for flowchart description
 7. **Tools and Resources**: Specific equipment, software, forms, or references needed
 8. **Success Metrics**: 4 measurable indicators (Completion Time, Quality Standard, Safety Standard, Customer Satisfaction)
@@ -88,15 +88,22 @@ ________________________________________________________________
 
 ## Process Steps
 
-Detail each step in a clear, numbered sequence.
+Organize process steps into logical phases using checklist format for better usability and tracking.
 
-**Step 1:**
-______________________________________________________________________________________
+### [Phase Name 1]
+- [ ] **[Action Item]** - Detailed description of what needs to be accomplished
+- [ ] **[Action Item]** - Include specific requirements, tools, or coordination needed
+- [ ] **[Action Item]** - Provide clear, actionable instructions
 
-**Step 2:**
-______________________________________________________________________________________
+### [Phase Name 2]
+- [ ] **[Action Item]** - Continue with related tasks grouped logically
+- [ ] **[Action Item]** - Maintain consistent format with bold action and description
+- [ ] **[Action Item]** - Ensure each item can be checked off when completed
 
-[Continue through Step 15]
+### [Phase Name 3]
+- [ ] **[Action Item]** - Group related activities for operational efficiency
+- [ ] **[Action Item]** - Include coordination requirements and dependencies
+- [ ] **[Action Item]** - Provide sufficient detail for proper execution
 
 ## Process Mapping
 
@@ -115,7 +122,7 @@ Define measurable indicators to evaluate process effectiveness.
 **Completion Time:** Process completed within [X hours/days].
 **Quality Standard:** [Specific quality measure]
 **Safety Standard:** [Safety requirement met]
-**Customer Satisfaction:** [Target satisfaction level]
+**Client Satisfaction:** [Target satisfaction level]
 
 ## Common Issues and Solutions
 
@@ -189,6 +196,35 @@ Use standard phraseology:
 - Use consistent formatting with horizontal line separators
 - Provide comprehensive but practical guidance
 
+### Process Steps Format Requirements
+- **Use checklist format** with `- [ ]` for all process steps to enable tracking and completion verification
+- **Group by logical phases** (e.g., Pre-Arrival, Service Coordination, Departure) for operational clarity
+- **Bold action items** followed by detailed descriptions for easy scanning and execution
+- **Actionable language** using strong verbs (Review, Verify, Coordinate, Monitor, etc.)
+- **Include specific details** such as tools required, coordination needs, and success criteria
+- **Maintain operational flow** ensuring phases follow logical sequence of actual work
+- **Enable field use** format suitable for printed checklists, mobile devices, and operational reference
+
+### Process Steps Example Format
+```markdown
+## Process Steps
+
+### Pre-Service Phase
+- [ ] **Review service request** - Confirm client requirements and special needs
+- [ ] **Verify equipment availability** - Check required tools and coordinate with team
+- [ ] **Prepare work area** - Set up safe work environment with proper lighting
+
+### Service Execution Phase  
+- [ ] **Perform primary service** - Execute main service following safety protocols
+- [ ] **Monitor service quality** - Ensure standards compliance throughout process
+- [ ] **Document service delivery** - Record completion details and any observations
+
+### Post-Service Phase
+- [ ] **Conduct quality inspection** - Verify service meets standards and requirements
+- [ ] **Complete documentation** - Update service records and billing information
+- [ ] **Coordinate follow-up** - Schedule any required follow-up services or communication
+```
+
 ### Aviation-Specific Considerations
 - Include relevant safety warnings for airport operations
 - Reference appropriate FAA regulations (14 CFR parts)
@@ -200,11 +236,11 @@ Use standard phraseology:
 
 ### Review Requirements
 All procedures must be reviewed by qualified personnel:
-- **FBO Services**: Operations Manager, Customer Service Lead
+- **FBO Services**: Operations Manager, Client Service Lead
 - **Maintenance**: Chief of Maintenance, Quality Assurance Manager
 - **Flight Training**: Chief Flight Instructor, Training Manager
 - **Safety**: Safety Officer, Compliance Manager
-- **Marketing**: Marketing Manager, Customer Relations Manager
+- **Marketing**: Marketing Manager, Client Relations Manager
 - **Administrative**: Business Manager, Finance Manager
 
 ### Regulatory Expertise Required

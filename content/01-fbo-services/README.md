@@ -1,12 +1,12 @@
 # FBO Services
 
-Core customer-facing operations that define the Fixed Base Operator experience. These procedures ensure consistent, professional service delivery for all aircraft operations and customer interactions.
+Core client-facing operations that define the Fixed Base Operator experience. These procedures ensure consistent, professional service delivery for all aircraft operations and client interactions.
 
 ## Procedures in this Section
 
 1. **[Aircraft Arrival and Departure Handling](01-aircraft-arrival-departure-handling.md)**
    - Aircraft marshalling and parking coordination
-   - Customer greeting and service coordination
+   - Client greeting and service coordination
    - Departure preparation and assistance
 
 2. **[Fueling Operations (Jet-A and Avgas)](02-fueling-operations.md)**
@@ -19,8 +19,8 @@ Core customer-facing operations that define the Fixed Base Operator experience. 
    - Hangar door operations
    - Ramp traffic management
 
-4. **[Customer Check-In and Concierge Services](04-customer-checkin-concierge.md)**
-   - Customer reception and registration
+4. **[Client Check-In and Concierge Services](04-client-checkin-concierge.md)**
+   - Client reception and registration
    - Concierge service coordination
    - Amenity provision and facility tours
 
@@ -37,7 +37,7 @@ Core customer-facing operations that define the Fixed Base Operator experience. 
 7. **[Maintenance Coordination for Visiting Aircraft](07-maintenance-coordination-visiting.md)**
    - Service request processing
    - Vendor coordination and oversight
-   - Quality assurance and customer communication
+   - Quality assurance and client communication
 
 8. **[Crew and Passenger Transportation Arrangements](08-transportation-arrangements.md)**
    - Ground transportation coordination
@@ -82,12 +82,12 @@ Core customer-facing operations that define the Fixed Base Operator experience. 
 ## Quick Reference
 - **Emergency Contact**: [Phone Number]
 - **Operations Manager**: [Name/Extension]
-- **Customer Service Hours**: [Hours]
+- **Client Service Hours**: [Hours]
 - **After-Hours Contact**: [Phone Number]
 
 ## Training Requirements
 All FBO service personnel must complete:
-- [ ] Customer service training
+- [ ] Client service training
 - [ ] Safety and security protocols
 - [ ] Equipment operation certification
 - [ ] Emergency response procedures
