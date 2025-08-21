@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Invoice Generation Phase
 
-- [ ] **Collect training activity data** - Gather flight time, ground instruction, and other billable training activities
-- [ ] **Verify billing accuracy** - Confirm training records match instructor and student documentation
-- [ ] **Calculate charges** - Apply current rates to training activities and add applicable taxes or fees
-- [ ] **Generate student invoices** - Create detailed invoices with training activity breakdown and payment terms
+- **Collect training activity data** - Gather flight time, ground instruction, and other billable training activities
+- **Verify billing accuracy** - Confirm training records match instructor and student documentation
+- **Calculate charges** - Apply current rates to training activities and add applicable taxes or fees
+- **Generate student invoices** - Create detailed invoices with training activity breakdown and payment terms
 
 ### Payment Processing Phase
 
-- [ ] **Process payment transactions** - Handle cash, check, and credit card payments according to established procedures
-- [ ] **Apply payments to accounts** - Credit payments to appropriate student accounts and update account balances
-- [ ] **Issue payment receipts** - Provide payment confirmation and receipts to students
-- [ ] **Reconcile payment records** - Verify payment processing accuracy and resolve any discrepancies
+- **Process payment transactions** - Handle cash, check, and credit card payments according to established procedures
+- **Apply payments to accounts** - Credit payments to appropriate student accounts and update account balances
+- **Issue payment receipts** - Provide payment confirmation and receipts to students
+- **Reconcile payment records** - Verify payment processing accuracy and resolve any discrepancies
 
 ### Account Management Phase
 
-- [ ] **Monitor account status** - Track student account balances and identify overdue accounts
-- [ ] **Send payment reminders** - Contact students with overdue balances and coordinate payment arrangements
-- [ ] **Coordinate payment plans** - Establish payment schedules for students requiring extended payment terms
-- [ ] **Review credit limits** - Monitor student account limits and coordinate training authorization decisions
+- **Monitor account status** - Track student account balances and identify overdue accounts
+- **Send payment reminders** - Contact students with overdue balances and coordinate payment arrangements
+- **Coordinate payment plans** - Establish payment schedules for students requiring extended payment terms
+- **Review credit limits** - Monitor student account limits and coordinate training authorization decisions
 
 ### Collections and Follow-up Phase
 
-- [ ] **Coordinate collection activities** - Follow up on overdue accounts and coordinate collection procedures
-- [ ] **Document collection efforts** - Maintain records of collection communications and payment arrangements
-- [ ] **Coordinate training holds** - Suspend training activities for accounts with significant overdue balances
-- [ ] **Process account adjustments** - Handle refunds, credits, and billing corrections as needed
+- **Coordinate collection activities** - Follow up on overdue accounts and coordinate collection procedures
+- **Document collection efforts** - Maintain records of collection communications and payment arrangements
+- **Coordinate training holds** - Suspend training activities for accounts with significant overdue balances
+- **Process account adjustments** - Handle refunds, credits, and billing corrections as needed
 
 ## Process Mapping
 

@@ -44,31 +44,31 @@ Coordinate hangar space allocation and equipment requirements for maintenance ac
 
 ### Request Assessment Phase
 
-- [ ] **Evaluate maintenance request** - Assess client request and determine appropriate maintenance provider based on aircraft type and requirements
-- [ ] **Select qualified vendor** - Choose maintenance provider and coordinate service scheduling based on availability and client timing
-- [ ] **Communicate with client** - Present maintenance proposal including cost estimates, timing, and service provider information for approval
-- [ ] **Process work order** - Create work order with service requirements and coordinate with provider for service initiation
+- **Evaluate maintenance request** - Assess client request and determine appropriate maintenance provider based on aircraft type and requirements
+- **Select qualified vendor** - Choose maintenance provider and coordinate service scheduling based on availability and client timing
+- **Communicate with client** - Present maintenance proposal including cost estimates, timing, and service provider information for approval
+- **Process work order** - Create work order with service requirements and coordinate with provider for service initiation
 
 ### Service Coordination Phase
 
-- [ ] **Coordinate facility requirements** - Arrange hangar space allocation and specialized equipment with facility management and provider
-- [ ] **Initiate maintenance service** - Start maintenance service with client notification and establish communication protocols for updates
-- [ ] **Monitor service progress** - Track maintenance progress and provide regular client updates regarding status and any timing changes
-- [ ] **Coordinate quality control** - Arrange quality control inspection of completed work and verify regulatory compliance
+- **Coordinate facility requirements** - Arrange hangar space allocation and specialized equipment with facility management and provider
+- **Initiate maintenance service** - Start maintenance service with client notification and establish communication protocols for updates
+- **Monitor service progress** - Track maintenance progress and provide regular client updates regarding status and any timing changes
+- **Coordinate quality control** - Arrange quality control inspection of completed work and verify regulatory compliance
 
 ### Completion Phase
 
-- [ ] **Review documentation** - Examine maintenance documentation including logbook entries, compliance records, and warranty information
-- [ ] **Notify client of completion** - Inform client of maintenance completion and coordinate aircraft return to service with inspection results
-- [ ] **Coordinate billing** - Manage billing between maintenance provider and client while ensuring accurate documentation and cost verification
-- [ ] **Conduct follow-up assessment** - Evaluate client satisfaction with maintenance service quality and address concerns or warranty issues
+- **Review documentation** - Examine maintenance documentation including logbook entries, compliance records, and warranty information
+- **Notify client of completion** - Inform client of maintenance completion and coordinate aircraft return to service with inspection results
+- **Coordinate billing** - Manage billing between maintenance provider and client while ensuring accurate documentation and cost verification
+- **Conduct follow-up assessment** - Evaluate client satisfaction with maintenance service quality and address concerns or warranty issues
 
 ### Quality Assurance Phase
 
-- [ ] **Evaluate vendor performance** - Assess maintenance provider performance and document service quality for future selection
-- [ ] **Ensure regulatory compliance** - Verify all maintenance documentation meets regulatory requirements and maintain audit records
-- [ ] **Analyze process efficiency** - Review maintenance coordination process and identify opportunities for improved service and vendor management
-- [ ] **Update procedures** - Incorporate lessons learned and best practices into maintenance coordination procedures
+- **Evaluate vendor performance** - Assess maintenance provider performance and document service quality for future selection
+- **Ensure regulatory compliance** - Verify all maintenance documentation meets regulatory requirements and maintain audit records
+- **Analyze process efficiency** - Review maintenance coordination process and identify opportunities for improved service and vendor management
+- **Update procedures** - Incorporate lessons learned and best practices into maintenance coordination procedures
 
 ## Process Mapping
 

@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Fuel Planning Phase
 
-- [ ] **Assess fuel requirements** - Calculate fuel needs for scheduled training flights and reserve requirements
-- [ ] **Monitor fuel inventory** - Track fuel tank levels and coordinate replenishment scheduling
-- [ ] **Plan refueling schedule** - Coordinate aircraft refueling with training schedules and aircraft availability
-- [ ] **Verify fuel specifications** - Confirm correct fuel type and grade for each aircraft type
+- **Assess fuel requirements** - Calculate fuel needs for scheduled training flights and reserve requirements
+- **Monitor fuel inventory** - Track fuel tank levels and coordinate replenishment scheduling
+- **Plan refueling schedule** - Coordinate aircraft refueling with training schedules and aircraft availability
+- **Verify fuel specifications** - Confirm correct fuel type and grade for each aircraft type
 
 ### Pre-Refueling Safety Phase
 
-- [ ] **Conduct safety inspection** - Verify refueling equipment condition and safety system operation
-- [ ] **Test fuel quality** - Sample fuel for contamination, water, and specification compliance
-- [ ] **Establish safety perimeter** - Ensure area security and fire safety equipment availability
-- [ ] **Review aircraft status** - Verify aircraft electrical systems are off and refueling procedures are safe
+- **Conduct safety inspection** - Verify refueling equipment condition and safety system operation
+- **Test fuel quality** - Sample fuel for contamination, water, and specification compliance
+- **Establish safety perimeter** - Ensure area security and fire safety equipment availability
+- **Review aircraft status** - Verify aircraft electrical systems are off and refueling procedures are safe
 
 ### Refueling Operations Phase
 
-- [ ] **Connect grounding equipment** - Establish proper electrical grounding for fuel transfer operations
-- [ ] **Verify fuel type match** - Confirm fuel grade matches aircraft requirements before fuel transfer
-- [ ] **Monitor fuel transfer** - Supervise fuel transfer operation and watch for leaks or safety issues
-- [ ] **Complete fuel quantity verification** - Confirm fuel quantity matches requirements and update records
+- **Connect grounding equipment** - Establish proper electrical grounding for fuel transfer operations
+- **Verify fuel type match** - Confirm fuel grade matches aircraft requirements before fuel transfer
+- **Monitor fuel transfer** - Supervise fuel transfer operation and watch for leaks or safety issues
+- **Complete fuel quantity verification** - Confirm fuel quantity matches requirements and update records
 
 ### Post-Refueling Documentation Phase
 
-- [ ] **Disconnect equipment safely** - Remove fuel hoses and grounding equipment following safety procedures
-- [ ] **Complete fuel service documentation** - Record fuel quantity, type, and service details accurately
-- [ ] **Update aircraft records** - Record fuel service in aircraft logbooks and maintenance tracking
-- [ ] **Process billing information** - Coordinate fuel service charges with billing and student accounts
+- **Disconnect equipment safely** - Remove fuel hoses and grounding equipment following safety procedures
+- **Complete fuel service documentation** - Record fuel quantity, type, and service details accurately
+- **Update aircraft records** - Record fuel service in aircraft logbooks and maintenance tracking
+- **Process billing information** - Coordinate fuel service charges with billing and student accounts
 
 ## Process Mapping
 

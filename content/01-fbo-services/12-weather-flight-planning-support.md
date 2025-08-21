@@ -44,31 +44,31 @@ Coordinate with pilots for weather briefings and assist with weather-related fli
 
 ### Information Access and Assessment Phase
 
-- [ ] **Access weather information systems** - Retrieve current METAR, TAF, radar, and satellite imagery for weather analysis
-- [ ] **Assess pilot briefing requirements** - Evaluate weather briefing and flight planning needs including route, aircraft type, and operations
-- [ ] **Analyze current weather conditions** - Review current conditions along proposed route including departure, destination, and alternate airports
-- [ ] **Review weather forecasts** - Examine forecasts and trends for flight time period including potential developments and timing
+- **Access weather information systems** - Retrieve current METAR, TAF, radar, and satellite imagery for weather analysis
+- **Assess pilot briefing requirements** - Evaluate weather briefing and flight planning needs including route, aircraft type, and operations
+- **Analyze current weather conditions** - Review current conditions along proposed route including departure, destination, and alternate airports
+- **Review weather forecasts** - Examine forecasts and trends for flight time period including potential developments and timing
 
 ### Route Analysis Phase
 
-- [ ] **Assess route weather conditions** - Evaluate weather along proposed flight route including enroute conditions, altitude considerations, and alternates
-- [ ] **Review NOTAMs and TFRs** - Check current NOTAMs and temporary flight restrictions affecting proposed route and destination airports
-- [ ] **Identify weather hazards** - Locate turbulence, icing, thunderstorms, and low visibility conditions affecting flight safety
-- [ ] **Analyze alternative routes** - Review alternative routes and timing options to avoid adverse weather while maintaining efficiency
+- **Assess route weather conditions** - Evaluate weather along proposed flight route including enroute conditions, altitude considerations, and alternates
+- **Review NOTAMs and TFRs** - Check current NOTAMs and temporary flight restrictions affecting proposed route and destination airports
+- **Identify weather hazards** - Locate turbulence, icing, thunderstorms, and low visibility conditions affecting flight safety
+- **Analyze alternative routes** - Review alternative routes and timing options to avoid adverse weather while maintaining efficiency
 
 ### Briefing and Documentation Phase
 
-- [ ] **Verify regulatory compliance** - Confirm flight planning compliance with regulations including alternate requirements and fuel planning
-- [ ] **Document briefing information** - Record weather briefing information and provide written summary for pilot reference and compliance
-- [ ] **Assist with flight plan filing** - Help with flight plan filing and coordinate with Flight Service Station for regulatory compliance
-- [ ] **Provide departure weather update** - Share updated weather information prior to departure including any forecast changes
+- **Verify regulatory compliance** - Confirm flight planning compliance with regulations including alternate requirements and fuel planning
+- **Document briefing information** - Record weather briefing information and provide written summary for pilot reference and compliance
+- **Assist with flight plan filing** - Help with flight plan filing and coordinate with Flight Service Station for regulatory compliance
+- **Provide departure weather update** - Share updated weather information prior to departure including any forecast changes
 
 ### Monitoring and Support Phase
 
-- [ ] **Monitor enroute weather** - Track weather developments during flight and coordinate with pilot for updates as requested
-- [ ] **Provide weather decision support** - Offer go/no-go recommendations based on comprehensive weather analysis
-- [ ] **Conduct post-flight analysis** - Review post-flight weather analysis for operational learning and service improvement
-- [ ] **Update briefing procedures** - Incorporate lessons learned and feedback into weather briefing service procedures
+- **Monitor enroute weather** - Track weather developments during flight and coordinate with pilot for updates as requested
+- **Provide weather decision support** - Offer go/no-go recommendations based on comprehensive weather analysis
+- **Conduct post-flight analysis** - Review post-flight weather analysis for operational learning and service improvement
+- **Update briefing procedures** - Incorporate lessons learned and feedback into weather briefing service procedures
 
 ## Process Mapping
 

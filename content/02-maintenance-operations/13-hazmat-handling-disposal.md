@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Hazardous Materials Identification and Inventory
 
-- [ ] **Maintain hazardous materials inventory** - Track all hazardous materials in use with Safety Data Sheets (SDS) and proper identification systems
-- [ ] **Review material safety information** - Ensure current SDS are available and accessible for all hazardous materials used in maintenance operations
-- [ ] **Classify materials properly** - Identify hazard classifications, storage requirements, and disposal procedures for each hazardous material
-- [ ] **Monitor inventory levels** - Track usage patterns and maintain appropriate stock levels while minimizing hazardous materials inventory
+- **Maintain hazardous materials inventory** - Track all hazardous materials in use with Safety Data Sheets (SDS) and proper identification systems
+- **Review material safety information** - Ensure current SDS are available and accessible for all hazardous materials used in maintenance operations
+- **Classify materials properly** - Identify hazard classifications, storage requirements, and disposal procedures for each hazardous material
+- **Monitor inventory levels** - Track usage patterns and maintain appropriate stock levels while minimizing hazardous materials inventory
 
 ### Safe Handling and Storage Procedures
 
-- [ ] **Implement proper storage methods** - Store hazardous materials in approved containers with proper ventilation, temperature control, and security measures
-- [ ] **Use appropriate personal protective equipment** - Provide and require use of proper PPE including respirators, gloves, and protective clothing
-- [ ] **Maintain spill response capabilities** - Keep spill cleanup materials readily available and ensure team members are trained in spill response procedures
-- [ ] **Control access to hazardous materials** - Limit access to qualified personnel and maintain secure storage areas with proper signage
+- **Implement proper storage methods** - Store hazardous materials in approved containers with proper ventilation, temperature control, and security measures
+- **Use appropriate personal protective equipment** - Provide and require use of proper PPE including respirators, gloves, and protective clothing
+- **Maintain spill response capabilities** - Keep spill cleanup materials readily available and ensure team members are trained in spill response procedures
+- **Control access to hazardous materials** - Limit access to qualified personnel and maintain secure storage areas with proper signage
 
 ### Waste Generation and Segregation
 
-- [ ] **Segregate waste materials** - Separate different types of hazardous waste according to compatibility and disposal requirements
-- [ ] **Use proper waste containers** - Store hazardous waste in appropriate containers with proper labeling and documentation
-- [ ] **Document waste generation** - Maintain records of hazardous waste quantities, types, and generation dates for regulatory compliance
-- [ ] **Monitor accumulation limits** - Ensure hazardous waste storage does not exceed regulatory time and quantity limits
+- **Segregate waste materials** - Separate different types of hazardous waste according to compatibility and disposal requirements
+- **Use proper waste containers** - Store hazardous waste in appropriate containers with proper labeling and documentation
+- **Document waste generation** - Maintain records of hazardous waste quantities, types, and generation dates for regulatory compliance
+- **Monitor accumulation limits** - Ensure hazardous waste storage does not exceed regulatory time and quantity limits
 
 ### Disposal Coordination and Documentation
 
-- [ ] **Coordinate waste disposal services** - Schedule regular hazardous waste pickup with licensed disposal contractors
-- [ ] **Prepare shipping documentation** - Complete required manifests, labels, and shipping papers for hazardous waste transportation
-- [ ] **Verify disposal contractor credentials** - Ensure disposal contractors maintain proper licenses and certifications for waste handling
-- [ ] **Maintain disposal records** - Keep complete documentation of all hazardous waste disposal activities for regulatory compliance
+- **Coordinate waste disposal services** - Schedule regular hazardous waste pickup with licensed disposal contractors
+- **Prepare shipping documentation** - Complete required manifests, labels, and shipping papers for hazardous waste transportation
+- **Verify disposal contractor credentials** - Ensure disposal contractors maintain proper licenses and certifications for waste handling
+- **Maintain disposal records** - Keep complete documentation of all hazardous waste disposal activities for regulatory compliance
 
 ### Emergency Response and Incident Management
 
-- [ ] **Implement emergency response procedures** - Maintain emergency response plans for hazardous materials spills, exposures, and incidents
-- [ ] **Provide emergency equipment** - Keep appropriate emergency response equipment including eyewash stations, safety showers, and spill cleanup materials
-- [ ] **Train team members in emergency procedures** - Ensure all personnel know proper emergency response actions and notification requirements
-- [ ] **Report incidents promptly** - Notify appropriate authorities and management of hazardous materials incidents according to regulatory requirements
+- **Implement emergency response procedures** - Maintain emergency response plans for hazardous materials spills, exposures, and incidents
+- **Provide emergency equipment** - Keep appropriate emergency response equipment including eyewash stations, safety showers, and spill cleanup materials
+- **Train team members in emergency procedures** - Ensure all personnel know proper emergency response actions and notification requirements
+- **Report incidents promptly** - Notify appropriate authorities and management of hazardous materials incidents according to regulatory requirements
 
 ## Process Mapping
 

@@ -44,31 +44,31 @@ Monitor aircraft systems during ground operations and coordinate with pilots for
 
 ### Pre-Marshalling Phase
 
-- [ ] **Assess ramp conditions** - Verify parking space availability and confirm aircraft specifications for appropriate assignment
-- [ ] **Position safety equipment** - Place marshalling equipment, safety cones, and fire extinguisher with clear escape routes
-- [ ] **Establish communications** - Set up radio contact with pilot and ground control while positioning for optimal visual contact
-- [ ] **Initiate aircraft contact** - Signal aircraft using standard marshalling wands and establish visual communication with pilot
+- **Assess ramp conditions** - Verify parking space availability and confirm aircraft specifications for appropriate assignment
+- **Position safety equipment** - Place marshalling equipment, safety cones, and fire extinguisher with clear escape routes
+- **Establish communications** - Set up radio contact with pilot and ground control while positioning for optimal visual contact
+- **Initiate aircraft contact** - Signal aircraft using standard marshalling wands and establish visual communication with pilot
 
 ### Aircraft Guidance Phase
 
-- [ ] **Coordinate taxi guidance** - Provide clear directional signals for aircraft taxi path while monitoring for obstacles and traffic
-- [ ] **Guide to parking position** - Direct aircraft using precise hand signals while maintaining safe distances from obstacles
-- [ ] **Provide fine positioning signals** - Make final adjustments for optimal aircraft positioning within designated boundaries
-- [ ] **Coordinate engine shutdown** - Signal pilot for shutdown when aircraft is properly positioned and safety requirements are met
+- **Coordinate taxi guidance** - Provide clear directional signals for aircraft taxi path while monitoring for obstacles and traffic
+- **Guide to parking position** - Direct aircraft using precise hand signals while maintaining safe distances from obstacles
+- **Provide fine positioning signals** - Make final adjustments for optimal aircraft positioning within designated boundaries
+- **Coordinate engine shutdown** - Signal pilot for shutdown when aircraft is properly positioned and safety requirements are met
 
 ### Aircraft Securing Phase
 
-- [ ] **Install wheel chocks** - Place chocks immediately after engine shutdown using proper techniques and verify secure placement
-- [ ] **Establish safety area** - Position safety cones and establish clear boundaries around parked aircraft for ground operations
-- [ ] **Install tie-down equipment** - Secure aircraft tie-downs when required for weather protection or extended parking
-- [ ] **Connect ground power** - Attach ground power unit if requested and verify proper electrical connection and operation
+- **Install wheel chocks** - Place chocks immediately after engine shutdown using proper techniques and verify secure placement
+- **Establish safety area** - Position safety cones and establish clear boundaries around parked aircraft for ground operations
+- **Install tie-down equipment** - Secure aircraft tie-downs when required for weather protection or extended parking
+- **Connect ground power** - Attach ground power unit if requested and verify proper electrical connection and operation
 
 ### Completion Phase
 
-- [ ] **Conduct final safety inspection** - Review aircraft parking setup including chocks, tie-downs, and safety equipment positioning
-- [ ] **Complete parking documentation** - Record aircraft location, time, and any special requirements or observations
-- [ ] **Clear marshalling area** - Remove marshalling equipment and ensure area is safe for ongoing ramp operations
-- [ ] **Coordinate handoff** - Transfer aircraft to appropriate service personnel and communicate any special requirements
+- **Conduct final safety inspection** - Review aircraft parking setup including chocks, tie-downs, and safety equipment positioning
+- **Complete parking documentation** - Record aircraft location, time, and any special requirements or observations
+- **Clear marshalling area** - Remove marshalling equipment and ensure area is safe for ongoing ramp operations
+- **Coordinate handoff** - Transfer aircraft to appropriate service personnel and communicate any special requirements
 
 ## Process Mapping
 

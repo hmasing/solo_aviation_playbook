@@ -44,31 +44,31 @@ Monitor service delivery and coordinate with billing team to resolve any service
 
 ### Service Documentation Phase
 
-- [ ] **Collect service documentation** - Gather documentation of all services including fuel, handling, facilities, and ancillary services
-- [ ] **Verify service accuracy** - Confirm service quantities and pricing accuracy while validating client authorization for all billable services
-- [ ] **Review client account information** - Check billing preferences, credit terms, and special pricing arrangements
-- [ ] **Generate invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
+- **Collect service documentation** - Gather documentation of all services including fuel, handling, facilities, and ancillary services
+- **Verify service accuracy** - Confirm service quantities and pricing accuracy while validating client authorization for all billable services
+- **Review client account information** - Check billing preferences, credit terms, and special pricing arrangements
+- **Generate invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
 
 ### Invoice Processing Phase
 
-- [ ] **Review invoice accuracy** - Conduct review of service descriptions, quantities, and pricing calculations
-- [ ] **Deliver invoice to client** - Send invoice using preferred method and provide explanation of charges and payment terms
-- [ ] **Coordinate payment method** - Process payment using client preferred method including credit cards, checks, or account billing
-- [ ] **Process payment transaction** - Handle payments accurately and update client account records with payment information
+- **Review invoice accuracy** - Conduct review of service descriptions, quantities, and pricing calculations
+- **Deliver invoice to client** - Send invoice using preferred method and provide explanation of charges and payment terms
+- **Coordinate payment method** - Process payment using client preferred method including credit cards, checks, or account billing
+- **Process payment transaction** - Handle payments accurately and update client account records with payment information
 
 ### Account Management Phase
 
-- [ ] **Reconcile account balances** - Balance client accounts and coordinate with finance team for accurate financial record maintenance
-- [ ] **Monitor past due accounts** - Track overdue accounts and coordinate collection activities while maintaining professional relationships
-- [ ] **Resolve billing inquiries** - Address client billing questions promptly and coordinate with operations team for documentation resolution
-- [ ] **Process credit applications** - Handle credit applications for established clients and coordinate terms with finance management
+- **Reconcile account balances** - Balance client accounts and coordinate with finance team for accurate financial record maintenance
+- **Monitor past due accounts** - Track overdue accounts and coordinate collection activities while maintaining professional relationships
+- **Resolve billing inquiries** - Address client billing questions promptly and coordinate with operations team for documentation resolution
+- **Process credit applications** - Handle credit applications for established clients and coordinate terms with finance management
 
 ### Reporting and Maintenance Phase
 
-- [ ] **Generate financial reports** - Create billing reports for management review including revenue analysis and client payment performance
-- [ ] **Maintain billing systems** - Keep billing system accurate and coordinate with IT team for system improvements and updates
-- [ ] **Document audit trail** - Maintain detailed audit trail documentation for all billing transactions and coordinate with auditors
-- [ ] **Update procedures** - Review and update billing procedures based on operational experience and regulatory requirements
+- **Generate financial reports** - Create billing reports for management review including revenue analysis and client payment performance
+- **Maintain billing systems** - Keep billing system accurate and coordinate with IT team for system improvements and updates
+- **Document audit trail** - Maintain detailed audit trail documentation for all billing transactions and coordinate with auditors
+- **Update procedures** - Review and update billing procedures based on operational experience and regulatory requirements
 
 ## Process Mapping
 

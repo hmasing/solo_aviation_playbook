@@ -44,31 +44,31 @@ Monitor vendor performance and coordinate alternative service arrangements when 
 
 ### Service Request Phase
 
-- [ ] **Assess service requirements** - Evaluate client catering and in-flight service needs including passenger count, dietary restrictions, and preferences
-- [ ] **Present service options** - Show available catering options and specialized services with pricing and timing based on requirements
-- [ ] **Select vendor and coordinate** - Choose appropriate catering vendor and coordinate order processing with confirmed delivery timing
-- [ ] **Document special requirements** - Record dietary requirements, allergies, and service preferences while coordinating with vendor for preparation
+- **Assess service requirements** - Evaluate client catering and in-flight service needs including passenger count, dietary restrictions, and preferences
+- **Present service options** - Show available catering options and specialized services with pricing and timing based on requirements
+- **Select vendor and coordinate** - Choose appropriate catering vendor and coordinate order processing with confirmed delivery timing
+- **Document special requirements** - Record dietary requirements, allergies, and service preferences while coordinating with vendor for preparation
 
 ### Order Processing Phase
 
-- [ ] **Process catering order** - Handle order with detailed specifications and confirm delivery timing with vendor and client coordination
-- [ ] **Communicate quality standards** - Relay quality standards and service expectations to vendor while establishing delivery requirements
-- [ ] **Coordinate delivery timing** - Align catering delivery timing with flight schedules and communicate changes to vendor and client
-- [ ] **Coordinate aircraft service** - Work with ramp team for aircraft catering service including equipment positioning and timing
+- **Process catering order** - Handle order with detailed specifications and confirm delivery timing with vendor and client coordination
+- **Communicate quality standards** - Relay quality standards and service expectations to vendor while establishing delivery requirements
+- **Coordinate delivery timing** - Align catering delivery timing with flight schedules and communicate changes to vendor and client
+- **Coordinate aircraft service** - Work with ramp team for aircraft catering service including equipment positioning and timing
 
 ### Quality Control Phase
 
-- [ ] **Inspect catering delivery** - Check delivery for quality, completeness, and presentation standards before aircraft service
-- [ ] **Document service delivery** - Record catering service delivery and maintain records for billing and quality assurance purposes
-- [ ] **Communicate with client** - Inform client of catering service completion and address any immediate concerns or feedback
-- [ ] **Coordinate billing** - Manage billing between catering vendor and client while ensuring accurate service documentation
+- **Inspect catering delivery** - Check delivery for quality, completeness, and presentation standards before aircraft service
+- **Document service delivery** - Record catering service delivery and maintain records for billing and quality assurance purposes
+- **Communicate with client** - Inform client of catering service completion and address any immediate concerns or feedback
+- **Coordinate billing** - Manage billing between catering vendor and client while ensuring accurate service documentation
 
 ### Follow-Up and Improvement Phase
 
-- [ ] **Conduct quality follow-up** - Follow up with client regarding catering service quality and gather feedback for improvement
-- [ ] **Evaluate vendor performance** - Assess vendor performance and document service quality for future selection and relationship management
-- [ ] **Analyze service delivery** - Review catering service delivery and coordinate improvements based on client feedback and efficiency
-- [ ] **Update service procedures** - Incorporate feedback and best practices into catering coordination procedures
+- **Conduct quality follow-up** - Follow up with client regarding catering service quality and gather feedback for improvement
+- **Evaluate vendor performance** - Assess vendor performance and document service quality for future selection and relationship management
+- **Analyze service delivery** - Review catering service delivery and coordinate improvements based on client feedback and efficiency
+- **Update service procedures** - Incorporate feedback and best practices into catering coordination procedures
 
 ## Process Mapping
 

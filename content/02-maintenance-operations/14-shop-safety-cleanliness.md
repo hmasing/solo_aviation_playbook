@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Daily Safety and Cleanliness Inspection
 
-- [ ] **Conduct facility walkthrough** - Perform systematic inspection of all work areas for safety hazards, cleanliness issues, and equipment condition
-- [ ] **Check emergency equipment** - Verify fire extinguishers, emergency exits, first aid supplies, and safety equipment are accessible and functional
-- [ ] **Inspect work areas** - Examine workbenches, tool storage, and equipment areas for organization, cleanliness, and safety compliance
-- [ ] **Document inspection findings** - Record any safety concerns or cleanliness issues requiring corrective action with priority assignments
+- **Conduct facility walkthrough** - Perform systematic inspection of all work areas for safety hazards, cleanliness issues, and equipment condition
+- **Check emergency equipment** - Verify fire extinguishers, emergency exits, first aid supplies, and safety equipment are accessible and functional
+- **Inspect work areas** - Examine workbenches, tool storage, and equipment areas for organization, cleanliness, and safety compliance
+- **Document inspection findings** - Record any safety concerns or cleanliness issues requiring corrective action with priority assignments
 
 ### Workplace Organization and Maintenance
 
-- [ ] **Implement 5S methodology** - Apply Sort, Set in Order, Shine, Standardize, and Sustain principles for workplace organization and efficiency
-- [ ] **Maintain tool and equipment organization** - Keep all tools and equipment in designated locations with proper identification and inventory control
-- [ ] **Control work area clutter** - Remove unnecessary items from work areas and maintain clear pathways and emergency exits
-- [ ] **Schedule regular cleaning activities** - Coordinate daily cleaning tasks and periodic deep cleaning of facilities and equipment
+- **Implement 5S methodology** - Apply Sort, Set in Order, Shine, Standardize, and Sustain principles for workplace organization and efficiency
+- **Maintain tool and equipment organization** - Keep all tools and equipment in designated locations with proper identification and inventory control
+- **Control work area clutter** - Remove unnecessary items from work areas and maintain clear pathways and emergency exits
+- **Schedule regular cleaning activities** - Coordinate daily cleaning tasks and periodic deep cleaning of facilities and equipment
 
 ### Personal Protective Equipment Management
 
-- [ ] **Maintain PPE inventory** - Keep adequate supplies of safety glasses, hearing protection, gloves, and other required personal protective equipment
-- [ ] **Inspect PPE condition** - Regularly examine personal protective equipment for damage, wear, or expiration requiring replacement
-- [ ] **Train team members on PPE use** - Provide instruction on proper selection, use, and maintenance of personal protective equipment
-- [ ] **Enforce PPE requirements** - Ensure compliance with personal protective equipment requirements for all maintenance activities
+- **Maintain PPE inventory** - Keep adequate supplies of safety glasses, hearing protection, gloves, and other required personal protective equipment
+- **Inspect PPE condition** - Regularly examine personal protective equipment for damage, wear, or expiration requiring replacement
+- **Train team members on PPE use** - Provide instruction on proper selection, use, and maintenance of personal protective equipment
+- **Enforce PPE requirements** - Ensure compliance with personal protective equipment requirements for all maintenance activities
 
 ### Hazard Identification and Control
 
-- [ ] **Identify potential hazards** - Systematically assess work areas for safety hazards including electrical, mechanical, chemical, and ergonomic risks
-- [ ] **Implement hazard controls** - Apply engineering controls, administrative procedures, and personal protective equipment to eliminate or minimize hazards
-- [ ] **Maintain safety signage** - Keep current safety signs, warnings, and emergency information posted in appropriate locations
-- [ ] **Monitor hazard control effectiveness** - Regularly assess hazard control measures and implement improvements when needed
+- **Identify potential hazards** - Systematically assess work areas for safety hazards including electrical, mechanical, chemical, and ergonomic risks
+- **Implement hazard controls** - Apply engineering controls, administrative procedures, and personal protective equipment to eliminate or minimize hazards
+- **Maintain safety signage** - Keep current safety signs, warnings, and emergency information posted in appropriate locations
+- **Monitor hazard control effectiveness** - Regularly assess hazard control measures and implement improvements when needed
 
 ### Incident Response and Investigation
 
-- [ ] **Respond to safety incidents** - Provide immediate response to accidents, injuries, and safety emergencies with appropriate first aid and emergency procedures
-- [ ] **Investigate incident causes** - Conduct systematic investigation of safety incidents to identify root causes and prevent recurrence
-- [ ] **Document incident information** - Complete required incident reports and maintain records for regulatory compliance and trend analysis
-- [ ] **Implement corrective actions** - Develop and implement corrective measures to address incident causes and prevent similar occurrences
+- **Respond to safety incidents** - Provide immediate response to accidents, injuries, and safety emergencies with appropriate first aid and emergency procedures
+- **Investigate incident causes** - Conduct systematic investigation of safety incidents to identify root causes and prevent recurrence
+- **Document incident information** - Complete required incident reports and maintain records for regulatory compliance and trend analysis
+- **Implement corrective actions** - Develop and implement corrective measures to address incident causes and prevent similar occurrences
 
 ## Process Mapping
 

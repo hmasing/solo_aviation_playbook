@@ -44,31 +44,31 @@ Analyze incident causes and coordinate corrective actions to prevent future occu
 
 ### Immediate Response Phase
 
-- [ ] **Recognize emergency situation** - Identify emergency situations and implement immediate response actions while ensuring team member and client safety
-- [ ] **Notify emergency services** - Contact appropriate emergency services including fire, medical, and law enforcement with accurate situation information
-- [ ] **Implement immediate safety actions** - Execute evacuation procedures, area isolation, and hazard mitigation as required
-- [ ] **Activate emergency response team** - Mobilize emergency response team and coordinate response activities while maintaining emergency service communication
+- **Recognize emergency situation** - Identify emergency situations and implement immediate response actions while ensuring team member and client safety
+- **Notify emergency services** - Contact appropriate emergency services including fire, medical, and law enforcement with accurate situation information
+- **Implement immediate safety actions** - Execute evacuation procedures, area isolation, and hazard mitigation as required
+- **Activate emergency response team** - Mobilize emergency response team and coordinate response activities while maintaining emergency service communication
 
 ### Assessment and Coordination Phase
 
-- [ ] **Assess situation and communicate** - Evaluate emergency situation severity and communicate with management, authorities, and affected parties
-- [ ] **Coordinate response resources** - Manage emergency response resources including equipment, personnel, and external services for effective incident management
-- [ ] **Assess operational impact** - Evaluate operational impact and implement continuity measures while maintaining essential services and safety standards
-- [ ] **Document incident details** - Record incident details including timeline, actions taken, and personnel involved while maintaining accurate records
+- **Assess situation and communicate** - Evaluate emergency situation severity and communicate with management, authorities, and affected parties
+- **Coordinate response resources** - Manage emergency response resources including equipment, personnel, and external services for effective incident management
+- **Assess operational impact** - Evaluate operational impact and implement continuity measures while maintaining essential services and safety standards
+- **Document incident details** - Record incident details including timeline, actions taken, and personnel involved while maintaining accurate records
 
 ### Notification and Communication Phase
 
-- [ ] **Notify regulatory authorities** - Contact appropriate regulatory authorities and coordinate compliance reporting requirements within established timeframes
-- [ ] **Communicate with affected clients** - Inform affected clients regarding incident impact and coordinate alternative service arrangements as required
-- [ ] **Coordinate media communication** - Manage media communication through appropriate channels while maintaining accurate information and company representation
-- [ ] **Initiate incident investigation** - Begin comprehensive incident investigation and coordinate with authorities and internal teams for thorough analysis
+- **Notify regulatory authorities** - Contact appropriate regulatory authorities and coordinate compliance reporting requirements within established timeframes
+- **Communicate with affected clients** - Inform affected clients regarding incident impact and coordinate alternative service arrangements as required
+- **Coordinate media communication** - Manage media communication through appropriate channels while maintaining accurate information and company representation
+- **Initiate incident investigation** - Begin comprehensive incident investigation and coordinate with authorities and internal teams for thorough analysis
 
 ### Recovery and Improvement Phase
 
-- [ ] **Implement corrective actions** - Execute corrective actions based on investigation findings and coordinate with team members for procedure improvements
-- [ ] **Conduct follow-up monitoring** - Monitor corrective actions and coordinate with authorities for compliance verification
-- [ ] **Integrate lessons learned** - Incorporate lessons learned into emergency procedures and coordinate training updates for continuous improvement
-- [ ] **Update emergency procedures** - Review and update emergency response procedures based on incident experience and regulatory requirements
+- **Implement corrective actions** - Execute corrective actions based on investigation findings and coordinate with team members for procedure improvements
+- **Conduct follow-up monitoring** - Monitor corrective actions and coordinate with authorities for compliance verification
+- **Integrate lessons learned** - Incorporate lessons learned into emergency procedures and coordinate training updates for continuous improvement
+- **Update emergency procedures** - Review and update emergency response procedures based on incident experience and regulatory requirements
 
 ## Process Mapping
 

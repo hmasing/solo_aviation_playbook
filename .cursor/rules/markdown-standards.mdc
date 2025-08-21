@@ -23,7 +23,7 @@ alwaysApply: false
 ### Checklists and Procedures
 - Use numbered lists for sequential procedures: `1. Step one`
 - Use bullet points for non-sequential items: `- Item`
-- Use checkboxes for verification items: `- [ ] Item to verify`
+- Use checkboxes for verification items: `- Item to verify`
 - Use sub-bullets with consistent indentation: `  - Sub-item`
 
 ### Cross-References

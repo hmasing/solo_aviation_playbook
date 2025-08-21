@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Maintenance Planning and Preparation
 
-- [ ] **Review maintenance program requirements** - Examine manufacturer maintenance manual for specific tasks, intervals, and compliance requirements due at current aircraft hours or calendar time
-- [ ] **Verify parts and materials availability** - Confirm all required components, consumables, and special tools are available before maintenance commencement
-- [ ] **Prepare maintenance workspace** - Set up appropriate hangar space, lighting, tools, and safety equipment for efficient maintenance execution
-- [ ] **Review aircraft maintenance history** - Examine previous maintenance records for recurring issues, modifications, or special considerations affecting current maintenance
+- **Review maintenance program requirements** - Examine manufacturer maintenance manual for specific tasks, intervals, and compliance requirements due at current aircraft hours or calendar time
+- **Verify parts and materials availability** - Confirm all required components, consumables, and special tools are available before maintenance commencement
+- **Prepare maintenance workspace** - Set up appropriate hangar space, lighting, tools, and safety equipment for efficient maintenance execution
+- **Review aircraft maintenance history** - Examine previous maintenance records for recurring issues, modifications, or special considerations affecting current maintenance
 
 ### Engine and Powerplant Maintenance
 
-- [ ] **Perform engine oil and filter change** - Drain engine oil, replace filter, and refill with manufacturer-specified oil type and quantity according to maintenance manual procedures
-- [ ] **Inspect engine accessories and components** - Examine magnetos, carburetor, fuel pumps, and electrical components for wear, security, and proper operation
-- [ ] **Check engine controls and linkages** - Verify proper operation and rigging of throttle, mixture, propeller, and carburetor heat controls within manufacturer specifications
-- [ ] **Test engine operational parameters** - Verify engine performance, temperatures, pressures, and RPM ranges meet manufacturer specifications during ground run
+- **Perform engine oil and filter change** - Drain engine oil, replace filter, and refill with manufacturer-specified oil type and quantity according to maintenance manual procedures
+- **Inspect engine accessories and components** - Examine magnetos, carburetor, fuel pumps, and electrical components for wear, security, and proper operation
+- **Check engine controls and linkages** - Verify proper operation and rigging of throttle, mixture, propeller, and carburetor heat controls within manufacturer specifications
+- **Test engine operational parameters** - Verify engine performance, temperatures, pressures, and RPM ranges meet manufacturer specifications during ground run
 
 ### Airframe and Systems Maintenance
 
-- [ ] **Lubricate airframe components** - Apply appropriate lubricants to landing gear, control surfaces, hinges, and bearings according to manufacturer lubrication schedule
-- [ ] **Inspect and service avionics systems** - Check navigation, communication, and electrical systems for proper operation while cleaning and inspecting connections
-- [ ] **Service hydraulic and pneumatic systems** - Check fluid levels, filter condition, and system operation while replacing consumable items per maintenance schedule
-- [ ] **Examine structural components** - Inspect critical structural areas, attachment points, and high-stress components for cracks, corrosion, or wear
+- **Lubricate airframe components** - Apply appropriate lubricants to landing gear, control surfaces, hinges, and bearings according to manufacturer lubrication schedule
+- **Inspect and service avionics systems** - Check navigation, communication, and electrical systems for proper operation while cleaning and inspecting connections
+- **Service hydraulic and pneumatic systems** - Check fluid levels, filter condition, and system operation while replacing consumable items per maintenance schedule
+- **Examine structural components** - Inspect critical structural areas, attachment points, and high-stress components for cracks, corrosion, or wear
 
 ### Compliance and Documentation Tasks
 
-- [ ] **Complete required inspections** - Perform all inspection items specified in manufacturer maintenance program for current maintenance interval
-- [ ] **Update airworthiness directive compliance** - Review and complete any recurring airworthiness directive requirements due at maintenance interval
-- [ ] **Document all maintenance actions** - Record detailed descriptions of all work performed, parts installed, and findings in aircraft maintenance logbooks
-- [ ] **Prepare maintenance release** - Complete required logbook entries certifying maintenance completion and aircraft return to service authorization
+- **Complete required inspections** - Perform all inspection items specified in manufacturer maintenance program for current maintenance interval
+- **Update airworthiness directive compliance** - Review and complete any recurring airworthiness directive requirements due at maintenance interval
+- **Document all maintenance actions** - Record detailed descriptions of all work performed, parts installed, and findings in aircraft maintenance logbooks
+- **Prepare maintenance release** - Complete required logbook entries certifying maintenance completion and aircraft return to service authorization
 
 ### Quality Control and Testing
 
-- [ ] **Conduct operational system tests** - Verify proper operation of all systems affected by maintenance work through ground testing and functional checks
-- [ ] **Perform final inspection** - Complete systematic review of all maintenance work to ensure compliance with specifications and quality standards
-- [ ] **Update maintenance tracking records** - Enter completed maintenance items and next due dates in aircraft maintenance tracking system
-- [ ] **Coordinate aircraft delivery** - Schedule aircraft return with client and provide summary of completed maintenance and any recommended future actions
+- **Conduct operational system tests** - Verify proper operation of all systems affected by maintenance work through ground testing and functional checks
+- **Perform final inspection** - Complete systematic review of all maintenance work to ensure compliance with specifications and quality standards
+- **Update maintenance tracking records** - Enter completed maintenance items and next due dates in aircraft maintenance tracking system
+- **Coordinate aircraft delivery** - Schedule aircraft return with client and provide summary of completed maintenance and any recommended future actions
 
 ## Process Mapping
 

@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Parts Procurement Planning Phase
 
-- [ ] **Identify parts requirements** - Review work orders and maintenance schedules to determine parts needs and quantities
-- [ ] **Research approved sources** - Identify authorized dealers, manufacturers, and approved suppliers for required parts
-- [ ] **Verify parts specifications** - Confirm part numbers, specifications, and compatibility with aircraft and systems
-- [ ] **Obtain pricing and availability** - Request quotes and delivery schedules from multiple approved suppliers
+- **Identify parts requirements** - Review work orders and maintenance schedules to determine parts needs and quantities
+- **Research approved sources** - Identify authorized dealers, manufacturers, and approved suppliers for required parts
+- **Verify parts specifications** - Confirm part numbers, specifications, and compatibility with aircraft and systems
+- **Obtain pricing and availability** - Request quotes and delivery schedules from multiple approved suppliers
 
 ### Parts Ordering and Receiving Phase
 
-- [ ] **Generate purchase orders** - Create formal purchase orders with complete part specifications and delivery requirements
-- [ ] **Track order status** - Monitor order progress and coordinate with suppliers for delivery updates
-- [ ] **Receive and inspect parts** - Conduct incoming inspection for damage, completeness, and compliance with order specifications
-- [ ] **Verify documentation** - Review certificates of conformance, traceability documents, and quality certifications
+- **Generate purchase orders** - Create formal purchase orders with complete part specifications and delivery requirements
+- **Track order status** - Monitor order progress and coordinate with suppliers for delivery updates
+- **Receive and inspect parts** - Conduct incoming inspection for damage, completeness, and compliance with order specifications
+- **Verify documentation** - Review certificates of conformance, traceability documents, and quality certifications
 
 ### Parts Storage and Inventory Management Phase
 
-- [ ] **Assign storage locations** - Store parts in appropriate locations considering environmental requirements and shelf life
-- [ ] **Update inventory records** - Enter parts into inventory management system with complete identification and location data
-- [ ] **Implement storage controls** - Maintain proper environmental conditions including temperature, humidity, and ESD protection
-- [ ] **Conduct periodic audits** - Perform regular inventory counts and reconciliation to maintain accuracy
+- **Assign storage locations** - Store parts in appropriate locations considering environmental requirements and shelf life
+- **Update inventory records** - Enter parts into inventory management system with complete identification and location data
+- **Implement storage controls** - Maintain proper environmental conditions including temperature, humidity, and ESD protection
+- **Conduct periodic audits** - Perform regular inventory counts and reconciliation to maintain accuracy
 
 ### Parts Issue and Tracking Phase
 
-- [ ] **Process parts requisitions** - Review and approve parts requests for specific work orders and maintenance activities
-- [ ] **Issue parts to technicians** - Provide required parts with proper documentation and traceability records
-- [ ] **Track parts usage** - Record parts consumption and installation locations in maintenance tracking system
-- [ ] **Manage surplus and returns** - Process unused parts returns and maintain accurate inventory adjustments
+- **Process parts requisitions** - Review and approve parts requests for specific work orders and maintenance activities
+- **Issue parts to technicians** - Provide required parts with proper documentation and traceability records
+- **Track parts usage** - Record parts consumption and installation locations in maintenance tracking system
+- **Manage surplus and returns** - Process unused parts returns and maintain accurate inventory adjustments
 
 ## Process Mapping
 

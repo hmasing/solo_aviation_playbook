@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Immediate Response Phase
 
-- [ ] **Ensure safety and security** - Verify all persons are safe and secure the incident scene
-- [ ] **Provide emergency assistance** - Coordinate emergency medical or rescue services if required
-- [ ] **Notify leadership** - Contact Chief Flight Instructor, Safety Officer, and Operations Leader immediately
-- [ ] **Document initial information** - Record basic incident facts, time, location, and persons involved
+- **Ensure safety and security** - Verify all persons are safe and secure the incident scene
+- **Provide emergency assistance** - Coordinate emergency medical or rescue services if required
+- **Notify leadership** - Contact Chief Flight Instructor, Safety Officer, and Operations Leader immediately
+- **Document initial information** - Record basic incident facts, time, location, and persons involved
 
 ### Incident Reporting Phase
 
-- [ ] **Complete incident report** - Document detailed incident information using standardized reporting forms
-- [ ] **Notify regulatory authorities** - Report to FAA, NTSB, or other agencies as required by regulations
-- [ ] **Contact insurance providers** - Notify insurance companies and coordinate claims processing
-- [ ] **Preserve evidence** - Secure aircraft, documentation, and other physical evidence
+- **Complete incident report** - Document detailed incident information using standardized reporting forms
+- **Notify regulatory authorities** - Report to FAA, NTSB, or other agencies as required by regulations
+- **Contact insurance providers** - Notify insurance companies and coordinate claims processing
+- **Preserve evidence** - Secure aircraft, documentation, and other physical evidence
 
 ### Investigation Phase
 
-- [ ] **Conduct incident investigation** - Analyze incident causes and contributing factors systematically
-- [ ] **Interview involved parties** - Gather statements from witnesses, instructors, and students
-- [ ] **Review documentation** - Examine training records, maintenance logs, and operational procedures
-- [ ] **Analyze contributing factors** - Identify systemic issues, training gaps, or procedural deficiencies
+- **Conduct incident investigation** - Analyze incident causes and contributing factors systematically
+- **Interview involved parties** - Gather statements from witnesses, instructors, and students
+- **Review documentation** - Examine training records, maintenance logs, and operational procedures
+- **Analyze contributing factors** - Identify systemic issues, training gaps, or procedural deficiencies
 
 ### Corrective Action Phase
 
-- [ ] **Develop corrective actions** - Create specific action plans to prevent similar incidents
-- [ ] **Implement safety improvements** - Modify procedures, training, or equipment as needed
-- [ ] **Monitor effectiveness** - Track implementation progress and measure safety improvement outcomes
-- [ ] **Communicate lessons learned** - Share safety insights with all flight school team members
+- **Develop corrective actions** - Create specific action plans to prevent similar incidents
+- **Implement safety improvements** - Modify procedures, training, or equipment as needed
+- **Monitor effectiveness** - Track implementation progress and measure safety improvement outcomes
+- **Communicate lessons learned** - Share safety insights with all flight school team members
 
 ## Process Mapping
 

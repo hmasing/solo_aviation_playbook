@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Inventory Management and Control
 
-- [ ] **Monitor stock levels** - Review daily inventory reports and identify parts approaching minimum stock levels or requiring reorder
-- [ ] **Conduct periodic inventory audits** - Perform monthly physical counts of high-value items and quarterly complete inventory verification
-- [ ] **Track parts usage patterns** - Analyze consumption data to optimize stock levels and identify seasonal or aircraft-specific requirements
-- [ ] **Maintain inventory accuracy** - Update inventory records immediately upon parts receipt, issue, and return to ensure accurate stock information
+- **Monitor stock levels** - Review daily inventory reports and identify parts approaching minimum stock levels or requiring reorder
+- **Conduct periodic inventory audits** - Perform monthly physical counts of high-value items and quarterly complete inventory verification
+- **Track parts usage patterns** - Analyze consumption data to optimize stock levels and identify seasonal or aircraft-specific requirements
+- **Maintain inventory accuracy** - Update inventory records immediately upon parts receipt, issue, and return to ensure accurate stock information
 
 ### Parts Procurement and Ordering
 
-- [ ] **Review parts requests** - Verify parts specifications, quantities, and installation requirements against maintenance work orders and technical documentation
-- [ ] **Source approved suppliers** - Select vendors from approved supplier list based on parts availability, pricing, and delivery requirements
-- [ ] **Prepare purchase orders** - Generate detailed purchase orders including part numbers, quantities, delivery requirements, and quality specifications
-- [ ] **Track order status** - Monitor order progress and coordinate with vendors to ensure on-time delivery for scheduled maintenance activities
+- **Review parts requests** - Verify parts specifications, quantities, and installation requirements against maintenance work orders and technical documentation
+- **Source approved suppliers** - Select vendors from approved supplier list based on parts availability, pricing, and delivery requirements
+- **Prepare purchase orders** - Generate detailed purchase orders including part numbers, quantities, delivery requirements, and quality specifications
+- **Track order status** - Monitor order progress and coordinate with vendors to ensure on-time delivery for scheduled maintenance activities
 
 ### Quality Control and Receiving
 
-- [ ] **Inspect incoming parts** - Examine all received parts for damage, proper packaging, and compliance with order specifications
-- [ ] **Verify airworthiness documentation** - Review certificates of conformity, airworthiness tags, and traceability documentation for regulatory compliance
-- [ ] **Update inventory records** - Enter received parts into inventory system with location, cost, and documentation information
-- [ ] **Process discrepancies** - Handle damaged, incorrect, or improperly documented parts through vendor return and replacement procedures
+- **Inspect incoming parts** - Examine all received parts for damage, proper packaging, and compliance with order specifications
+- **Verify airworthiness documentation** - Review certificates of conformity, airworthiness tags, and traceability documentation for regulatory compliance
+- **Update inventory records** - Enter received parts into inventory system with location, cost, and documentation information
+- **Process discrepancies** - Handle damaged, incorrect, or improperly documented parts through vendor return and replacement procedures
 
 ### Parts Storage and Preservation
 
-- [ ] **Store parts properly** - Place parts in appropriate storage locations with proper environmental controls and protection from damage
-- [ ] **Maintain shelf life tracking** - Monitor time-limited parts and consumables to ensure use before expiration dates
-- [ ] **Implement security measures** - Secure high-value and controlled parts in locked storage with access control and tracking
-- [ ] **Preserve parts condition** - Apply appropriate preservation methods for long-term storage and protect against corrosion and deterioration
+- **Store parts properly** - Place parts in appropriate storage locations with proper environmental controls and protection from damage
+- **Maintain shelf life tracking** - Monitor time-limited parts and consumables to ensure use before expiration dates
+- **Implement security measures** - Secure high-value and controlled parts in locked storage with access control and tracking
+- **Preserve parts condition** - Apply appropriate preservation methods for long-term storage and protect against corrosion and deterioration
 
 ### Issue and Documentation Control
 
-- [ ] **Process parts requisitions** - Issue parts to technicians with proper documentation and work order authorization
-- [ ] **Maintain traceability records** - Document parts installation history and maintain records for warranty and regulatory requirements
-- [ ] **Handle returns and exchanges** - Process unused parts returns and coordinate warranty exchanges with suppliers
-- [ ] **Update cost tracking** - Allocate parts costs to appropriate work orders and maintain accurate job costing information
+- **Process parts requisitions** - Issue parts to technicians with proper documentation and work order authorization
+- **Maintain traceability records** - Document parts installation history and maintain records for warranty and regulatory requirements
+- **Handle returns and exchanges** - Process unused parts returns and coordinate warranty exchanges with suppliers
+- **Update cost tracking** - Allocate parts costs to appropriate work orders and maintain accurate job costing information
 
 ## Process Mapping
 

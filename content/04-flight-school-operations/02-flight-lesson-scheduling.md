@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Daily Scheduling Review Phase
 
-- [ ] **Review weather forecast** - Assess current and forecast weather conditions for planned flight training activities
-- [ ] **Verify aircraft status** - Confirm aircraft availability and airworthiness for all scheduled lessons
-- [ ] **Check instructor availability** - Verify instructor schedules and resolve any conflicts or changes
-- [ ] **Assess facility capacity** - Review ground school, briefing room, and aircraft parking availability
+- **Review weather forecast** - Assess current and forecast weather conditions for planned flight training activities
+- **Verify aircraft status** - Confirm aircraft availability and airworthiness for all scheduled lessons
+- **Check instructor availability** - Verify instructor schedules and resolve any conflicts or changes
+- **Assess facility capacity** - Review ground school, briefing room, and aircraft parking availability
 
 ### Student Scheduling Coordination Phase
 
-- [ ] **Process scheduling requests** - Review student lesson requests and coordinate with instructor availability
-- [ ] **Assign aircraft and instructor** - Match appropriate aircraft type with qualified instructor for each lesson
-- [ ] **Confirm lesson objectives** - Verify training goals and requirements with instructor and student
-- [ ] **Update scheduling system** - Enter confirmed lessons with all relevant details and requirements
+- **Process scheduling requests** - Review student lesson requests and coordinate with instructor availability
+- **Assign aircraft and instructor** - Match appropriate aircraft type with qualified instructor for each lesson
+- **Confirm lesson objectives** - Verify training goals and requirements with instructor and student
+- **Update scheduling system** - Enter confirmed lessons with all relevant details and requirements
 
 ### Pre-Flight Coordination Phase
 
-- [ ] **Conduct weather briefing** - Provide current weather information to instructors and students
-- [ ] **Verify aircraft preparation** - Confirm aircraft pre-flight inspection completion and fuel status
-- [ ] **Coordinate ground support** - Ensure availability of required ground equipment and facilities
-- [ ] **Review lesson plan** - Confirm training objectives and flight route planning with instructor
+- **Conduct weather briefing** - Provide current weather information to instructors and students
+- **Verify aircraft preparation** - Confirm aircraft pre-flight inspection completion and fuel status
+- **Coordinate ground support** - Ensure availability of required ground equipment and facilities
+- **Review lesson plan** - Confirm training objectives and flight route planning with instructor
 
 ### Schedule Management Phase
 
-- [ ] **Monitor real-time changes** - Track lesson progress and adjust subsequent scheduling as needed
-- [ ] **Communicate delays or cancellations** - Notify affected students and instructors of schedule changes
-- [ ] **Reschedule cancelled lessons** - Find alternative times for weather or maintenance cancellations
-- [ ] **Update training records** - Record completed lessons and schedule next training sessions
+- **Monitor real-time changes** - Track lesson progress and adjust subsequent scheduling as needed
+- **Communicate delays or cancellations** - Notify affected students and instructors of schedule changes
+- **Reschedule cancelled lessons** - Find alternative times for weather or maintenance cancellations
+- **Update training records** - Record completed lessons and schedule next training sessions
 
 ## Process Mapping
 

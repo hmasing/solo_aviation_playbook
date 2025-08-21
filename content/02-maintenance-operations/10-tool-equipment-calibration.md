@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Tool and Equipment Inventory Management
 
-- [ ] **Maintain tool inventory database** - Track all precision tools, test equipment, and measuring instruments with unique identification numbers and specifications
-- [ ] **Monitor calibration due dates** - Review calibration schedules and identify tools requiring calibration or maintenance within upcoming periods
-- [ ] **Assess tool condition** - Conduct regular visual inspections of tools and equipment for damage, wear, or deterioration affecting accuracy
-- [ ] **Track usage patterns** - Monitor tool utilization data to optimize inventory levels and identify replacement requirements
+- **Maintain tool inventory database** - Track all precision tools, test equipment, and measuring instruments with unique identification numbers and specifications
+- **Monitor calibration due dates** - Review calibration schedules and identify tools requiring calibration or maintenance within upcoming periods
+- **Assess tool condition** - Conduct regular visual inspections of tools and equipment for damage, wear, or deterioration affecting accuracy
+- **Track usage patterns** - Monitor tool utilization data to optimize inventory levels and identify replacement requirements
 
 ### Calibration Scheduling and Coordination
 
-- [ ] **Schedule calibration services** - Coordinate with approved calibration laboratories for precision instruments and test equipment requiring external calibration
-- [ ] **Prepare calibration packages** - Organize tools and equipment for calibration with proper identification and historical records
-- [ ] **Coordinate service timing** - Schedule calibration activities to minimize operational impact while maintaining compliance with calibration intervals
-- [ ] **Track calibration progress** - Monitor calibration service progress and coordinate equipment return and documentation receipt
+- **Schedule calibration services** - Coordinate with approved calibration laboratories for precision instruments and test equipment requiring external calibration
+- **Prepare calibration packages** - Organize tools and equipment for calibration with proper identification and historical records
+- **Coordinate service timing** - Schedule calibration activities to minimize operational impact while maintaining compliance with calibration intervals
+- **Track calibration progress** - Monitor calibration service progress and coordinate equipment return and documentation receipt
 
 ### In-House Tool Maintenance
 
-- [ ] **Perform routine maintenance** - Execute manufacturer-recommended maintenance procedures for tools and equipment to ensure proper operation
-- [ ] **Conduct accuracy checks** - Perform in-house verification of tool accuracy using certified reference standards when appropriate
-- [ ] **Clean and preserve tools** - Apply proper cleaning and preservation procedures to prevent corrosion and maintain tool accuracy
-- [ ] **Repair minor defects** - Address minor tool problems through approved repair procedures or coordinate with specialized repair services
+- **Perform routine maintenance** - Execute manufacturer-recommended maintenance procedures for tools and equipment to ensure proper operation
+- **Conduct accuracy checks** - Perform in-house verification of tool accuracy using certified reference standards when appropriate
+- **Clean and preserve tools** - Apply proper cleaning and preservation procedures to prevent corrosion and maintain tool accuracy
+- **Repair minor defects** - Address minor tool problems through approved repair procedures or coordinate with specialized repair services
 
 ### Calibration Documentation and Records
 
-- [ ] **Update calibration records** - Document all calibration activities, results, and due dates in tool management database
-- [ ] **Maintain calibration certificates** - File calibration certificates and maintain traceability to national standards for all precision instruments
-- [ ] **Track out-of-tolerance conditions** - Document any tools found out of calibration and assess impact on previous maintenance work
-- [ ] **Generate calibration reports** - Prepare periodic reports on calibration program status, costs, and equipment condition trends
+- **Update calibration records** - Document all calibration activities, results, and due dates in tool management database
+- **Maintain calibration certificates** - File calibration certificates and maintain traceability to national standards for all precision instruments
+- **Track out-of-tolerance conditions** - Document any tools found out of calibration and assess impact on previous maintenance work
+- **Generate calibration reports** - Prepare periodic reports on calibration program status, costs, and equipment condition trends
 
 ### Tool Control and Storage
 
-- [ ] **Implement tool control procedures** - Establish check-out and return procedures for precision tools with usage tracking and condition monitoring
-- [ ] **Maintain proper storage conditions** - Store tools and equipment in appropriate environmental conditions to preserve accuracy and prevent damage
-- [ ] **Control access to precision tools** - Limit access to calibrated instruments to qualified personnel with proper training
-- [ ] **Mark calibration status** - Clearly identify calibration status and due dates on all tools and test equipment
+- **Implement tool control procedures** - Establish check-out and return procedures for precision tools with usage tracking and condition monitoring
+- **Maintain proper storage conditions** - Store tools and equipment in appropriate environmental conditions to preserve accuracy and prevent damage
+- **Control access to precision tools** - Limit access to calibrated instruments to qualified personnel with proper training
+- **Mark calibration status** - Clearly identify calibration status and due dates on all tools and test equipment
 
 ## Process Mapping
 

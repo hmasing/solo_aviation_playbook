@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Session Planning Phase
 
-- [ ] **Review training objectives** - Coordinate simulator scenarios with student training goals and progression
-- [ ] **Schedule simulator sessions** - Coordinate simulator availability with student and instructor schedules
-- [ ] **Prepare simulation scenarios** - Configure simulator settings and training scenarios for specific learning objectives
-- [ ] **Brief session objectives** - Review training goals and expected outcomes with student and instructor
+- **Review training objectives** - Coordinate simulator scenarios with student training goals and progression
+- **Schedule simulator sessions** - Coordinate simulator availability with student and instructor schedules
+- **Prepare simulation scenarios** - Configure simulator settings and training scenarios for specific learning objectives
+- **Brief session objectives** - Review training goals and expected outcomes with student and instructor
 
 ### Equipment Preparation Phase
 
-- [ ] **Conduct pre-session inspection** - Verify simulator equipment operation and system functionality
-- [ ] **Configure training scenario** - Set up simulator for specific training objectives and aircraft type
-- [ ] **Test system operation** - Verify all simulator systems and controls are functioning properly
-- [ ] **Prepare instructional materials** - Gather charts, checklists, and reference materials for training session
+- **Conduct pre-session inspection** - Verify simulator equipment operation and system functionality
+- **Configure training scenario** - Set up simulator for specific training objectives and aircraft type
+- **Test system operation** - Verify all simulator systems and controls are functioning properly
+- **Prepare instructional materials** - Gather charts, checklists, and reference materials for training session
 
 ### Training Session Execution Phase
 
-- [ ] **Conduct simulator briefing** - Review simulator operation and safety procedures with student
-- [ ] **Execute training scenarios** - Conduct planned training exercises and evaluate student performance
-- [ ] **Monitor student progress** - Assess learning objectives achievement and provide real-time feedback
-- [ ] **Document session outcomes** - Record training activities completed and student performance evaluation
+- **Conduct simulator briefing** - Review simulator operation and safety procedures with student
+- **Execute training scenarios** - Conduct planned training exercises and evaluate student performance
+- **Monitor student progress** - Assess learning objectives achievement and provide real-time feedback
+- **Document session outcomes** - Record training activities completed and student performance evaluation
 
 ### Post-Session Activities Phase
 
-- [ ] **Conduct session debrief** - Review training objectives achievement and discuss learning outcomes
-- [ ] **Complete usage documentation** - Record simulator time and training activities in student records
-- [ ] **Perform post-session inspection** - Verify simulator equipment condition and report any discrepancies
-- [ ] **Schedule follow-up training** - Plan subsequent simulator sessions based on training progression needs
+- **Conduct session debrief** - Review training objectives achievement and discuss learning outcomes
+- **Complete usage documentation** - Record simulator time and training activities in student records
+- **Perform post-session inspection** - Verify simulator equipment condition and report any discrepancies
+- **Schedule follow-up training** - Plan subsequent simulator sessions based on training progression needs
 
 ## Process Mapping
 

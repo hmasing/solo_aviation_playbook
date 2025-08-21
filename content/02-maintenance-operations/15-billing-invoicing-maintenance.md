@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Work Order Cost Tracking
 
-- [ ] **Track labor hours accurately** - Record detailed labor time for each technician working on maintenance activities with specific task identification
-- [ ] **Document materials usage** - Record all parts, consumables, and materials used during maintenance work with accurate quantities and costs
-- [ ] **Monitor outside services** - Track subcontracted work, specialized services, and vendor charges associated with maintenance activities
-- [ ] **Review cost accumulation** - Verify work order cost accuracy and completeness before finalizing for billing preparation
+- **Track labor hours accurately** - Record detailed labor time for each technician working on maintenance activities with specific task identification
+- **Document materials usage** - Record all parts, consumables, and materials used during maintenance work with accurate quantities and costs
+- **Monitor outside services** - Track subcontracted work, specialized services, and vendor charges associated with maintenance activities
+- **Review cost accumulation** - Verify work order cost accuracy and completeness before finalizing for billing preparation
 
 ### Invoice Preparation and Review
 
-- [ ] **Compile billing information** - Gather all work order documentation, labor records, parts usage, and outside service charges for invoice preparation
-- [ ] **Calculate total charges** - Apply appropriate labor rates, markup percentages, and tax calculations to determine final invoice amounts
-- [ ] **Prepare detailed invoices** - Create itemized invoices showing labor, parts, outside services, and applicable taxes with clear descriptions
-- [ ] **Review invoice accuracy** - Verify all charges are correct, properly documented, and consistent with approved work order scope
+- **Compile billing information** - Gather all work order documentation, labor records, parts usage, and outside service charges for invoice preparation
+- **Calculate total charges** - Apply appropriate labor rates, markup percentages, and tax calculations to determine final invoice amounts
+- **Prepare detailed invoices** - Create itemized invoices showing labor, parts, outside services, and applicable taxes with clear descriptions
+- **Review invoice accuracy** - Verify all charges are correct, properly documented, and consistent with approved work order scope
 
 ### Client Communication and Billing
 
-- [ ] **Present invoices to clients** - Provide detailed invoices with supporting documentation and explanation of charges when requested
-- [ ] **Address billing questions** - Respond to client inquiries about charges, work performed, and billing procedures with clear explanations
-- [ ] **Process payment arrangements** - Coordinate payment terms, credit arrangements, and collection procedures according to company policies
-- [ ] **Document billing communications** - Maintain records of all billing discussions, payment arrangements, and client correspondence
+- **Present invoices to clients** - Provide detailed invoices with supporting documentation and explanation of charges when requested
+- **Address billing questions** - Respond to client inquiries about charges, work performed, and billing procedures with clear explanations
+- **Process payment arrangements** - Coordinate payment terms, credit arrangements, and collection procedures according to company policies
+- **Document billing communications** - Maintain records of all billing discussions, payment arrangements, and client correspondence
 
 ### Cost Analysis and Reporting
 
-- [ ] **Analyze maintenance profitability** - Review labor efficiency, materials usage, and overall job profitability for operational improvement
-- [ ] **Track billing trends** - Monitor billing volumes, average invoice amounts, and collection performance for business planning
-- [ ] **Prepare cost reports** - Generate periodic reports on maintenance revenue, costs, and profitability for management review
-- [ ] **Identify improvement opportunities** - Analyze billing data to identify opportunities for operational efficiency and cost reduction
+- **Analyze maintenance profitability** - Review labor efficiency, materials usage, and overall job profitability for operational improvement
+- **Track billing trends** - Monitor billing volumes, average invoice amounts, and collection performance for business planning
+- **Prepare cost reports** - Generate periodic reports on maintenance revenue, costs, and profitability for management review
+- **Identify improvement opportunities** - Analyze billing data to identify opportunities for operational efficiency and cost reduction
 
 ### Payment Processing and Collections
 
-- [ ] **Process payments received** - Apply payments to appropriate accounts and update billing records with payment information
-- [ ] **Monitor accounts receivable** - Track outstanding invoices and coordinate follow-up activities for overdue accounts
-- [ ] **Coordinate collection activities** - Implement collection procedures for past due accounts while maintaining client relationships
-- [ ] **Handle billing disputes** - Investigate and resolve billing discrepancies and disputes through appropriate documentation and communication
+- **Process payments received** - Apply payments to appropriate accounts and update billing records with payment information
+- **Monitor accounts receivable** - Track outstanding invoices and coordinate follow-up activities for overdue accounts
+- **Coordinate collection activities** - Implement collection procedures for past due accounts while maintaining client relationships
+- **Handle billing disputes** - Investigate and resolve billing discrepancies and disputes through appropriate documentation and communication
 
 ## Process Mapping
 

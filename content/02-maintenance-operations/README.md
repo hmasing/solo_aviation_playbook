@@ -143,18 +143,18 @@ Manage accurate billing and invoicing for maintenance services while tracking la
 
 All maintenance personnel must maintain:
 
-- [ ] Appropriate FAA certificates (A&P, IA, etc.)
-- [ ] Manufacturer training certifications
-- [ ] Safety training (annual)
-- [ ] Hazmat training (recurrent)
-- [ ] Quality system training
+- Appropriate FAA certificates (A&P, IA, etc.)
+- Manufacturer training certifications
+- Safety training (annual)
+- Hazmat training (recurrent)
+- Quality system training
 
 ## Shop Certifications
 
-- [ ] FAA Repair Station Certificate (if applicable)
-- [ ] ISO 9001 Quality Management System
-- [ ] Environmental Management System
-- [ ] Safety Management System
+- FAA Repair Station Certificate (if applicable)
+- ISO 9001 Quality Management System
+- Environmental Management System
+- Safety Management System
 
 ---
 [← Previous: FBO Services](../01-fbo-services/README.md) | [Back to Main Playbook](../../README.md) | [Next Section: Flight School Operations →](../03-flight-school-operations/README.md)

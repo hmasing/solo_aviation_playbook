@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Component Receipt and Preparation Phase
 
-- [ ] **Receive component** - Document receipt of component with serial numbers, part numbers, and condition assessment
-- [ ] **Verify component identity** - Confirm part number, serial number, and model match work order requirements and approved parts list
-- [ ] **Conduct initial inspection** - Perform visual inspection for obvious damage, corrosion, or missing components before testing
-- [ ] **Prepare test environment** - Set up appropriate test equipment and ensure ESD-safe work environment for component handling
+- **Receive component** - Document receipt of component with serial numbers, part numbers, and condition assessment
+- **Verify component identity** - Confirm part number, serial number, and model match work order requirements and approved parts list
+- **Conduct initial inspection** - Perform visual inspection for obvious damage, corrosion, or missing components before testing
+- **Prepare test environment** - Set up appropriate test equipment and ensure ESD-safe work environment for component handling
 
 ### Pre-Test Setup and Calibration Phase
 
-- [ ] **Select appropriate test equipment** - Choose calibrated test equipment suitable for specific component type and testing requirements
-- [ ] **Verify equipment calibration** - Confirm all test equipment is within calibration period and functioning properly
-- [ ] **Review test procedures** - Study manufacturer test procedures and identify required test parameters and acceptance criteria
-- [ ] **Prepare test documentation** - Set up test record forms and documentation systems for recording test results
+- **Select appropriate test equipment** - Choose calibrated test equipment suitable for specific component type and testing requirements
+- **Verify equipment calibration** - Confirm all test equipment is within calibration period and functioning properly
+- **Review test procedures** - Study manufacturer test procedures and identify required test parameters and acceptance criteria
+- **Prepare test documentation** - Set up test record forms and documentation systems for recording test results
 
 ### Component Testing Phase
 
-- [ ] **Perform electrical continuity tests** - Verify proper electrical connections and absence of short circuits or open circuits
-- [ ] **Conduct functional testing** - Execute manufacturer-specified functional tests to verify component operates within specifications
-- [ ] **Measure performance parameters** - Record critical performance measurements including power consumption, signal levels, and frequency accuracy
-- [ ] **Test environmental specifications** - Verify component operates properly within specified temperature and vibration ranges when required
+- **Perform electrical continuity tests** - Verify proper electrical connections and absence of short circuits or open circuits
+- **Conduct functional testing** - Execute manufacturer-specified functional tests to verify component operates within specifications
+- **Measure performance parameters** - Record critical performance measurements including power consumption, signal levels, and frequency accuracy
+- **Test environmental specifications** - Verify component operates properly within specified temperature and vibration ranges when required
 
 ### Test Results Analysis Phase
 
-- [ ] **Analyze test data** - Compare test results against manufacturer specifications and acceptance criteria
-- [ ] **Document test findings** - Record all test results, measurements, and observations in component test records
-- [ ] **Determine component status** - Make disposition decision for component based on test results and acceptance criteria
-- [ ] **Prepare component for next phase** - Tag component with appropriate status and prepare for installation or storage
+- **Analyze test data** - Compare test results against manufacturer specifications and acceptance criteria
+- **Document test findings** - Record all test results, measurements, and observations in component test records
+- **Determine component status** - Make disposition decision for component based on test results and acceptance criteria
+- **Prepare component for next phase** - Tag component with appropriate status and prepare for installation or storage
 
 ## Process Mapping
 

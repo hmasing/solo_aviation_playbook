@@ -48,31 +48,31 @@ ________________________________________________________________________________
 
 ### Pre-Fueling Phase
 
-- [ ] **Conduct safety assessment** - Inspect aircraft fuel system, verify fuel type requirements, and assess environmental conditions
-- [ ] **Perform fuel quality testing** - Conduct water contamination, specific gravity, and visual inspection tests before dispensing
-- [ ] **Prepare equipment and grounding** - Position fuel truck safely, establish grounding connections, and verify safety equipment operation
-- [ ] **Verify fuel type compatibility** - Confirm aircraft requirements against fuel truck contents before connecting lines
+- **Conduct safety assessment** - Inspect aircraft fuel system, verify fuel type requirements, and assess environmental conditions
+- **Perform fuel quality testing** - Conduct water contamination, specific gravity, and visual inspection tests before dispensing
+- **Prepare equipment and grounding** - Position fuel truck safely, establish grounding connections, and verify safety equipment operation
+- **Verify fuel type compatibility** - Confirm aircraft requirements against fuel truck contents before connecting lines
 
 ### Fueling Operations Phase
 
-- [ ] **Connect fuel lines** - Attach fuel nozzle using proper techniques and verify secure connection before fuel flow
-- [ ] **Monitor fuel flow** - Watch flow rate, quantity delivered, and check for leaks or irregularities during process
-- [ ] **Verify fuel quantity** - Confirm delivered quantity matches client request and aircraft capacity using multiple methods
-- [ ] **Disconnect fuel lines safely** - Remove lines, drain residual fuel, and secure equipment following proper procedures
+- **Connect fuel lines** - Attach fuel nozzle using proper techniques and verify secure connection before fuel flow
+- **Monitor fuel flow** - Watch flow rate, quantity delivered, and check for leaks or irregularities during process
+- **Verify fuel quantity** - Confirm delivered quantity matches client request and aircraft capacity using multiple methods
+- **Disconnect fuel lines safely** - Remove lines, drain residual fuel, and secure equipment following proper procedures
 
 ### Post-Fueling Phase
 
-- [ ] **Secure fuel caps** - Ensure all aircraft fuel caps are properly secured and torqued to manufacturer specifications
-- [ ] **Fill documentation** - Fill fuel delivery ticket with quantity, type, aircraft information, and quality test results
-- [ ] **Process billing transaction** - Enter transaction in billing system and provide detailed receipt to client
-- [ ] **Update inventory records** - Record fuel usage and monitor levels for reorder requirements
+- **Secure fuel caps** - Ensure all aircraft fuel caps are properly secured and torqued to manufacturer specifications
+- **Fill documentation** - Fill fuel delivery ticket with quantity, type, aircraft information, and quality test results
+- **Process billing transaction** - Enter transaction in billing system and provide detailed receipt to client
+- **Update inventory records** - Record fuel usage and monitor levels for reorder requirements
 
 ### Equipment Shutdown Phase
 
-- [ ] **Shutdown fuel systems** - Shut down fuel truck systems and conduct post-operation inspection
-- [ ] **Return equipment to storage** - Secure equipment in designated storage area following proper procedures
-- [ ] **Inspect equipment condition** - Document any maintenance requirements or operational issues identified
-- [ ] **Ensure environmental compliance** - Inspect area for spills and fill required environmental documentation
+- **Shutdown fuel systems** - Shut down fuel truck systems and conduct post-operation inspection
+- **Return equipment to storage** - Secure equipment in designated storage area following proper procedures
+- **Inspect equipment condition** - Document any maintenance requirements or operational issues identified
+- **Ensure environmental compliance** - Inspect area for spills and fill required environmental documentation
 
 ## Process Mapping
 

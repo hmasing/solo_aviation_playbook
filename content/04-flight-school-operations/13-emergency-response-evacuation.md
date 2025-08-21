@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Emergency Detection and Assessment Phase
 
-- [ ] **Identify emergency situation** - Recognize fire, medical, security, or other emergency requiring immediate response
-- [ ] **Assess threat severity** - Evaluate immediate danger to persons and determine appropriate response level
-- [ ] **Activate emergency procedures** - Initiate appropriate emergency response based on situation assessment
-- [ ] **Notify emergency services** - Contact 911, fire department, medical services, or law enforcement as required
+- **Identify emergency situation** - Recognize fire, medical, security, or other emergency requiring immediate response
+- **Assess threat severity** - Evaluate immediate danger to persons and determine appropriate response level
+- **Activate emergency procedures** - Initiate appropriate emergency response based on situation assessment
+- **Notify emergency services** - Contact 911, fire department, medical services, or law enforcement as required
 
 ### Immediate Response Phase
 
-- [ ] **Ensure personal safety** - Verify responder safety before attempting assistance to others
-- [ ] **Provide immediate assistance** - Render first aid, fire suppression, or other immediate aid as trained and safe to do
-- [ ] **Coordinate evacuation** - Direct students and team members to designated evacuation routes and assembly areas
-- [ ] **Account for all persons** - Verify all students, instructors, and team members are safely evacuated
+- **Ensure personal safety** - Verify responder safety before attempting assistance to others
+- **Provide immediate assistance** - Render first aid, fire suppression, or other immediate aid as trained and safe to do
+- **Coordinate evacuation** - Direct students and team members to designated evacuation routes and assembly areas
+- **Account for all persons** - Verify all students, instructors, and team members are safely evacuated
 
 ### Evacuation Coordination Phase
 
-- [ ] **Direct evacuation routes** - Guide persons to nearest safe exits and designated assembly areas
-- [ ] **Assist mobility-impaired persons** - Provide assistance to persons requiring evacuation help
-- [ ] **Maintain evacuation discipline** - Ensure orderly evacuation without panic or confusion
-- [ ] **Coordinate with emergency services** - Provide information and assistance to responding emergency personnel
+- **Direct evacuation routes** - Guide persons to nearest safe exits and designated assembly areas
+- **Assist mobility-impaired persons** - Provide assistance to persons requiring evacuation help
+- **Maintain evacuation discipline** - Ensure orderly evacuation without panic or confusion
+- **Coordinate with emergency services** - Provide information and assistance to responding emergency personnel
 
 ### Post-Emergency Phase
 
-- [ ] **Conduct accountability check** - Verify all persons are accounted for and safe
-- [ ] **Coordinate medical assistance** - Ensure injured persons receive appropriate medical care
-- [ ] **Secure facility** - Coordinate with authorities to secure facility and prevent unauthorized access
-- [ ] **Document incident** - Record emergency details for investigation and reporting requirements
+- **Conduct accountability check** - Verify all persons are accounted for and safe
+- **Coordinate medical assistance** - Ensure injured persons receive appropriate medical care
+- **Secure facility** - Coordinate with authorities to secure facility and prevent unauthorized access
+- **Document incident** - Record emergency details for investigation and reporting requirements
 
 ## Process Mapping
 

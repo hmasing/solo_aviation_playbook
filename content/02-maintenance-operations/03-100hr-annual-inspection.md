@@ -56,45 +56,45 @@ ________________________________________________________________________________
 
 ### Pre-Inspection Planning
 
-- [ ] **Verify inspection requirements** - Confirm 100-hour or annual inspection due date and review aircraft operating time since last inspection
-- [ ] **Review maintenance records** - Examine logbooks for compliance with airworthiness directives, service bulletins, and previous inspection findings
-- [ ] **Prepare inspection workspace** - Set up adequate lighting, tools, and documentation materials in appropriate hangar or maintenance area
-- [ ] **Gather technical references** - Collect current manufacturer maintenance manuals, inspection checklists, and regulatory guidance materials
+- **Verify inspection requirements** - Confirm 100-hour or annual inspection due date and review aircraft operating time since last inspection
+- **Review maintenance records** - Examine logbooks for compliance with airworthiness directives, service bulletins, and previous inspection findings
+- **Prepare inspection workspace** - Set up adequate lighting, tools, and documentation materials in appropriate hangar or maintenance area
+- **Gather technical references** - Collect current manufacturer maintenance manuals, inspection checklists, and regulatory guidance materials
 
 ### Engine and Propeller Inspection
 
-- [ ] **Remove engine cowling** - Carefully remove and inspect cowling components while checking for cracks, security, and proper fit
-- [ ] **Inspect engine external components** - Examine engine mounts, accessories, hoses, and wiring for security, wear, leaks, or damage
-- [ ] **Check propeller and spinner** - Inspect propeller blades, hub, and spinner for cracks, nicks, security, and proper track and balance
-- [ ] **Examine engine controls** - Test throttle, mixture, propeller, and carburetor heat controls for proper operation and security
+- **Remove engine cowling** - Carefully remove and inspect cowling components while checking for cracks, security, and proper fit
+- **Inspect engine external components** - Examine engine mounts, accessories, hoses, and wiring for security, wear, leaks, or damage
+- **Check propeller and spinner** - Inspect propeller blades, hub, and spinner for cracks, nicks, security, and proper track and balance
+- **Examine engine controls** - Test throttle, mixture, propeller, and carburetor heat controls for proper operation and security
 
 ### Airframe Structural Inspection
 
-- [ ] **Inspect fuselage structure** - Examine skin, frames, bulkheads, and attachment points for cracks, corrosion, or structural damage
-- [ ] **Check wing and control surfaces** - Inspect wings, ailerons, elevator, rudder, and trim tabs for structural integrity and proper rigging
-- [ ] **Examine landing gear system** - Inspect struts, wheels, brakes, tires, and retraction systems for wear, damage, or operational deficiencies
-- [ ] **Review flight control systems** - Check control cables, pulleys, bellcranks, and connections for proper tension, wear, and security
+- **Inspect fuselage structure** - Examine skin, frames, bulkheads, and attachment points for cracks, corrosion, or structural damage
+- **Check wing and control surfaces** - Inspect wings, ailerons, elevator, rudder, and trim tabs for structural integrity and proper rigging
+- **Examine landing gear system** - Inspect struts, wheels, brakes, tires, and retraction systems for wear, damage, or operational deficiencies
+- **Review flight control systems** - Check control cables, pulleys, bellcranks, and connections for proper tension, wear, and security
 
 ### Systems and Equipment Inspection
 
-- [ ] **Test avionics and electrical systems** - Verify operation of all navigation, communication, and electrical systems while checking for proper installation
-- [ ] **Inspect cabin and cockpit** - Check seats, belts, controls, instruments, and placards for security, condition, and regulatory compliance
-- [ ] **Examine fuel and oil systems** - Inspect tanks, lines, filters, and pumps for leaks, security, and proper operation
-- [ ] **Review emergency equipment** - Verify presence, condition, and currency of required emergency and safety equipment
+- **Test avionics and electrical systems** - Verify operation of all navigation, communication, and electrical systems while checking for proper installation
+- **Inspect cabin and cockpit** - Check seats, belts, controls, instruments, and placards for security, condition, and regulatory compliance
+- **Examine fuel and oil systems** - Inspect tanks, lines, filters, and pumps for leaks, security, and proper operation
+- **Review emergency equipment** - Verify presence, condition, and currency of required emergency and safety equipment
 
 ### Airworthiness Directive Compliance
 
-- [ ] **Review applicable ADs** - Check current airworthiness directive status and compliance for aircraft, engine, and propeller
-- [ ] **Perform required AD actions** - Execute any recurring airworthiness directive requirements due at inspection interval
-- [ ] **Document AD compliance** - Record completion of all airworthiness directive actions in aircraft maintenance records
-- [ ] **Update AD tracking system** - Enter next compliance dates for recurring airworthiness directives in tracking database
+- **Review applicable ADs** - Check current airworthiness directive status and compliance for aircraft, engine, and propeller
+- **Perform required AD actions** - Execute any recurring airworthiness directive requirements due at inspection interval
+- **Document AD compliance** - Record completion of all airworthiness directive actions in aircraft maintenance records
+- **Update AD tracking system** - Enter next compliance dates for recurring airworthiness directives in tracking database
 
 ### Final Documentation and Certification
 
-- [ ] **Complete inspection checklist** - Verify all required inspection items have been completed and documented according to regulatory requirements
-- [ ] **Document discrepancies and actions** - Record all findings, corrective actions, and deferred maintenance items in aircraft logbooks
-- [ ] **Prepare return to service entry** - Complete required logbook entries certifying inspection completion and aircraft airworthiness
-- [ ] **Coordinate client delivery** - Schedule aircraft return with client and provide inspection summary and any recommended future maintenance
+- **Complete inspection checklist** - Verify all required inspection items have been completed and documented according to regulatory requirements
+- **Document discrepancies and actions** - Record all findings, corrective actions, and deferred maintenance items in aircraft logbooks
+- **Prepare return to service entry** - Complete required logbook entries certifying inspection completion and aircraft airworthiness
+- **Coordinate client delivery** - Schedule aircraft return with client and provide inspection summary and any recommended future maintenance
 
 ## Process Mapping
 

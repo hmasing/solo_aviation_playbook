@@ -177,31 +177,31 @@ ________________________________________________________________________________
 
 #### Application and Documentation Phase
 
-- [ ] **Review student application** - Verify completeness of application form and contact information accuracy
-- [ ] **Verify student eligibility** - Confirm age requirements, English proficiency, and medical certificate eligibility per 14 CFR Part 61
-- [ ] **Collect required documentation** - Gather identification, medical certificate, and any previous flight experience records
-- [ ] **Process TSA clearance requirements** - Initiate security clearance for international students per TSA regulations
+- **Review student application** - Verify completeness of application form and contact information accuracy
+- **Verify student eligibility** - Confirm age requirements, English proficiency, and medical certificate eligibility per 14 CFR Part 61
+- **Collect required documentation** - Gather identification, medical certificate, and any previous flight experience records
+- **Process TSA clearance requirements** - Initiate security clearance for international students per TSA regulations
 
 #### Program Planning Phase
 
-- [ ] **Conduct initial consultation** - Meet with student to discuss training goals, timeline, and program options
-- [ ] **Assess student background** - Review previous flight experience, education, and career objectives
-- [ ] **Recommend training program** - Select appropriate certificate or rating program based on student goals
-- [ ] **Prepare training agreement** - Complete enrollment contract with program details, costs, and expectations
+- **Conduct initial consultation** - Meet with student to discuss training goals, timeline, and program options
+- **Assess student background** - Review previous flight experience, education, and career objectives
+- **Recommend training program** - Select appropriate certificate or rating program based on student goals
+- **Prepare training agreement** - Complete enrollment contract with program details, costs, and expectations
 
 #### Orientation and Setup Phase
 
-- [ ] **Schedule orientation session** - Coordinate facility tour and safety briefing with Chief Flight Instructor
-- [ ] **Assign primary instructor** - Match student with appropriate flight instructor based on schedule and experience
-- [ ] **Create student training record** - Establish official training file with all documentation and requirements
-- [ ] **Process initial payment** - Complete payment processing and establish billing arrangements
+- **Schedule orientation session** - Coordinate facility tour and safety briefing with Chief Flight Instructor
+- **Assign primary instructor** - Match student with appropriate flight instructor based on schedule and experience
+- **Create student training record** - Establish official training file with all documentation and requirements
+- **Process initial payment** - Complete payment processing and establish billing arrangements
 
 #### Training Preparation Phase
 
-- [ ] **Schedule initial lessons** - Coordinate first ground and flight instruction sessions with assigned instructor
-- [ ] **Provide training materials** - Issue required textbooks, charts, and training resources
-- [ ] **Complete safety orientation** - Conduct facility safety briefing and emergency procedures training
-- [ ] **Verify insurance coverage** - Confirm student meets insurance requirements for flight training activities
+- **Schedule initial lessons** - Coordinate first ground and flight instruction sessions with assigned instructor
+- **Provide training materials** - Issue required textbooks, charts, and training resources
+- **Complete safety orientation** - Conduct facility safety briefing and emergency procedures training
+- **Verify insurance coverage** - Confirm student meets insurance requirements for flight training activities
 
 ### Process Mapping
 
@@ -316,31 +316,31 @@ ________________________________________________________________________________
 
 #### Daily Scheduling Review Phase
 
-- [ ] **Review weather forecast** - Assess current and forecast weather conditions for planned flight training activities
-- [ ] **Verify aircraft status** - Confirm aircraft availability and airworthiness for all scheduled lessons
-- [ ] **Check instructor availability** - Verify instructor schedules and resolve any conflicts or changes
-- [ ] **Assess facility capacity** - Review ground school, briefing room, and aircraft parking availability
+- **Review weather forecast** - Assess current and forecast weather conditions for planned flight training activities
+- **Verify aircraft status** - Confirm aircraft availability and airworthiness for all scheduled lessons
+- **Check instructor availability** - Verify instructor schedules and resolve any conflicts or changes
+- **Assess facility capacity** - Review ground school, briefing room, and aircraft parking availability
 
 #### Student Scheduling Coordination Phase
 
-- [ ] **Process scheduling requests** - Review student lesson requests and coordinate with instructor availability
-- [ ] **Assign aircraft and instructor** - Match appropriate aircraft type with qualified instructor for each lesson
-- [ ] **Confirm lesson objectives** - Verify training goals and requirements with instructor and student
-- [ ] **Update scheduling system** - Enter confirmed lessons with all relevant details and requirements
+- **Process scheduling requests** - Review student lesson requests and coordinate with instructor availability
+- **Assign aircraft and instructor** - Match appropriate aircraft type with qualified instructor for each lesson
+- **Confirm lesson objectives** - Verify training goals and requirements with instructor and student
+- **Update scheduling system** - Enter confirmed lessons with all relevant details and requirements
 
 #### Pre-Flight Coordination Phase
 
-- [ ] **Conduct weather briefing** - Provide current weather information to instructors and students
-- [ ] **Verify aircraft preparation** - Confirm aircraft pre-flight inspection completion and fuel status
-- [ ] **Coordinate ground support** - Ensure availability of required ground equipment and facilities
-- [ ] **Review lesson plan** - Confirm training objectives and flight route planning with instructor
+- **Conduct weather briefing** - Provide current weather information to instructors and students
+- **Verify aircraft preparation** - Confirm aircraft pre-flight inspection completion and fuel status
+- **Coordinate ground support** - Ensure availability of required ground equipment and facilities
+- **Review lesson plan** - Confirm training objectives and flight route planning with instructor
 
 #### Schedule Management Phase
 
-- [ ] **Monitor real-time changes** - Track lesson progress and adjust subsequent scheduling as needed
-- [ ] **Communicate delays or cancellations** - Notify affected students and instructors of schedule changes
-- [ ] **Reschedule cancelled lessons** - Find alternative times for weather or maintenance cancellations
-- [ ] **Update training records** - Record completed lessons and schedule next training sessions
+- **Monitor real-time changes** - Track lesson progress and adjust subsequent scheduling as needed
+- **Communicate delays or cancellations** - Notify affected students and instructors of schedule changes
+- **Reschedule cancelled lessons** - Find alternative times for weather or maintenance cancellations
+- **Update training records** - Record completed lessons and schedule next training sessions
 
 ### Process Mapping
 
@@ -455,31 +455,31 @@ ________________________________________________________________________________
 
 #### Daily Aircraft Status Review Phase
 
-- [ ] **Review maintenance status** - Check aircraft logbooks and maintenance tracking system for currency
-- [ ] **Verify inspection compliance** - Confirm annual, 100-hour, and other required inspections are current
-- [ ] **Check discrepancy reports** - Review any reported aircraft issues from previous flights
-- [ ] **Coordinate maintenance scheduling** - Plan maintenance activities to minimize training disruptions
+- **Review maintenance status** - Check aircraft logbooks and maintenance tracking system for currency
+- **Verify inspection compliance** - Confirm annual, 100-hour, and other required inspections are current
+- **Check discrepancy reports** - Review any reported aircraft issues from previous flights
+- **Coordinate maintenance scheduling** - Plan maintenance activities to minimize training disruptions
 
 #### Pre-Flight Inspection Phase
 
-- [ ] **Conduct pre-flight inspection** - Complete systematic aircraft inspection using approved checklist
-- [ ] **Review aircraft logbooks** - Verify airworthiness certificate, registration, and required inspections
-- [ ] **Check fuel and oil levels** - Confirm adequate fuel quantity and oil levels for planned flight
-- [ ] **Test aircraft systems** - Verify proper operation of all required systems and equipment
+- **Conduct pre-flight inspection** - Complete systematic aircraft inspection using approved checklist
+- **Review aircraft logbooks** - Verify airworthiness certificate, registration, and required inspections
+- **Check fuel and oil levels** - Confirm adequate fuel quantity and oil levels for planned flight
+- **Test aircraft systems** - Verify proper operation of all required systems and equipment
 
 #### Post-Flight Documentation Phase
 
-- [ ] **Complete post-flight inspection** - Conduct post-flight aircraft inspection for new discrepancies
-- [ ] **Document flight time** - Record accurate flight time in aircraft logbooks and maintenance records
-- [ ] **Report discrepancies** - Document any observed aircraft issues or maintenance needs
-- [ ] **Update maintenance tracking** - Record flight hours and schedule upcoming maintenance requirements
+- **Complete post-flight inspection** - Conduct post-flight aircraft inspection for new discrepancies
+- **Document flight time** - Record accurate flight time in aircraft logbooks and maintenance records
+- **Report discrepancies** - Document any observed aircraft issues or maintenance needs
+- **Update maintenance tracking** - Record flight hours and schedule upcoming maintenance requirements
 
 #### Maintenance Coordination Phase
 
-- [ ] **Schedule required maintenance** - Coordinate maintenance activities with certified mechanics
-- [ ] **Manage aircraft downtime** - Minimize training schedule disruption during maintenance periods
-- [ ] **Verify maintenance completion** - Review completed maintenance work and required documentation
-- [ ] **Return aircraft to service** - Conduct airworthiness review and authorize return to training operations
+- **Schedule required maintenance** - Coordinate maintenance activities with certified mechanics
+- **Manage aircraft downtime** - Minimize training schedule disruption during maintenance periods
+- **Verify maintenance completion** - Review completed maintenance work and required documentation
+- **Return aircraft to service** - Conduct airworthiness review and authorize return to training operations
 
 ### Process Mapping
 
@@ -594,31 +594,31 @@ ________________________________________________________________________________
 
 #### Training Progress Documentation Phase
 
-- [ ] **Record lesson outcomes** - Document training objectives completed and areas requiring additional practice
-- [ ] **Update student records** - Maintain accurate training files with lesson summaries and progress notes
-- [ ] **Track flight experience** - Record flight time, landings, and specific training requirements completion
-- [ ] **Evaluate performance standards** - Assess student performance against established training standards
+- **Record lesson outcomes** - Document training objectives completed and areas requiring additional practice
+- **Update student records** - Maintain accurate training files with lesson summaries and progress notes
+- **Track flight experience** - Record flight time, landings, and specific training requirements completion
+- **Evaluate performance standards** - Assess student performance against established training standards
 
 #### Milestone Assessment Phase
 
-- [ ] **Conduct stage checks** - Perform formal evaluations at designated training milestones
-- [ ] **Review knowledge requirements** - Verify student understanding of required aeronautical knowledge areas
-- [ ] **Assess practical skills** - Evaluate flight proficiency and decision-making capabilities
-- [ ] **Document milestone completion** - Record successful completion of training stages and requirements
+- **Conduct stage checks** - Perform formal evaluations at designated training milestones
+- **Review knowledge requirements** - Verify student understanding of required aeronautical knowledge areas
+- **Assess practical skills** - Evaluate flight proficiency and decision-making capabilities
+- **Document milestone completion** - Record successful completion of training stages and requirements
 
 #### Certification Preparation Phase
 
-- [ ] **Verify eligibility requirements** - Confirm student meets all regulatory requirements for certification
-- [ ] **Prepare knowledge test authorization** - Process written test endorsements and scheduling
-- [ ] **Schedule practical examination** - Coordinate with designated pilot examiner for checkride scheduling
-- [ ] **Complete pre-checkride review** - Conduct final training review and endorsement preparation
+- **Verify eligibility requirements** - Confirm student meets all regulatory requirements for certification
+- **Prepare knowledge test authorization** - Process written test endorsements and scheduling
+- **Schedule practical examination** - Coordinate with designated pilot examiner for checkride scheduling
+- **Complete pre-checkride review** - Conduct final training review and endorsement preparation
 
 #### Certification Coordination Phase
 
-- [ ] **Process test applications** - Submit required paperwork to FAA and designated examiners
-- [ ] **Coordinate examination logistics** - Arrange aircraft, documentation, and examination requirements
-- [ ] **Monitor certification outcomes** - Track test results and coordinate any required additional training
-- [ ] **Complete certification documentation** - Process successful certification and update student records
+- **Process test applications** - Submit required paperwork to FAA and designated examiners
+- **Coordinate examination logistics** - Arrange aircraft, documentation, and examination requirements
+- **Monitor certification outcomes** - Track test results and coordinate any required additional training
+- **Complete certification documentation** - Process successful certification and update student records
 
 ### Process Mapping
 
@@ -733,31 +733,31 @@ ________________________________________________________________________________
 
 #### Immediate Response Phase
 
-- [ ] **Ensure safety and security** - Verify all persons are safe and secure the incident scene
-- [ ] **Provide emergency assistance** - Coordinate emergency medical or rescue services if required
-- [ ] **Notify leadership** - Contact Chief Flight Instructor, Safety Officer, and Operations Leader immediately
-- [ ] **Document initial information** - Record basic incident facts, time, location, and persons involved
+- **Ensure safety and security** - Verify all persons are safe and secure the incident scene
+- **Provide emergency assistance** - Coordinate emergency medical or rescue services if required
+- **Notify leadership** - Contact Chief Flight Instructor, Safety Officer, and Operations Leader immediately
+- **Document initial information** - Record basic incident facts, time, location, and persons involved
 
 #### Incident Reporting Phase
 
-- [ ] **Complete incident report** - Document detailed incident information using standardized reporting forms
-- [ ] **Notify regulatory authorities** - Report to FAA, NTSB, or other agencies as required by regulations
-- [ ] **Contact insurance providers** - Notify insurance companies and coordinate claims processing
-- [ ] **Preserve evidence** - Secure aircraft, documentation, and other physical evidence
+- **Complete incident report** - Document detailed incident information using standardized reporting forms
+- **Notify regulatory authorities** - Report to FAA, NTSB, or other agencies as required by regulations
+- **Contact insurance providers** - Notify insurance companies and coordinate claims processing
+- **Preserve evidence** - Secure aircraft, documentation, and other physical evidence
 
 #### Investigation Phase
 
-- [ ] **Conduct incident investigation** - Analyze incident causes and contributing factors systematically
-- [ ] **Interview involved parties** - Gather statements from witnesses, instructors, and students
-- [ ] **Review documentation** - Examine training records, maintenance logs, and operational procedures
-- [ ] **Analyze contributing factors** - Identify systemic issues, training gaps, or procedural deficiencies
+- **Conduct incident investigation** - Analyze incident causes and contributing factors systematically
+- **Interview involved parties** - Gather statements from witnesses, instructors, and students
+- **Review documentation** - Examine training records, maintenance logs, and operational procedures
+- **Analyze contributing factors** - Identify systemic issues, training gaps, or procedural deficiencies
 
 #### Corrective Action Phase
 
-- [ ] **Develop corrective actions** - Create specific action plans to prevent similar incidents
-- [ ] **Implement safety improvements** - Modify procedures, training, or equipment as needed
-- [ ] **Monitor effectiveness** - Track implementation progress and measure safety improvement outcomes
-- [ ] **Communicate lessons learned** - Share safety insights with all flight school team members
+- **Develop corrective actions** - Create specific action plans to prevent similar incidents
+- **Implement safety improvements** - Modify procedures, training, or equipment as needed
+- **Monitor effectiveness** - Track implementation progress and measure safety improvement outcomes
+- **Communicate lessons learned** - Share safety insights with all flight school team members
 
 ### Process Mapping
 
@@ -872,31 +872,31 @@ ________________________________________________________________________________
 
 #### Curriculum Planning Phase
 
-- [ ] **Review curriculum requirements** - Verify ground school content meets all Part 61 knowledge requirements
-- [ ] **Prepare lesson plans** - Develop detailed lesson plans with learning objectives and assessment methods
-- [ ] **Coordinate scheduling** - Schedule ground school sessions to support flight training progression
-- [ ] **Prepare materials** - Ensure availability of textbooks, charts, and instructional aids
+- **Review curriculum requirements** - Verify ground school content meets all Part 61 knowledge requirements
+- **Prepare lesson plans** - Develop detailed lesson plans with learning objectives and assessment methods
+- **Coordinate scheduling** - Schedule ground school sessions to support flight training progression
+- **Prepare materials** - Ensure availability of textbooks, charts, and instructional aids
 
 #### Instruction Delivery Phase
 
-- [ ] **Conduct ground instruction** - Deliver lessons using approved curriculum and instructional methods
-- [ ] **Facilitate student participation** - Encourage questions, discussion, and practical application of concepts
-- [ ] **Use instructional aids** - Employ charts, models, and multimedia resources to enhance learning
-- [ ] **Assess understanding** - Monitor student comprehension through questions and practical exercises
+- **Conduct ground instruction** - Deliver lessons using approved curriculum and instructional methods
+- **Facilitate student participation** - Encourage questions, discussion, and practical application of concepts
+- **Use instructional aids** - Employ charts, models, and multimedia resources to enhance learning
+- **Assess understanding** - Monitor student comprehension through questions and practical exercises
 
 #### Student Assessment Phase
 
-- [ ] **Administer progress tests** - Conduct regular quizzes and tests to evaluate student knowledge retention
-- [ ] **Review test results** - Analyze student performance and identify areas requiring additional instruction
-- [ ] **Provide remedial instruction** - Offer additional instruction for students struggling with specific concepts
-- [ ] **Document progress** - Record student performance and knowledge test readiness
+- **Administer progress tests** - Conduct regular quizzes and tests to evaluate student knowledge retention
+- **Review test results** - Analyze student performance and identify areas requiring additional instruction
+- **Provide remedial instruction** - Offer additional instruction for students struggling with specific concepts
+- **Document progress** - Record student performance and knowledge test readiness
 
 #### Knowledge Test Preparation Phase
 
-- [ ] **Review test eligibility** - Verify students meet knowledge test requirements and prerequisites
-- [ ] **Conduct final review** - Provide comprehensive review of all knowledge test areas
-- [ ] **Process test endorsements** - Complete knowledge test endorsements for qualified students
-- [ ] **Coordinate test scheduling** - Assist students with knowledge test appointment scheduling
+- **Review test eligibility** - Verify students meet knowledge test requirements and prerequisites
+- **Conduct final review** - Provide comprehensive review of all knowledge test areas
+- **Process test endorsements** - Complete knowledge test endorsements for qualified students
+- **Coordinate test scheduling** - Assist students with knowledge test appointment scheduling
 
 ### Process Mapping
 
@@ -1011,31 +1011,31 @@ ________________________________________________________________________________
 
 #### Instructor Qualification Management Phase
 
-- [ ] **Verify instructor qualifications** - Confirm current certificates, ratings, and required endorsements
-- [ ] **Track certification currency** - Monitor flight instructor certificate expiration dates and renewal requirements
-- [ ] **Coordinate proficiency checks** - Schedule required instructor proficiency checks and standardization training
-- [ ] **Maintain qualification records** - Document instructor qualifications and training completion
+- **Verify instructor qualifications** - Confirm current certificates, ratings, and required endorsements
+- **Track certification currency** - Monitor flight instructor certificate expiration dates and renewal requirements
+- **Coordinate proficiency checks** - Schedule required instructor proficiency checks and standardization training
+- **Maintain qualification records** - Document instructor qualifications and training completion
 
 #### Scheduling Coordination Phase
 
-- [ ] **Collect availability schedules** - Gather instructor availability and coordinate with training demand
-- [ ] **Assign students to instructors** - Match students with appropriate instructors based on experience and specialization
-- [ ] **Coordinate schedule changes** - Manage instructor schedule modifications and student reassignments
-- [ ] **Monitor instructor utilization** - Track instructor workload and ensure balanced assignment distribution
+- **Collect availability schedules** - Gather instructor availability and coordinate with training demand
+- **Assign students to instructors** - Match students with appropriate instructors based on experience and specialization
+- **Coordinate schedule changes** - Manage instructor schedule modifications and student reassignments
+- **Monitor instructor utilization** - Track instructor workload and ensure balanced assignment distribution
 
 #### Professional Development Phase
 
-- [ ] **Plan training activities** - Coordinate instructor training and professional development opportunities
-- [ ] **Conduct standardization training** - Ensure consistent training methods and evaluation standards
-- [ ] **Support certification renewal** - Assist instructors with certificate renewal and additional rating pursuits
-- [ ] **Monitor training effectiveness** - Evaluate instructor performance and training quality outcomes
+- **Plan training activities** - Coordinate instructor training and professional development opportunities
+- **Conduct standardization training** - Ensure consistent training methods and evaluation standards
+- **Support certification renewal** - Assist instructors with certificate renewal and additional rating pursuits
+- **Monitor training effectiveness** - Evaluate instructor performance and training quality outcomes
 
 #### Performance Management Phase
 
-- [ ] **Conduct performance reviews** - Evaluate instructor effectiveness and client satisfaction
-- [ ] **Address performance issues** - Provide additional training or support for instructors needing improvement
-- [ ] **Recognize excellence** - Acknowledge outstanding instructor performance and contributions
-- [ ] **Coordinate corrective actions** - Implement performance improvement plans when necessary
+- **Conduct performance reviews** - Evaluate instructor effectiveness and client satisfaction
+- **Address performance issues** - Provide additional training or support for instructors needing improvement
+- **Recognize excellence** - Acknowledge outstanding instructor performance and contributions
+- **Coordinate corrective actions** - Implement performance improvement plans when necessary
 
 ### Process Mapping
 
@@ -1150,31 +1150,31 @@ ________________________________________________________________________________
 
 #### Session Planning Phase
 
-- [ ] **Review training objectives** - Coordinate simulator scenarios with student training goals and progression
-- [ ] **Schedule simulator sessions** - Coordinate simulator availability with student and instructor schedules
-- [ ] **Prepare simulation scenarios** - Configure simulator settings and training scenarios for specific learning objectives
-- [ ] **Brief session objectives** - Review training goals and expected outcomes with student and instructor
+- **Review training objectives** - Coordinate simulator scenarios with student training goals and progression
+- **Schedule simulator sessions** - Coordinate simulator availability with student and instructor schedules
+- **Prepare simulation scenarios** - Configure simulator settings and training scenarios for specific learning objectives
+- **Brief session objectives** - Review training goals and expected outcomes with student and instructor
 
 #### Equipment Preparation Phase
 
-- [ ] **Conduct pre-session inspection** - Verify simulator equipment operation and system functionality
-- [ ] **Configure training scenario** - Set up simulator for specific training objectives and aircraft type
-- [ ] **Test system operation** - Verify all simulator systems and controls are functioning properly
-- [ ] **Prepare instructional materials** - Gather charts, checklists, and reference materials for training session
+- **Conduct pre-session inspection** - Verify simulator equipment operation and system functionality
+- **Configure training scenario** - Set up simulator for specific training objectives and aircraft type
+- **Test system operation** - Verify all simulator systems and controls are functioning properly
+- **Prepare instructional materials** - Gather charts, checklists, and reference materials for training session
 
 #### Training Session Execution Phase
 
-- [ ] **Conduct simulator briefing** - Review simulator operation and safety procedures with student
-- [ ] **Execute training scenarios** - Conduct planned training exercises and evaluate student performance
-- [ ] **Monitor student progress** - Assess learning objectives achievement and provide real-time feedback
-- [ ] **Document session outcomes** - Record training activities completed and student performance evaluation
+- **Conduct simulator briefing** - Review simulator operation and safety procedures with student
+- **Execute training scenarios** - Conduct planned training exercises and evaluate student performance
+- **Monitor student progress** - Assess learning objectives achievement and provide real-time feedback
+- **Document session outcomes** - Record training activities completed and student performance evaluation
 
 #### Post-Session Activities Phase
 
-- [ ] **Conduct session debrief** - Review training objectives achievement and discuss learning outcomes
-- [ ] **Complete usage documentation** - Record simulator time and training activities in student records
-- [ ] **Perform post-session inspection** - Verify simulator equipment condition and report any discrepancies
-- [ ] **Schedule follow-up training** - Plan subsequent simulator sessions based on training progression needs
+- **Conduct session debrief** - Review training objectives achievement and discuss learning outcomes
+- **Complete usage documentation** - Record simulator time and training activities in student records
+- **Perform post-session inspection** - Verify simulator equipment condition and report any discrepancies
+- **Schedule follow-up training** - Plan subsequent simulator sessions based on training progression needs
 
 ### Process Mapping
 
@@ -1289,31 +1289,31 @@ ________________________________________________________________________________
 
 #### Application Preparation Phase
 
-- [ ] **Verify student eligibility** - Confirm international student status and flight training eligibility requirements
-- [ ] **Collect required documentation** - Gather passport, visa, and other required identification documents
-- [ ] **Complete application forms** - Prepare TSA security clearance application with accurate student information
-- [ ] **Review application accuracy** - Verify all application information is complete and accurate before submission
+- **Verify student eligibility** - Confirm international student status and flight training eligibility requirements
+- **Collect required documentation** - Gather passport, visa, and other required identification documents
+- **Complete application forms** - Prepare TSA security clearance application with accurate student information
+- **Review application accuracy** - Verify all application information is complete and accurate before submission
 
 #### Submission and Processing Phase
 
-- [ ] **Submit TSA application** - File security clearance application with appropriate TSA processing center
-- [ ] **Coordinate background check** - Facilitate TSA background investigation and security screening process
-- [ ] **Monitor application status** - Track clearance application progress and coordinate with TSA as needed
-- [ ] **Provide status updates** - Communicate application progress to student and coordinate any required actions
+- **Submit TSA application** - File security clearance application with appropriate TSA processing center
+- **Coordinate background check** - Facilitate TSA background investigation and security screening process
+- **Monitor application status** - Track clearance application progress and coordinate with TSA as needed
+- **Provide status updates** - Communicate application progress to student and coordinate any required actions
 
 #### Clearance Approval Phase
 
-- [ ] **Receive clearance decision** - Process TSA security clearance approval or denial notification
-- [ ] **Coordinate training authorization** - Authorize flight training activities based on clearance approval conditions
-- [ ] **Document clearance status** - Maintain security clearance records and training authorization documentation
-- [ ] **Communicate clearance conditions** - Brief student and instructors on any clearance limitations or requirements
+- **Receive clearance decision** - Process TSA security clearance approval or denial notification
+- **Coordinate training authorization** - Authorize flight training activities based on clearance approval conditions
+- **Document clearance status** - Maintain security clearance records and training authorization documentation
+- **Communicate clearance conditions** - Brief student and instructors on any clearance limitations or requirements
 
 #### Compliance Monitoring Phase
 
-- [ ] **Monitor clearance validity** - Track security clearance expiration dates and renewal requirements
-- [ ] **Ensure training compliance** - Verify training activities comply with security clearance conditions
-- [ ] **Coordinate clearance updates** - Process clearance modifications or renewals as required
-- [ ] **Maintain compliance records** - Document ongoing compliance with security clearance requirements
+- **Monitor clearance validity** - Track security clearance expiration dates and renewal requirements
+- **Ensure training compliance** - Verify training activities comply with security clearance conditions
+- **Coordinate clearance updates** - Process clearance modifications or renewals as required
+- **Maintain compliance records** - Document ongoing compliance with security clearance requirements
 
 ### Process Mapping
 
@@ -1428,31 +1428,31 @@ ________________________________________________________________________________
 
 #### Invoice Generation Phase
 
-- [ ] **Collect training activity data** - Gather flight time, ground instruction, and other billable training activities
-- [ ] **Verify billing accuracy** - Confirm training records match instructor and student documentation
-- [ ] **Calculate charges** - Apply current rates to training activities and add applicable taxes or fees
-- [ ] **Generate student invoices** - Create detailed invoices with training activity breakdown and payment terms
+- **Collect training activity data** - Gather flight time, ground instruction, and other billable training activities
+- **Verify billing accuracy** - Confirm training records match instructor and student documentation
+- **Calculate charges** - Apply current rates to training activities and add applicable taxes or fees
+- **Generate student invoices** - Create detailed invoices with training activity breakdown and payment terms
 
 #### Payment Processing Phase
 
-- [ ] **Process payment transactions** - Handle cash, check, and credit card payments according to established procedures
-- [ ] **Apply payments to accounts** - Credit payments to appropriate student accounts and update account balances
-- [ ] **Issue payment receipts** - Provide payment confirmation and receipts to students
-- [ ] **Reconcile payment records** - Verify payment processing accuracy and resolve any discrepancies
+- **Process payment transactions** - Handle cash, check, and credit card payments according to established procedures
+- **Apply payments to accounts** - Credit payments to appropriate student accounts and update account balances
+- **Issue payment receipts** - Provide payment confirmation and receipts to students
+- **Reconcile payment records** - Verify payment processing accuracy and resolve any discrepancies
 
 #### Account Management Phase
 
-- [ ] **Monitor account status** - Track student account balances and identify overdue accounts
-- [ ] **Send payment reminders** - Contact students with overdue balances and coordinate payment arrangements
-- [ ] **Coordinate payment plans** - Establish payment schedules for students requiring extended payment terms
-- [ ] **Review credit limits** - Monitor student account limits and coordinate training authorization decisions
+- **Monitor account status** - Track student account balances and identify overdue accounts
+- **Send payment reminders** - Contact students with overdue balances and coordinate payment arrangements
+- **Coordinate payment plans** - Establish payment schedules for students requiring extended payment terms
+- **Review credit limits** - Monitor student account limits and coordinate training authorization decisions
 
 #### Collections and Follow-up Phase
 
-- [ ] **Coordinate collection activities** - Follow up on overdue accounts and coordinate collection procedures
-- [ ] **Document collection efforts** - Maintain records of collection communications and payment arrangements
-- [ ] **Coordinate training holds** - Suspend training activities for accounts with significant overdue balances
-- [ ] **Process account adjustments** - Handle refunds, credits, and billing corrections as needed
+- **Coordinate collection activities** - Follow up on overdue accounts and coordinate collection procedures
+- **Document collection efforts** - Maintain records of collection communications and payment arrangements
+- **Coordinate training holds** - Suspend training activities for accounts with significant overdue balances
+- **Process account adjustments** - Handle refunds, credits, and billing corrections as needed
 
 ### Process Mapping
 
@@ -1567,31 +1567,31 @@ ________________________________________________________________________________
 
 #### Pre-Flight Planning Phase
 
-- [ ] **Review training objectives** - Confirm lesson goals and specific maneuvers or procedures to be practiced
-- [ ] **Assess weather conditions** - Analyze current and forecast weather for flight safety and training suitability
-- [ ] **Plan flight route** - Determine training area, airports, and navigation requirements for planned activities
-- [ ] **Review aircraft status** - Verify aircraft airworthiness, fuel status, and equipment availability
+- **Review training objectives** - Confirm lesson goals and specific maneuvers or procedures to be practiced
+- **Assess weather conditions** - Analyze current and forecast weather for flight safety and training suitability
+- **Plan flight route** - Determine training area, airports, and navigation requirements for planned activities
+- **Review aircraft status** - Verify aircraft airworthiness, fuel status, and equipment availability
 
 #### Safety Briefing Phase
 
-- [ ] **Conduct safety briefing** - Review emergency procedures, risk factors, and safety considerations for planned flight
-- [ ] **Review emergency procedures** - Discuss engine failures, emergency landings, and other critical emergency responses
-- [ ] **Assess risk factors** - Identify and discuss weather, terrain, traffic, and other operational risks
-- [ ] **Establish communication procedures** - Review radio procedures, air traffic control coordination, and emergency communications
+- **Conduct safety briefing** - Review emergency procedures, risk factors, and safety considerations for planned flight
+- **Review emergency procedures** - Discuss engine failures, emergency landings, and other critical emergency responses
+- **Assess risk factors** - Identify and discuss weather, terrain, traffic, and other operational risks
+- **Establish communication procedures** - Review radio procedures, air traffic control coordination, and emergency communications
 
 #### Aircraft Inspection Phase
 
-- [ ] **Execute pre-flight inspection** - Conduct systematic aircraft inspection using approved checklist procedures
-- [ ] **Review aircraft systems** - Verify proper operation of engine, electrical, and flight control systems
-- [ ] **Check fuel and oil** - Confirm adequate fuel quantity and oil levels for planned flight duration
-- [ ] **Document inspection results** - Record any discrepancies and coordinate maintenance actions if required
+- **Execute pre-flight inspection** - Conduct systematic aircraft inspection using approved checklist procedures
+- **Review aircraft systems** - Verify proper operation of engine, electrical, and flight control systems
+- **Check fuel and oil** - Confirm adequate fuel quantity and oil levels for planned flight duration
+- **Document inspection results** - Record any discrepancies and coordinate maintenance actions if required
 
 #### Final Preparation Phase
 
-- [ ] **Complete cockpit preparation** - Configure aircraft systems, radios, and navigation equipment for departure
-- [ ] **Review lesson plan** - Confirm training sequence and coordinate with air traffic control as needed
-- [ ] **Conduct final safety check** - Verify all safety items completed and authorize flight training commencement
-- [ ] **Brief passenger procedures** - Review safety procedures for any passengers accompanying training flight
+- **Complete cockpit preparation** - Configure aircraft systems, radios, and navigation equipment for departure
+- **Review lesson plan** - Confirm training sequence and coordinate with air traffic control as needed
+- **Conduct final safety check** - Verify all safety items completed and authorize flight training commencement
+- **Brief passenger procedures** - Review safety procedures for any passengers accompanying training flight
 
 ### Process Mapping
 
@@ -1706,31 +1706,31 @@ ________________________________________________________________________________
 
 #### Initial Assessment Phase
 
-- [ ] **Conduct post-flight inspection** - Complete aircraft inspection and document any discrepancies discovered
-- [ ] **Review flight objectives** - Assess achievement of planned training objectives and lesson goals
-- [ ] **Evaluate student performance** - Analyze student performance in relation to established training standards
-- [ ] **Identify learning opportunities** - Recognize areas of strength and opportunities for improvement
+- **Conduct post-flight inspection** - Complete aircraft inspection and document any discrepancies discovered
+- **Review flight objectives** - Assess achievement of planned training objectives and lesson goals
+- **Evaluate student performance** - Analyze student performance in relation to established training standards
+- **Identify learning opportunities** - Recognize areas of strength and opportunities for improvement
 
 #### Debriefing Discussion Phase
 
-- [ ] **Facilitate student self-assessment** - Encourage student to evaluate their own performance and identify lessons learned
-- [ ] **Provide performance feedback** - Offer specific, constructive feedback on flight performance and decision-making
-- [ ] **Discuss safety considerations** - Review safety-related decisions and risk management during the flight
-- [ ] **Address student questions** - Answer student questions and clarify concepts or procedures
+- **Facilitate student self-assessment** - Encourage student to evaluate their own performance and identify lessons learned
+- **Provide performance feedback** - Offer specific, constructive feedback on flight performance and decision-making
+- **Discuss safety considerations** - Review safety-related decisions and risk management during the flight
+- **Address student questions** - Answer student questions and clarify concepts or procedures
 
 #### Documentation Phase
 
-- [ ] **Complete logbook entries** - Record accurate flight time, aircraft type, and training activities in student logbook
-- [ ] **Update training records** - Document lesson completion and progress toward training milestones
-- [ ] **Record instructor endorsements** - Provide required endorsements for solo flights or training achievements
-- [ ] **Complete billing documentation** - Verify flight time accuracy for billing and administrative purposes
+- **Complete logbook entries** - Record accurate flight time, aircraft type, and training activities in student logbook
+- **Update training records** - Document lesson completion and progress toward training milestones
+- **Record instructor endorsements** - Provide required endorsements for solo flights or training achievements
+- **Complete billing documentation** - Verify flight time accuracy for billing and administrative purposes
 
 #### Planning Phase
 
-- [ ] **Plan next lesson** - Coordinate subsequent training activities based on progress and learning needs
-- [ ] **Schedule follow-up training** - Coordinate aircraft and instructor availability for next scheduled lesson
-- [ ] **Identify additional resources** - Recommend study materials or additional practice for areas needing improvement
-- [ ] **Coordinate milestone activities** - Plan for stage checks, solo flights, or certification activities as appropriate
+- **Plan next lesson** - Coordinate subsequent training activities based on progress and learning needs
+- **Schedule follow-up training** - Coordinate aircraft and instructor availability for next scheduled lesson
+- **Identify additional resources** - Recommend study materials or additional practice for areas needing improvement
+- **Coordinate milestone activities** - Plan for stage checks, solo flights, or certification activities as appropriate
 
 ### Process Mapping
 
@@ -1845,31 +1845,31 @@ ________________________________________________________________________________
 
 #### Emergency Detection and Assessment Phase
 
-- [ ] **Identify emergency situation** - Recognize fire, medical, security, or other emergency requiring immediate response
-- [ ] **Assess threat severity** - Evaluate immediate danger to persons and determine appropriate response level
-- [ ] **Activate emergency procedures** - Initiate appropriate emergency response based on situation assessment
-- [ ] **Notify emergency services** - Contact 911, fire department, medical services, or law enforcement as required
+- **Identify emergency situation** - Recognize fire, medical, security, or other emergency requiring immediate response
+- **Assess threat severity** - Evaluate immediate danger to persons and determine appropriate response level
+- **Activate emergency procedures** - Initiate appropriate emergency response based on situation assessment
+- **Notify emergency services** - Contact 911, fire department, medical services, or law enforcement as required
 
 #### Immediate Response Phase
 
-- [ ] **Ensure personal safety** - Verify responder safety before attempting assistance to others
-- [ ] **Provide immediate assistance** - Render first aid, fire suppression, or other immediate aid as trained and safe to do
-- [ ] **Coordinate evacuation** - Direct students and team members to designated evacuation routes and assembly areas
-- [ ] **Account for all persons** - Verify all students, instructors, and team members are safely evacuated
+- **Ensure personal safety** - Verify responder safety before attempting assistance to others
+- **Provide immediate assistance** - Render first aid, fire suppression, or other immediate aid as trained and safe to do
+- **Coordinate evacuation** - Direct students and team members to designated evacuation routes and assembly areas
+- **Account for all persons** - Verify all students, instructors, and team members are safely evacuated
 
 #### Evacuation Coordination Phase
 
-- [ ] **Direct evacuation routes** - Guide persons to nearest safe exits and designated assembly areas
-- [ ] **Assist mobility-impaired persons** - Provide assistance to persons requiring evacuation help
-- [ ] **Maintain evacuation discipline** - Ensure orderly evacuation without panic or confusion
-- [ ] **Coordinate with emergency services** - Provide information and assistance to responding emergency personnel
+- **Direct evacuation routes** - Guide persons to nearest safe exits and designated assembly areas
+- **Assist mobility-impaired persons** - Provide assistance to persons requiring evacuation help
+- **Maintain evacuation discipline** - Ensure orderly evacuation without panic or confusion
+- **Coordinate with emergency services** - Provide information and assistance to responding emergency personnel
 
 #### Post-Emergency Phase
 
-- [ ] **Conduct accountability check** - Verify all persons are accounted for and safe
-- [ ] **Coordinate medical assistance** - Ensure injured persons receive appropriate medical care
-- [ ] **Secure facility** - Coordinate with authorities to secure facility and prevent unauthorized access
-- [ ] **Document incident** - Record emergency details for investigation and reporting requirements
+- **Conduct accountability check** - Verify all persons are accounted for and safe
+- **Coordinate medical assistance** - Ensure injured persons receive appropriate medical care
+- **Secure facility** - Coordinate with authorities to secure facility and prevent unauthorized access
+- **Document incident** - Record emergency details for investigation and reporting requirements
 
 ### Process Mapping
 
@@ -1984,31 +1984,31 @@ ________________________________________________________________________________
 
 #### Fuel Planning Phase
 
-- [ ] **Assess fuel requirements** - Calculate fuel needs for scheduled training flights and reserve requirements
-- [ ] **Monitor fuel inventory** - Track fuel tank levels and coordinate replenishment scheduling
-- [ ] **Plan refueling schedule** - Coordinate aircraft refueling with training schedules and aircraft availability
-- [ ] **Verify fuel specifications** - Confirm correct fuel type and grade for each aircraft type
+- **Assess fuel requirements** - Calculate fuel needs for scheduled training flights and reserve requirements
+- **Monitor fuel inventory** - Track fuel tank levels and coordinate replenishment scheduling
+- **Plan refueling schedule** - Coordinate aircraft refueling with training schedules and aircraft availability
+- **Verify fuel specifications** - Confirm correct fuel type and grade for each aircraft type
 
 #### Pre-Refueling Safety Phase
 
-- [ ] **Conduct safety inspection** - Verify refueling equipment condition and safety system operation
-- [ ] **Test fuel quality** - Sample fuel for contamination, water, and specification compliance
-- [ ] **Establish safety perimeter** - Ensure area security and fire safety equipment availability
-- [ ] **Review aircraft status** - Verify aircraft electrical systems are off and refueling procedures are safe
+- **Conduct safety inspection** - Verify refueling equipment condition and safety system operation
+- **Test fuel quality** - Sample fuel for contamination, water, and specification compliance
+- **Establish safety perimeter** - Ensure area security and fire safety equipment availability
+- **Review aircraft status** - Verify aircraft electrical systems are off and refueling procedures are safe
 
 #### Refueling Operations Phase
 
-- [ ] **Connect grounding equipment** - Establish proper electrical grounding for fuel transfer operations
-- [ ] **Verify fuel type match** - Confirm fuel grade matches aircraft requirements before fuel transfer
-- [ ] **Monitor fuel transfer** - Supervise fuel transfer operation and watch for leaks or safety issues
-- [ ] **Complete fuel quantity verification** - Confirm fuel quantity matches requirements and update records
+- **Connect grounding equipment** - Establish proper electrical grounding for fuel transfer operations
+- **Verify fuel type match** - Confirm fuel grade matches aircraft requirements before fuel transfer
+- **Monitor fuel transfer** - Supervise fuel transfer operation and watch for leaks or safety issues
+- **Complete fuel quantity verification** - Confirm fuel quantity matches requirements and update records
 
 #### Post-Refueling Documentation Phase
 
-- [ ] **Disconnect equipment safely** - Remove fuel hoses and grounding equipment following safety procedures
-- [ ] **Complete fuel service documentation** - Record fuel quantity, type, and service details accurately
-- [ ] **Update aircraft records** - Record fuel service in aircraft logbooks and maintenance tracking
-- [ ] **Process billing information** - Coordinate fuel service charges with billing and student accounts
+- **Disconnect equipment safely** - Remove fuel hoses and grounding equipment following safety procedures
+- **Complete fuel service documentation** - Record fuel quantity, type, and service details accurately
+- **Update aircraft records** - Record fuel service in aircraft logbooks and maintenance tracking
+- **Process billing information** - Coordinate fuel service charges with billing and student accounts
 
 ### Process Mapping
 
@@ -2123,31 +2123,31 @@ ________________________________________________________________________________
 
 #### Feedback Collection Phase
 
-- [ ] **Design survey instruments** - Create feedback forms and surveys tailored to different training stages and experiences
-- [ ] **Distribute feedback requests** - Coordinate survey distribution at appropriate training milestones and completion points
-- [ ] **Collect ongoing feedback** - Encourage continuous feedback through multiple channels and communication methods
-- [ ] **Document feedback received** - Record all feedback systematically for analysis and response coordination
+- **Design survey instruments** - Create feedback forms and surveys tailored to different training stages and experiences
+- **Distribute feedback requests** - Coordinate survey distribution at appropriate training milestones and completion points
+- **Collect ongoing feedback** - Encourage continuous feedback through multiple channels and communication methods
+- **Document feedback received** - Record all feedback systematically for analysis and response coordination
 
 #### Analysis and Evaluation Phase
 
-- [ ] **Analyze feedback trends** - Review feedback data to identify patterns, common issues, and improvement opportunities
-- [ ] **Evaluate satisfaction metrics** - Calculate satisfaction scores and track performance against established targets
-- [ ] **Identify improvement priorities** - Prioritize feedback-driven improvements based on impact and feasibility
-- [ ] **Coordinate with stakeholders** - Share feedback analysis with relevant department leaders for action planning
+- **Analyze feedback trends** - Review feedback data to identify patterns, common issues, and improvement opportunities
+- **Evaluate satisfaction metrics** - Calculate satisfaction scores and track performance against established targets
+- **Identify improvement priorities** - Prioritize feedback-driven improvements based on impact and feasibility
+- **Coordinate with stakeholders** - Share feedback analysis with relevant department leaders for action planning
 
 #### Response and Communication Phase
 
-- [ ] **Develop response plans** - Create specific action plans to address feedback and improve client satisfaction
-- [ ] **Communicate with clients** - Respond to individual feedback and communicate program improvements to client base
-- [ ] **Implement improvements** - Execute feedback-driven changes to training programs, procedures, and services
-- [ ] **Follow up on changes** - Monitor improvement effectiveness and gather additional feedback on changes implemented
+- **Develop response plans** - Create specific action plans to address feedback and improve client satisfaction
+- **Communicate with clients** - Respond to individual feedback and communicate program improvements to client base
+- **Implement improvements** - Execute feedback-driven changes to training programs, procedures, and services
+- **Follow up on changes** - Monitor improvement effectiveness and gather additional feedback on changes implemented
 
 #### Monitoring and Continuous Improvement Phase
 
-- [ ] **Track satisfaction trends** - Monitor client satisfaction metrics and track improvement over time
-- [ ] **Evaluate program effectiveness** - Assess feedback program effectiveness and make adjustments to collection methods
-- [ ] **Coordinate ongoing improvements** - Maintain continuous improvement cycle based on regular feedback analysis
-- [ ] **Report satisfaction results** - Provide regular satisfaction reports to leadership and team members
+- **Track satisfaction trends** - Monitor client satisfaction metrics and track improvement over time
+- **Evaluate program effectiveness** - Assess feedback program effectiveness and make adjustments to collection methods
+- **Coordinate ongoing improvements** - Maintain continuous improvement cycle based on regular feedback analysis
+- **Report satisfaction results** - Provide regular satisfaction reports to leadership and team members
 
 ### Process Mapping
 

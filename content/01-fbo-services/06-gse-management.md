@@ -44,31 +44,31 @@ Investigate equipment-related incidents and coordinate corrective actions to pre
 
 ### Daily Operations Phase
 
-- [ ] **Conduct equipment inspection** - Perform comprehensive visual, operational, and safety system checks on all ground support equipment
-- [ ] **Document equipment status** - Record condition and availability in equipment management system with detailed inspection notes
-- [ ] **Review maintenance schedules** - Check scheduled maintenance requirements and coordinate with team for upcoming service intervals
-- [ ] **Verify operator certifications** - Confirm equipment operator certification status and coordinate additional training if required
+- **Conduct equipment inspection** - Perform comprehensive visual, operational, and safety system checks on all ground support equipment
+- **Document equipment status** - Record condition and availability in equipment management system with detailed inspection notes
+- **Review maintenance schedules** - Check scheduled maintenance requirements and coordinate with team for upcoming service intervals
+- **Verify operator certifications** - Confirm equipment operator certification status and coordinate additional training if required
 
 ### Equipment Deployment Phase
 
-- [ ] **Assign equipment to operations** - Match equipment to specific operations based on aircraft requirements and operational priorities
-- [ ] **Conduct pre-operation safety check** - Verify fluid levels, safety systems, and operational controls before deployment
-- [ ] **Deploy equipment to service locations** - Position equipment at designated locations and coordinate with line service team
-- [ ] **Monitor operational performance** - Track equipment performance during operations and coordinate with operators for any issues
+- **Assign equipment to operations** - Match equipment to specific operations based on aircraft requirements and operational priorities
+- **Conduct pre-operation safety check** - Verify fluid levels, safety systems, and operational controls before deployment
+- **Deploy equipment to service locations** - Position equipment at designated locations and coordinate with line service team
+- **Monitor operational performance** - Track equipment performance during operations and coordinate with operators for any issues
 
 ### Post-Operation Phase
 
-- [ ] **Conduct post-operation inspection** - Examine equipment after use and document any maintenance requirements or observations
-- [ ] **Return equipment to storage** - Secure equipment in designated storage areas with proper environmental protection
-- [ ] **Coordinate maintenance activities** - Schedule and coordinate maintenance with qualified technicians and maintain records
-- [ ] **Manage parts and supplies** - Monitor parts inventory and coordinate with suppliers for maintenance supplies and components
+- **Conduct post-operation inspection** - Examine equipment after use and document any maintenance requirements or observations
+- **Return equipment to storage** - Secure equipment in designated storage areas with proper environmental protection
+- **Coordinate maintenance activities** - Schedule and coordinate maintenance with qualified technicians and maintain records
+- **Manage parts and supplies** - Monitor parts inventory and coordinate with suppliers for maintenance supplies and components
 
 ### Analysis and Planning Phase
 
-- [ ] **Analyze equipment utilization** - Review usage patterns and identify opportunities for improved utilization and efficiency
-- [ ] **Coordinate training programs** - Manage operator training programs and maintain current certification records for all operators
-- [ ] **Plan equipment replacement** - Monitor equipment condition and coordinate replacement planning based on usage and costs
-- [ ] **Update operational procedures** - Review and update equipment procedures based on operational experience and feedback
+- **Analyze equipment utilization** - Review usage patterns and identify opportunities for improved utilization and efficiency
+- **Coordinate training programs** - Manage operator training programs and maintain current certification records for all operators
+- **Plan equipment replacement** - Monitor equipment condition and coordinate replacement planning based on usage and costs
+- **Update operational procedures** - Review and update equipment procedures based on operational experience and feedback
 
 ## Process Mapping
 

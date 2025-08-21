@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Calibration Planning and Scheduling Phase
 
-- [ ] **Establish calibration schedules** - Determine calibration intervals based on manufacturer recommendations and usage requirements
-- [ ] **Identify calibration requirements** - Review equipment specifications and determine required calibration parameters and tolerances
-- [ ] **Select calibration providers** - Choose qualified calibration laboratories with appropriate certifications and capabilities
-- [ ] **Schedule calibration services** - Coordinate calibration timing to minimize operational impact while maintaining compliance
+- **Establish calibration schedules** - Determine calibration intervals based on manufacturer recommendations and usage requirements
+- **Identify calibration requirements** - Review equipment specifications and determine required calibration parameters and tolerances
+- **Select calibration providers** - Choose qualified calibration laboratories with appropriate certifications and capabilities
+- **Schedule calibration services** - Coordinate calibration timing to minimize operational impact while maintaining compliance
 
 ### Pre-Calibration Preparation Phase
 
-- [ ] **Review equipment condition** - Inspect equipment for damage or conditions that might affect calibration accuracy
-- [ ] **Gather calibration history** - Review previous calibration records and identify any recurring issues or trends
-- [ ] **Prepare equipment for shipment** - Package equipment properly for transport to calibration facility
-- [ ] **Document equipment status** - Record equipment condition and last use before calibration service
+- **Review equipment condition** - Inspect equipment for damage or conditions that might affect calibration accuracy
+- **Gather calibration history** - Review previous calibration records and identify any recurring issues or trends
+- **Prepare equipment for shipment** - Package equipment properly for transport to calibration facility
+- **Document equipment status** - Record equipment condition and last use before calibration service
 
 ### Calibration Service Coordination Phase
 
-- [ ] **Ship equipment for calibration** - Coordinate with calibration laboratory for equipment receipt and service scheduling
-- [ ] **Monitor calibration progress** - Track calibration status and coordinate with laboratory for any issues or delays
-- [ ] **Review calibration results** - Examine calibration certificates and test results for compliance and accuracy
-- [ ] **Process out-of-tolerance conditions** - Evaluate impact of any out-of-tolerance conditions on previous measurements
+- **Ship equipment for calibration** - Coordinate with calibration laboratory for equipment receipt and service scheduling
+- **Monitor calibration progress** - Track calibration status and coordinate with laboratory for any issues or delays
+- **Review calibration results** - Examine calibration certificates and test results for compliance and accuracy
+- **Process out-of-tolerance conditions** - Evaluate impact of any out-of-tolerance conditions on previous measurements
 
 ### Post-Calibration Processing Phase
 
-- [ ] **Update calibration records** - Enter calibration data into equipment tracking system and update calibration status
-- [ ] **Apply calibration labels** - Attach current calibration labels showing calibration date and next due date
-- [ ] **Return equipment to service** - Make calibrated equipment available for operational use with updated status
-- [ ] **Document calibration completion** - Complete calibration records and file certificates in equipment documentation
+- **Update calibration records** - Enter calibration data into equipment tracking system and update calibration status
+- **Apply calibration labels** - Attach current calibration labels showing calibration date and next due date
+- **Return equipment to service** - Make calibrated equipment available for operational use with updated status
+- **Document calibration completion** - Complete calibration records and file certificates in equipment documentation
 
 ## Process Mapping
 

@@ -5,102 +5,133 @@ Core client-facing operations that define the Fixed Base Operator experience. Th
 ### Procedures in this Section
 
 #### [Aircraft Arrival and Departure Handling Process](01-aircraft-arrival-departure-handling.md)
+
 Provide handling services for arriving and departing general aviation aircraft to ensure safe, efficient, and professional client experience.
+
 - Aircraft marshalling and parking coordination
 - Client greeting and service coordination  
 - Departure preparation and assistance
 
 #### [Fueling Operations Process](02-fueling-operations.md)
+
 Provide safe, accurate, and efficient aircraft fueling services for both Jet A and 100LL aviation gasoline while maintaining quality control and regulatory compliance.
+
 - Fuel quality control and safety procedures
 - Aircraft fueling protocols
 - Fuel system maintenance and monitoring
 
 #### [Hangar and Ramp Space Allocation Process](03-hangar-ramp-space-allocation.md)
+
 Manage hangar and ramp space allocation to optimize facility utilization while ensuring safe aircraft operations and client satisfaction.
+
 - Space reservation and assignment
 - Hangar door operations
 - Ramp traffic management
 
 #### [Client Check-In and Concierge Services Process](04-client-checkin-concierge.md)
+
 Provide exceptional client reception and concierge services to ensure a welcoming experience and address all client needs during their visit.
+
 - Client reception and registration
 - Concierge service coordination
 - Amenity provision and facility tours
 
 #### [Aircraft Marshalling and Parking Process](05-aircraft-marshalling-parking.md)
+
 Provide safe and efficient aircraft marshalling and parking services to ensure proper aircraft positioning and operational safety.
+
 - Ground guidance procedures
 - Parking space optimization
 - Safety protocols for aircraft movement
 
 #### [Ground Support Equipment Management Process](06-gse-management.md)
+
 Manage ground support equipment inventory, maintenance, and deployment to ensure reliable equipment availability for all operations.
+
 - Equipment inventory and maintenance
 - Operator training and certification
 - Service scheduling and deployment
 
 #### [Maintenance Coordination for Visiting Aircraft Process](07-maintenance-coordination-visiting.md)
+
 Coordinate maintenance services for visiting aircraft by managing vendor relationships and ensuring quality service delivery.
+
 - Service request processing
 - Vendor coordination and oversight
 - Quality assurance and client communication
 
 #### [Crew and Passenger Transportation Arrangements Process](08-transportation-arrangements.md)
+
 Coordinate ground transportation and accommodation services for crew members and passengers to ensure convenient and comfortable travel experiences.
+
 - Ground transportation coordination
 - Hotel and accommodation booking
 - Local area information and recommendations
 
 #### [Billing and Invoicing for Services Process](09-billing-invoicing-services.md)
+
 Manage accurate billing and invoicing for all FBO services while maintaining transparent pricing and efficient payment processing.
+
 - Service tracking and documentation
 - Invoice generation and processing
 - Payment collection and account management
 
 #### [Safety and Security Inspections Process](10-safety-security-inspections.md)
+
 Conduct regular safety and security inspections to maintain facility safety standards and regulatory compliance.
+
 - Daily facility safety checks
 - Security protocol implementation
 - Incident prevention and reporting
 
 #### [Facility Maintenance and Cleaning Process](11-facility-maintenance-cleaning.md)
+
 Maintain facility cleanliness and operational readiness through systematic maintenance and cleaning procedures.
+
 - Scheduled maintenance protocols
 - Cleaning standards and procedures
 - Equipment upkeep and replacement
 
 #### [Weather Briefing and Flight Planning Support Process](12-weather-flight-planning-support.md)
+
 Provide weather briefing and flight planning assistance to support safe and efficient flight operations.
+
 - Weather information services
 - Flight planning assistance
 - Regulatory briefing support
 
 #### [Catering and In-Flight Service Requests Process](13-catering-inflight-services.md)
+
 Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
+
 - Catering vendor coordination
 - Special service arrangements
 - Quality control and delivery timing
 
 #### [Emergency Response and Incident Reporting Process](14-emergency-response-incident-reporting.md)
+
 Manage emergency response procedures and incident reporting to ensure rapid response and proper documentation of safety events.
+
 - Emergency procedure activation
 - Incident documentation and reporting
 - Follow-up and corrective action coordination
 
 ### Quick Reference
+
 - **Emergency Contact**: [Phone Number]
 - **Operations Manager**: [Name/Extension]
 - **Client Service Hours**: [Hours]
 - **After-Hours Contact**: [Phone Number]
 
 ### Training Requirements
+
 All FBO service personnel must complete:
-- [ ] Client service training
-- [ ] Safety and security protocols
-- [ ] Equipment operation certification
-- [ ] Emergency response procedures
-- [ ] Annual recurrent training
+
+- Client service training
+- Safety and security protocols
+- Equipment operation certification
+- Emergency response procedures
+- Annual recurrent training
 
 ---
 
@@ -138,37 +169,37 @@ Conduct safety briefings and maintain situational awareness during complex aircr
 
 #### Pre-Arrival Phase
 
-- [ ] **Review flight plan information** - Confirm aircraft type, arrival time, and special requirements
-- [ ] **Verify ramp space availability** - Check assigned parking position and clearance requirements
-- [ ] **Prepare ground support equipment** - Position required equipment and verify operational status
-- [ ] **Monitor aircraft approach** - Track inbound aircraft progress via radio communications and ATC coordination
+- **Review flight plan information** - Confirm aircraft type, arrival time, and special requirements
+- **Verify ramp space availability** - Check assigned parking position and clearance requirements
+- **Prepare ground support equipment** - Position required equipment and verify operational status
+- **Monitor aircraft approach** - Track inbound aircraft progress via radio communications and ATC coordination
 
 #### Aircraft Arrival Phase
 
-- [ ] **Set up marshalling position** - Position equipment and personnel with proper safety gear and communication devices
-- [ ] **Guide aircraft to parking** - Provide visual marshalling signals using standard hand signals for precise positioning
-- [ ] **Conduct initial safety assessment** - Verify aircraft position, chock placement, and equipment positioning
-- [ ] **Greet clients professionally** - Welcome clients and assess immediate service needs (fuel, ground power, passenger services)
+- **Set up marshalling position** - Position equipment and personnel with proper safety gear and communication devices
+- **Guide aircraft to parking** - Provide visual marshalling signals using standard hand signals for precise positioning
+- **Conduct initial safety assessment** - Verify aircraft position, chock placement, and equipment positioning
+- **Greet clients professionally** - Welcome clients and assess immediate service needs (fuel, ground power, passenger services)
 
 #### Service Coordination Phase
 
-- [ ] **Document service requests** - Record all requested services and coordinate timing with team members and vendors
-- [ ] **Monitor service progress** - Maintain client communication regarding timing and operational updates
-- [ ] **Coordinate ongoing services** - Ensure efficient delivery of fuel, maintenance, catering, and other requested services
+- **Document service requests** - Record all requested services and coordinate timing with team members and vendors
+- **Monitor service progress** - Maintain client communication regarding timing and operational updates
+- **Coordinate ongoing services** - Ensure efficient delivery of fuel, maintenance, catering, and other requested services
 
 #### Pre-Departure Phase
 
-- [ ] **Confirm service completion** - Verify all services are completed and documented for billing
-- [ ] **Coordinate departure timing** - Communicate with clients regarding departure requirements and timing
-- [ ] **Prepare for engine start** - Remove ground support equipment and conduct final safety inspection
-- [ ] **Provide fire guard services** - Monitor engine start for safety concerns and irregularities
+- **Confirm service completion** - Verify all services are completed and documented for billing
+- **Coordinate departure timing** - Communicate with clients regarding departure requirements and timing
+- **Prepare for engine start** - Remove ground support equipment and conduct final safety inspection
+- **Provide fire guard services** - Monitor engine start for safety concerns and irregularities
 
 #### Departure Phase
 
-- [ ] **Guide aircraft to taxiway** - Provide marshalling signals for safe taxi using appropriate safety protocols
-- [ ] **Complete final documentation** - Update service records, billing information, and operational notes
-- [ ] **Reset ramp area** - Clear and inspect parking area, return equipment to storage, prepare for next aircraft
-- [ ] **Conduct service follow-up** - Contact clients post-departure for feedback and coordinate future services
+- **Guide aircraft to taxiway** - Provide marshalling signals for safe taxi using appropriate safety protocols
+- **Complete final documentation** - Update service records, billing information, and operational notes
+- **Reset ramp area** - Clear and inspect parking area, return equipment to storage, prepare for next aircraft
+- **Conduct service follow-up** - Contact clients post-departure for feedback and coordinate future services
 
 ### Process Mapping
 
@@ -257,31 +288,31 @@ ________________________________________________________________________________
 
 #### Pre-Fueling Phase
 
-- [ ] **Conduct safety assessment** - Inspect aircraft fuel system, verify fuel type requirements, and assess environmental conditions
-- [ ] **Perform fuel quality testing** - Conduct water contamination, specific gravity, and visual inspection tests before dispensing
-- [ ] **Prepare equipment and grounding** - Position fuel truck safely, establish grounding connections, and verify safety equipment operation
-- [ ] **Verify fuel type compatibility** - Confirm aircraft requirements against fuel truck contents before connecting lines
+- **Conduct safety assessment** - Inspect aircraft fuel system, verify fuel type requirements, and assess environmental conditions
+- **Perform fuel quality testing** - Conduct water contamination, specific gravity, and visual inspection tests before dispensing
+- **Prepare equipment and grounding** - Position fuel truck safely, establish grounding connections, and verify safety equipment operation
+- **Verify fuel type compatibility** - Confirm aircraft requirements against fuel truck contents before connecting lines
 
 #### Fueling Operations Phase
 
-- [ ] **Connect fuel lines** - Attach fuel nozzle using proper techniques and verify secure connection before fuel flow
-- [ ] **Monitor fuel flow** - Watch flow rate, quantity delivered, and check for leaks or irregularities during process
-- [ ] **Verify fuel quantity** - Confirm delivered quantity matches client request and aircraft capacity using multiple methods
-- [ ] **Disconnect fuel lines safely** - Remove lines, drain residual fuel, and secure equipment following proper procedures
+- **Connect fuel lines** - Attach fuel nozzle using proper techniques and verify secure connection before fuel flow
+- **Monitor fuel flow** - Watch flow rate, quantity delivered, and check for leaks or irregularities during process
+- **Verify fuel quantity** - Confirm delivered quantity matches client request and aircraft capacity using multiple methods
+- **Disconnect fuel lines safely** - Remove lines, drain residual fuel, and secure equipment following proper procedures
 
 #### Post-Fueling Phase
 
-- [ ] **Secure fuel caps** - Ensure all aircraft fuel caps are properly secured and torqued to manufacturer specifications
-- [ ] **Fill documentation** - Fill fuel delivery ticket with quantity, type, aircraft information, and quality test results
-- [ ] **Process billing transaction** - Enter transaction in billing system and provide detailed receipt to client
-- [ ] **Update inventory records** - Record fuel usage and monitor levels for reorder requirements
+- **Secure fuel caps** - Ensure all aircraft fuel caps are properly secured and torqued to manufacturer specifications
+- **Fill documentation** - Fill fuel delivery ticket with quantity, type, aircraft information, and quality test results
+- **Process billing transaction** - Enter transaction in billing system and provide detailed receipt to client
+- **Update inventory records** - Record fuel usage and monitor levels for reorder requirements
 
 #### Equipment Shutdown Phase
 
-- [ ] **Shutdown fuel systems** - Shut down fuel truck systems and conduct post-operation inspection
-- [ ] **Return equipment to storage** - Secure equipment in designated storage area following proper procedures
-- [ ] **Inspect equipment condition** - Document any maintenance requirements or operational issues identified
-- [ ] **Ensure environmental compliance** - Inspect area for spills and fill required environmental documentation
+- **Shutdown fuel systems** - Shut down fuel truck systems and conduct post-operation inspection
+- **Return equipment to storage** - Secure equipment in designated storage area following proper procedures
+- **Inspect equipment condition** - Document any maintenance requirements or operational issues identified
+- **Ensure environmental compliance** - Inspect area for spills and fill required environmental documentation
 
 ### Process Mapping
 
@@ -368,31 +399,31 @@ Perform routine facility inspections and coordinate repairs to ensure space avai
 
 #### Space Assessment and Reservation Phase
 
-- [ ] **Assess space availability** - Review current hangar and ramp occupancy, confirm dimensions, and assess aircraft compatibility
-- [ ] **Analyze client requirements** - Determine aircraft specifications, storage duration, and special needs (power, heating, security)
-- [ ] **Coordinate space assignment** - Assign appropriate space based on aircraft size, client preferences, and operational efficiency
-- [ ] **Complete reservation documentation** - Process reservation forms with aircraft information, duration, and service requirements
+- **Assess space availability** - Review current hangar and ramp occupancy, confirm dimensions, and assess aircraft compatibility
+- **Analyze client requirements** - Determine aircraft specifications, storage duration, and special needs (power, heating, security)
+- **Coordinate space assignment** - Assign appropriate space based on aircraft size, client preferences, and operational efficiency
+- **Complete reservation documentation** - Process reservation forms with aircraft information, duration, and service requirements
 
 #### Aircraft Positioning Phase
 
-- [ ] **Operate hangar doors safely** - Use proper procedures and verify door systems are functioning correctly
-- [ ] **Guide aircraft positioning** - Use marshalling techniques to ensure adequate clearance from obstacles and proper placement
-- [ ] **Optimize space utilization** - Monitor usage and coordinate repositioning to accommodate additional aircraft when needed
-- [ ] **Activate facility systems** - Turn on required lighting, heating, ventilation, and electrical power as needed
+- **Operate hangar doors safely** - Use proper procedures and verify door systems are functioning correctly
+- **Guide aircraft positioning** - Use marshalling techniques to ensure adequate clearance from obstacles and proper placement
+- **Optimize space utilization** - Monitor usage and coordinate repositioning to accommodate additional aircraft when needed
+- **Activate facility systems** - Turn on required lighting, heating, ventilation, and electrical power as needed
 
 #### Ongoing Management Phase
 
-- [ ] **Implement security protocols** - Establish access control and facility monitoring for client aircraft protection
-- [ ] **Monitor space utilization** - Track usage and coordinate with clients regarding changes to reservation requirements
-- [ ] **Coordinate departure logistics** - Plan aircraft departure timing and prepare for hangar door operation and removal
-- [ ] **Inspect and reset space** - Check vacated space for damage or cleanliness issues and prepare for next assignment
+- **Implement security protocols** - Establish access control and facility monitoring for client aircraft protection
+- **Monitor space utilization** - Track usage and coordinate with clients regarding changes to reservation requirements
+- **Coordinate departure logistics** - Plan aircraft departure timing and prepare for hangar door operation and removal
+- **Inspect and reset space** - Check vacated space for damage or cleanliness issues and prepare for next assignment
 
 #### Administrative Phase
 
-- [ ] **Complete billing documentation** - Record space utilization for billing and update reservation system with usage information
-- [ ] **Coordinate facility maintenance** - Arrange required maintenance or cleaning before reassigning space to new clients
-- [ ] **Generate utilization reports** - Analyze efficiency metrics for operational improvement and capacity planning
-- [ ] **Update operational records** - Maintain current space allocation records and client preference information
+- **Complete billing documentation** - Record space utilization for billing and update reservation system with usage information
+- **Coordinate facility maintenance** - Arrange required maintenance or cleaning before reassigning space to new clients
+- **Generate utilization reports** - Analyze efficiency metrics for operational improvement and capacity planning
+- **Update operational records** - Maintain current space allocation records and client preference information
 
 ### Process Mapping
 
@@ -478,31 +509,31 @@ Coordinate with local vendors and service providers to fulfill unique client req
 
 #### Client Arrival Phase
 
-- [ ] **Recognize client arrival** - Monitor for arriving clients and initiate professional greeting with immediate acknowledgment
-- [ ] **Initiate check-in process** - Guide clients to reception area and begin procedures with required information collection
-- [ ] **Assess service needs** - Conduct assessment of client requirements including immediate needs and planned activities
-- [ ] **Provide facility orientation** - Offer facility tour highlighting amenities, services, and safety information relevant to client needs
+- **Recognize client arrival** - Monitor for arriving clients and initiate professional greeting with immediate acknowledgment
+- **Initiate check-in process** - Guide clients to reception area and begin procedures with required information collection
+- **Assess service needs** - Conduct assessment of client requirements including immediate needs and planned activities
+- **Provide facility orientation** - Offer facility tour highlighting amenities, services, and safety information relevant to client needs
 
 #### Service Coordination Phase
 
-- [ ] **Coordinate requested services** - Arrange services with team members and vendors while establishing timing and delivery expectations
-- [ ] **Process documentation** - Complete client registration forms and service requests while updating preference records
-- [ ] **Provide facility amenities** - Grant access to lounge areas, refreshments, and communication services
-- [ ] **Arrange transportation** - Coordinate ground transportation according to client preferences and departure schedules
+- **Coordinate requested services** - Arrange services with team members and vendors while establishing timing and delivery expectations
+- **Process documentation** - Complete client registration forms and service requests while updating preference records
+- **Provide facility amenities** - Grant access to lounge areas, refreshments, and communication services
+- **Arrange transportation** - Coordinate ground transportation according to client preferences and departure schedules
 
 #### Accommodation and Information Phase
 
-- [ ] **Process accommodation arrangements** - Handle hotel reservations and coordinate special requests with vendor partners
-- [ ] **Provide local information** - Share dining recommendations, attractions, and business services as requested
-- [ ] **Monitor ongoing services** - Track service delivery progress and maintain client communication regarding timing and updates
-- [ ] **Process special requests** - Coordinate unique requests with vendors and ensure quality delivery within expectations
+- **Process accommodation arrangements** - Handle hotel reservations and coordinate special requests with vendor partners
+- **Provide local information** - Share dining recommendations, attractions, and business services as requested
+- **Monitor ongoing services** - Track service delivery progress and maintain client communication regarding timing and updates
+- **Process special requests** - Coordinate unique requests with vendors and ensure quality delivery within expectations
 
 #### Departure and Follow-Up Phase
 
-- [ ] **Prepare for departure** - Coordinate departure timing and ensure all services are completed and documented for billing
-- [ ] **Conduct follow-up communication** - Gather post-visit feedback and coordinate additional services or future planning
-- [ ] **Document service quality** - Record service delivery quality and client feedback for continuous improvement
-- [ ] **Update client records** - Maintain current client preference information and service history for future visits
+- **Prepare for departure** - Coordinate departure timing and ensure all services are completed and documented for billing
+- **Conduct follow-up communication** - Gather post-visit feedback and coordinate additional services or future planning
+- **Document service quality** - Record service delivery quality and client feedback for continuous improvement
+- **Update client records** - Maintain current client preference information and service history for future visits
 
 ### Process Mapping
 
@@ -588,31 +619,31 @@ Monitor aircraft systems during ground operations and coordinate with pilots for
 
 #### Pre-Marshalling Phase
 
-- [ ] **Assess ramp conditions** - Verify parking space availability and confirm aircraft specifications for appropriate assignment
-- [ ] **Position safety equipment** - Place marshalling equipment, safety cones, and fire extinguisher with clear escape routes
-- [ ] **Establish communications** - Set up radio contact with pilot and ground control while positioning for optimal visual contact
-- [ ] **Initiate aircraft contact** - Signal aircraft using standard marshalling wands and establish visual communication with pilot
+- **Assess ramp conditions** - Verify parking space availability and confirm aircraft specifications for appropriate assignment
+- **Position safety equipment** - Place marshalling equipment, safety cones, and fire extinguisher with clear escape routes
+- **Establish communications** - Set up radio contact with pilot and ground control while positioning for optimal visual contact
+- **Initiate aircraft contact** - Signal aircraft using standard marshalling wands and establish visual communication with pilot
 
 #### Aircraft Guidance Phase
 
-- [ ] **Coordinate taxi guidance** - Provide clear directional signals for aircraft taxi path while monitoring for obstacles and traffic
-- [ ] **Guide to parking position** - Direct aircraft using precise hand signals while maintaining safe distances from obstacles
-- [ ] **Provide fine positioning signals** - Make final adjustments for optimal aircraft positioning within designated boundaries
-- [ ] **Coordinate engine shutdown** - Signal pilot for shutdown when aircraft is properly positioned and safety requirements are met
+- **Coordinate taxi guidance** - Provide clear directional signals for aircraft taxi path while monitoring for obstacles and traffic
+- **Guide to parking position** - Direct aircraft using precise hand signals while maintaining safe distances from obstacles
+- **Provide fine positioning signals** - Make final adjustments for optimal aircraft positioning within designated boundaries
+- **Coordinate engine shutdown** - Signal pilot for shutdown when aircraft is properly positioned and safety requirements are met
 
 #### Aircraft Securing Phase
 
-- [ ] **Install wheel chocks** - Place chocks immediately after engine shutdown using proper techniques and verify secure placement
-- [ ] **Establish safety area** - Position safety cones and establish clear boundaries around parked aircraft for ground operations
-- [ ] **Install tie-down equipment** - Secure aircraft tie-downs when required for weather protection or extended parking
-- [ ] **Connect ground power** - Attach ground power unit if requested and verify proper electrical connection and operation
+- **Install wheel chocks** - Place chocks immediately after engine shutdown using proper techniques and verify secure placement
+- **Establish safety area** - Position safety cones and establish clear boundaries around parked aircraft for ground operations
+- **Install tie-down equipment** - Secure aircraft tie-downs when required for weather protection or extended parking
+- **Connect ground power** - Attach ground power unit if requested and verify proper electrical connection and operation
 
 #### Completion Phase
 
-- [ ] **Conduct final safety inspection** - Review aircraft parking setup including chocks, tie-downs, and safety equipment positioning
-- [ ] **Complete parking documentation** - Record aircraft location, time, and any special requirements or observations
-- [ ] **Clear marshalling area** - Remove marshalling equipment and ensure area is safe for ongoing ramp operations
-- [ ] **Coordinate handoff** - Transfer aircraft to appropriate service personnel and communicate any special requirements
+- **Conduct final safety inspection** - Review aircraft parking setup including chocks, tie-downs, and safety equipment positioning
+- **Complete parking documentation** - Record aircraft location, time, and any special requirements or observations
+- **Clear marshalling area** - Remove marshalling equipment and ensure area is safe for ongoing ramp operations
+- **Coordinate handoff** - Transfer aircraft to appropriate service personnel and communicate any special requirements
 
 ### Process Mapping
 
@@ -699,31 +730,31 @@ Investigate equipment-related incidents and coordinate corrective actions to pre
 
 #### Daily Operations Phase
 
-- [ ] **Conduct equipment inspection** - Perform comprehensive visual, operational, and safety system checks on all ground support equipment
-- [ ] **Document equipment status** - Record condition and availability in equipment management system with detailed inspection notes
-- [ ] **Review maintenance schedules** - Check scheduled maintenance requirements and coordinate with team for upcoming service intervals
-- [ ] **Verify operator certifications** - Confirm equipment operator certification status and coordinate additional training if required
+- **Conduct equipment inspection** - Perform comprehensive visual, operational, and safety system checks on all ground support equipment
+- **Document equipment status** - Record condition and availability in equipment management system with detailed inspection notes
+- **Review maintenance schedules** - Check scheduled maintenance requirements and coordinate with team for upcoming service intervals
+- **Verify operator certifications** - Confirm equipment operator certification status and coordinate additional training if required
 
 #### Equipment Deployment Phase
 
-- [ ] **Assign equipment to operations** - Match equipment to specific operations based on aircraft requirements and operational priorities
-- [ ] **Conduct pre-operation safety check** - Verify fluid levels, safety systems, and operational controls before deployment
-- [ ] **Deploy equipment to service locations** - Position equipment at designated locations and coordinate with line service team
-- [ ] **Monitor operational performance** - Track equipment performance during operations and coordinate with operators for any issues
+- **Assign equipment to operations** - Match equipment to specific operations based on aircraft requirements and operational priorities
+- **Conduct pre-operation safety check** - Verify fluid levels, safety systems, and operational controls before deployment
+- **Deploy equipment to service locations** - Position equipment at designated locations and coordinate with line service team
+- **Monitor operational performance** - Track equipment performance during operations and coordinate with operators for any issues
 
 #### Post-Operation Phase
 
-- [ ] **Conduct post-operation inspection** - Examine equipment after use and document any maintenance requirements or observations
-- [ ] **Return equipment to storage** - Secure equipment in designated storage areas with proper environmental protection
-- [ ] **Coordinate maintenance activities** - Schedule and coordinate maintenance with qualified technicians and maintain records
-- [ ] **Manage parts and supplies** - Monitor parts inventory and coordinate with suppliers for maintenance supplies and components
+- **Conduct post-operation inspection** - Examine equipment after use and document any maintenance requirements or observations
+- **Return equipment to storage** - Secure equipment in designated storage areas with proper environmental protection
+- **Coordinate maintenance activities** - Schedule and coordinate maintenance with qualified technicians and maintain records
+- **Manage parts and supplies** - Monitor parts inventory and coordinate with suppliers for maintenance supplies and components
 
 #### Analysis and Planning Phase
 
-- [ ] **Analyze equipment utilization** - Review usage patterns and identify opportunities for improved utilization and efficiency
-- [ ] **Coordinate training programs** - Manage operator training programs and maintain current certification records for all operators
-- [ ] **Plan equipment replacement** - Monitor equipment condition and coordinate replacement planning based on usage and costs
-- [ ] **Update operational procedures** - Review and update equipment procedures based on operational experience and feedback
+- **Analyze equipment utilization** - Review usage patterns and identify opportunities for improved utilization and efficiency
+- **Coordinate training programs** - Manage operator training programs and maintain current certification records for all operators
+- **Plan equipment replacement** - Monitor equipment condition and coordinate replacement planning based on usage and costs
+- **Update operational procedures** - Review and update equipment procedures based on operational experience and feedback
 
 ### Process Mapping
 
@@ -810,31 +841,31 @@ Coordinate hangar space allocation and equipment requirements for maintenance ac
 
 #### Request Assessment Phase
 
-- [ ] **Evaluate maintenance request** - Assess client request and determine appropriate maintenance provider based on aircraft type and requirements
-- [ ] **Select qualified vendor** - Choose maintenance provider and coordinate service scheduling based on availability and client timing
-- [ ] **Communicate with client** - Present maintenance proposal including cost estimates, timing, and service provider information for approval
-- [ ] **Process work order** - Create work order with service requirements and coordinate with provider for service initiation
+- **Evaluate maintenance request** - Assess client request and determine appropriate maintenance provider based on aircraft type and requirements
+- **Select qualified vendor** - Choose maintenance provider and coordinate service scheduling based on availability and client timing
+- **Communicate with client** - Present maintenance proposal including cost estimates, timing, and service provider information for approval
+- **Process work order** - Create work order with service requirements and coordinate with provider for service initiation
 
 #### Service Coordination Phase
 
-- [ ] **Coordinate facility requirements** - Arrange hangar space allocation and specialized equipment with facility management and provider
-- [ ] **Initiate maintenance service** - Start maintenance service with client notification and establish communication protocols for updates
-- [ ] **Monitor service progress** - Track maintenance progress and provide regular client updates regarding status and any timing changes
-- [ ] **Coordinate quality control** - Arrange quality control inspection of completed work and verify regulatory compliance
+- **Coordinate facility requirements** - Arrange hangar space allocation and specialized equipment with facility management and provider
+- **Initiate maintenance service** - Start maintenance service with client notification and establish communication protocols for updates
+- **Monitor service progress** - Track maintenance progress and provide regular client updates regarding status and any timing changes
+- **Coordinate quality control** - Arrange quality control inspection of completed work and verify regulatory compliance
 
 #### Completion Phase
 
-- [ ] **Review documentation** - Examine maintenance documentation including logbook entries, compliance records, and warranty information
-- [ ] **Notify client of completion** - Inform client of maintenance completion and coordinate aircraft return to service with inspection results
-- [ ] **Coordinate billing** - Manage billing between maintenance provider and client while ensuring accurate documentation and cost verification
-- [ ] **Conduct follow-up assessment** - Evaluate client satisfaction with maintenance service quality and address concerns or warranty issues
+- **Review documentation** - Examine maintenance documentation including logbook entries, compliance records, and warranty information
+- **Notify client of completion** - Inform client of maintenance completion and coordinate aircraft return to service with inspection results
+- **Coordinate billing** - Manage billing between maintenance provider and client while ensuring accurate documentation and cost verification
+- **Conduct follow-up assessment** - Evaluate client satisfaction with maintenance service quality and address concerns or warranty issues
 
 #### Quality Assurance Phase
 
-- [ ] **Evaluate vendor performance** - Assess maintenance provider performance and document service quality for future selection
-- [ ] **Ensure regulatory compliance** - Verify all maintenance documentation meets regulatory requirements and maintain audit records
-- [ ] **Analyze process efficiency** - Review maintenance coordination process and identify opportunities for improved service and vendor management
-- [ ] **Update procedures** - Incorporate lessons learned and best practices into maintenance coordination procedures
+- **Evaluate vendor performance** - Assess maintenance provider performance and document service quality for future selection
+- **Ensure regulatory compliance** - Verify all maintenance documentation meets regulatory requirements and maintain audit records
+- **Analyze process efficiency** - Review maintenance coordination process and identify opportunities for improved service and vendor management
+- **Update procedures** - Incorporate lessons learned and best practices into maintenance coordination procedures
 
 ### Process Mapping
 
@@ -920,31 +951,31 @@ Monitor vendor performance and coordinate alternative service arrangements when 
 
 #### Needs Assessment Phase
 
-- [ ] **Assess transportation requirements** - Evaluate passenger count, destination, timing, and special accommodation needs
-- [ ] **Present service options** - Show available transportation options with pricing and timing while considering client preferences
-- [ ] **Select vendor and process booking** - Choose appropriate provider and process reservation with confirmed pickup timing and details
-- [ ] **Analyze accommodation needs** - Determine room count, duration, location preferences, and special requests or requirements
+- **Assess transportation requirements** - Evaluate passenger count, destination, timing, and special accommodation needs
+- **Present service options** - Show available transportation options with pricing and timing while considering client preferences
+- **Select vendor and process booking** - Choose appropriate provider and process reservation with confirmed pickup timing and details
+- **Analyze accommodation needs** - Determine room count, duration, location preferences, and special requests or requirements
 
 #### Reservation Processing Phase
 
-- [ ] **Process hotel reservations** - Handle hotel bookings with preferred vendors and confirm room availability, rates, and arrangements
-- [ ] **Document service confirmations** - Record all service arrangements and provide confirmation details with vendor contact information
-- [ ] **Coordinate service timing** - Align service timing with flight schedules and communicate changes to vendors and clients promptly
-- [ ] **Communicate with vendors** - Relay service requirements including pickup locations, passenger information, and special instructions
+- **Process hotel reservations** - Handle hotel bookings with preferred vendors and confirm room availability, rates, and arrangements
+- **Document service confirmations** - Record all service arrangements and provide confirmation details with vendor contact information
+- **Coordinate service timing** - Align service timing with flight schedules and communicate changes to vendors and clients promptly
+- **Communicate with vendors** - Relay service requirements including pickup locations, passenger information, and special instructions
 
 #### Information and Monitoring Phase
 
-- [ ] **Provide client information** - Share comprehensive service information including vendor contacts and confirmation numbers
-- [ ] **Monitor service delivery** - Track service delivery and maintain communication regarding any timing changes or issues
-- [ ] **Provide local area information** - Share dining recommendations, attractions, and business services as requested by clients
-- [ ] **Coordinate special requests** - Handle special requests including restaurant reservations, entertainment tickets, or meeting arrangements
+- **Provide client information** - Share comprehensive service information including vendor contacts and confirmation numbers
+- **Monitor service delivery** - Track service delivery and maintain communication regarding any timing changes or issues
+- **Provide local area information** - Share dining recommendations, attractions, and business services as requested by clients
+- **Coordinate special requests** - Handle special requests including restaurant reservations, entertainment tickets, or meeting arrangements
 
 #### Quality Assurance Phase
 
-- [ ] **Conduct service follow-up** - Communicate with clients regarding service quality and address any concerns or feedback
-- [ ] **Process billing and payments** - Handle billing for transportation and accommodation services and coordinate payment arrangements
-- [ ] **Evaluate vendor performance** - Assess vendor performance and document service quality for continuous improvement
-- [ ] **Update service records** - Maintain current vendor information and client preference records for future service delivery
+- **Conduct service follow-up** - Communicate with clients regarding service quality and address any concerns or feedback
+- **Process billing and payments** - Handle billing for transportation and accommodation services and coordinate payment arrangements
+- **Evaluate vendor performance** - Assess vendor performance and document service quality for continuous improvement
+- **Update service records** - Maintain current vendor information and client preference records for future service delivery
 
 ### Process Mapping
 
@@ -1030,31 +1061,31 @@ Monitor service delivery and coordinate with billing team to resolve any service
 
 #### Service Documentation Phase
 
-- [ ] **Collect service documentation** - Gather documentation of all services including fuel, handling, facilities, and ancillary services
-- [ ] **Verify service accuracy** - Confirm service quantities and pricing accuracy while validating client authorization for all billable services
-- [ ] **Review client account information** - Check billing preferences, credit terms, and special pricing arrangements
-- [ ] **Generate invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
+- **Collect service documentation** - Gather documentation of all services including fuel, handling, facilities, and ancillary services
+- **Verify service accuracy** - Confirm service quantities and pricing accuracy while validating client authorization for all billable services
+- **Review client account information** - Check billing preferences, credit terms, and special pricing arrangements
+- **Generate invoice** - Create itemized invoice with services, quantities, rates, and applicable taxes using billing system
 
 #### Invoice Processing Phase
 
-- [ ] **Review invoice accuracy** - Conduct review of service descriptions, quantities, and pricing calculations
-- [ ] **Deliver invoice to client** - Send invoice using preferred method and provide explanation of charges and payment terms
-- [ ] **Coordinate payment method** - Process payment using client preferred method including credit cards, checks, or account billing
-- [ ] **Process payment transaction** - Handle payments accurately and update client account records with payment information
+- **Review invoice accuracy** - Conduct review of service descriptions, quantities, and pricing calculations
+- **Deliver invoice to client** - Send invoice using preferred method and provide explanation of charges and payment terms
+- **Coordinate payment method** - Process payment using client preferred method including credit cards, checks, or account billing
+- **Process payment transaction** - Handle payments accurately and update client account records with payment information
 
 #### Account Management Phase
 
-- [ ] **Reconcile account balances** - Balance client accounts and coordinate with finance team for accurate financial record maintenance
-- [ ] **Monitor past due accounts** - Track overdue accounts and coordinate collection activities while maintaining professional relationships
-- [ ] **Resolve billing inquiries** - Address client billing questions promptly and coordinate with operations team for documentation resolution
-- [ ] **Process credit applications** - Handle credit applications for established clients and coordinate terms with finance management
+- **Reconcile account balances** - Balance client accounts and coordinate with finance team for accurate financial record maintenance
+- **Monitor past due accounts** - Track overdue accounts and coordinate collection activities while maintaining professional relationships
+- **Resolve billing inquiries** - Address client billing questions promptly and coordinate with operations team for documentation resolution
+- **Process credit applications** - Handle credit applications for established clients and coordinate terms with finance management
 
 #### Reporting and Maintenance Phase
 
-- [ ] **Generate financial reports** - Create billing reports for management review including revenue analysis and client payment performance
-- [ ] **Maintain billing systems** - Keep billing system accurate and coordinate with IT team for system improvements and updates
-- [ ] **Document audit trail** - Maintain detailed audit trail documentation for all billing transactions and coordinate with auditors
-- [ ] **Update procedures** - Review and update billing procedures based on operational experience and regulatory requirements
+- **Generate financial reports** - Create billing reports for management review including revenue analysis and client payment performance
+- **Maintain billing systems** - Keep billing system accurate and coordinate with IT team for system improvements and updates
+- **Document audit trail** - Maintain detailed audit trail documentation for all billing transactions and coordinate with auditors
+- **Update procedures** - Review and update billing procedures based on operational experience and regulatory requirements
 
 ### Process Mapping
 
@@ -1269,31 +1300,31 @@ Monitor equipment performance and coordinate replacement planning while ensuring
 
 #### Daily Assessment Phase
 
-- [ ] **Assess facility condition** - Conduct comprehensive inspection of interior and exterior areas to identify maintenance and cleaning needs
-- [ ] **Review maintenance schedules** - Check scheduled maintenance requirements and coordinate with team for timely completion
-- [ ] **Establish cleaning priorities** - Set daily cleaning priorities based on client activity, facility usage, and cleanliness standards
-- [ ] **Verify equipment operation** - Test facility systems including HVAC, lighting, plumbing, and electrical systems for proper performance
+- **Assess facility condition** - Conduct comprehensive inspection of interior and exterior areas to identify maintenance and cleaning needs
+- **Review maintenance schedules** - Check scheduled maintenance requirements and coordinate with team for timely completion
+- **Establish cleaning priorities** - Set daily cleaning priorities based on client activity, facility usage, and cleanliness standards
+- **Verify equipment operation** - Test facility systems including HVAC, lighting, plumbing, and electrical systems for proper performance
 
 #### Cleaning and Maintenance Phase
 
-- [ ] **Clean client areas** - Service lounges, restrooms, conference rooms, and reception areas to maintain professional appearance
-- [ ] **Maintain operational areas** - Service hangars, ramp areas, and equipment storage while ensuring safety and functionality
-- [ ] **Maintain exterior facilities** - Care for landscaping, signage, parking areas, and building exterior cleanliness
-- [ ] **Perform equipment maintenance** - Execute scheduled maintenance including lubrication, filter changes, and system calibration
+- **Clean client areas** - Service lounges, restrooms, conference rooms, and reception areas to maintain professional appearance
+- **Maintain operational areas** - Service hangars, ramp areas, and equipment storage while ensuring safety and functionality
+- **Maintain exterior facilities** - Care for landscaping, signage, parking areas, and building exterior cleanliness
+- **Perform equipment maintenance** - Execute scheduled maintenance including lubrication, filter changes, and system calibration
 
 #### Supply and Repair Coordination Phase
 
-- [ ] **Manage supply inventory** - Monitor maintenance and cleaning supplies and coordinate with vendors for timely replenishment
-- [ ] **Coordinate repair services** - Arrange repair services for equipment malfunctions and facility issues while minimizing disruption
-- [ ] **Coordinate vendor services** - Manage specialized maintenance services with qualified vendors ensuring quality and compliance
-- [ ] **Document maintenance activities** - Maintain detailed maintenance and cleaning records for regulatory compliance and warranties
+- **Manage supply inventory** - Monitor maintenance and cleaning supplies and coordinate with vendors for timely replenishment
+- **Coordinate repair services** - Arrange repair services for equipment malfunctions and facility issues while minimizing disruption
+- **Coordinate vendor services** - Manage specialized maintenance services with qualified vendors ensuring quality and compliance
+- **Document maintenance activities** - Maintain detailed maintenance and cleaning records for regulatory compliance and warranties
 
 #### Quality Assurance Phase
 
-- [ ] **Conduct quality inspections** - Review completed maintenance and cleaning work to ensure standards compliance
-- [ ] **Integrate client feedback** - Incorporate client feedback regarding facility condition and coordinate improvements
-- [ ] **Implement continuous improvement** - Execute facility improvements based on usage patterns, feedback, and efficiency opportunities
-- [ ] **Update maintenance procedures** - Review and update procedures based on operational experience and best practices
+- **Conduct quality inspections** - Review completed maintenance and cleaning work to ensure standards compliance
+- **Integrate client feedback** - Incorporate client feedback regarding facility condition and coordinate improvements
+- **Implement continuous improvement** - Execute facility improvements based on usage patterns, feedback, and efficiency opportunities
+- **Update maintenance procedures** - Review and update procedures based on operational experience and best practices
 
 ### Process Mapping
 
@@ -1380,31 +1411,31 @@ Coordinate with pilots for weather briefings and assist with weather-related fli
 
 #### Information Access and Assessment Phase
 
-- [ ] **Access weather information systems** - Retrieve current METAR, TAF, radar, and satellite imagery for weather analysis
-- [ ] **Assess pilot briefing requirements** - Evaluate weather briefing and flight planning needs including route, aircraft type, and operations
-- [ ] **Analyze current weather conditions** - Review current conditions along proposed route including departure, destination, and alternate airports
-- [ ] **Review weather forecasts** - Examine forecasts and trends for flight time period including potential developments and timing
+- **Access weather information systems** - Retrieve current METAR, TAF, radar, and satellite imagery for weather analysis
+- **Assess pilot briefing requirements** - Evaluate weather briefing and flight planning needs including route, aircraft type, and operations
+- **Analyze current weather conditions** - Review current conditions along proposed route including departure, destination, and alternate airports
+- **Review weather forecasts** - Examine forecasts and trends for flight time period including potential developments and timing
 
 #### Route Analysis Phase
 
-- [ ] **Assess route weather conditions** - Evaluate weather along proposed flight route including enroute conditions, altitude considerations, and alternates
-- [ ] **Review NOTAMs and TFRs** - Check current NOTAMs and temporary flight restrictions affecting proposed route and destination airports
-- [ ] **Identify weather hazards** - Locate turbulence, icing, thunderstorms, and low visibility conditions affecting flight safety
-- [ ] **Analyze alternative routes** - Review alternative routes and timing options to avoid adverse weather while maintaining efficiency
+- **Assess route weather conditions** - Evaluate weather along proposed flight route including enroute conditions, altitude considerations, and alternates
+- **Review NOTAMs and TFRs** - Check current NOTAMs and temporary flight restrictions affecting proposed route and destination airports
+- **Identify weather hazards** - Locate turbulence, icing, thunderstorms, and low visibility conditions affecting flight safety
+- **Analyze alternative routes** - Review alternative routes and timing options to avoid adverse weather while maintaining efficiency
 
 #### Briefing and Documentation Phase
 
-- [ ] **Verify regulatory compliance** - Confirm flight planning compliance with regulations including alternate requirements and fuel planning
-- [ ] **Document briefing information** - Record weather briefing information and provide written summary for pilot reference and compliance
-- [ ] **Assist with flight plan filing** - Help with flight plan filing and coordinate with Flight Service Station for regulatory compliance
-- [ ] **Provide departure weather update** - Share updated weather information prior to departure including any forecast changes
+- **Verify regulatory compliance** - Confirm flight planning compliance with regulations including alternate requirements and fuel planning
+- **Document briefing information** - Record weather briefing information and provide written summary for pilot reference and compliance
+- **Assist with flight plan filing** - Help with flight plan filing and coordinate with Flight Service Station for regulatory compliance
+- **Provide departure weather update** - Share updated weather information prior to departure including any forecast changes
 
 #### Monitoring and Support Phase
 
-- [ ] **Monitor enroute weather** - Track weather developments during flight and coordinate with pilot for updates as requested
-- [ ] **Provide weather decision support** - Offer go/no-go recommendations based on comprehensive weather analysis
-- [ ] **Conduct post-flight analysis** - Review post-flight weather analysis for operational learning and service improvement
-- [ ] **Update briefing procedures** - Incorporate lessons learned and feedback into weather briefing service procedures
+- **Monitor enroute weather** - Track weather developments during flight and coordinate with pilot for updates as requested
+- **Provide weather decision support** - Offer go/no-go recommendations based on comprehensive weather analysis
+- **Conduct post-flight analysis** - Review post-flight weather analysis for operational learning and service improvement
+- **Update briefing procedures** - Incorporate lessons learned and feedback into weather briefing service procedures
 
 ### Process Mapping
 
@@ -1491,31 +1522,31 @@ Monitor vendor performance and coordinate alternative service arrangements when 
 
 #### Service Request Phase
 
-- [ ] **Assess service requirements** - Evaluate client catering and in-flight service needs including passenger count, dietary restrictions, and preferences
-- [ ] **Present service options** - Show available catering options and specialized services with pricing and timing based on requirements
-- [ ] **Select vendor and coordinate** - Choose appropriate catering vendor and coordinate order processing with confirmed delivery timing
-- [ ] **Document special requirements** - Record dietary requirements, allergies, and service preferences while coordinating with vendor for preparation
+- **Assess service requirements** - Evaluate client catering and in-flight service needs including passenger count, dietary restrictions, and preferences
+- **Present service options** - Show available catering options and specialized services with pricing and timing based on requirements
+- **Select vendor and coordinate** - Choose appropriate catering vendor and coordinate order processing with confirmed delivery timing
+- **Document special requirements** - Record dietary requirements, allergies, and service preferences while coordinating with vendor for preparation
 
 #### Order Processing Phase
 
-- [ ] **Process catering order** - Handle order with detailed specifications and confirm delivery timing with vendor and client coordination
-- [ ] **Communicate quality standards** - Relay quality standards and service expectations to vendor while establishing delivery requirements
-- [ ] **Coordinate delivery timing** - Align catering delivery timing with flight schedules and communicate changes to vendor and client
-- [ ] **Coordinate aircraft service** - Work with ramp team for aircraft catering service including equipment positioning and timing
+- **Process catering order** - Handle order with detailed specifications and confirm delivery timing with vendor and client coordination
+- **Communicate quality standards** - Relay quality standards and service expectations to vendor while establishing delivery requirements
+- **Coordinate delivery timing** - Align catering delivery timing with flight schedules and communicate changes to vendor and client
+- **Coordinate aircraft service** - Work with ramp team for aircraft catering service including equipment positioning and timing
 
 #### Quality Control Phase
 
-- [ ] **Inspect catering delivery** - Check delivery for quality, completeness, and presentation standards before aircraft service
-- [ ] **Document service delivery** - Record catering service delivery and maintain records for billing and quality assurance purposes
-- [ ] **Communicate with client** - Inform client of catering service completion and address any immediate concerns or feedback
-- [ ] **Coordinate billing** - Manage billing between catering vendor and client while ensuring accurate service documentation
+- **Inspect catering delivery** - Check delivery for quality, completeness, and presentation standards before aircraft service
+- **Document service delivery** - Record catering service delivery and maintain records for billing and quality assurance purposes
+- **Communicate with client** - Inform client of catering service completion and address any immediate concerns or feedback
+- **Coordinate billing** - Manage billing between catering vendor and client while ensuring accurate service documentation
 
 #### Follow-Up and Improvement Phase
 
-- [ ] **Conduct quality follow-up** - Follow up with client regarding catering service quality and gather feedback for improvement
-- [ ] **Evaluate vendor performance** - Assess vendor performance and document service quality for future selection and relationship management
-- [ ] **Analyze service delivery** - Review catering service delivery and coordinate improvements based on client feedback and efficiency
-- [ ] **Update service procedures** - Incorporate feedback and best practices into catering coordination procedures
+- **Conduct quality follow-up** - Follow up with client regarding catering service quality and gather feedback for improvement
+- **Evaluate vendor performance** - Assess vendor performance and document service quality for future selection and relationship management
+- **Analyze service delivery** - Review catering service delivery and coordinate improvements based on client feedback and efficiency
+- **Update service procedures** - Incorporate feedback and best practices into catering coordination procedures
 
 ### Process Mapping
 
@@ -1601,31 +1632,31 @@ Analyze incident causes and coordinate corrective actions to prevent future occu
 
 #### Immediate Response Phase
 
-- [ ] **Recognize emergency situation** - Identify emergency situations and implement immediate response actions while ensuring team member and client safety
-- [ ] **Notify emergency services** - Contact appropriate emergency services including fire, medical, and law enforcement with accurate situation information
-- [ ] **Implement immediate safety actions** - Execute evacuation procedures, area isolation, and hazard mitigation as required
-- [ ] **Activate emergency response team** - Mobilize emergency response team and coordinate response activities while maintaining emergency service communication
+- **Recognize emergency situation** - Identify emergency situations and implement immediate response actions while ensuring team member and client safety
+- **Notify emergency services** - Contact appropriate emergency services including fire, medical, and law enforcement with accurate situation information
+- **Implement immediate safety actions** - Execute evacuation procedures, area isolation, and hazard mitigation as required
+- **Activate emergency response team** - Mobilize emergency response team and coordinate response activities while maintaining emergency service communication
 
 #### Assessment and Coordination Phase
 
-- [ ] **Assess situation and communicate** - Evaluate emergency situation severity and communicate with management, authorities, and affected parties
-- [ ] **Coordinate response resources** - Manage emergency response resources including equipment, personnel, and external services for effective incident management
-- [ ] **Assess operational impact** - Evaluate operational impact and implement continuity measures while maintaining essential services and safety standards
-- [ ] **Document incident details** - Record incident details including timeline, actions taken, and personnel involved while maintaining accurate records
+- **Assess situation and communicate** - Evaluate emergency situation severity and communicate with management, authorities, and affected parties
+- **Coordinate response resources** - Manage emergency response resources including equipment, personnel, and external services for effective incident management
+- **Assess operational impact** - Evaluate operational impact and implement continuity measures while maintaining essential services and safety standards
+- **Document incident details** - Record incident details including timeline, actions taken, and personnel involved while maintaining accurate records
 
 #### Notification and Communication Phase
 
-- [ ] **Notify regulatory authorities** - Contact appropriate regulatory authorities and coordinate compliance reporting requirements within established timeframes
-- [ ] **Communicate with affected clients** - Inform affected clients regarding incident impact and coordinate alternative service arrangements as required
-- [ ] **Coordinate media communication** - Manage media communication through appropriate channels while maintaining accurate information and company representation
-- [ ] **Initiate incident investigation** - Begin comprehensive incident investigation and coordinate with authorities and internal teams for thorough analysis
+- **Notify regulatory authorities** - Contact appropriate regulatory authorities and coordinate compliance reporting requirements within established timeframes
+- **Communicate with affected clients** - Inform affected clients regarding incident impact and coordinate alternative service arrangements as required
+- **Coordinate media communication** - Manage media communication through appropriate channels while maintaining accurate information and company representation
+- **Initiate incident investigation** - Begin comprehensive incident investigation and coordinate with authorities and internal teams for thorough analysis
 
 #### Recovery and Improvement Phase
 
-- [ ] **Implement corrective actions** - Execute corrective actions based on investigation findings and coordinate with team members for procedure improvements
-- [ ] **Conduct follow-up monitoring** - Monitor corrective actions and coordinate with authorities for compliance verification
-- [ ] **Integrate lessons learned** - Incorporate lessons learned into emergency procedures and coordinate training updates for continuous improvement
-- [ ] **Update emergency procedures** - Review and update emergency response procedures based on incident experience and regulatory requirements
+- **Implement corrective actions** - Execute corrective actions based on investigation findings and coordinate with team members for procedure improvements
+- **Conduct follow-up monitoring** - Monitor corrective actions and coordinate with authorities for compliance verification
+- **Integrate lessons learned** - Incorporate lessons learned into emergency procedures and coordinate training updates for continuous improvement
+- **Update emergency procedures** - Review and update emergency response procedures based on incident experience and regulatory requirements
 
 ### Process Mapping
 

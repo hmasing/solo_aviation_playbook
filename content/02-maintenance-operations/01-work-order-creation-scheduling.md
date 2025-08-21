@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Initial Work Order Creation
 
-- [ ] **Collect client maintenance request** - Gather aircraft information, maintenance requirements, preferred dates, and any special client needs or constraints
-- [ ] **Verify aircraft information** - Confirm aircraft registration, make, model, serial numbers, and current maintenance status in aircraft records
-- [ ] **Review maintenance history** - Examine previous work orders, recurring maintenance items, and any outstanding airworthiness directives or service bulletins
-- [ ] **Determine work scope** - Define specific maintenance tasks, regulatory requirements, and estimated labor hours based on manufacturer specifications
+- **Collect client maintenance request** - Gather aircraft information, maintenance requirements, preferred dates, and any special client needs or constraints
+- **Verify aircraft information** - Confirm aircraft registration, make, model, serial numbers, and current maintenance status in aircraft records
+- **Review maintenance history** - Examine previous work orders, recurring maintenance items, and any outstanding airworthiness directives or service bulletins
+- **Determine work scope** - Define specific maintenance tasks, regulatory requirements, and estimated labor hours based on manufacturer specifications
 
 ### Technical Assessment and Planning
 
-- [ ] **Conduct preliminary inspection** - Perform visual assessment of aircraft condition to identify additional maintenance needs and verify reported discrepancies
-- [ ] **Research regulatory requirements** - Review applicable FAA regulations, airworthiness directives, and manufacturer service bulletins for compliance obligations
-- [ ] **Estimate parts and materials** - Identify required components, consumables, and special tools needed for maintenance completion
-- [ ] **Calculate labor requirements** - Determine technician skill levels needed, estimated work hours, and potential overtime considerations
+- **Conduct preliminary inspection** - Perform visual assessment of aircraft condition to identify additional maintenance needs and verify reported discrepancies
+- **Research regulatory requirements** - Review applicable FAA regulations, airworthiness directives, and manufacturer service bulletins for compliance obligations
+- **Estimate parts and materials** - Identify required components, consumables, and special tools needed for maintenance completion
+- **Calculate labor requirements** - Determine technician skill levels needed, estimated work hours, and potential overtime considerations
 
 ### Work Order Documentation
 
-- [ ] **Create work order record** - Enter complete aircraft and client information into maintenance tracking system with unique work order number
-- [ ] **Document work scope details** - Record specific maintenance tasks, regulatory references, and completion criteria in work order system
-- [ ] **Attach supporting documentation** - Include manufacturer maintenance manuals, service bulletins, and previous maintenance records as references
-- [ ] **Generate cost estimate** - Calculate total labor, parts, and miscellaneous costs with appropriate markup and present to client for approval
+- **Create work order record** - Enter complete aircraft and client information into maintenance tracking system with unique work order number
+- **Document work scope details** - Record specific maintenance tasks, regulatory references, and completion criteria in work order system
+- **Attach supporting documentation** - Include manufacturer maintenance manuals, service bulletins, and previous maintenance records as references
+- **Generate cost estimate** - Calculate total labor, parts, and miscellaneous costs with appropriate markup and present to client for approval
 
 ### Schedule Coordination
 
-- [ ] **Check technician availability** - Review maintenance team member schedules and match qualified technicians to specific work requirements
-- [ ] **Coordinate hangar space** - Reserve appropriate maintenance facility space based on aircraft size and work scope requirements
-- [ ] **Schedule parts delivery** - Coordinate parts ordering and delivery timing to align with planned maintenance start dates
-- [ ] **Confirm client schedule** - Verify aircraft availability dates and coordinate with client operational requirements
+- **Check technician availability** - Review maintenance team member schedules and match qualified technicians to specific work requirements
+- **Coordinate hangar space** - Reserve appropriate maintenance facility space based on aircraft size and work scope requirements
+- **Schedule parts delivery** - Coordinate parts ordering and delivery timing to align with planned maintenance start dates
+- **Confirm client schedule** - Verify aircraft availability dates and coordinate with client operational requirements
 
 ### Work Order Approval and Finalization
 
-- [ ] **Obtain client authorization** - Present final work scope, cost estimate, and schedule to client for written approval before work commencement
-- [ ] **Assign work order number** - Generate unique tracking number and enter into maintenance management system for progress monitoring
-- [ ] **Distribute work assignments** - Provide detailed work order information to assigned technicians with clear task specifications and completion requirements
-- [ ] **Update scheduling system** - Enter confirmed work order into master maintenance schedule with resource allocations and milestone dates
+- **Obtain client authorization** - Present final work scope, cost estimate, and schedule to client for written approval before work commencement
+- **Assign work order number** - Generate unique tracking number and enter into maintenance management system for progress monitoring
+- **Distribute work assignments** - Provide detailed work order information to assigned technicians with clear task specifications and completion requirements
+- **Update scheduling system** - Enter confirmed work order into master maintenance schedule with resource allocations and milestone dates
 
 ## Process Mapping
 

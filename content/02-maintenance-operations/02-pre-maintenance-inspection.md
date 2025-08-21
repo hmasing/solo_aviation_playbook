@@ -56,38 +56,38 @@ ________________________________________________________________________________
 
 ### Pre-Inspection Preparation
 
-- [ ] **Review aircraft maintenance records** - Examine logbooks, previous work orders, and maintenance history to understand aircraft condition and recurring issues
-- [ ] **Verify aircraft configuration** - Confirm aircraft registration, serial numbers, installed equipment, and modifications against official records
-- [ ] **Check regulatory compliance status** - Review airworthiness directives, service bulletins, and inspection due dates for current compliance status
-- [ ] **Prepare inspection documentation** - Set up inspection forms, camera equipment, and measurement tools for systematic documentation process
+- **Review aircraft maintenance records** - Examine logbooks, previous work orders, and maintenance history to understand aircraft condition and recurring issues
+- **Verify aircraft configuration** - Confirm aircraft registration, serial numbers, installed equipment, and modifications against official records
+- **Check regulatory compliance status** - Review airworthiness directives, service bulletins, and inspection due dates for current compliance status
+- **Prepare inspection documentation** - Set up inspection forms, camera equipment, and measurement tools for systematic documentation process
 
 ### External Aircraft Inspection
 
-- [ ] **Inspect fuselage structure** - Examine skin, frames, and structural components for cracks, corrosion, damage, or wear patterns requiring maintenance attention
-- [ ] **Check flight control surfaces** - Verify control surface attachment, hinge condition, balance, and operational limits within manufacturer specifications
-- [ ] **Examine landing gear system** - Inspect struts, wheels, brakes, tires, and hydraulic components for wear, leaks, or operational deficiencies
-- [ ] **Assess engine and propeller condition** - Check engine mounts, cowling, propeller, and associated systems for security, damage, or maintenance needs
+- **Inspect fuselage structure** - Examine skin, frames, and structural components for cracks, corrosion, damage, or wear patterns requiring maintenance attention
+- **Check flight control surfaces** - Verify control surface attachment, hinge condition, balance, and operational limits within manufacturer specifications
+- **Examine landing gear system** - Inspect struts, wheels, brakes, tires, and hydraulic components for wear, leaks, or operational deficiencies
+- **Assess engine and propeller condition** - Check engine mounts, cowling, propeller, and associated systems for security, damage, or maintenance needs
 
 ### Internal Systems Inspection
 
-- [ ] **Review avionics and electrical systems** - Test operation of navigation, communication, and electrical systems while documenting any malfunctions or discrepancies
-- [ ] **Check cabin and cockpit condition** - Inspect interior components, seats, controls, and safety equipment for airworthiness and operational requirements
-- [ ] **Examine engine compartment** - Inspect engine accessories, hoses, wiring, and fluid levels while identifying any leaks or component deterioration
-- [ ] **Test flight controls and systems** - Verify proper operation of all flight controls, trim systems, and pilot-controllable systems
+- **Review avionics and electrical systems** - Test operation of navigation, communication, and electrical systems while documenting any malfunctions or discrepancies
+- **Check cabin and cockpit condition** - Inspect interior components, seats, controls, and safety equipment for airworthiness and operational requirements
+- **Examine engine compartment** - Inspect engine accessories, hoses, wiring, and fluid levels while identifying any leaks or component deterioration
+- **Test flight controls and systems** - Verify proper operation of all flight controls, trim systems, and pilot-controllable systems
 
 ### Documentation and Assessment
 
-- [ ] **Document all findings** - Record detailed descriptions, measurements, and photographs of all discrepancies and maintenance items identified during inspection
-- [ ] **Categorize maintenance requirements** - Classify findings as mandatory, recommended, or optional based on regulatory requirements and safety considerations
-- [ ] **Research maintenance procedures** - Review manufacturer maintenance manuals and regulatory guidance for proper repair and inspection procedures
-- [ ] **Estimate maintenance requirements** - Calculate labor hours, parts requirements, and completion timeline for all identified maintenance items
+- **Document all findings** - Record detailed descriptions, measurements, and photographs of all discrepancies and maintenance items identified during inspection
+- **Categorize maintenance requirements** - Classify findings as mandatory, recommended, or optional based on regulatory requirements and safety considerations
+- **Research maintenance procedures** - Review manufacturer maintenance manuals and regulatory guidance for proper repair and inspection procedures
+- **Estimate maintenance requirements** - Calculate labor hours, parts requirements, and completion timeline for all identified maintenance items
 
 ### Client Communication and Authorization
 
-- [ ] **Prepare inspection report** - Compile detailed findings report with photographs, cost estimates, and recommended maintenance priorities for client review
-- [ ] **Present findings to client** - Explain inspection results, regulatory requirements, and maintenance options with clear cost and timeline information
-- [ ] **Obtain maintenance authorization** - Secure written client approval for all maintenance work before proceeding with repairs or additional inspections
-- [ ] **Update work order documentation** - Revise original work scope and cost estimates based on inspection findings and client authorization decisions
+- **Prepare inspection report** - Compile detailed findings report with photographs, cost estimates, and recommended maintenance priorities for client review
+- **Present findings to client** - Explain inspection results, regulatory requirements, and maintenance options with clear cost and timeline information
+- **Obtain maintenance authorization** - Secure written client approval for all maintenance work before proceeding with repairs or additional inspections
+- **Update work order documentation** - Revise original work scope and cost estimates based on inspection findings and client authorization decisions
 
 ## Process Mapping
 

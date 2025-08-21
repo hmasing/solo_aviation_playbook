@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Initial Assessment Phase
 
-- [ ] **Receive work request** - Document client requirements, symptoms, or installation requests with complete aircraft information
-- [ ] **Conduct preliminary inspection** - Assess aircraft systems and identify scope of work required for accurate estimation
-- [ ] **Review aircraft records** - Examine maintenance logs, equipment lists, and previous avionics modifications for compatibility
-- [ ] **Identify regulatory requirements** - Determine applicable regulations, STCs, and certification requirements for proposed work
+- **Receive work request** - Document client requirements, symptoms, or installation requests with complete aircraft information
+- **Conduct preliminary inspection** - Assess aircraft systems and identify scope of work required for accurate estimation
+- **Review aircraft records** - Examine maintenance logs, equipment lists, and previous avionics modifications for compatibility
+- **Identify regulatory requirements** - Determine applicable regulations, STCs, and certification requirements for proposed work
 
 ### Work Scope Development Phase
 
-- [ ] **Define work scope** - Prepare detailed description of work to be performed including specific tasks and deliverables
-- [ ] **Estimate labor requirements** - Calculate labor hours based on manufacturer data, experience, and complexity factors
-- [ ] **Identify parts and materials** - Create comprehensive list of required components, consumables, and special materials
-- [ ] **Determine equipment needs** - Verify availability of required test equipment, tools, and calibrated instruments
+- **Define work scope** - Prepare detailed description of work to be performed including specific tasks and deliverables
+- **Estimate labor requirements** - Calculate labor hours based on manufacturer data, experience, and complexity factors
+- **Identify parts and materials** - Create comprehensive list of required components, consumables, and special materials
+- **Determine equipment needs** - Verify availability of required test equipment, tools, and calibrated instruments
 
 ### Authorization and Approval Phase
 
-- [ ] **Prepare cost estimate** - Calculate total project cost including labor, parts, and any applicable fees or surcharges
-- [ ] **Present to client** - Review work scope, timeline, and costs with client providing clear explanations of technical requirements
-- [ ] **Obtain written authorization** - Secure client signature on work order authorization form with clear scope and cost agreement
-- [ ] **Create work order** - Generate formal work order in maintenance tracking system with all required documentation
+- **Prepare cost estimate** - Calculate total project cost including labor, parts, and any applicable fees or surcharges
+- **Present to client** - Review work scope, timeline, and costs with client providing clear explanations of technical requirements
+- **Obtain written authorization** - Secure client signature on work order authorization form with clear scope and cost agreement
+- **Create work order** - Generate formal work order in maintenance tracking system with all required documentation
 
 ### Pre-Work Verification Phase
 
-- [ ] **Verify parts availability** - Confirm all required components are available or ordered with acceptable delivery schedules
-- [ ] **Assign qualified technicians** - Ensure assigned personnel have appropriate certifications and manufacturer training
-- [ ] **Schedule aircraft time** - Coordinate with client and operations for aircraft availability and hangar space allocation
-- [ ] **Prepare technical data** - Gather all required manuals, STCs, service bulletins, and approved maintenance procedures
+- **Verify parts availability** - Confirm all required components are available or ordered with acceptable delivery schedules
+- **Assign qualified technicians** - Ensure assigned personnel have appropriate certifications and manufacturer training
+- **Schedule aircraft time** - Coordinate with client and operations for aircraft availability and hangar space allocation
+- **Prepare technical data** - Gather all required manuals, STCs, service bulletins, and approved maintenance procedures
 
 ## Process Mapping
 

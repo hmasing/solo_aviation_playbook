@@ -88,19 +88,19 @@ List the roles involved and their specific responsibilities.
 Organize process steps into logical phases using checklist format for better usability and tracking.
 
 ### [Phase Name 1]
-- [ ] **[Action Item]** - Detailed description of what needs to be accomplished
-- [ ] **[Action Item]** - Include specific requirements, tools, or coordination needed
-- [ ] **[Action Item]** - Provide clear, actionable instructions
+- **[Action Item]** - Detailed description of what needs to be accomplished
+- **[Action Item]** - Include specific requirements, tools, or coordination needed
+- **[Action Item]** - Provide clear, actionable instructions
 
 ### [Phase Name 2]
-- [ ] **[Action Item]** - Continue with related tasks grouped logically
-- [ ] **[Action Item]** - Maintain consistent format with bold action and description
-- [ ] **[Action Item]** - Ensure each item can be checked off when completed
+- **[Action Item]** - Continue with related tasks grouped logically
+- **[Action Item]** - Maintain consistent format with bold action and description
+- **[Action Item]** - Ensure each item can be checked off when completed
 
 ### [Phase Name 3]
-- [ ] **[Action Item]** - Group related activities for operational efficiency
-- [ ] **[Action Item]** - Include coordination requirements and dependencies
-- [ ] **[Action Item]** - Provide sufficient detail for proper execution
+- **[Action Item]** - Group related activities for operational efficiency
+- **[Action Item]** - Include coordination requirements and dependencies
+- **[Action Item]** - Provide sufficient detail for proper execution
 
 ## Process Mapping
 
@@ -199,19 +199,19 @@ Use standard phraseology:
 ## Process Steps
 
 ### Pre-Service Phase
-- [ ] **Review service request** - Confirm client requirements and special needs
-- [ ] **Verify equipment availability** - Check required tools and coordinate with team
-- [ ] **Prepare work area** - Set up safe work environment with proper lighting
+- **Review service request** - Confirm client requirements and special needs
+- **Verify equipment availability** - Check required tools and coordinate with team
+- **Prepare work area** - Set up safe work environment with proper lighting
 
 ### Service Execution Phase  
-- [ ] **Perform primary service** - Execute main service following safety protocols
-- [ ] **Monitor service quality** - Ensure standards compliance throughout process
-- [ ] **Document service delivery** - Record completion details and any observations
+- **Perform primary service** - Execute main service following safety protocols
+- **Monitor service quality** - Ensure standards compliance throughout process
+- **Document service delivery** - Record completion details and any observations
 
 ### Post-Service Phase
-- [ ] **Conduct quality inspection** - Verify service meets standards and requirements
-- [ ] **Complete documentation** - Update service records and billing information
-- [ ] **Coordinate follow-up** - Schedule any required follow-up services or communication
+- **Conduct quality inspection** - Verify service meets standards and requirements
+- **Complete documentation** - Update service records and billing information
+- **Coordinate follow-up** - Schedule any required follow-up services or communication
 ```
 
 ### Aviation-Specific Considerations

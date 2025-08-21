@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Initial Assessment Phase
 
-- [ ] **Conduct post-flight inspection** - Complete aircraft inspection and document any discrepancies discovered
-- [ ] **Review flight objectives** - Assess achievement of planned training objectives and lesson goals
-- [ ] **Evaluate student performance** - Analyze student performance in relation to established training standards
-- [ ] **Identify learning opportunities** - Recognize areas of strength and opportunities for improvement
+- **Conduct post-flight inspection** - Complete aircraft inspection and document any discrepancies discovered
+- **Review flight objectives** - Assess achievement of planned training objectives and lesson goals
+- **Evaluate student performance** - Analyze student performance in relation to established training standards
+- **Identify learning opportunities** - Recognize areas of strength and opportunities for improvement
 
 ### Debriefing Discussion Phase
 
-- [ ] **Facilitate student self-assessment** - Encourage student to evaluate their own performance and identify lessons learned
-- [ ] **Provide performance feedback** - Offer specific, constructive feedback on flight performance and decision-making
-- [ ] **Discuss safety considerations** - Review safety-related decisions and risk management during the flight
-- [ ] **Address student questions** - Answer student questions and clarify concepts or procedures
+- **Facilitate student self-assessment** - Encourage student to evaluate their own performance and identify lessons learned
+- **Provide performance feedback** - Offer specific, constructive feedback on flight performance and decision-making
+- **Discuss safety considerations** - Review safety-related decisions and risk management during the flight
+- **Address student questions** - Answer student questions and clarify concepts or procedures
 
 ### Documentation Phase
 
-- [ ] **Complete logbook entries** - Record accurate flight time, aircraft type, and training activities in student logbook
-- [ ] **Update training records** - Document lesson completion and progress toward training milestones
-- [ ] **Record instructor endorsements** - Provide required endorsements for solo flights or training achievements
-- [ ] **Complete billing documentation** - Verify flight time accuracy for billing and administrative purposes
+- **Complete logbook entries** - Record accurate flight time, aircraft type, and training activities in student logbook
+- **Update training records** - Document lesson completion and progress toward training milestones
+- **Record instructor endorsements** - Provide required endorsements for solo flights or training achievements
+- **Complete billing documentation** - Verify flight time accuracy for billing and administrative purposes
 
 ### Planning Phase
 
-- [ ] **Plan next lesson** - Coordinate subsequent training activities based on progress and learning needs
-- [ ] **Schedule follow-up training** - Coordinate aircraft and instructor availability for next scheduled lesson
-- [ ] **Identify additional resources** - Recommend study materials or additional practice for areas needing improvement
-- [ ] **Coordinate milestone activities** - Plan for stage checks, solo flights, or certification activities as appropriate
+- **Plan next lesson** - Coordinate subsequent training activities based on progress and learning needs
+- **Schedule follow-up training** - Coordinate aircraft and instructor availability for next scheduled lesson
+- **Identify additional resources** - Recommend study materials or additional practice for areas needing improvement
+- **Coordinate milestone activities** - Plan for stage checks, solo flights, or certification activities as appropriate
 
 ## Process Mapping
 

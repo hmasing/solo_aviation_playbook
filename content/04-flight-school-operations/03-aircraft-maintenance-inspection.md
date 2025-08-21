@@ -56,31 +56,31 @@ ________________________________________________________________________________
 
 ### Daily Aircraft Status Review Phase
 
-- [ ] **Review maintenance status** - Check aircraft logbooks and maintenance tracking system for currency
-- [ ] **Verify inspection compliance** - Confirm annual, 100-hour, and other required inspections are current
-- [ ] **Check discrepancy reports** - Review any reported aircraft issues from previous flights
-- [ ] **Coordinate maintenance scheduling** - Plan maintenance activities to minimize training disruptions
+- **Review maintenance status** - Check aircraft logbooks and maintenance tracking system for currency
+- **Verify inspection compliance** - Confirm annual, 100-hour, and other required inspections are current
+- **Check discrepancy reports** - Review any reported aircraft issues from previous flights
+- **Coordinate maintenance scheduling** - Plan maintenance activities to minimize training disruptions
 
 ### Pre-Flight Inspection Phase
 
-- [ ] **Conduct pre-flight inspection** - Complete systematic aircraft inspection using approved checklist
-- [ ] **Review aircraft logbooks** - Verify airworthiness certificate, registration, and required inspections
-- [ ] **Check fuel and oil levels** - Confirm adequate fuel quantity and oil levels for planned flight
-- [ ] **Test aircraft systems** - Verify proper operation of all required systems and equipment
+- **Conduct pre-flight inspection** - Complete systematic aircraft inspection using approved checklist
+- **Review aircraft logbooks** - Verify airworthiness certificate, registration, and required inspections
+- **Check fuel and oil levels** - Confirm adequate fuel quantity and oil levels for planned flight
+- **Test aircraft systems** - Verify proper operation of all required systems and equipment
 
 ### Post-Flight Documentation Phase
 
-- [ ] **Complete post-flight inspection** - Conduct post-flight aircraft inspection for new discrepancies
-- [ ] **Document flight time** - Record accurate flight time in aircraft logbooks and maintenance records
-- [ ] **Report discrepancies** - Document any observed aircraft issues or maintenance needs
-- [ ] **Update maintenance tracking** - Record flight hours and schedule upcoming maintenance requirements
+- **Complete post-flight inspection** - Conduct post-flight aircraft inspection for new discrepancies
+- **Document flight time** - Record accurate flight time in aircraft logbooks and maintenance records
+- **Report discrepancies** - Document any observed aircraft issues or maintenance needs
+- **Update maintenance tracking** - Record flight hours and schedule upcoming maintenance requirements
 
 ### Maintenance Coordination Phase
 
-- [ ] **Schedule required maintenance** - Coordinate maintenance activities with certified mechanics
-- [ ] **Manage aircraft downtime** - Minimize training schedule disruption during maintenance periods
-- [ ] **Verify maintenance completion** - Review completed maintenance work and required documentation
-- [ ] **Return aircraft to service** - Conduct airworthiness review and authorize return to training operations
+- **Schedule required maintenance** - Coordinate maintenance activities with certified mechanics
+- **Manage aircraft downtime** - Minimize training schedule disruption during maintenance periods
+- **Verify maintenance completion** - Review completed maintenance work and required documentation
+- **Return aircraft to service** - Conduct airworthiness review and authorize return to training operations
 
 ## Process Mapping
 

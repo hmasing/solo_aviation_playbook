@@ -44,31 +44,31 @@ Coordinate with local vendors and service providers to fulfill unique client req
 
 ### Client Arrival Phase
 
-- [ ] **Recognize client arrival** - Monitor for arriving clients and initiate professional greeting with immediate acknowledgment
-- [ ] **Initiate check-in process** - Guide clients to reception area and begin procedures with required information collection
-- [ ] **Assess service needs** - Conduct assessment of client requirements including immediate needs and planned activities
-- [ ] **Provide facility orientation** - Offer facility tour highlighting amenities, services, and safety information relevant to client needs
+- **Recognize client arrival** - Monitor for arriving clients and initiate professional greeting with immediate acknowledgment
+- **Initiate check-in process** - Guide clients to reception area and begin procedures with required information collection
+- **Assess service needs** - Conduct assessment of client requirements including immediate needs and planned activities
+- **Provide facility orientation** - Offer facility tour highlighting amenities, services, and safety information relevant to client needs
 
 ### Service Coordination Phase
 
-- [ ] **Coordinate requested services** - Arrange services with team members and vendors while establishing timing and delivery expectations
-- [ ] **Process documentation** - Complete client registration forms and service requests while updating preference records
-- [ ] **Provide facility amenities** - Grant access to lounge areas, refreshments, and communication services
-- [ ] **Arrange transportation** - Coordinate ground transportation according to client preferences and departure schedules
+- **Coordinate requested services** - Arrange services with team members and vendors while establishing timing and delivery expectations
+- **Process documentation** - Complete client registration forms and service requests while updating preference records
+- **Provide facility amenities** - Grant access to lounge areas, refreshments, and communication services
+- **Arrange transportation** - Coordinate ground transportation according to client preferences and departure schedules
 
 ### Accommodation and Information Phase
 
-- [ ] **Process accommodation arrangements** - Handle hotel reservations and coordinate special requests with vendor partners
-- [ ] **Provide local information** - Share dining recommendations, attractions, and business services as requested
-- [ ] **Monitor ongoing services** - Track service delivery progress and maintain client communication regarding timing and updates
-- [ ] **Process special requests** - Coordinate unique requests with vendors and ensure quality delivery within expectations
+- **Process accommodation arrangements** - Handle hotel reservations and coordinate special requests with vendor partners
+- **Provide local information** - Share dining recommendations, attractions, and business services as requested
+- **Monitor ongoing services** - Track service delivery progress and maintain client communication regarding timing and updates
+- **Process special requests** - Coordinate unique requests with vendors and ensure quality delivery within expectations
 
 ### Departure and Follow-Up Phase
 
-- [ ] **Prepare for departure** - Coordinate departure timing and ensure all services are completed and documented for billing
-- [ ] **Conduct follow-up communication** - Gather post-visit feedback and coordinate additional services or future planning
-- [ ] **Document service quality** - Record service delivery quality and client feedback for continuous improvement
-- [ ] **Update client records** - Maintain current client preference information and service history for future visits
+- **Prepare for departure** - Coordinate departure timing and ensure all services are completed and documented for billing
+- **Conduct follow-up communication** - Gather post-visit feedback and coordinate additional services or future planning
+- **Document service quality** - Record service delivery quality and client feedback for continuous improvement
+- **Update client records** - Maintain current client preference information and service history for future visits
 
 ## Process Mapping
 

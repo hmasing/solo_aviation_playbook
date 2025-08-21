@@ -211,14 +211,14 @@ Provide emergency avionics support and Aircraft on Ground (AOG) services to mini
 
 All avionics personnel must maintain:
 
-- [ ] Appropriate FAA certificates and authorizations
-- [ ] FCC General Radiotelephone Operator License (when required)
-- [ ] Manufacturer training certifications for equipment serviced
-- [ ] Part 145 repair station training requirements
-- [ ] ESD awareness and handling training
-- [ ] Specialized system training (GPS, autopilots, glass cockpits)
-- [ ] Quality system and regulatory compliance training
-- [ ] Hazmat training for battery and component handling
+- Appropriate FAA certificates and authorizations
+- FCC General Radiotelephone Operator License (when required)
+- Manufacturer training certifications for equipment serviced
+- Part 145 repair station training requirements
+- ESD awareness and handling training
+- Specialized system training (GPS, autopilots, glass cockpits)
+- Quality system and regulatory compliance training
+- Hazmat training for battery and component handling
 
 ## Safety and Environmental Considerations
 
