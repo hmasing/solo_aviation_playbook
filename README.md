@@ -35,28 +35,28 @@ open solo-aviation-services-playbook.pdf
 
 ```text
 playbook/
-├── content/                    # Main playbook procedures
+├── content/                             # Main playbook procedures
 │   ├── 01-fbo-services/                 # Client experience and service delivery
 │   ├── 02-maintenance-operations/       # Aircraft maintenance and repair
 │   ├── 03-flight-school-operations/     # Training and education services
 │   ├── 04-safety-compliance/            # Safety and regulatory procedures
-│   ├── 05-marketing-customer-retention/ # Client engagement and retention
+│   ├── 05-marketing-client-retention/   # Client engagement and retention
 │   └── 06-administrative-financial/     # Business operations and finance
-├── templates/                  # Procedure templates
-├── assets/                     # Supporting materials
-│   ├── forms/                 # Operational forms
-│   ├── images/                # Diagrams and photos
-│   └── references/            # Quick reference materials
-├── kitabu/                    # PDF generation system
-│   ├── config/               # Book configuration
-│   ├── text/                 # Processed content for PDF
-│   └── output/               # Generated PDF and HTML files
-└── .cursor/rules/             # Documentation and vocabulary standards
+├── templates/                           # Procedure templates
+├── assets/                              # Supporting materials
+│   ├── forms/                           # Operational forms
+│   ├── images/                          # Diagrams and photos
+│   └── references/                      # Quick reference materials
+├── kitabu/                              # PDF generation system
+│   ├── config/                          # Book configuration
+│   ├── text/                            # Processed content for PDF
+│   └── output/                          # Generated PDF and HTML files
+└── .cursor/rules/                       # Documentation and vocabulary standards
 ```
 
 ## Quick Navigation
 
-### 🛩️ FBO Services (15 Procedures)
+### 🛩️ FBO Services
 
 1. Aircraft Arrival and Departure Handling
 2. Fueling Operations (Jet-A and Avgas)
@@ -70,11 +70,10 @@ playbook/
 10. Safety and Security Inspections
 11. Facility Maintenance and Cleaning
 12. Weather Briefing and Flight Planning Support
-13. Customs and Immigration Coordination (International Flights)
-14. Catering and In-Flight Service Requests
-15. Emergency Response and Incident Reporting
+13. Catering and In-Flight Service Requests
+14. Emergency Response and Incident Reporting
 
-### 🔧 Maintenance Operations (15 Procedures)
+### 🔧 Maintenance Operations
 
 1. Work Order Creation and Scheduling
 2. Pre-Maintenance Aircraft Inspection
@@ -92,7 +91,7 @@ playbook/
 14. Shop Safety and Cleanliness Protocols
 15. Billing and Invoicing for Maintenance Services
 
-### 🎓 Flight School Operations (15 Procedures)
+### 🎓 Flight School Operations
 
 1. Student Enrollment and Onboarding
 2. Flight Lesson Scheduling
@@ -110,7 +109,7 @@ playbook/
 14. Fuel Management and Refueling Operations
 15. Client Feedback and Satisfaction Surveys
 
-### 🛡️ Safety and Compliance (15 Procedures)
+### 🛡️ Safety and Compliance
 
 1. Safety Incident Reporting and Investigation
 2. Aircraft Fueling Safety Procedures
@@ -128,7 +127,7 @@ playbook/
 14. Safety Management System (SMS) Implementation
 15. Regulatory Documentation and Record-Keeping
 
-### 📈 Marketing and Client Retention (15 Procedures)
+### 📈 Marketing and Client Retention
 
 1. Client Segmentation and Targeting
 2. Digital Marketing Campaign Management
@@ -146,7 +145,7 @@ playbook/
 14. Seasonal Marketing Campaigns
 15. Client Retention Analytics and Reporting
 
-### 💼 Administrative and Financial (15 Procedures)
+### 💼 Administrative and Financial
 
 1. Client Billing and Invoicing
 2. Payment Processing and Collections
