@@ -1,4 +1,4 @@
-# FBO Operations Playbook
+# Solo Aviation Services Playbook
 
 ## Overview
 This playbook provides standardized procedures for Solo Aviation Services. It covers aircraft handling, maintenance operations, and service delivery processes.
@@ -9,12 +9,14 @@ This playbook provides standardized procedures for Solo Aviation Services. It co
 ```bash
 ./build_playbook.sh
 ```
-This creates: `fbo-operations-playbook.pdf` (287KB document)
+This creates: `solo-aviation-services-playbook.pdf` (287KB document)
 
 **To open the PDF:**
 ```bash
-open fbo-operations-playbook.pdf
+open solo-aviation-services-playbook.pdf
 ```
+
+
 
 ## Playbook Structure
 
@@ -178,8 +180,8 @@ playbook/
 
 #### Kitabu Setup
 - **Ruby gem installed**: Kitabu 3.1.0 for PDF generation
-- **Project structure**: Organized in `fbo-operations-playbook/` directory
-- **Configuration**: Customized for FBO Operations Playbook branding
+- **Project structure**: Organized in `solo-aviation-services-playbook/` directory
+- **Configuration**: Customized for Solo Aviation Services Playbook branding
 
 #### Content Organization
 - **Automated script**: `organize_content.rb` structures your Markdown files
@@ -201,9 +203,9 @@ playbook/
 ### 📁 Generated Files
 
 Your PDF generation creates:
-- `fbo-operations-playbook.pdf` - Main document (287KB) **[Root directory]**
-- `fbo-operations-playbook/output/fbo-operations-playbook.html` - Web version
-- `fbo-operations-playbook/output/fbo-operations-playbook.print.pdf` - Print-optimized version
+- `solo-aviation-services-playbook.pdf` - Main document (287KB) **[Root directory]**
+- `solo-aviation-services-playbook/output/solo-aviation-services-playbook.html` - Web version
+- `solo-aviation-services-playbook/output/solo-aviation-services-playbook.print.pdf` - Print-optimized version
 
 ### 🎨 Customization Options
 

@@ -13,7 +13,7 @@ ASSETS_DIR = '../assets'
 # Clear existing sample content
 FileUtils.rm_rf(Dir.glob("#{TEXT_DIR}/*.md*"))
 
-puts "📋 Organizing FBO Operations Playbook content for Kitabu..."
+puts "📋 Organizing Solo Aviation Services Playbook content for Kitabu..."
 
 # Create the main content files in proper order
 content_structure = [
@@ -105,7 +105,7 @@ end
 puts "✅ Content organization complete!"
 puts ""
 puts "📖 To generate the PDF:"
-puts "   cd fbo-operations-playbook"
+puts "   cd solo-aviation-services-playbook"
 puts "   bundle exec kitabu export pdf"
 puts ""
 puts "📱 To generate other formats:"

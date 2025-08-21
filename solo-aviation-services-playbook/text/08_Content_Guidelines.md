@@ -1,4 +1,15 @@
-# Aviation Content Guidelines
+# Content Guidelines for FBO Operations Playbook
+
+## Vocabulary Standards Compliance
+
+**CRITICAL**: All aviation content must strictly adhere to organizational vocabulary standards defined in `.cursor/rules/vocabulary-standards.mdc`. 
+
+Key requirements:
+- Use "clients" (never "customers")
+- Use "team members" (never "employees" or "staff")  
+- Use "leaders" (never "managers" or "supervisors")
+- Use "experience" for client-facing contexts (not "service")
+- Apply operational language: opportunities, solutions, initiatives, excellence
 
 ## Aviation Industry Standards
 
@@ -127,13 +138,13 @@ Special Instructions: Check for water contamination
 2. **Safety review**: Safety officer approval for safety-related content
 3. **Regulatory review**: Compliance officer verification
 4. **Editorial review**: Grammar, style, and consistency check
-5. **Management approval**: Final authorization for publication
+5. **Leadership approval**: Final authorization for publication
 
 ### Maintenance Standards
 - **Annual review**: All procedures reviewed yearly minimum
 - **Event-driven updates**: Changes due to regulation updates, equipment changes, or incident lessons learned
 - **Version control**: Track all changes with date, author, and reason
-- **Distribution control**: Ensure all users have current versions
+- **Distribution control**: Ensure all team members have current versions
 
 ## Content Organization
 
@@ -157,12 +168,12 @@ All procedures must include frontmatter with:
 ## Subject Matter Expertise
 
 ### Required Reviewers by Category
-- **FBO Services**: Operations Manager, Customer Service Lead
-- **Maintenance**: Chief of Maintenance, Quality Assurance Manager
-- **Flight Training**: Chief Flight Instructor, Training Manager
-- **Safety**: Safety Officer, Compliance Manager
-- **Marketing**: Marketing Manager, Customer Relations Manager
-- **Administrative**: Business Manager, Finance Manager
+- **FBO Services**: Operations Leader, Client Experience Lead
+- **Maintenance**: Chief of Maintenance, Quality Assurance Leader
+- **Flight Training**: Chief Flight Instructor, Training Leader
+- **Safety**: Safety Officer, Compliance Leader
+- **Marketing**: Marketing Leader, Client Relations Leader
+- **Administrative**: Business Leader, Finance Leader
 
 ### Regulatory Expertise
 Ensure procedures involving these areas have appropriate regulatory review:
@@ -175,4 +186,4 @@ Ensure procedures involving these areas have appropriate regulatory review:
 ---
 **Document Owner**: Operations Management  
 **Review Frequency**: Annual or as regulations change  
-**Distribution**: All department heads and content creators
+**Distribution**: All department leaders and content creators

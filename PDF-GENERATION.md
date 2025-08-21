@@ -1,6 +1,6 @@
-# PDF Generation for FBO Operations Playbook
+# PDF Generation for Solo Aviation Services Playbook
 
-This document explains how to generate PDF versions of the FBO Operations Playbook using Kitabu.
+This document explains how to generate PDF versions of the Solo Aviation Services Playbook using Kitabu.
 
 ## Quick Start
 
@@ -16,7 +16,7 @@ ruby build_playbook.rb
 
 ### Manual Generation
 ```bash
-cd fbo-operations-playbook
+cd solo-aviation-services-playbook
 ruby organize_content.rb
 bundle exec kitabu export --only=pdf
 ```
@@ -24,7 +24,7 @@ bundle exec kitabu export --only=pdf
 ## Setup Details
 
 ### Initial Setup (Already Complete)
-The Kitabu environment has been set up in the `fbo-operations-playbook/` directory with:
+The Kitabu environment has been set up in the `solo-aviation-services-playbook/` directory with:
 
 - ✅ **Kitabu gem installed**
 - ✅ **Project structure created**
@@ -37,24 +37,24 @@ The Kitabu environment has been set up in the `fbo-operations-playbook/` directo
 playbook/
 ├── build_playbook.rb          # Ruby build script
 ├── build_playbook.sh          # Shell build script  
-└── fbo-operations-playbook/   # Kitabu project
+└── solo-aviation-services-playbook/   # Kitabu project
     ├── config/
     │   └── kitabu.yml         # Book configuration
     ├── text/                  # Organized content files
     ├── templates/             # Styling templates
     ├── output/                # Generated files
-    │   ├── fbo-operations-playbook.pdf  # Main PDF
-    │   └── fbo-operations-playbook.html # HTML version
+    │   ├── solo-aviation-services-playbook.pdf  # Main PDF
+    │   └── solo-aviation-services-playbook.html # HTML version
     └── organize_content.rb    # Content organization script
 ```
 
 ## Generated Output
 
-The build process creates several files in `fbo-operations-playbook/output/`:
+The build process creates several files in `solo-aviation-services-playbook/output/`:
 
-- **`fbo-operations-playbook.pdf`** - Main PDF document
-- **`fbo-operations-playbook.html`** - HTML version
-- **`fbo-operations-playbook.print.pdf`** - Print-optimized PDF
+- **`solo-aviation-services-playbook.pdf`** - Main PDF document
+- **`solo-aviation-services-playbook.html`** - HTML version
+- **`solo-aviation-services-playbook.print.pdf`** - Print-optimized PDF
 - Supporting assets (images, styles)
 
 ## Content Organization
@@ -126,7 +126,7 @@ You can integrate PDF generation into your development workflow:
 Create `.git/hooks/post-commit`:
 ```bash
 #!/bin/bash
-echo "Generating updated FBO Operations Playbook PDF..."
+echo "Generating updated Solo Aviation Services Playbook PDF..."
 ./build_playbook.sh
 ```
 
@@ -136,7 +136,7 @@ echo "Generating updated FBO Operations Playbook PDF..."
 
 **Missing dependencies:**
 ```bash
-cd fbo-operations-playbook
+cd solo-aviation-services-playbook
 bundle install
 ```
 

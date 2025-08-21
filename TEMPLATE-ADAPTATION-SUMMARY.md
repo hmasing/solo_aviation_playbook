@@ -1,7 +1,7 @@
 # Template Adaptation Summary
 
 ## Overview
-The FBO Operations Playbook templates have been updated to match your organization's standard process documentation format while maintaining aviation industry requirements and safety protocols.
+The Solo Aviation Services Playbook templates have been updated to match your organization's standard process documentation format while maintaining aviation industry requirements and safety protocols.
 
 ## Template Alignment
 

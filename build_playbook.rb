@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
-# build_playbook.rb - Simple script to build the FBO Operations Playbook PDF
+# build_playbook.rb - Simple script to build the Solo Aviation Services Playbook PDF
 
-puts "🛩️  Building FBO Operations Playbook..."
+puts "🛩️  Building Solo Aviation Services Playbook..."
 puts ""
 
 # Change to the kitabu project directory
-Dir.chdir('fbo-operations-playbook') do
+Dir.chdir('solo-aviation-services-playbook') do
   puts "📋 Organizing latest content..."
   system('ruby organize_content.rb')
   
@@ -18,16 +18,16 @@ Dir.chdir('fbo-operations-playbook') do
     puts "✅ PDF generated successfully!"
     
     # Copy PDF to root directory for easy access
-    if File.exist?('output/fbo-operations-playbook.pdf')
+    if File.exist?('output/solo-aviation-services-playbook.pdf')
       require 'fileutils'
-      FileUtils.cp('output/fbo-operations-playbook.pdf', '../fbo-operations-playbook.pdf')
-      puts "📄 PDF copied to root directory: fbo-operations-playbook.pdf"
-      puts "📁 Original location: fbo-operations-playbook/output/"
+      FileUtils.cp('output/solo-aviation-services-playbook.pdf', '../solo-aviation-services-playbook.pdf')
+      puts "📄 PDF copied to root directory: solo-aviation-services-playbook.pdf"
+      puts "📁 Original location: solo-aviation-services-playbook/output/"
       
       puts ""
       puts "🚀 To open the PDF:"
-      puts "   open fbo-operations-playbook.pdf"
-      puts "   # Or from original location: open fbo-operations-playbook/output/fbo-operations-playbook.pdf"
+      puts "   open solo-aviation-services-playbook.pdf"
+      puts "   # Or from original location: open solo-aviation-services-playbook/output/solo-aviation-services-playbook.pdf"
     else
       puts "⚠️  PDF not found in expected location"
     end

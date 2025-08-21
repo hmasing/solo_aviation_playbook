@@ -1,7 +1,22 @@
-# FBO Operations Playbook
+# Solo Aviation Services Playbook
 
 ## Overview
-This comprehensive playbook provides standardized procedures for all aspects of Fixed Base Operator (FBO) operations at our airport facility. It covers everything from daily aircraft handling to complex maintenance operations, ensuring consistent, safe, and efficient service delivery.
+This playbook provides standardized procedures for Solo Aviation Services. It covers aircraft handling, maintenance operations, and service delivery processes.
+
+## 🚀 Quick Start
+
+### Generate PDF Documentation
+```bash
+./build_playbook.sh
+```
+This creates: `solo-aviation-services-playbook.pdf` (287KB document)
+
+**To open the PDF:**
+```bash
+open solo-aviation-services-playbook.pdf
+```
+
+
 
 ## Playbook Structure
 
@@ -156,6 +171,57 @@ playbook/
 - Safety training protocols
 - Performance evaluation criteria
 
+## 📖 PDF Generation System
+
+### ✅ Implementation Status
+**PDF generation is set up and working!**
+
+### 🛠️ What Was Implemented
+
+#### Kitabu Setup
+- **Ruby gem installed**: Kitabu 3.1.0 for PDF generation
+- **Project structure**: Organized in `solo-aviation-services-playbook/` directory
+- **Configuration**: Customized for Solo Aviation Services Playbook branding
+
+#### Content Organization
+- **Automated script**: `organize_content.rb` structures your Markdown files
+- **9 chapters**: Introduction + 6 operational sections + guidelines + templates
+- **Asset handling**: Images and references properly integrated
+- **Clean formatting**: Navigation links removed, YAML stripped, links fixed
+
+#### Build Automation
+- **Shell script**: `build_playbook.sh` for simple one-command builds
+- **Ruby script**: `build_playbook.rb` alternative with detailed output
+- **Manual process**: Step-by-step commands for customization
+
+#### Output Options
+- **PDF format**: ~287KB document
+- **Multiple formats**: PDF, HTML, EPUB available
+- **Styling**: Clean typography and layout
+- **Table of contents**: Automatic generation from headers
+
+### 📁 Generated Files
+
+Your PDF generation creates:
+- `solo-aviation-services-playbook.pdf` - Main document (287KB) **[Root directory]**
+- `solo-aviation-services-playbook/output/solo-aviation-services-playbook.html` - Web version
+- `solo-aviation-services-playbook/output/solo-aviation-services-playbook.print.pdf` - Print-optimized version
+
+### 🎨 Customization Options
+
+- **Styling**: Edit `templates/styles/pdf.css`
+- **Branding**: Modify `config/kitabu.yml`
+- **Content**: Update source files and rebuild
+- **Structure**: Customize `organize_content.rb`
+
+### 📖 Additional Documentation
+
+See `PDF-GENERATION.md` for documentation including:
+- Setup instructions
+- Customization options
+- Troubleshooting guide
+- Enhancement ideas
+
 ## Document Standards
 All procedures follow standardized formatting rules defined in [`.cursor/rules/markdown-rules.md`](.cursor/rules/markdown-rules.md) to ensure consistency and usability.
 
@@ -168,6 +234,10 @@ This playbook is a living document that requires regular updates to reflect:
 
 ---
 **Total Procedures**: 90  
+**PDF Generation**: ✅ Ready for use  
+**Technology**: Kitabu (Ruby-based)  
+**Output Quality**: Aviation documentation standard  
+**Build Time**: ~5 seconds for playbook  
 **Last Updated**: [Current Date]  
 **Version**: 1.0  
 **Maintained by**: FBO Operations Team

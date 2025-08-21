@@ -20,16 +20,17 @@ subject: "Solo Aviation Services Operations Playbook"
 keywords: "FBO, aviation, operations, procedures, aircraft, maintenance, safety, compliance"
 
 # Some unique identification. Works great with your domain
-uid: "fbo-operations-playbook-2025"
+uid: "solo-aviation-services-playbook-2025"
 
 # Your book identification like ISBN or ISSN.
 identifier:
-  id: "fbo-operations-playbook"
+  id: "solo-aviation-services-playbook"
   type: "URL"
 
 # This book authors.
 authors:
-  - "Hans Masing, Vice President of Operations"
+  - "Hans Masing"
+  - "Clint White"
 
 # Syntax highlight theme. Can be any of supported by Rouge.
 theme: github
