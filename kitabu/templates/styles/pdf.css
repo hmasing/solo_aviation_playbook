@@ -87,7 +87,8 @@ p {
   text-align: justify;
 }
 
-ul, ol {
+ul,
+ol {
   margin: 0.4cm 0;
   padding-left: 1cm;
 }
@@ -133,7 +134,7 @@ li {
 }
 
 .frontcover .logo {
-  background: url("../images/solo-logo.jpg") no-repeat center center;
+  background: white url("../images/solo-logo.jpg") no-repeat center center;
   background-size: contain;
   height: 200px;
   margin-bottom: 2cm;
