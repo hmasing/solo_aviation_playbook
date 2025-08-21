@@ -105,7 +105,7 @@ end
 puts "✅ Content organization complete!"
 puts ""
 puts "📖 To generate the PDF:"
-puts "   cd solo-aviation-services-playbook"
+puts "   cd kitabu"
 puts "   bundle exec kitabu export pdf"
 puts ""
 puts "📱 To generate other formats:"

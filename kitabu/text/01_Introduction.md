@@ -33,12 +33,12 @@ open solo-aviation-services-playbook.pdf
 ```
 playbook/
 ├── content/                    # Main playbook procedures
-│   ├── 01-fbo-services/       # 15 FBO service procedures
-│   ├── 02-maintenance-operations/  # 15 maintenance procedures
-│   ├── 03-flight-school-operations/ # 15 flight training procedures
-│   ├── 04-safety-compliance/  # 15 safety and compliance procedures
+│   ├── 01-fbo-services/                 # 15 FBO service procedures
+│   ├── 02-maintenance-operations/       # 15 maintenance procedures
+│   ├── 03-flight-school-operations/     # 15 flight training procedures
+│   ├── 04-safety-compliance/            # 15 safety and compliance procedures
 │   ├── 05-marketing-customer-retention/ # 15 marketing procedures
-│   └── 06-administrative-financial/ # 15 admin/financial procedures
+│   └── 06-administrative-financial/     # 15 admin/financial procedures
 ├── templates/                  # Procedure templates
 ├── assets/                     # Supporting materials
 │   ├── forms/                 # Operational forms
@@ -180,7 +180,7 @@ playbook/
 
 #### Kitabu Setup
 - **Ruby gem installed**: Kitabu 3.1.0 for PDF generation
-- **Project structure**: Organized in `solo-aviation-services-playbook/` directory
+- **Project structure**: Organized in `kitabu/` directory
 - **Configuration**: Customized for Solo Aviation Services Playbook branding
 
 #### Content Organization
@@ -204,8 +204,8 @@ playbook/
 
 Your PDF generation creates:
 - `solo-aviation-services-playbook.pdf` - Main document (287KB) **[Root directory]**
-- `solo-aviation-services-playbook/output/solo-aviation-services-playbook.html` - Web version
-- `solo-aviation-services-playbook/output/solo-aviation-services-playbook.print.pdf` - Print-optimized version
+- `kitabu/output/solo-aviation-services-playbook.html` - Web version
+- `kitabu/output/solo-aviation-services-playbook.print.pdf` - Print-optimized version
 
 ### 🎨 Customization Options
 

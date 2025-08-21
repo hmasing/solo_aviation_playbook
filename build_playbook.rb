@@ -5,7 +5,7 @@ puts "🛩️  Building Solo Aviation Services Playbook..."
 puts ""
 
 # Change to the kitabu project directory
-Dir.chdir('solo-aviation-services-playbook') do
+Dir.chdir('kitabu') do
   puts "📋 Organizing latest content..."
   system('ruby organize_content.rb')
   
@@ -18,16 +18,16 @@ Dir.chdir('solo-aviation-services-playbook') do
     puts "✅ PDF generated successfully!"
     
     # Copy PDF to root directory for easy access
-    if File.exist?('output/solo-aviation-services-playbook.pdf')
+    if File.exist?('output/kitabu.pdf')
       require 'fileutils'
-      FileUtils.cp('output/solo-aviation-services-playbook.pdf', '../solo-aviation-services-playbook.pdf')
+      FileUtils.cp('output/kitabu.pdf', '../solo-aviation-services-playbook.pdf')
       puts "📄 PDF copied to root directory: solo-aviation-services-playbook.pdf"
-      puts "📁 Original location: solo-aviation-services-playbook/output/"
+      puts "📁 Original location: kitabu/output/"
       
       puts ""
       puts "🚀 To open the PDF:"
       puts "   open solo-aviation-services-playbook.pdf"
-      puts "   # Or from original location: open solo-aviation-services-playbook/output/solo-aviation-services-playbook.pdf"
+      puts "   # Or from original location: open kitabu/output/kitabu.pdf"
     else
       puts "⚠️  PDF not found in expected location"
     end

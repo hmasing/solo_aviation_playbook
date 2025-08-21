@@ -16,7 +16,7 @@ ruby build_playbook.rb
 
 ### Manual Generation
 ```bash
-cd solo-aviation-services-playbook
+cd kitabu
 ruby organize_content.rb
 bundle exec kitabu export --only=pdf
 ```
@@ -24,7 +24,7 @@ bundle exec kitabu export --only=pdf
 ## Setup Details
 
 ### Initial Setup (Already Complete)
-The Kitabu environment has been set up in the `solo-aviation-services-playbook/` directory with:
+The Kitabu environment has been set up in the `kitabu/` directory with:
 
 - ✅ **Kitabu gem installed**
 - ✅ **Project structure created**
@@ -37,24 +37,24 @@ The Kitabu environment has been set up in the `solo-aviation-services-playbook/`
 playbook/
 ├── build_playbook.rb          # Ruby build script
 ├── build_playbook.sh          # Shell build script  
-└── solo-aviation-services-playbook/   # Kitabu project
+└── kitabu/                    # Kitabu project
     ├── config/
     │   └── kitabu.yml         # Book configuration
     ├── text/                  # Organized content files
     ├── templates/             # Styling templates
     ├── output/                # Generated files
-    │   ├── solo-aviation-services-playbook.pdf  # Main PDF
-    │   └── solo-aviation-services-playbook.html # HTML version
+    │   ├── kitabu.pdf                  # Main PDF
+    │   └── kitabu.html                 # HTML version
     └── organize_content.rb    # Content organization script
 ```
 
 ## Generated Output
 
-The build process creates several files in `solo-aviation-services-playbook/output/`:
+The build process creates several files in `kitabu/output/`:
 
-- **`solo-aviation-services-playbook.pdf`** - Main PDF document
-- **`solo-aviation-services-playbook.html`** - HTML version
-- **`solo-aviation-services-playbook.print.pdf`** - Print-optimized PDF
+- **`kitabu.pdf`** - Main PDF document
+- **`kitabu.html`** - HTML version
+- **`kitabu.print.pdf`** - Print-optimized PDF
 - Supporting assets (images, styles)
 
 ## Content Organization
@@ -136,7 +136,7 @@ echo "Generating updated Solo Aviation Services Playbook PDF..."
 
 **Missing dependencies:**
 ```bash
-cd solo-aviation-services-playbook
+cd kitabu
 bundle install
 ```
 
