@@ -4,80 +4,95 @@ Core client-facing operations that define the Fixed Base Operator experience. Th
 
 ### Procedures in this Section
 
-1. **[Aircraft Arrival and Departure Handling](01-aircraft-arrival-departure-handling.md)**
-   - Aircraft marshalling and parking coordination
-   - Client greeting and service coordination
-   - Departure preparation and assistance
+#### [Aircraft Arrival and Departure Handling Process](01-aircraft-arrival-departure-handling.md)
+Provide comprehensive handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
+- Aircraft marshalling and parking coordination
+- Client greeting and service coordination  
+- Departure preparation and assistance
 
-2. **[Fueling Operations (Jet-A and Avgas)](02-fueling-operations.md)**
-   - Fuel quality control and safety procedures
-   - Aircraft fueling protocols
-   - Fuel system maintenance and monitoring
+#### [Fueling Operations Process](02-fueling-operations.md)
+Provide safe, accurate, and efficient aircraft fueling services for both Jet A and 100LL aviation gasoline while maintaining quality control and regulatory compliance.
+- Fuel quality control and safety procedures
+- Aircraft fueling protocols
+- Fuel system maintenance and monitoring
 
-3. **[Hangar and Ramp Space Allocation](03-hangar-ramp-space-allocation.md)**
-   - Space reservation and assignment
-   - Hangar door operations
-   - Ramp traffic management
+#### [Hangar and Ramp Space Allocation Process](03-hangar-ramp-space-allocation.md)
+Manage hangar and ramp space allocation to optimize facility utilization while ensuring safe aircraft operations and client satisfaction.
+- Space reservation and assignment
+- Hangar door operations
+- Ramp traffic management
 
-4. **[Client Check-In and Concierge Services](04-client-checkin-concierge.md)**
-   - Client reception and registration
-   - Concierge service coordination
-   - Amenity provision and facility tours
+#### [Client Check-In and Concierge Services Process](04-client-checkin-concierge.md)
+Provide exceptional client reception and concierge services to ensure a welcoming experience and address all client needs during their visit.
+- Client reception and registration
+- Concierge service coordination
+- Amenity provision and facility tours
 
-5. **[Aircraft Marshalling and Parking](05-aircraft-marshalling-parking.md)**
-   - Ground guidance procedures
-   - Parking space optimization
-   - Safety protocols for aircraft movement
+#### [Aircraft Marshalling and Parking Process](05-aircraft-marshalling-parking.md)
+Provide safe and efficient aircraft marshalling and parking services to ensure proper aircraft positioning and operational safety.
+- Ground guidance procedures
+- Parking space optimization
+- Safety protocols for aircraft movement
 
-6. **[Ground Support Equipment (GSE) Management](06-gse-management.md)**
-   - Equipment inventory and maintenance
-   - Operator training and certification
-   - Service scheduling and deployment
+#### [Ground Support Equipment Management Process](06-gse-management.md)
+Manage ground support equipment inventory, maintenance, and deployment to ensure reliable equipment availability for all operations.
+- Equipment inventory and maintenance
+- Operator training and certification
+- Service scheduling and deployment
 
-7. **[Maintenance Coordination for Visiting Aircraft](07-maintenance-coordination-visiting.md)**
-   - Service request processing
-   - Vendor coordination and oversight
-   - Quality assurance and client communication
+#### [Maintenance Coordination for Visiting Aircraft Process](07-maintenance-coordination-visiting.md)
+Coordinate maintenance services for visiting aircraft by managing vendor relationships and ensuring quality service delivery.
+- Service request processing
+- Vendor coordination and oversight
+- Quality assurance and client communication
 
-8. **[Crew and Passenger Transportation Arrangements](08-transportation-arrangements.md)**
-   - Ground transportation coordination
-   - Hotel and accommodation booking
-   - Local area information and recommendations
+#### [Crew and Passenger Transportation Arrangements Process](08-transportation-arrangements.md)
+Coordinate ground transportation and accommodation services for crew members and passengers to ensure convenient and comfortable travel experiences.
+- Ground transportation coordination
+- Hotel and accommodation booking
+- Local area information and recommendations
 
-9. **[Billing and Invoicing for Services](09-billing-invoicing-services.md)**
-   - Service tracking and documentation
-   - Invoice generation and processing
-   - Payment collection and account management
+#### [Billing and Invoicing for Services Process](09-billing-invoicing-services.md)
+Manage accurate billing and invoicing for all FBO services while maintaining transparent pricing and efficient payment processing.
+- Service tracking and documentation
+- Invoice generation and processing
+- Payment collection and account management
 
-10. **[Safety and Security Inspections](10-safety-security-inspections.md)**
-    - Daily facility safety checks
-    - Security protocol implementation
-    - Incident prevention and reporting
+#### [Safety and Security Inspections Process](10-safety-security-inspections.md)
+Conduct regular safety and security inspections to maintain facility safety standards and regulatory compliance.
+- Daily facility safety checks
+- Security protocol implementation
+- Incident prevention and reporting
 
-11. **[Facility Maintenance and Cleaning](11-facility-maintenance-cleaning.md)**
-    - Scheduled maintenance protocols
-    - Cleaning standards and procedures
-    - Equipment upkeep and replacement
+#### [Facility Maintenance and Cleaning Process](11-facility-maintenance-cleaning.md)
+Maintain facility cleanliness and operational readiness through systematic maintenance and cleaning procedures.
+- Scheduled maintenance protocols
+- Cleaning standards and procedures
+- Equipment upkeep and replacement
 
-12. **[Weather Briefing and Flight Planning Support](12-weather-flight-planning-support.md)**
-    - Weather information services
-    - Flight planning assistance
-    - Regulatory briefing support
+#### [Weather Briefing and Flight Planning Support Process](12-weather-flight-planning-support.md)
+Provide weather briefing and flight planning assistance to support safe and efficient flight operations.
+- Weather information services
+- Flight planning assistance
+- Regulatory briefing support
 
-13. **[Customs and Immigration Coordination (International Flights)](13-customs-immigration-coordination.md)**
-    - International arrival procedures
-    - Customs and immigration liaison
-    - Documentation and compliance requirements
+#### [Customs and Immigration Coordination Process](13-customs-immigration-coordination.md)
+Coordinate customs and immigration procedures for international flights to ensure regulatory compliance and smooth processing.
+- International arrival procedures
+- Customs and immigration liaison
+- Documentation and compliance requirements
 
-14. **[Catering and In-Flight Service Requests](14-catering-inflight-services.md)**
-    - Catering vendor coordination
-    - Special service arrangements
-    - Quality control and delivery timing
+#### [Catering and In-Flight Service Requests Process](14-catering-inflight-services.md)
+Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
+- Catering vendor coordination
+- Special service arrangements
+- Quality control and delivery timing
 
-15. **[Emergency Response and Incident Reporting](15-emergency-response-incident-reporting.md)**
-    - Emergency procedure activation
-    - Incident documentation and reporting
-    - Follow-up and corrective action coordination
+#### [Emergency Response and Incident Reporting Process](15-emergency-response-incident-reporting.md)
+Manage emergency response procedures and incident reporting to ensure rapid response and proper documentation of safety events.
+- Emergency procedure activation
+- Incident documentation and reporting
+- Follow-up and corrective action coordination
 
 ### Quick Reference
 - **Emergency Contact**: [Phone Number]

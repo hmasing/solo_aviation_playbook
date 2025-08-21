@@ -1,59 +1,67 @@
 # Solo Aviation Services Playbook
 
 ## Overview
-This playbook provides standardized procedures for Solo Aviation Services. It covers aircraft handling, maintenance operations, and service delivery processes.
+
+This playbook provides standardized procedures for Solo Aviation Services Fixed Base Operator (FBO) operations. It covers comprehensive aircraft handling, maintenance operations, and client experience delivery across all service areas. The playbook follows organizational vocabulary standards emphasizing clients, team members, and operational excellence.
 
 ## 🚀 Quick Start
 
 ### Generate PDF Documentation
+
 ```bash
 ./build_playbook.sh
 ```
+
 This creates: `solo-aviation-services-playbook.pdf` (287KB document)
 
 **To open the PDF:**
+
 ```bash
 open solo-aviation-services-playbook.pdf
 ```
-
-
 
 ## Playbook Structure
 
 ### 📋 Main Categories
 
-1. **[FBO Services](content/01-fbo-services/)** - Core customer-facing operations
+1. **[FBO Services](content/01-fbo-services/)** - Core client-facing operations and experience delivery
 2. **[Maintenance Operations](content/02-maintenance-operations/)** - Aircraft maintenance and repair procedures  
 3. **[Flight School Operations](content/03-flight-school-operations/)** - Training and education services
 4. **[Safety and Compliance](content/04-safety-compliance/)** - Regulatory and safety procedures
-5. **[Marketing and Customer Retention](content/05-marketing-customer-retention/)** - Business development activities
+5. **[Marketing and Client Retention](content/05-marketing-customer-retention/)** - Business development and client engagement
 6. **[Administrative and Financial](content/06-administrative-financial/)** - Business operations and financial management
 
 ### 📁 Directory Structure
-```
+
+```text
 playbook/
 ├── content/                    # Main playbook procedures
-│   ├── 01-fbo-services/                 # 15 FBO service procedures
-│   ├── 02-maintenance-operations/       # 15 maintenance procedures
-│   ├── 03-flight-school-operations/     # 15 flight training procedures
-│   ├── 04-safety-compliance/            # 15 safety and compliance procedures
-│   ├── 05-marketing-customer-retention/ # 15 marketing procedures
-│   └── 06-administrative-financial/     # 15 admin/financial procedures
+│   ├── 01-fbo-services/                 # Client experience and service delivery
+│   ├── 02-maintenance-operations/       # Aircraft maintenance and repair
+│   ├── 03-flight-school-operations/     # Training and education services
+│   ├── 04-safety-compliance/            # Safety and regulatory procedures
+│   ├── 05-marketing-customer-retention/ # Client engagement and retention
+│   └── 06-administrative-financial/     # Business operations and finance
 ├── templates/                  # Procedure templates
 ├── assets/                     # Supporting materials
 │   ├── forms/                 # Operational forms
 │   ├── images/                # Diagrams and photos
 │   └── references/            # Quick reference materials
-└── .cursor/rules/             # Documentation standards
+├── kitabu/                    # PDF generation system
+│   ├── config/               # Book configuration
+│   ├── text/                 # Processed content for PDF
+│   └── output/               # Generated PDF and HTML files
+└── .cursor/rules/             # Documentation and vocabulary standards
 ```
 
 ## Quick Navigation
 
 ### 🛩️ FBO Services (15 Procedures)
+
 1. Aircraft Arrival and Departure Handling
 2. Fueling Operations (Jet-A and Avgas)
 3. Hangar and Ramp Space Allocation
-4. Customer Check-In and Concierge Services
+4. Client Check-In and Concierge Services
 5. Aircraft Marshalling and Parking
 6. Ground Support Equipment (GSE) Management
 7. Maintenance Coordination for Visiting Aircraft
@@ -67,6 +75,7 @@ playbook/
 15. Emergency Response and Incident Reporting
 
 ### 🔧 Maintenance Operations (15 Procedures)
+
 1. Work Order Creation and Scheduling
 2. Pre-Maintenance Aircraft Inspection
 3. 100-Hour and Annual Inspection Execution
@@ -78,12 +87,13 @@ playbook/
 9. Quality Control and Post-Maintenance Checks
 10. Tool and Equipment Calibration and Maintenance
 11. Technician Training and Certification Tracking
-12. Customer Communication and Work Approval
+12. Client Communication and Work Approval
 13. Hazardous Materials Handling and Disposal
 14. Shop Safety and Cleanliness Protocols
 15. Billing and Invoicing for Maintenance Services
 
 ### 🎓 Flight School Operations (15 Procedures)
+
 1. Student Enrollment and Onboarding
 2. Flight Lesson Scheduling
 3. Aircraft Maintenance and Inspection
@@ -98,9 +108,10 @@ playbook/
 12. Post-Flight Debriefing and Logbook Updates
 13. Emergency Response and Evacuation Procedures
 14. Fuel Management and Refueling Operations
-15. Customer Feedback and Satisfaction Surveys
+15. Client Feedback and Satisfaction Surveys
 
 ### 🛡️ Safety and Compliance (15 Procedures)
+
 1. Safety Incident Reporting and Investigation
 2. Aircraft Fueling Safety Procedures
 3. Ground Handling Safety Protocols
@@ -117,56 +128,122 @@ playbook/
 14. Safety Management System (SMS) Implementation
 15. Regulatory Documentation and Record-Keeping
 
-### 📈 Marketing and Customer Retention (15 Procedures)
-1. Customer Segmentation and Targeting
+### 📈 Marketing and Client Retention (15 Procedures)
+
+1. Client Segmentation and Targeting
 2. Digital Marketing Campaign Management
 3. Promotional Offer Development
 4. Event Hosting and Sponsorship
-5. Customer Feedback Collection and Analysis
+5. Client Feedback Collection and Analysis
 6. Loyalty Program Management
-7. Personalized Customer Follow-Up
+7. Personalized Client Follow-Up
 8. Referral Program Administration
 9. Content Creation
 10. Partnership Development with Local Businesses
-11. Customer Complaint Resolution
+11. Client Complaint Resolution
 12. Social Media Engagement and Reputation Management
 13. Pilot Community Outreach
 14. Seasonal Marketing Campaigns
-15. Customer Retention Analytics and Reporting
+15. Client Retention Analytics and Reporting
 
 ### 💼 Administrative and Financial (15 Procedures)
-1. Customer Billing and Invoicing
+
+1. Client Billing and Invoicing
 2. Payment Processing and Collections
 3. Budget Planning and Monitoring
 4. Expense Tracking and Approval
-5. Payroll Administration for Staff
+5. Payroll Administration for Team Members
 6. Vendor and Supplier Contract Management
 7. Financial Reporting and Reconciliation
 8. Tax Filing and Compliance
 9. Insurance Policy Management
-10. Employee Scheduling and Timekeeping
+10. Team Member Scheduling and Timekeeping
 11. Record-Keeping for Regulatory Compliance
 12. Inventory Management for Fuel and Supplies
-13. Customer Account Management in CRM
+13. Client Account Management in CRM
 14. Purchase Order Processing
 15. Audit Preparation and Support
 
+## Organizational Standards
+
+### Vocabulary and Language
+
+This playbook follows Solo Aviation Services vocabulary standards:
+
+- **Clients** (not customers) - Individuals or organizations we serve
+- **Team Members** (not employees/staff) - Our valued workforce
+- **Leaders** (not managers/supervisors) - Those who guide and develop team members
+- **Experience** (not just service) - What we create for clients
+- **Opportunities** (not problems) - Challenges that present improvement potential
+- **Excellence** - Our standard approach to all operations
+
+### Documentation Standards
+
+- All procedures follow standardized templates with consistent formatting
+- Safety warnings use clear hierarchy: ⚠️ WARNING, ⚡ CAUTION, ℹ️ NOTE, ✅ BEST PRACTICE
+- Aviation terminology follows industry standards with acronyms defined on first use
+- Regulatory references include current FAA, OSHA, and industry standards
+
+### Content Management
+
+- **Source Content**: Located in `content/` directory with section-based organization
+- **PDF Generation**: Automated using Kitabu system in `kitabu/` directory
+- **Templates**: Standardized procedure templates in `templates/` directory
+- **Quality Control**: All procedures reviewed by qualified personnel before publication
+
 ## Usage Guidelines
 
-### For Operations Staff
+### For Operations Team Members
+
 - Each procedure includes step-by-step instructions
 - Safety warnings and cautions are clearly marked
 - Cross-references link to related procedures
 - Forms and checklists are readily accessible
 
-### For Management
+### For Leaders
+
 - Procedures include quality control checkpoints
 - Compliance requirements are clearly identified
 - Performance metrics and KPIs are integrated
 - Training requirements are specified
 
 ### For Training
+
 - New team member onboarding procedures
 - Certification tracking and renewal requirements
 - Safety training protocols
 - Performance evaluation criteria
+
+## Document Management
+
+### PDF Generation Workflow
+
+The playbook uses an automated PDF generation system:
+
+1. **Content Creation**: Write procedures in Markdown format in `content/` directories
+2. **Template Compliance**: Follow standardized procedure templates in `templates/`
+3. **Vocabulary Standards**: Apply Solo Aviation vocabulary from `.cursor/rules/vocabulary-standards.mdc`
+4. **PDF Generation**: Run `./build_playbook.sh` or `ruby build_playbook.rb` to generate PDF
+5. **Output**: PDF created as `solo-aviation-services-playbook.pdf` in root directory
+
+### Build Process Details
+
+- **Content Organization**: `kitabu/organize_content.rb` processes source files
+- **Format Conversion**: Kitabu system converts Markdown to PDF with professional styling
+- **Asset Management**: Images and forms automatically included from `assets/` directory
+- **Version Control**: Generated PDF reflects latest content changes automatically
+
+### File Management Best Practices
+
+- Keep source content in `content/` directories organized by section
+- Use consistent naming: `##-descriptive-procedure-name.md`
+- Follow YAML frontmatter standards for metadata
+- Reference assets using relative paths: `../../assets/category/file-name`
+- Maintain cross-references between related procedures
+
+### Quality Assurance
+
+- All procedures must be reviewed by qualified subject matter experts
+- Safety-related content requires safety officer approval
+- Regulatory content needs compliance officer verification
+- Final approval required from department leaders before publication
