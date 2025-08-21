@@ -2,7 +2,7 @@
 
 ## Overview
 
-This playbook provides standardized procedures for Solo Aviation Services Fixed Base Operator (FBO) operations. It covers comprehensive aircraft handling, maintenance operations, and client experience delivery across all service areas. The playbook follows organizational vocabulary standards emphasizing clients, team members, and operational excellence.
+This playbook provides standardized procedures for Solo Aviation Services Fixed Base Operator (FBO) operations. It covers aircraft handling, maintenance operations, and client experience delivery. The playbook follows organizational vocabulary standards emphasizing clients, team members, and operational excellence.
 
 ## 🚀 Quick Start
 
@@ -179,7 +179,7 @@ This playbook follows Solo Aviation Services vocabulary standards:
 
 ### Documentation Standards
 
-- All procedures follow standardized templates with consistent formatting
+- Procedures follow standardized templates with consistent formatting
 - Safety warnings use clear hierarchy: ⚠️ WARNING, ⚡ CAUTION, ℹ️ NOTE, ✅ BEST PRACTICE
 - Aviation terminology follows industry standards with acronyms defined on first use
 - Regulatory references include current FAA, OSHA, and industry standards
@@ -189,7 +189,7 @@ This playbook follows Solo Aviation Services vocabulary standards:
 - **Source Content**: Located in `content/` directory with section-based organization
 - **PDF Generation**: Automated using Kitabu system in `kitabu/` directory
 - **Templates**: Standardized procedure templates in `templates/` directory
-- **Quality Control**: All procedures reviewed by qualified personnel before publication
+- **Quality Control**: Procedures reviewed by qualified personnel before publication
 
 ## Usage Guidelines
 
@@ -243,7 +243,7 @@ The playbook uses an automated PDF generation system:
 
 ### Quality Assurance
 
-- All procedures must be reviewed by qualified subject matter experts
+- Procedures must be reviewed by qualified subject matter experts
 - Safety-related content requires safety officer approval
 - Regulatory content needs compliance officer verification
 - Final approval required from department leaders before publication
