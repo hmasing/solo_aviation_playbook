@@ -20,11 +20,5 @@ Strategic marketing initiatives and customer relationship management procedures 
 14. **[Seasonal Marketing Campaigns](14-seasonal-marketing-campaigns.md)**
 15. **[Customer Retention Analytics and Reporting](15-customer-retention-analytics.md)**
 
-## Key Performance Indicators
-- Customer retention rate: Target 90%+
-- New customer acquisition: Target varies
-- Customer satisfaction: Target 95%+
-- Marketing ROI: Target positive
-
 ---
 [← Previous: Safety and Compliance](../04-safety-compliance/README.md) | [Back to Main Playbook](../../README.md) | [Next Section: Administrative and Financial →](../06-administrative-financial/README.md)

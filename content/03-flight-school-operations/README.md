@@ -20,11 +20,5 @@ Comprehensive training operations for student pilots, from initial enrollment th
 14. **[Fuel Management and Refueling Operations](14-fuel-management-refueling.md)**
 15. **[Customer Feedback and Satisfaction Surveys](15-customer-feedback-surveys.md)**
 
-## Key Performance Indicators
-- Student pass rate: Target 85%+
-- Training completion rate: Target 90%+
-- Safety incidents: Target 0
-- Customer satisfaction: Target 95%+
-
 ---
 [← Previous: Maintenance Operations](../02-maintenance-operations/README.md) | [Back to Main Playbook](../../README.md) | [Next Section: Safety and Compliance →](../04-safety-compliance/README.md)

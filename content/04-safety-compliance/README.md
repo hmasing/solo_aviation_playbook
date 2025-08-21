@@ -20,11 +20,5 @@ Critical safety procedures and regulatory compliance requirements that form the 
 14. **[Safety Management System (SMS) Implementation](14-sms-implementation.md)**
 15. **[Regulatory Documentation and Record-Keeping](15-regulatory-documentation.md)**
 
-## Key Performance Indicators
-- Safety incidents: Target 0
-- Regulatory compliance: Target 100%
-- Training completion: Target 100%
-- Audit findings: Target 0
-
 ---
 [← Previous: Flight School Operations](../03-flight-school-operations/README.md) | [Back to Main Playbook](../../README.md) | [Next Section: Marketing and Customer Retention →](../05-marketing-customer-retention/README.md)

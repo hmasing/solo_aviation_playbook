@@ -85,13 +85,6 @@ Comprehensive aircraft maintenance procedures ensuring airworthiness, regulatory
 - **Parts Department**: [Extension]
 - **Emergency Maintenance**: [Phone Number]
 
-## Key Performance Indicators
-- On-time completion rate: Target 95%+
-- First-time fix rate: Target 90%+
-- Customer satisfaction: Target 95%+
-- Safety incidents: Target 0
-- Regulatory compliance: Target 100%
-
 ## Regulatory References
 - **14 CFR Part 43** - Maintenance, Rebuilding, and Alteration
 - **14 CFR Part 91** - General Operating and Flight Rules

@@ -1,3 +1,7 @@
+---
+globs: *.md
+alwaysApply: false
+---
 # General Markdown Formatting Rules
 
 ## Core Formatting Standards
@@ -120,3 +124,8 @@ reviewed_by: "Reviewer Name"
 - Regular review and updates as content evolves
 - Use clear, concise language appropriate for the audience
 - Follow established formatting conventions consistently
+
+---
+**Document Owner**: Operations Management  
+**Review Frequency**: Annual or as formatting standards evolve  
+**Distribution**: All content creators and editors

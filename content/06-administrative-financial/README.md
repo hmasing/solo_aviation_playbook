@@ -20,11 +20,5 @@ Essential business operations and financial management procedures that support a
 14. **[Purchase Order Processing](14-purchase-order-processing.md)**
 15. **[Audit Preparation and Support](15-audit-preparation-support.md)**
 
-## Key Performance Indicators
-- Accounts receivable aging: Target <30 days
-- Budget variance: Target ±5%
-- Invoice accuracy: Target 99%+
-- Compliance rate: Target 100%
-
 ---
 [← Previous: Marketing and Customer Retention](../05-marketing-customer-retention/README.md) | [Back to Main Playbook](../../README.md)

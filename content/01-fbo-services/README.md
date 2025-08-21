@@ -85,12 +85,6 @@ Core customer-facing operations that define the Fixed Base Operator experience. 
 - **Customer Service Hours**: [Hours]
 - **After-Hours Contact**: [Phone Number]
 
-## Key Performance Indicators
-- Customer satisfaction rating: Target 95%+
-- Aircraft turnaround time: Target varies by service
-- Safety incidents: Target 0
-- Service completion rate: Target 100%
-
 ## Training Requirements
 All FBO service personnel must complete:
 - [ ] Customer service training
