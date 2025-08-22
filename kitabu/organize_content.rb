@@ -23,6 +23,7 @@ class OrganizeContent
     puts '📋 Organizing Solo Aviation Services Playbook content for Kitabu...'
 
     create_content_files
+    generate_keyword_index
     copy_assets
 
     puts '✅ Content organization complete!'
@@ -92,14 +93,17 @@ class OrganizeContent
     # Start with README content as the chapter introduction
     content = ""
     
+    # Add anchor for page references
+    chapter_anchor = "<a id=\"chapter-#{section[:section_number]}-start\"></a>\n\n"
+    
     if section[:readme_path] && File.exist?(section[:readme_path])
       readme_content = File.read(section[:readme_path])
       cleaned_readme = clean_content_for_pdf(readme_content)
       # Convert README H2+ headers to H3+ so they don't appear in TOC
-      content = convert_readme_headers(cleaned_readme)
+      content = chapter_anchor + convert_readme_headers(cleaned_readme)
     else
       # Fallback to simple header if no README
-      content = "# #{section[:section_name]}\n\n"
+      content = "#{chapter_anchor}# #{section[:section_name]}\n\n"
     end
     
     # Add all procedure files as subsections
@@ -180,6 +184,17 @@ class OrganizeContent
     end
 
     content
+  end
+
+  def generate_keyword_index
+    puts '  📇 Generating keyword index...'
+    
+    # Load and run the index generator
+    require_relative 'generate_index'
+    generator = IndexGenerator.new
+    generator.generate!
+  rescue => e
+    puts "    WARNING: Index generation failed: #{e.message}"
   end
 
   def copy_assets

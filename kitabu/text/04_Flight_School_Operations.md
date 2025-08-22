@@ -1,3 +1,5 @@
+<a id="chapter-4-start"></a>
+
 # Flight School Operations
 
 Comprehensive training operations for student pilots, from initial enrollment through certification. These procedures ensure safe, effective flight training while maintaining regulatory compliance and high educational standards.

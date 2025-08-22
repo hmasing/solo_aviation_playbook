@@ -240,6 +240,32 @@ The playbook uses an automated PDF generation system:
 - Reference assets using relative paths: `../../assets/category/file-name`
 - Maintain cross-references between related procedures
 
+### Keyword Index Generation
+
+The playbook includes an automated keyword index that provides comprehensive cross-references to aviation and operational terms throughout the document:
+
+- **Automatic Generation**: Index is generated automatically during PDF build process
+- **Comprehensive Coverage**: Includes 2,650+ aviation terms, operational concepts, and regulatory references
+- **Page References**: PDF version includes automatic page number references for each term
+- **Regulatory Cross-Reference**: Special sections for FAA regulations, OSHA standards, and other regulatory sources
+- **Aviation Acronyms**: Dedicated section explaining common aviation abbreviations
+
+#### Manual Index Generation
+
+To regenerate just the keyword index:
+
+```bash
+ruby generate_index.rb
+```
+
+#### Index Features
+
+- **Aviation Terms**: Aircraft types, navigation, weather, fuel specifications
+- **Operational Terms**: FBO services, maintenance procedures, safety protocols
+- **Regulatory References**: 14 CFR parts, FAA publications, OSHA standards
+- **Alphabetical Organization**: Terms grouped by first letter for easy navigation
+- **Chapter References**: Shows which chapters contain each term with occurrence counts
+
 ### Quality Assurance
 
 - Procedures must be reviewed by qualified subject matter experts

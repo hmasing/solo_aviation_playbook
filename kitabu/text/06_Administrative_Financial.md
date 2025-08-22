@@ -1,3 +1,5 @@
+<a id="chapter-6-start"></a>
+
 # Administrative and Financial
 
 Essential business operations and financial management procedures that support all aspects of FBO operations. These procedures ensure efficient business processes, accurate financial management, and regulatory compliance.

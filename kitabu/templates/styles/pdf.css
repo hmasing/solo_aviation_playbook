@@ -1,5 +1,15 @@
 @import "./files/normalize.css";
 
+/* Prince XML specific styles to hide logo */
+@prince-pdf {
+  prince-pdf-page-layout: single-page;
+}
+
+/* Hide Prince logo globally */
+@page {
+  prince-pdf-page-mode: use-none;
+}
+
 :root {
   --solo-light-blue: #85d4ff;
   --solo-dark-blue: #008df5;
@@ -10,6 +20,16 @@
 
 @page {
   size: letter portrait;
+  /* Override Prince defaults */
+  @top-left {
+    content: "";
+  }
+  @top-center {
+    content: "";
+  }
+  @top-right {
+    content: "";
+  }
 }
 
 @page toc:left {
@@ -17,10 +37,18 @@
     background: var(--solo-dark-blue);
     color: #fff;
     content: counter(page, lower-roman);
-    font-size: 12px;
+    font-size: 11px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: -100px;
     text-align: center;
-    width: 35px;
+    padding: 2px;
+    width: 10px !important;
+    display: block;
+  }
+  @bottom-right {
+    content: url("../images/solo-logo-footer.jpeg");
+    margin-right: -60px;
+    padding-right: 15px;
   }
   @bottom-center {
     content: "Version 0.1 - 2025-AUG-21";
@@ -36,10 +64,18 @@
     background: var(--solo-dark-blue);
     color: #fff;
     content: counter(page, lower-roman);
-    font-size: 12px;
+    font-size: 11px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-right: -100px;
     text-align: center;
-    width: 35px;
+    padding: 2px;
+    width: 10px !important;
+    display: block;
+  }
+  @bottom-left {
+    content: url("../images/solo-logo-footer.jpeg");
+    margin-left: -60px;
+    padding-left: 15px;
   }
   @bottom-center {
     content: "Version 0.1 - 2025-AUG-21";
@@ -64,10 +100,18 @@
     background: var(--solo-dark-blue);
     color: #fff;
     content: counter(page);
-    font-size: 12px;
+    font-size: 11px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: -100px;
     text-align: center;
-    width: 35px;
+    padding: 2px;
+    width: 10px !important;
+    display: block;
+  }
+  @bottom-right {
+    content: url("../images/solo-logo-footer.jpeg");
+    margin-right: -60px;
+    padding-right: 15px;
   }
   @bottom-center {
     content: "Version 0.1 - 2025-AUG-21";
@@ -92,10 +136,18 @@
     background: var(--solo-dark-blue);
     color: #fff;
     content: counter(page);
-    font-size: 12px;
+    font-size: 11px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-right: -100px;
     text-align: center;
-    width: 35px;
+    padding: 2px;
+    width: 10px !important;
+    display: block;
+  }
+  @bottom-left {
+    content: url("../images/solo-logo-footer.jpeg");
+    margin-left: -60px;
+    padding-left: 15px;
   }
   @bottom-center {
     content: "Version 0.1 - 2025-AUG-21";
@@ -111,6 +163,26 @@
   /* background: var(--solo-light-blue); */
   border-left: 50px solid var(--solo-dark-blue);
   background: white;
+
+  /* Hide Prince PDF logo and all page margins */
+  @top-left {
+    content: "";
+  }
+  @top-center {
+    content: "";
+  }
+  @top-right {
+    content: "";
+  }
+  @bottom-left {
+    content: "";
+  }
+  @bottom-center {
+    content: "";
+  }
+  @bottom-right {
+    content: "";
+  }
 }
 
 @page toc {
@@ -257,8 +329,8 @@ li {
   text-transform: uppercase;
   letter-spacing: 2px;
   position: absolute;
-  bottom: 2cm;
-  right: 2cm;
+  bottom: 3cm;
+  right: 3cm;
   text-align: right;
 }
 
@@ -273,8 +345,8 @@ li {
   text-transform: uppercase;
   letter-spacing: 1px;
   position: absolute;
-  bottom: 1cm;
-  right: 2cm;
+  bottom: 2.2cm;
+  right: 3cm;
   text-align: right;
 }
 
@@ -583,4 +655,111 @@ li code {
 .note.warning:before {
   background: #e42e24;
   color: #fff;
+}
+
+/* Traditional Index with Dotted Leaders */
+.keyword-index {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10pt;
+  line-height: 1.4;
+  -webkit-columns: 2;
+  columns: 2;
+  -webkit-column-gap: 0.5in;
+  column-gap: 0.5in;
+  -webkit-column-rule: 1px solid #ddd;
+  column-rule: 1px solid #ddd;
+}
+
+/* H1 styling is now handled by the main chapter styles since it's outside the div */
+
+.keyword-index h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  color: var(--solo-dark-blue);
+  margin-top: 15px;
+  margin-bottom: 8px;
+  text-align: center;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+/* Index Entry with Dotted Leaders */
+.index-entry {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 2px;
+  -webkit-column-break-inside: avoid;
+  break-inside: avoid-column;
+  overflow: hidden;
+}
+
+.index-term {
+  font-weight: normal;
+  color: #000;
+  flex-shrink: 0;
+  padding-right: 4px;
+}
+
+.index-leaders {
+  flex-grow: 1;
+  border-bottom: 1px dotted #666;
+  height: 1px;
+  margin: 0 4px;
+  align-self: baseline;
+  margin-bottom: 3px;
+}
+
+.index-pages {
+  font-weight: normal;
+  color: #000;
+  flex-shrink: 0;
+  padding-left: 4px;
+}
+
+/* Page number links with proper PrinceXML target-counter */
+.keyword-index a {
+  color: #000;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* Use target-counter to get actual page numbers */
+.keyword-index a::after {
+  content: target-counter(attr(href), page);
+}
+
+/* Hide the chapter number text, show only the page number */
+.keyword-index a {
+  font-size: 0;
+}
+
+.keyword-index a::after {
+  font-size: 10pt;
+}
+
+/* Compact regulatory section for traditional index */
+.keyword-index .regulatory-reference {
+  -webkit-column-span: all;
+  column-span: all;
+  background: #f8f9fa;
+  padding: 8px;
+  margin: 15px 0;
+  font-size: 8pt;
+  line-height: 1.1;
+  border-top: 1px solid #ddd;
+}
+
+.keyword-index .regulatory-reference h2 {
+  font-size: 10pt;
+  margin: 0 0 5px 0;
+  padding: 0;
+  background: none;
+  border: none;
+  text-align: left;
+}
+
+.keyword-index .regulatory-reference p {
+  margin-bottom: 3px;
+  font-size: 8pt;
 }
