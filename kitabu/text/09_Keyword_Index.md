@@ -487,7 +487,7 @@
 <div class="index-entry">
 <span class="index-term">Avionics</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-1-start">1</a>, <a href="#chapter-3-start">3</a>, <a href="#chapter-4-start">4</a>, <a href="#chapter-7-start">7</a></span>
+<span class="index-pages"><a href="#chapter-1-start">1</a>, <a href="#chapter-2-start">2</a>, <a href="#chapter-3-start">3</a>, <a href="#chapter-4-start">4</a>, <a href="#chapter-7-start">7</a></span>
 </div>
 
 <div class="index-entry">
@@ -612,6 +612,12 @@
 <span class="index-term">Check Regulatory Compliance</span>
 <span class="index-leaders"></span>
 <span class="index-pages"><a href="#chapter-3-start">3</a>, <a href="#chapter-4-start">4</a></span>
+</div>
+
+<div class="index-entry">
+<span class="index-term">Check Weather Conditions</span>
+<span class="index-leaders"></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a>, <a href="#chapter-6-start">6</a></span>
 </div>
 
 <div class="index-entry">
@@ -1124,6 +1130,12 @@
 </div>
 
 <div class="index-entry">
+<span class="index-term">Detailing</span>
+<span class="index-leaders"></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a></span>
+</div>
+
+<div class="index-entry">
 <span class="index-term">Detection</span>
 <span class="index-leaders"></span>
 <span class="index-pages"><a href="#chapter-5-start">5</a>, <a href="#chapter-6-start">6</a></span>
@@ -1520,7 +1532,7 @@
 <div class="index-entry">
 <span class="index-term">Final</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-3-start">3</a>, <a href="#chapter-5-start">5</a></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a>, <a href="#chapter-3-start">3</a>, <a href="#chapter-5-start">5</a></span>
 </div>
 
 <div class="index-entry">
@@ -1929,7 +1941,7 @@
 <div class="index-entry">
 <span class="index-term">Landing</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-3-start">3</a>, <a href="#chapter-7-start">7</a></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a>, <a href="#chapter-3-start">3</a>, <a href="#chapter-7-start">7</a></span>
 </div>
 
 <div class="index-entry">
@@ -1959,7 +1971,7 @@
 <div class="index-entry">
 <span class="index-term">Level</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-1-start">1</a></span>
+<span class="index-pages"><a href="#chapter-1-start">1</a>, <a href="#chapter-2-start">2</a></span>
 </div>
 
 <div class="index-entry">
@@ -2519,7 +2531,7 @@
 <div class="index-entry">
 <span class="index-term">Preparation</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-3-start">3</a>, <a href="#chapter-4-start">4</a>, <a href="#chapter-5-start">5</a>, <a href="#chapter-6-start">6</a>, <a href="#chapter-8-start">8</a></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a>, <a href="#chapter-3-start">3</a>, <a href="#chapter-4-start">4</a>, <a href="#chapter-5-start">5</a>, <a href="#chapter-6-start">6</a>, <a href="#chapter-8-start">8</a></span>
 </div>
 
 <div class="index-entry">
@@ -2556,6 +2568,12 @@
 <span class="index-term">Prevention</span>
 <span class="index-leaders"></span>
 <span class="index-pages"><a href="#chapter-6-start">6</a>, <a href="#chapter-7-start">7</a></span>
+</div>
+
+<div class="index-entry">
+<span class="index-term">Pricing</span>
+<span class="index-leaders"></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a></span>
 </div>
 
 <div class="index-entry">
@@ -2657,13 +2675,13 @@
 <div class="index-entry">
 <span class="index-term">Propeller</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-3-start">3</a>, <a href="#chapter-6-start">6</a></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a>, <a href="#chapter-3-start">3</a>, <a href="#chapter-6-start">6</a></span>
 </div>
 
 <div class="index-entry">
 <span class="index-term">Protection</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-4-start">4</a>, <a href="#chapter-6-start">6</a></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a>, <a href="#chapter-4-start">4</a>, <a href="#chapter-6-start">6</a></span>
 </div>
 
 <div class="index-entry">
@@ -3332,7 +3350,7 @@
 <div class="index-entry">
 <span class="index-term">Structure</span>
 <span class="index-leaders"></span>
-<span class="index-pages"><a href="#chapter-1-start">1</a>, <a href="#chapter-7-start">7</a></span>
+<span class="index-pages"><a href="#chapter-1-start">1</a>, <a href="#chapter-2-start">2</a>, <a href="#chapter-7-start">7</a></span>
 </div>
 
 <div class="index-entry">
@@ -3586,6 +3604,12 @@
 </div>
 
 <div class="index-entry">
+<span class="index-term">Update Client Records</span>
+<span class="index-leaders"></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a></span>
+</div>
+
+<div class="index-entry">
 <span class="index-term">Update Electronic Records</span>
 <span class="index-leaders"></span>
 <span class="index-pages"><a href="#chapter-4-start">4</a></span>
@@ -3728,9 +3752,21 @@
 </div>
 
 <div class="index-entry">
+<span class="index-term">Washing</span>
+<span class="index-leaders"></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a></span>
+</div>
+
+<div class="index-entry">
 <span class="index-term">Waste</span>
 <span class="index-leaders"></span>
 <span class="index-pages"><a href="#chapter-3-start">3</a>, <a href="#chapter-6-start">6</a></span>
+</div>
+
+<div class="index-entry">
+<span class="index-term">Waxing</span>
+<span class="index-leaders"></span>
+<span class="index-pages"><a href="#chapter-2-start">2</a></span>
 </div>
 
 <div class="index-entry">

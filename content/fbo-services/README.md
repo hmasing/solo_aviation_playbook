@@ -108,7 +108,15 @@ Coordinate catering and specialized in-flight services to meet client requiremen
 - Special service arrangements
 - Quality control and delivery timing
 
-### [Emergency Response and Incident Reporting Process](14-emergency-response-incident-reporting.md)
+### [Aircraft Washing, Waxing, and Detailing Process](14-aircraft-washing-waxing-detailing.md)
+
+Provide comprehensive aircraft exterior cleaning, waxing, and detailing services to maintain aircraft appearance and protect airframe surfaces.
+
+- Aircraft surface cleaning and protection
+- Professional detailing and waxing services
+- Environmental compliance and safety protocols
+
+### [Emergency Response and Incident Reporting Process](15-emergency-response-incident-reporting.md)
 
 Manage emergency response procedures and incident reporting to ensure rapid response and proper documentation of safety events.
 
