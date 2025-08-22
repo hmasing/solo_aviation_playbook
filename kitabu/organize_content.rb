@@ -6,6 +6,7 @@
 require 'fileutils'
 require 'yaml'
 require 'pathname'
+require 'active_support/core_ext/string/inflections'
 
 class OrganizeContent
   # Paths
@@ -13,9 +14,11 @@ class OrganizeContent
   TEXT_DIR = Pathname.new('./text')
   IMAGES_DIR = Pathname.new('./images')
   ASSETS_DIR = Pathname.new('../assets')
+  CHAPTER_CONFIG = Pathname.new('../config/chapter_order.yml')
 
   def initialize
-    @content_sections = discover_content_sections
+    setup_aviation_inflections
+    @content_sections = load_configured_sections
   end
 
   def organize!
@@ -32,7 +35,141 @@ class OrganizeContent
 
   private
 
-  def discover_content_sections
+  def setup_aviation_inflections
+    # Configure ActiveSupport inflections for aviation acronyms
+    ActiveSupport::Inflector.inflections do |inflect|
+      # Aviation acronyms that should remain uppercase
+      inflect.acronym 'FBO'      # Fixed Base Operator
+      inflect.acronym 'GSE'      # Ground Support Equipment
+      inflect.acronym 'TSA'      # Transportation Security Administration
+      inflect.acronym 'FAA'      # Federal Aviation Administration
+      inflect.acronym 'OSHA'     # Occupational Safety and Health Administration
+      inflect.acronym 'SMS'      # Safety Management System
+      inflect.acronym 'STC'      # Supplemental Type Certificate
+      inflect.acronym 'AOG'      # Aircraft on Ground
+      inflect.acronym 'CRM'      # Customer Relationship Management
+      inflect.acronym 'IFR'      # Instrument Flight Rules
+      inflect.acronym 'VFR'      # Visual Flight Rules
+      inflect.acronym 'CFI'      # Certified Flight Instructor
+      inflect.acronym 'ATP'      # Airline Transport Pilot
+      inflect.acronym 'MEL'      # Minimum Equipment List
+      inflect.acronym 'AD'       # Airworthiness Directive
+      inflect.acronym 'SB'       # Service Bulletin
+      inflect.acronym 'TBO'      # Time Between Overhauls
+      inflect.acronym 'NTSB'     # National Transportation Safety Board
+      inflect.acronym 'ICAO'     # International Civil Aviation Organization
+      inflect.acronym 'ATC'      # Air Traffic Control
+      inflect.acronym 'AWOS'     # Automated Weather Observing System
+      inflect.acronym 'ASOS'     # Automated Surface Observing System
+      inflect.acronym 'NOTAM'    # Notice to Airmen
+      inflect.acronym 'METAR'    # Meteorological Aerodrome Report
+      inflect.acronym 'TAF'      # Terminal Aerodrome Forecast
+      inflect.acronym 'GPS'      # Global Positioning System
+      inflect.acronym 'VOR'      # VHF Omnidirectional Range
+      inflect.acronym 'ILS'      # Instrument Landing System
+      inflect.acronym 'DME'      # Distance Measuring Equipment
+      inflect.acronym 'ADF'      # Automatic Direction Finder
+      inflect.acronym 'TCAS'     # Traffic Collision Avoidance System
+      inflect.acronym 'GPWS'     # Ground Proximity Warning System
+      inflect.acronym 'TAWS'     # Terrain Awareness and Warning System
+      inflect.acronym 'EFB'      # Electronic Flight Bag
+      inflect.acronym 'WAAS'     # Wide Area Augmentation System
+      inflect.acronym 'RNAV'     # Area Navigation
+      inflect.acronym 'RNP'      # Required Navigation Performance
+      inflect.acronym 'PBN'      # Performance Based Navigation
+      inflect.acronym 'RVSM'     # Reduced Vertical Separation Minimum
+    end
+  end
+
+  def load_configured_sections
+    unless CHAPTER_CONFIG.exist?
+      puts "❌ Chapter configuration file not found: #{CHAPTER_CONFIG}"
+      puts "   Creating default configuration..."
+      create_default_chapter_config
+      return []
+    end
+
+    config = YAML.load_file(CHAPTER_CONFIG)
+    chapters = config['chapters'] || []
+    
+    puts "📖 Loading #{chapters.length} chapters from configuration..."
+
+    chapters.each_with_index.filter_map do |chapter_config, index|
+      # Skip disabled chapters
+      next if chapter_config['enabled'] == false
+
+      dir_name = chapter_config['directory']
+      dir_path = SOURCE_DIR.join(dir_name)
+
+      # Check if directory exists
+      unless dir_path.exist? && dir_path.directory?
+        puts "   ⚠️  WARNING: Directory not found: #{dir_name} (skipping)"
+        next
+      end
+
+      # Check if directory has a README.md file
+      readme_path = dir_path.join('README.md')
+      unless readme_path.exist?
+        puts "   ⚠️  WARNING: No README.md found in #{dir_name} (skipping)"
+        next
+      end
+
+      # Get procedure files (non-README.md files)
+      procedure_files = Dir.glob(dir_path.join('*.md'))
+                           .reject { |f| File.basename(f) == 'README.md' }
+
+      # Determine section name (use configured title or derive from directory)
+      section_name = chapter_config['title'] || derive_section_name_from_directory(dir_name)
+      
+      # Use index + 1 as section number to maintain order
+      section_num = index + 1
+
+      puts "   ✓ Loaded: #{section_name} (#{procedure_files.length} procedures)"
+
+      {
+        source_dir: dir_path.to_s,
+        section_number: section_num,
+        section_name: section_name,
+        output_file: format('%02d_%s.md', section_num, section_name.gsub(' ', '_')),
+        readme_path: readme_path.to_s,
+        procedure_files: procedure_files
+      }
+    end.compact
+  end
+
+  def derive_section_name_from_directory(dir_name)
+    # Extract section name from directory, handling numbered prefixes
+    if dir_name.match(/^(\d+)-(.+)$/)
+      raw_name = ::Regexp.last_match(2)
+    else
+      raw_name = dir_name
+    end
+    
+    format_section_name(raw_name)
+  end
+
+  def create_default_chapter_config
+    # Auto-discover existing directories to create a default config
+    discovered_sections = discover_content_sections_legacy
+    
+    config = {
+      'chapters' => discovered_sections.map do |section|
+        {
+          'directory' => File.basename(section[:source_dir]),
+          'title' => section[:section_name],
+          'enabled' => true,
+          'description' => "Auto-generated entry for #{section[:section_name]}"
+        }
+      end
+    }
+
+    File.write(CHAPTER_CONFIG, config.to_yaml)
+    puts "   ✓ Created default configuration at #{CHAPTER_CONFIG}"
+    puts "   📝 Edit this file to customize chapter order and titles"
+  end
+
+  def discover_content_sections_legacy
+    # Legacy method for auto-discovery (used only for creating default config)
     return [] unless SOURCE_DIR.exist?
 
     Dir.glob(SOURCE_DIR.join('*')).sort.filter_map do |dir_path|
@@ -51,7 +188,7 @@ class OrganizeContent
       # Extract section number and name from directory
       if dir_name.match(/^(\d+)-(.+)$/)
         section_num = ::Regexp.last_match(1).to_i
-        section_name = ::Regexp.last_match(2).split('-').map(&:capitalize).join(' ')
+        section_name = format_section_name(::Regexp.last_match(2))
 
         {
           source_dir: dir_path,
@@ -63,6 +200,15 @@ class OrganizeContent
         }
       end
     end.compact
+  end
+
+  def format_section_name(raw_name)
+    # Convert hyphen-separated words to title case using Rails inflections
+    # This will properly handle acronyms like 'fbo' -> 'FBO'
+    raw_name.split('-').map do |word|
+      # Use titleize to get proper title casing with acronym support
+      word.titleize
+    end.join(' ')
   end
 
   def clear_existing_content
@@ -223,6 +369,10 @@ class OrganizeContent
     puts '🎨 To customize styling, edit:'
     puts '   templates/styles/pdf.css'
     puts '   templates/styles/html.css'
+    puts ''
+    puts '📝 To customize chapter order and titles:'
+    puts '   Edit ../config/chapter_order.yml'
+    puts '   Reorder chapters, set custom titles, or disable chapters'
     puts ''
     puts '📝 To add procedures:'
     puts '   Create .md files in content/[section]/ directories'

@@ -1,0 +1,74 @@
+# Chapter Order Configuration for Solo Aviation Services Playbook
+# This file controls the order and inclusion of chapters in the final playbook
+# 
+# Structure:
+#   chapters:
+#     - directory: "directory-name-in-content/"
+#       title: "Custom Chapter Title (optional - uses directory-derived title if not specified)"
+#       enabled: true/false (optional - defaults to true)
+#       description: "Optional description for documentation purposes"
+
+chapters:
+  # Core FBO Operations - Client-facing services
+  - directory: "fbo-services"
+    title: "FBO Services"
+    enabled: true
+    description: "Client-facing operations including arrivals, fueling, and concierge services"
+
+  # Maintenance Operations - Aircraft maintenance and repair
+  - directory: "maintenance-operations" 
+    title: "Maintenance Operations"
+    enabled: true
+    description: "Aircraft maintenance, inspections, and repair procedures"
+
+  # Avionics Operations - Electronic systems and equipment
+  - directory: "avionics-operations"
+    title: "Avionics Operations" 
+    enabled: true
+    description: "Avionics installation, repair, and maintenance procedures"
+
+  # Flight Training - Educational services
+  - directory: "flight-school-operations"
+    title: "Flight School Operations"
+    enabled: true
+    description: "Flight training, student management, and educational procedures"
+
+  # Safety and Compliance - Regulatory requirements
+  - directory: "safety-compliance"
+    title: "Safety and Compliance"
+    enabled: true
+    description: "Safety procedures, regulatory compliance, and emergency response"
+
+  # Marketing and Client Relations - Business development
+  - directory: "marketing-client-retention"
+    title: "Marketing and Client Retention"
+    enabled: true
+    description: "Client relationship management and business development"
+
+  # Administrative Operations - Business operations
+  - directory: "administrative-financial"
+    title: "Administrative and Financial"
+    enabled: true
+    description: "Administrative procedures, billing, and financial management"
+
+  # Reference Materials - Glossary and references
+  - directory: "glossary"
+    title: "Aviation Glossary"
+    enabled: true
+    description: "Aviation terminology and reference materials"
+
+# Configuration Notes:
+# 
+# 1. Chapters will appear in the order listed above, not alphabetical by directory name
+# 2. Set enabled: false to exclude a chapter from the playbook without deleting content
+# 3. Custom titles override the directory-derived titles
+# 4. Directories not listed here will be ignored (not included in playbook)
+# 5. If a directory listed here doesn't exist, it will be skipped with a warning
+#
+# To reorder chapters:
+# - Simply move the chapter entries up or down in this list
+# - The organize_content.rb script will process them in the order specified
+#
+# To temporarily exclude a chapter:
+# - Set enabled: false instead of deleting the entry
+# - This preserves your ordering preferences for later re-enabling
