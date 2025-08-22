@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Diagnose and repair avionics system malfunctions using systematic troubleshooting procedures and approved repair techniques.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes systematic procedures for diagnosing and repairing avionics system malfunctions using approved troubleshooting methods and repair techniques. The process ensures efficient fault isolation, proper repair procedures, and thorough testing to restore systems to airworthy condition while maintaining regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Problem Documentation → System History Review → Troubleshooting Planning →
 - Component Service Manuals and Schematics
 - Approved Repair Procedures and Standards
 - Test Procedures and Acceptance Criteria
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

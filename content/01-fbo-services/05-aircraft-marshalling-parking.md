@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Provide safe and efficient aircraft ground guidance and parking services to ensure proper aircraft positioning while maintaining ramp safety and operational efficiency.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for general aviation aircraft marshalling and parking operations to ensure safe aircraft ground movement, optimal ramp space utilization, and compliance with ground safety regulations while providing professional guidance services to pilots and aircraft operators. Our operations focus on Part 91 general aviation aircraft including single-engine aircraft (Cessna 172, Piper Cherokee), light twins, and turboprop aircraft (King Air, Pilatus, TBM series).
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing pre-marshalling assessment, aircraft guidance sequence, parkin
 - Radio communication equipment with appropriate frequencies
 - Ground power units and electrical connection equipment
 - Tie-down equipment and hardware for aircraft securing
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

@@ -1,8 +1,8 @@
 @import "./files/normalize.css";
 
 :root {
-  --frontcover-color: #5091b1;
-  --frontcover-darker-color: #40748e;
+  --solo-light-blue: #85d4ff;
+  --solo-dark-blue: #008df5;
   --frontcover-padding: 50px;
   --page-height: 22.86cm;
   --page-height: 19.05cm;
@@ -12,9 +12,43 @@
   size: letter portrait;
 }
 
-@page chapter:left {
+@page toc:left {
   @bottom-left {
-    background: #000;
+    background: var(--solo-dark-blue);
+    color: #fff;
+    content: counter(page, lower-roman);
+    font-size: 12px;
+    margin-left: -100px;
+    text-align: center;
+    width: 35px;
+  }
+}
+
+@page toc:right {
+  @bottom-right {
+    background: var(--solo-dark-blue);
+    color: #fff;
+    content: counter(page, lower-roman);
+    font-size: 12px;
+    margin-right: -100px;
+    text-align: center;
+    width: 35px;
+  }
+}
+
+@page chapter:left {
+  @top-left {
+    content: "Chapter " counter(chapter) " - " string(chapter-title) " - "
+      string(section-title);
+    font-size: 11pt;
+    color: #1e3a8a;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    padding-bottom: 0.3cm;
+    border-bottom: 1px solid #ddd;
+  }
+  @bottom-left {
+    background: var(--solo-dark-blue);
     color: #fff;
     content: counter(page);
     font-size: 12px;
@@ -25,8 +59,18 @@
 }
 
 @page chapter:right {
+  @top-right {
+    content: "Chapter " counter(chapter) " - " string(chapter-title) " - "
+      string(section-title);
+    font-size: 11pt;
+    color: #1e3a8a;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    padding-bottom: 0.3cm;
+    border-bottom: 1px solid #ddd;
+  }
   @bottom-right {
-    background: #000;
+    background: var(--solo-dark-blue);
     color: #fff;
     content: counter(page);
     font-size: 12px;
@@ -38,8 +82,19 @@
 
 @page frontcover {
   margin: 0;
-  background: var(--frontcover-color);
-  border-left: 50px solid var(--frontcover-darker-color);
+  background: var(--solo-light-blue);
+  border-left: 50px solid var(--solo-dark-blue);
+}
+
+@page toc {
+  margin: 1in 1in 0.75in;
+  background: #fff;
+
+  @footnotes {
+    border-top: thin solid #777;
+    margin-top: 1em;
+    padding-top: 0.5em;
+  }
 }
 
 @page chapter {
@@ -126,7 +181,8 @@ li {
   padding: 3cm 2cm;
   text-align: center;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  /* background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); */
+  background: white;
 }
 
 .frontcover * {
@@ -180,6 +236,68 @@ li {
   page: chapter;
   page-break-before: always;
   counter-increment: chapter;
+}
+
+/* Reset page counter after table of contents for the first chapter */
+#chapters .chapter:first-child {
+  counter-reset: page 1;
+}
+
+/* Ensure each H1 section starts on a new page */
+h1 {
+  page: chapter;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 28pt;
+  color: #2c3e50;
+  margin: 0 0 1.5cm 0;
+  padding-bottom: 0.5cm;
+  border-bottom: 3px solid #3498db;
+  counter-increment: chapter;
+  string-set: chapter-title content(text);
+}
+
+/* Force page break before H1 except for the first one */
+h1:not(:first-of-type) {
+  page-break-before: always;
+}
+
+/* Removed the "Section X" prefix from H1 headers */
+
+/* H2 headers that follow horizontal rules should start on new pages (individual procedures) */
+hr + h2 {
+  page: chapter;
+  page-break-before: always;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 22pt;
+  color: #2c3e50;
+  margin: 0 0 1.2cm 0;
+  padding-bottom: 0.4cm;
+  border-bottom: 2px solid #ecf0f1;
+  string-set: section-title content();
+}
+
+hr + h2:before {
+  content: "Chapter " counter(chapter) " - " string(chapter-title, first);
+  display: block;
+  font-size: 12pt;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #3498db;
+  margin-bottom: 0.3cm;
+  letter-spacing: 1px;
+}
+
+/* General H2 styling for other H2s that don't follow HR */
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18pt;
+  color: #2c3e50;
+  margin: 1cm 0 0.8cm 0;
+  padding-bottom: 0.3cm;
+  border-bottom: 1px solid #ecf0f1;
 }
 
 .chapter > h2 {
@@ -263,8 +381,9 @@ li code {
 
 /* Modern table of contents */
 .table-of-contents {
-  page: chapter;
+  page: toc;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  counter-reset: page 1;
 }
 
 .table-of-contents > h2 {

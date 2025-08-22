@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Conduct thorough pre-maintenance inspections to identify all maintenance requirements and establish accurate work scope.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish a systematic approach to pre-maintenance aircraft inspections that identifies all maintenance requirements, documents aircraft condition, and ensures accurate work scope determination before maintenance activities begin. This process protects both client interests and maintenance facility operations by establishing clear baseline conditions.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Inspection mirrors, flashlights, and access equipment
 - Cost estimation software and labor time guides
 - Client communication forms and authorization templates
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

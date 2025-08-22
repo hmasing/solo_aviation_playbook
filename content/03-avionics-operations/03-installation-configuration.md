@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Install and configure avionics equipment according to manufacturer specifications and regulatory requirements while ensuring proper system integration.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for proper installation and configuration of avionics equipment to ensure compliance with manufacturer specifications, regulatory requirements, and safe system integration. The process ensures all installations are performed using approved methods and properly integrated with existing aircraft systems.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Pre-Installation Planning → Physical Installation → Wiring and Connections �
 - Aircraft Wiring Diagrams and Schematics
 - STC Installation Data and Procedures
 - Configuration and Calibration Procedures
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

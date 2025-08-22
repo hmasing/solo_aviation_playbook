@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Execute regulatory inspections in compliance with FAA requirements to maintain aircraft airworthiness certification.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for conducting 100-hour and annual inspections in accordance with 14 CFR Part 91.409 requirements. These inspections ensure continued airworthiness, regulatory compliance, and safe aircraft operation while maintaining detailed documentation for certification purposes.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Flowchart to show sequential steps
 - Parts catalogs and technical service information
 - Digital camera for discrepancy documentation
 - Client communication and authorization forms
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

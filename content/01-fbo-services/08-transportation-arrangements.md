@@ -1,5 +1,5 @@
 ---
-title: "Crew and Passenger Transportation Arrangements"
+title: "Crew and Passenger Transportation"
 section: "FBO Services"
 procedure_number: "08"
 revision_date: "2024-01-15"
@@ -10,17 +10,13 @@ approved_by: "Operations Leader"
 effective_date: "2024-01-15"
 ---
 
-# Crew and Passenger Transportation Arrangements
+# Crew and Passenger Transportation
 
 Coordinate ground transportation and accommodation services for aircraft crew and passengers to ensure convenient, reliable, and professional support services throughout their visit.
-
-_____________________________________________________________________________________________
 
 ## Purpose
 
 This process establishes procedures for arranging ground transportation and accommodation services to provide support for visiting crew and passengers while maintaining vendor relationships, ensuring service quality, and delivering quality client experience.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing transportation needs assessment, vendor coordination, service 
 - Service booking and confirmation tracking systems
 - Billing and payment processing systems for vendor coordination
 - Client preference tracking and service evaluation forms
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

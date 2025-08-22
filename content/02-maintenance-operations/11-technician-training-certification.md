@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Manage technician training and certification requirements to maintain qualified workforce and regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for tracking, managing, and maintaining technician training and certification requirements to ensure a qualified maintenance workforce. This process ensures regulatory compliance, maintains current technical knowledge, and supports continuous professional development for all maintenance team members.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Certificate verification systems and regulatory databases
 - Training budget tracking and cost management tools
 - Professional development opportunity research and coordination resources
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

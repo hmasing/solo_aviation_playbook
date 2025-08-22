@@ -59,7 +59,6 @@ The Solo Aviation Services Playbook templates have been updated to match your or
 
 ### From Your Template
 
-- ✅ Horizontal line separators (`_____________________________________________________________________________________________`)
 - ✅ Numbered step structure (Step 1, Step 2, etc.)
 - ✅ Role-based responsibility assignments
 - ✅ Success metrics with measurable indicators

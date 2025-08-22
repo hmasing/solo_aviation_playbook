@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Manage avionics parts inventory, procurement, and component tracking to ensure availability of approved parts and maintain traceability.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for managing avionics parts inventory, procurement, and component tracking to ensure availability of approved parts while maintaining complete traceability and regulatory compliance. The process ensures all parts are properly sourced, stored, and tracked throughout their lifecycle from procurement to installation.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Requirements Planning → Supplier Research → Parts Ordering → Receiving and
 - Parts Specifications and Standards
 - Supplier Quality Agreements
 - Parts Traceability Requirements
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

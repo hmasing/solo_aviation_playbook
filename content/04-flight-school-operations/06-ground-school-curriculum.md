@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Deliver ground school curriculum to provide students with essential aviation knowledge and regulatory understanding required for pilot certification and safe flight operations.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for delivering ground instruction that meets Part 61 aeronautical knowledge requirements, prepares students for knowledge tests, and provides the theoretical foundation necessary for safe and competent flight operations.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing ground school progression from curriculum planning through kno
 - Audio-visual equipment and projectors
 - Whiteboards and instructional displays
 - Computer and internet access for online resources
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

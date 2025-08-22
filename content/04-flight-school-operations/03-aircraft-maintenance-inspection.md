@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Maintain training aircraft airworthiness through systematic maintenance and inspection programs to ensure safe flight operations and regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for coordinating training aircraft maintenance, conducting required inspections, and maintaining airworthiness documentation to ensure safe flight training operations while minimizing aircraft downtime and training disruptions.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing maintenance workflow from inspection through maintenance compl
 - Federal Aviation Regulations Part 91 and Part 43
 - Aircraft inspection requirements and intervals
 - Approved maintenance provider contact information
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

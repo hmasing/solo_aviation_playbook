@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Manage accurate billing and cost tracking for avionics services while maintaining transparency in pricing and labor charges.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for managing accurate billing and cost tracking for avionics services to ensure transparent pricing, proper labor charge allocation, and efficient cost management. The process ensures all avionics work is properly tracked, billed accurately, and provides clients with clear understanding of charges and value received.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Time Recording → Work Documentation → Parts Tracking → Cost Calculation �
 - Parts Usage and Cost Documentation
 - Client Billing and Payment Records
 - Cost Analysis and Performance Reports
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

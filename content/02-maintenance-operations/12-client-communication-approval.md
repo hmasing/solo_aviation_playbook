@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Maintain effective communication with clients throughout maintenance process and obtain required approvals for work changes.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for communicating with clients throughout the maintenance process, obtaining required approvals for work scope changes, and ensuring clear understanding of maintenance activities. This process maintains client relationships while protecting both client interests and maintenance facility operations.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Authorization forms and electronic signature systems
 - Scheduling software for delivery coordination
 - Client satisfaction survey tools and feedback systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

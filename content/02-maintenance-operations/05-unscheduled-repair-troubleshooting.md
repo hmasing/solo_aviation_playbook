@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Diagnose and repair unscheduled maintenance issues to restore aircraft to airworthy condition efficiently and safely.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for diagnosing, troubleshooting, and repairing unscheduled maintenance issues that arise during aircraft operations. This process ensures rapid problem resolution while maintaining safety standards and regulatory compliance throughout the repair process.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Documentation forms and maintenance logbook entry templates
 - Client communication templates and authorization forms
 - Quality control checklists and inspection procedures
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage ground support equipment inventory, maintenance, and deployment to ensure reliable equipment availability and safe operation for all aircraft service requirements.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for ground support equipment management to ensure equipment reliability, operator safety, and efficient service delivery while maintaining regulatory compliance and optimizing equipment utilization across all FBO operations.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing equipment inspection, deployment, operational monitoring, and 
 - Parts inventory management system and supplier contact information
 - Safety inspection equipment and regulatory compliance documentation
 - Equipment utilization tracking and analysis software
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

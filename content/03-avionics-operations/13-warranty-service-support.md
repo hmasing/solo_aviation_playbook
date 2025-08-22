@@ -12,13 +12,9 @@ effective_date: "2025-01-27"
 
 Manage warranty claims, service bulletins, and ongoing support for avionics installations and repairs.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for managing warranty claims, implementing service bulletins, and providing ongoing technical support for avionics installations and repairs. The process ensures clients receive full benefit of warranty coverage while maintaining compliance with manufacturer service requirements and regulatory obligations.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Warranty Tracking → Issue Identification → Claim Preparation → Claim Proce
 - Service Bulletin Compliance Records
 - Technical Support Case Tracking
 - Client Communication Templates
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

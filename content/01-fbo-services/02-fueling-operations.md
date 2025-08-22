@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Provide safe, accurate, and efficient aircraft fueling services for both Jet A and 100LL aviation gasoline while maintaining quality control and regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for safe general aviation aircraft fueling operations to ensure proper fuel quality, accurate quantity delivery, and compliance with aviation fuel handling regulations while maintaining operational efficiency and client satisfaction. Our facility services aircraft requiring both Jet A fuel (turbine aircraft like King Air, Pilatus, TBM) and 100LL aviation gasoline (piston aircraft like Cessna 172, Piper Cherokee).
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -86,8 +82,6 @@ Flowchart showing fuel quality testing, safety verification, fueling operation s
 - Fuel delivery documentation and billing system access
 - Spill response equipment and environmental protection materials
 - Personal protective equipment and safety communication devices
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

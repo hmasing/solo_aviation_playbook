@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Provide emergency avionics support and Aircraft on Ground (AOG) services to minimize client downtime and restore aircraft to service quickly.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for providing emergency avionics support and Aircraft on Ground (AOG) services to minimize client aircraft downtime and restore aircraft to service as quickly as possible. The process ensures rapid response to emergency situations while maintaining safety standards and regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Emergency Call → Priority Assessment → Team Activation → Remote Diagnosis 
 - Contact Lists and Escalation Procedures
 - Emergency Work Authorization Forms
 - AOG Service Level Agreements
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

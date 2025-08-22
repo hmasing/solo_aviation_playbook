@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Track student progress and manage certification requirements to ensure students meet regulatory standards and training objectives for successful completion of Part 61 flight training programs.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for monitoring student pilot progress, documenting training milestones, and managing certification requirements to ensure students receive quality training and meet all regulatory requirements for pilot certification.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing progress tracking from initial training through certification 
 - Training milestone tracking spreadsheets
 - Student progress reporting templates
 - Certification requirement verification checklists
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

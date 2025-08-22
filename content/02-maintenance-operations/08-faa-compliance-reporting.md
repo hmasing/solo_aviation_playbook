@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Ensure compliance with FAA regulations and manage required reporting to maintain operational certificates and approvals.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for monitoring, maintaining, and reporting FAA regulatory compliance requirements. This process ensures continued authorization to perform maintenance activities while meeting all mandatory reporting obligations and maintaining current regulatory knowledge.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Quality management system documentation and procedures
 - Communication systems for regulatory updates and notifications
 - External regulatory consulting and legal support resources
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

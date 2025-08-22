@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Manage work order creation and scheduling to ensure efficient maintenance operations and optimal resource utilization.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish a systematic approach to creating, documenting, and scheduling maintenance work orders that ensures efficient resource allocation, regulatory compliance, and clear communication between clients and maintenance team members throughout the maintenance process.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Scheduling calendar and resource planning tools
 - Cost estimation worksheets and pricing guidelines
 - Client communication templates and authorization forms
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

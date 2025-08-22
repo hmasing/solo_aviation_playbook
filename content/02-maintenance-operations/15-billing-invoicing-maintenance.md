@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Manage accurate billing and invoicing for maintenance services while tracking labor and materials costs.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for tracking maintenance costs, preparing accurate invoices, and managing billing processes for maintenance services. This process ensures accurate cost accounting, timely billing, and proper documentation while maintaining client relationships and cash flow management.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Cost analysis and reporting tools for profitability assessment
 - Payment processing systems and accounts receivable management
 - Collection procedures and credit management policies
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

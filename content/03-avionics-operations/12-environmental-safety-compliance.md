@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Ensure compliance with environmental regulations and safety requirements specific to avionics operations and electronic component handling.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for ensuring compliance with environmental regulations and safety requirements specific to avionics operations including electrostatic discharge (ESD) protection, environmental compliance for electronic components, and safety protocols for avionics work areas. The process ensures all avionics operations meet regulatory requirements while protecting personnel and the environment.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Requirements Assessment → ESD Implementation → Environmental Procedures → 
 - Electrical Safety Testing Equipment
 - RF Exposure Monitoring Devices
 - Emergency Response Equipment
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

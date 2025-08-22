@@ -65,7 +65,7 @@ playbook/
 5. Aircraft Marshalling and Parking
 6. Ground Support Equipment (GSE) Management
 7. Maintenance Coordination for Visiting Aircraft
-8. Crew and Passenger Transportation Arrangements
+8. Crew and Passenger Transportation
 9. Billing and Invoicing for Services
 10. Safety and Security Inspections
 11. Facility Maintenance and Cleaning

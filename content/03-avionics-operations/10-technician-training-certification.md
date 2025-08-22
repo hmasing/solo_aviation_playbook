@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Manage avionics technician training, certification, and competency assessment to ensure qualified personnel perform all avionics work.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for managing avionics technician training, certification, and competency assessment to ensure all personnel performing avionics work possess the required qualifications, skills, and knowledge. The process ensures compliance with regulatory training requirements and maintains current competency in evolving avionics technologies.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Needs Assessment → Training Selection → Program Enrollment → Training Exec
 - Individual Training Plans
 - Certification and License Records
 - Competency Assessment Forms
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

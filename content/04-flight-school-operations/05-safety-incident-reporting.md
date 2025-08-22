@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage safety incident reporting and investigation to maintain safe training environment and regulatory compliance while promoting a positive safety culture.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for reporting, investigating, and responding to safety incidents during flight training operations to ensure regulatory compliance, prevent future occurrences, and maintain the highest safety standards in all training activities.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing incident response workflow from initial occurrence through cor
 - Regulatory agency contact information
 - Insurance provider contact details
 - Internal communication protocols
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

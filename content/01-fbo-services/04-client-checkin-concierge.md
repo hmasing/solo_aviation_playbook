@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Provide client reception and concierge services to ensure professional welcome experience and coordinate support services for visiting clients.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for professional client check-in and concierge services to create positive first impressions, coordinate client support services, and maintain high standards of hospitality while efficiently managing client needs and requests.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing client greeting, check-in procedures, service coordination, an
 - Transportation and accommodation booking systems
 - Local area information resources and recommendation guides
 - Service quality feedback forms and client preference tracking systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

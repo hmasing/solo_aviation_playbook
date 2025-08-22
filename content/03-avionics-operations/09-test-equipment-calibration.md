@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Maintain and calibrate avionics test equipment to ensure accurate measurements and reliable test results for all avionics operations.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for maintaining and calibrating avionics test equipment to ensure accurate measurements and reliable test results for all avionics operations. The process ensures all test equipment meets accuracy requirements and maintains traceability to national standards to support regulatory compliance and quality assurance.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Calibration Planning → Schedule Coordination → Equipment Preparation → Cal
 - Equipment Specifications and Requirements
 - Calibration Certificates and Records
 - Traceability Documentation Requirements
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

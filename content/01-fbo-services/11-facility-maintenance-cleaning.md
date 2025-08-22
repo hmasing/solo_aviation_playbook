@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Maintain facility cleanliness and operational condition to ensure professional appearance, equipment reliability, and quality client experience through systematic maintenance and cleaning procedures.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for facility maintenance and cleaning to ensure professional facility appearance, equipment reliability, and quality client experience while maintaining regulatory compliance and operational efficiency.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing facility assessment, maintenance scheduling, cleaning operatio
 - Vendor contact directory for specialized maintenance services
 - Facility condition assessment forms and maintenance tracking systems
 - Quality control inspection checklists and client feedback forms
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

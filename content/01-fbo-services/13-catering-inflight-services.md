@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for coordinating catering and in-flight services to meet diverse client requirements while maintaining vendor relationships, ensuring service quality, and providing quality client experience through reliable service coordination.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing service request processing, vendor coordination, quality contr
 - Aircraft catering service equipment and coordination tools
 - Billing coordination systems and vendor payment processing
 - Client feedback forms and vendor performance evaluation systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

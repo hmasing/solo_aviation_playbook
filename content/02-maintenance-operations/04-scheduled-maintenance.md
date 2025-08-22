@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Perform scheduled maintenance on airframe, engine, and avionics systems according to manufacturer specifications and regulatory requirements.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Execute scheduled maintenance tasks in accordance with manufacturer maintenance programs, regulatory requirements, and established intervals to ensure continued aircraft airworthiness, reliability, and optimal performance while maintaining detailed documentation for compliance purposes.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Regulatory compliance database and airworthiness directive listings
 - Parts catalogs and technical service information
 - Client communication templates and delivery checklists
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

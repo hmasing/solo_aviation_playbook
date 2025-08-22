@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Coordinate maintenance services for visiting aircraft by managing vendor relationships and ensuring quality service delivery while maintaining client communication and regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for coordinating maintenance services for visiting general aviation aircraft to ensure timely, quality repairs and inspections while managing vendor relationships, maintaining regulatory compliance, and providing clear client communication throughout the maintenance process. Our facility coordinates maintenance for typical Part 91 aircraft including single-engine trainers from our Part 61 flight school (Cessna 172, Piper Cherokee) and transient turboprop aircraft (King Air, Pilatus, TBM series).
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing maintenance request processing, vendor coordination, service m
 - Quality assurance inspection checklists and regulatory compliance references
 - Billing coordination systems and vendor payment processing tools
 - Maintenance service evaluation forms and vendor performance tracking systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

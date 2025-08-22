@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Implement emergency response procedures and incident reporting to ensure rapid response to emergencies while maintaining safety, regulatory compliance, and operational continuity.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for emergency response and incident reporting to ensure rapid, effective response to emergency situations while maintaining team member and client safety, regulatory compliance, and operational continuity through systematic emergency management. Our procedures address emergencies typical to general aviation operations including aircraft incidents, fuel spills, medical emergencies, and weather-related events at our Part 61 flight school and FBO operations.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing emergency recognition, response activation, incident managemen
 - Regulatory reporting systems and compliance reference materials
 - Emergency communication systems and backup power supplies
 - Training materials and emergency procedure references
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

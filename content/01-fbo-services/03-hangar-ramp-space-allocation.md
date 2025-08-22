@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage hangar and ramp space reservations to optimize facility utilization while providing clients with appropriate aircraft storage and parking solutions.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for efficient hangar and ramp space allocation to maximize facility utilization, ensure appropriate general aviation aircraft accommodation, and provide clients with reliable space reservations while maintaining operational flexibility and safety standards. Our facility accommodates typical Part 91 operations with aircraft ranging from single-engine trainers (Cessna 172, Piper Cherokee) to turboprop business aircraft (King Air, Pilatus PC-12, TBM series).
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing space availability assessment, reservation processing, aircraf
 - Facility systems controls for lighting, heating, and electrical power
 - Space measurement tools and aircraft specification references
 - Security access control systems and monitoring equipment
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

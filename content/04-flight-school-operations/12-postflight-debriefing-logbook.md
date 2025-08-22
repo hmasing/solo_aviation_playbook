@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Conduct post-flight debriefings and maintain accurate logbook records to reinforce learning and track flight experience while ensuring regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for conducting effective post-flight debriefings that reinforce learning objectives, provide constructive feedback, and maintain accurate flight time records for training progress tracking and regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing post-flight workflow from initial assessment through next less
 - Training materials and reference resources
 - Scheduling coordination systems
 - Student communication and notification tools
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

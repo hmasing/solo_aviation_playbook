@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Implement emergency response and evacuation procedures to protect students and team members during emergency situations while maintaining coordination with emergency services.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for responding to emergency situations at flight school facilities, coordinating evacuations, and ensuring the safety of all students, instructors, and team members during fire, medical, security, or other emergency events.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing emergency response workflow from detection through post-emerge
 - Evacuation route maps and assembly area designations
 - Emergency contact lists and notification procedures
 - Incident reporting forms and investigation procedures
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

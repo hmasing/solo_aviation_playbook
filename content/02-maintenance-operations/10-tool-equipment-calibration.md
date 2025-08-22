@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Maintain tool and equipment accuracy through systematic calibration and maintenance programs to ensure quality work output.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for calibrating, maintaining, and managing precision tools and test equipment to ensure accurate measurements and reliable maintenance work. This process maintains tool accuracy, extends equipment life, and ensures compliance with manufacturer specifications and quality standards.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Environmental storage equipment and tool preservation materials
 - Tool identification and marking systems
 - Cost tracking and budget management tools for calibration expenses
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

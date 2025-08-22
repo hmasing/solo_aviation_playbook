@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Process student billing and payments to maintain accurate financial records and ensure timely collection of training fees while providing flexible payment options for students.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for generating student invoices, processing payments, and managing accounts receivable to ensure accurate financial tracking, timely payment collection, and positive client relationships throughout the training process.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing billing workflow from training activity collection through pay
 - Training activity logs and billing verification documents
 - Payment receipts and transaction records
 - Collection communication and payment arrangement documentation
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

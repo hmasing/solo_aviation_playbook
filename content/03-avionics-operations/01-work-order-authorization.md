@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Create and authorize avionics work orders ensuring proper documentation and client approval for avionics maintenance and installation projects.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for creating comprehensive avionics work orders that ensure proper documentation, regulatory compliance, and client authorization before beginning any avionics maintenance or installation work. The process ensures all work is properly scoped, authorized, and documented in accordance with Part 145 repair station requirements.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Client Request → Initial Assessment → Work Scope Development → Cost Estima
 - Manufacturer Service Bulletins
 - Technical Standard Orders (TSO)
 - AC 43-9C Maintenance Records
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

@@ -135,13 +135,9 @@ Collect and analyze client feedback to continuously improve training programs an
 
 Manage student enrollment and onboarding to ensure smooth transition into flight training programs with proper documentation and orientation.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish a systematic approach to enrolling new students in Part 61 flight training programs, ensuring all regulatory requirements are met, proper documentation is collected, and students receive thorough orientation to training operations and safety protocols.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -230,8 +226,6 @@ Flowchart showing enrollment progression from initial inquiry through first sche
 - Flight school training syllabi and curricula
 - Insurance coverage requirements and policies
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Student enrollment completed within 3 business days of application submission.
@@ -274,13 +268,9 @@ ________________________________________________________________________________
 
 Coordinate flight lesson scheduling to optimize aircraft and instructor utilization while meeting student training needs and ensuring safe flight operations.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish efficient scheduling procedures for flight training activities that maximize aircraft and instructor availability, accommodate student needs, and maintain safe operations while considering weather, maintenance, and regulatory requirements for Part 61 training operations.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -369,8 +359,6 @@ Flowchart showing scheduling workflow from initial request through lesson comple
 - Weather minimums for training operations
 - Instructor qualification and currency records
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Schedule changes communicated within 2 hours of decision.
@@ -413,13 +401,9 @@ ________________________________________________________________________________
 
 Maintain training aircraft airworthiness through systematic maintenance and inspection programs to ensure safe flight operations and regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for coordinating training aircraft maintenance, conducting required inspections, and maintaining airworthiness documentation to ensure safe flight training operations while minimizing aircraft downtime and training disruptions.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -508,8 +492,6 @@ Flowchart showing maintenance workflow from inspection through maintenance compl
 - Aircraft inspection requirements and intervals
 - Approved maintenance provider contact information
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Aircraft discrepancies reported within 1 hour of discovery.
@@ -552,13 +534,9 @@ ________________________________________________________________________________
 
 Track student progress and manage certification requirements to ensure students meet regulatory standards and training objectives for successful completion of Part 61 flight training programs.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish systematic procedures for monitoring student pilot progress, documenting training milestones, and managing certification requirements to ensure students receive quality training and meet all regulatory requirements for pilot certification.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -647,8 +625,6 @@ Flowchart showing progress tracking from initial training through certification 
 - Student progress reporting templates
 - Certification requirement verification checklists
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Student progress reviews completed within 24 hours of each lesson.
@@ -691,13 +667,9 @@ ________________________________________________________________________________
 
 Manage safety incident reporting and investigation to maintain safe training environment and regulatory compliance while promoting a positive safety culture.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for reporting, investigating, and responding to safety incidents during flight training operations to ensure regulatory compliance, prevent future occurrences, and maintain the highest safety standards in all training activities.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -786,8 +758,6 @@ Flowchart showing incident response workflow from initial occurrence through cor
 - Insurance provider contact details
 - Internal communication protocols
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Initial incident reports submitted within 2 hours of occurrence.
@@ -830,13 +800,9 @@ ________________________________________________________________________________
 
 Deliver ground school curriculum to provide students with essential aviation knowledge and regulatory understanding required for pilot certification and safe flight operations.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for delivering ground instruction that meets Part 61 aeronautical knowledge requirements, prepares students for knowledge tests, and provides the theoretical foundation necessary for safe and competent flight operations.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -925,8 +891,6 @@ Flowchart showing ground school progression from curriculum planning through kno
 - Whiteboards and instructional displays
 - Computer and internet access for online resources
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Ground school curriculum completed within established program timeline.
@@ -969,13 +933,9 @@ ________________________________________________________________________________
 
 Manage instructor scheduling and certification renewal to maintain qualified instruction team members and regulatory compliance while optimizing training capacity.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for managing flight instructor schedules, tracking certification currency, and coordinating professional development to ensure qualified instruction team members are available for all training activities while maintaining regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1064,8 +1024,6 @@ Flowchart showing instructor management workflow from qualification verification
 - Industry conference and seminar information
 - Certification renewal resource materials
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Instructor schedules coordinated within 24 hours of availability submission.
@@ -1108,13 +1066,9 @@ ________________________________________________________________________________
 
 Coordinate flight simulator sessions to enhance student training with cost-effective and safe simulation experiences that complement flight training activities.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for managing flight simulator operations, scheduling training sessions, and maintaining simulation equipment to provide students with valuable training experiences while reducing aircraft operating costs and weather dependencies.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1203,8 +1157,6 @@ Flowchart showing simulator session workflow from planning through post-session 
 - Student evaluation forms
 - Instructor training resources
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Simulator sessions scheduled within 48 hours of request.
@@ -1247,13 +1199,9 @@ ________________________________________________________________________________
 
 Manage TSA security clearance requirements for international students to ensure compliance with federal regulations and enable international students to participate in flight training programs.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for processing Transportation Security Administration security clearance applications for international students seeking flight training, ensuring compliance with federal security regulations while facilitating international student enrollment.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1342,8 +1290,6 @@ Flowchart showing TSA clearance process from application preparation through tra
 - Compliance reporting and documentation systems
 - Emergency contact and coordination procedures
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** TSA applications submitted within 5 business days of complete documentation receipt.
@@ -1386,13 +1332,9 @@ ________________________________________________________________________________
 
 Process student billing and payments to maintain accurate financial records and ensure timely collection of training fees while providing flexible payment options for students.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for generating student invoices, processing payments, and managing accounts receivable to ensure accurate financial tracking, timely payment collection, and positive client relationships throughout the training process.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1481,8 +1423,6 @@ Flowchart showing billing workflow from training activity collection through pay
 - Payment receipts and transaction records
 - Collection communication and payment arrangement documentation
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Student invoices generated within 3 business days of training activity completion.
@@ -1525,13 +1465,9 @@ ________________________________________________________________________________
 
 Conduct pre-flight briefings and checklist execution to ensure safe and effective flight training sessions with proper preparation and risk management.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for conducting thorough pre-flight briefings and systematic checklist execution to ensure students and instructors are properly prepared for flight training activities and understand safety procedures and training objectives.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1620,8 +1556,6 @@ Flowchart showing pre-flight preparation workflow from planning through final sa
 - Risk assessment and decision-making tools
 - Training syllabus and lesson plan materials
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Pre-flight briefing and inspection completed within 45 minutes of scheduled departure.
@@ -1664,13 +1598,9 @@ ________________________________________________________________________________
 
 Conduct post-flight debriefings and maintain accurate logbook records to reinforce learning and track flight experience while ensuring regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for conducting effective post-flight debriefings that reinforce learning objectives, provide constructive feedback, and maintain accurate flight time records for training progress tracking and regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1759,8 +1689,6 @@ Flowchart showing post-flight workflow from initial assessment through next less
 - Scheduling coordination systems
 - Student communication and notification tools
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Post-flight debriefing completed within 30 minutes of flight conclusion.
@@ -1803,13 +1731,9 @@ ________________________________________________________________________________
 
 Implement emergency response and evacuation procedures to protect students and team members during emergency situations while maintaining coordination with emergency services.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for responding to emergency situations at flight school facilities, coordinating evacuations, and ensuring the safety of all students, instructors, and team members during fire, medical, security, or other emergency events.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1898,8 +1822,6 @@ Flowchart showing emergency response workflow from detection through post-emerge
 - Emergency contact lists and notification procedures
 - Incident reporting forms and investigation procedures
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Emergency response initiated within 2 minutes of emergency detection.
@@ -1942,13 +1864,9 @@ ________________________________________________________________________________
 
 Manage fuel operations for training aircraft to ensure safe, efficient, and cost-effective fuel management while maintaining training aircraft availability.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for managing aviation fuel inventory, conducting safe refueling operations, and coordinating fuel planning to support training aircraft operations while ensuring safety compliance and cost effectiveness.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -2037,8 +1955,6 @@ Flowchart showing fuel management workflow from planning through service documen
 - Fuel spill containment and cleanup materials
 - Safety signage and hazard identification systems
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Aircraft refueling completed within 30 minutes of service request.
@@ -2081,13 +1997,9 @@ ________________________________________________________________________________
 
 Collect and analyze client feedback to continuously improve training programs and maintain high satisfaction levels while building strong client relationships.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 Establish procedures for systematically collecting, analyzing, and responding to client feedback to ensure training programs meet client expectations, identify improvement opportunities, and maintain high levels of client satisfaction throughout the training experience.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -2175,8 +2087,6 @@ Flowchart showing feedback management workflow from collection through implement
 - Team communication and coordination systems
 - Training and development resources for improvement implementation
 - Performance monitoring and evaluation tools
-
-_____________________________________________________________________________________________
 
 ### Success Metrics
 

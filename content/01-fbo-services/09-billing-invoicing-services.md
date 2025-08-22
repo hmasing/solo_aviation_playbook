@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage accurate billing and invoicing for all FBO services to ensure proper revenue collection, maintain client relationships, and provide transparent financial transactions.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for accurate service billing and invoicing to ensure proper revenue collection, maintain transparent client financial relationships, and provide efficient payment processing while supporting operational excellence and client satisfaction.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing service documentation, invoice generation, payment processing,
 - Client account files and credit arrangement documentation
 - Financial reporting tools and account reconciliation systems
 - Billing inquiry tracking and resolution documentation systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

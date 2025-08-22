@@ -247,13 +247,9 @@ All avionics personnel must maintain:
 
 Create and authorize avionics work orders ensuring proper documentation and client approval for avionics maintenance and installation projects.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for creating comprehensive avionics work orders that ensure proper documentation, regulatory compliance, and client authorization before beginning any avionics maintenance or installation work. The process ensures all work is properly scoped, authorized, and documented in accordance with Part 145 repair station requirements.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -344,8 +340,6 @@ Client Request → Initial Assessment → Work Scope Development → Cost Estima
 - Technical Standard Orders (TSO)
 - AC 43-9C Maintenance Records
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Work order created and authorized within 4 business hours of initial request.
@@ -388,13 +382,9 @@ ________________________________________________________________________________
 
 Conduct thorough inspection and testing of avionics components to verify functionality and airworthiness before installation or return to service.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for comprehensive inspection and testing of avionics components to ensure proper functionality, regulatory compliance, and airworthiness before installation or return to service. The process ensures all components meet manufacturer specifications and regulatory requirements through systematic testing and documentation.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -485,8 +475,6 @@ Component Receipt → Initial Inspection → Test Setup → Equipment Calibratio
 - Test Results Documentation System
 - Calibration Management System
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Component testing completed within 2 business hours of receipt for standard components.
@@ -529,13 +517,9 @@ ________________________________________________________________________________
 
 Install and configure avionics equipment according to manufacturer specifications and regulatory requirements while ensuring proper system integration.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for proper installation and configuration of avionics equipment to ensure compliance with manufacturer specifications, regulatory requirements, and safe system integration. The process ensures all installations are performed using approved methods and properly integrated with existing aircraft systems.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -626,8 +610,6 @@ Pre-Installation Planning → Physical Installation → Wiring and Connections �
 - STC Installation Data and Procedures
 - Configuration and Calibration Procedures
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Standard avionics installation completed within manufacturer estimated time plus 20% for quality assurance.
@@ -670,13 +652,9 @@ ________________________________________________________________________________
 
 Diagnose and repair avionics system malfunctions using systematic troubleshooting procedures and approved repair techniques.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes systematic procedures for diagnosing and repairing avionics system malfunctions using approved troubleshooting methods and repair techniques. The process ensures efficient fault isolation, proper repair procedures, and thorough testing to restore systems to airworthy condition while maintaining regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -767,8 +745,6 @@ Problem Documentation → System History Review → Troubleshooting Planning →
 - Approved Repair Procedures and Standards
 - Test Procedures and Acceptance Criteria
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Standard troubleshooting and repair completed within manufacturer estimated time plus 25% for quality assurance.
@@ -811,13 +787,9 @@ ________________________________________________________________________________
 
 Execute avionics modifications and Supplemental Type Certificate (STC) installations ensuring regulatory compliance and proper documentation.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for implementing avionics modifications and Supplemental Type Certificate (STC) installations to ensure full regulatory compliance, proper documentation, and safe integration with existing aircraft systems. The process ensures all modifications are performed according to approved data and maintain aircraft airworthiness certification.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -908,8 +880,6 @@ STC Research → Regulatory Review → Modification Planning → Parts Procureme
 - Compliance Testing Instruments
 - Documentation and Recording Systems
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** STC modifications completed within STC estimated time plus 30% for regulatory compliance verification.
@@ -952,13 +922,9 @@ ________________________________________________________________________________
 
 Manage avionics parts inventory, procurement, and component tracking to ensure availability of approved parts and maintain traceability.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for managing avionics parts inventory, procurement, and component tracking to ensure availability of approved parts while maintaining complete traceability and regulatory compliance. The process ensures all parts are properly sourced, stored, and tracked throughout their lifecycle from procurement to installation.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1049,8 +1015,6 @@ Requirements Planning → Supplier Research → Parts Ordering → Receiving and
 - Supplier Quality Agreements
 - Parts Traceability Requirements
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Standard parts orders processed and received within supplier lead time plus 10% buffer.
@@ -1093,13 +1057,9 @@ ________________________________________________________________________________
 
 Maintain comprehensive documentation and records for all avionics work performed in compliance with Part 145 requirements.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for maintaining comprehensive documentation and records for all avionics work performed to ensure compliance with Part 145 repair station requirements and provide complete traceability of all maintenance activities. The process ensures proper documentation creation, storage, and retrieval to support regulatory compliance and quality assurance.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1189,8 +1149,6 @@ Work Order Creation → Documentation Assignment → Maintenance Recording → T
 - Maintenance Record Keeping Standards
 - Component Traceability Requirements
 - Regulatory Reporting Procedures
-
-_____________________________________________________________________________________________
 
 ### Success Metrics
 
@@ -1234,13 +1192,9 @@ ________________________________________________________________________________
 
 Maintain comprehensive documentation and records for all avionics work performed in compliance with Part 145 requirements.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for maintaining comprehensive documentation and records for all avionics work performed to ensure compliance with Part 145 repair station requirements and provide complete traceability of all maintenance activities. The process ensures proper documentation creation, storage, and retrieval to support regulatory compliance and quality assurance.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1330,8 +1284,6 @@ Work Order Creation → Documentation Assignment → Maintenance Recording → T
 - Maintenance Record Keeping Standards
 - Component Traceability Requirements
 - Regulatory Reporting Procedures
-
-_____________________________________________________________________________________________
 
 ### Success Metrics
 
@@ -1375,13 +1327,9 @@ ________________________________________________________________________________
 
 Conduct quality control inspections and final verification of avionics work to ensure compliance with regulatory requirements and quality standards.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for conducting independent quality control inspections and final verification of all avionics work to ensure compliance with regulatory requirements, manufacturer specifications, and quality standards before return to service. The process ensures all work meets safety and airworthiness requirements through systematic inspection and testing.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1472,8 +1420,6 @@ Work Completion → Inspection Scheduling → Documentation Review → Physical 
 - Non-Conformance Reporting Procedures
 - Return to Service Authorization Forms
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Quality control inspections completed within 4 hours of work completion notification.
@@ -1516,13 +1462,9 @@ ________________________________________________________________________________
 
 Maintain and calibrate avionics test equipment to ensure accurate measurements and reliable test results for all avionics operations.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for maintaining and calibrating avionics test equipment to ensure accurate measurements and reliable test results for all avionics operations. The process ensures all test equipment meets accuracy requirements and maintains traceability to national standards to support regulatory compliance and quality assurance.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1613,8 +1555,6 @@ Calibration Planning → Schedule Coordination → Equipment Preparation → Cal
 - Calibration Certificates and Records
 - Traceability Documentation Requirements
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Equipment calibration completed within scheduled intervals with zero overdue items.
@@ -1657,13 +1597,9 @@ ________________________________________________________________________________
 
 Manage avionics technician training, certification, and competency assessment to ensure qualified personnel perform all avionics work.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for managing avionics technician training, certification, and competency assessment to ensure all personnel performing avionics work possess the required qualifications, skills, and knowledge. The process ensures compliance with regulatory training requirements and maintains current competency in evolving avionics technologies.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1754,8 +1690,6 @@ Needs Assessment → Training Selection → Program Enrollment → Training Exec
 - Certification and License Records
 - Competency Assessment Forms
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Required training completed within planned schedule with 95% on-time completion rate.
@@ -1798,13 +1732,9 @@ ________________________________________________________________________________
 
 Maintain effective communication with clients throughout avionics projects and provide regular progress updates and technical explanations.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for maintaining effective communication with clients throughout avionics projects to provide regular progress updates, technical explanations, and project coordination. The process ensures clients remain informed of project status, understand technical requirements, and receive timely notification of any changes or issues affecting their aircraft.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1895,8 +1825,6 @@ Initial Contact → Project Planning → Regular Updates → Issue Communication
 - Communication Log Templates
 - Client Satisfaction Survey Forms
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Client communications responded to within 4 hours during business hours.
@@ -1939,13 +1867,9 @@ ________________________________________________________________________________
 
 Ensure compliance with environmental regulations and safety requirements specific to avionics operations and electronic component handling.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for ensuring compliance with environmental regulations and safety requirements specific to avionics operations including electrostatic discharge (ESD) protection, environmental compliance for electronic components, and safety protocols for avionics work areas. The process ensures all avionics operations meet regulatory requirements while protecting personnel and the environment.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -2036,8 +1960,6 @@ Requirements Assessment → ESD Implementation → Environmental Procedures → 
 - RF Exposure Monitoring Devices
 - Emergency Response Equipment
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Safety and environmental compliance procedures implemented within regulatory deadlines.
@@ -2078,13 +2000,9 @@ ________________________________________________________________________________
 
 Manage warranty claims, service bulletins, and ongoing support for avionics installations and repairs.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for managing warranty claims, implementing service bulletins, and providing ongoing technical support for avionics installations and repairs. The process ensures clients receive full benefit of warranty coverage while maintaining compliance with manufacturer service requirements and regulatory obligations.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -2175,8 +2093,6 @@ Warranty Tracking → Issue Identification → Claim Preparation → Claim Proce
 - Technical Support Case Tracking
 - Client Communication Templates
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Warranty claims processed and submitted within 5 business days of issue identification.
@@ -2219,13 +2135,9 @@ ________________________________________________________________________________
 
 Manage accurate billing and cost tracking for avionics services while maintaining transparency in pricing and labor charges.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for managing accurate billing and cost tracking for avionics services to ensure transparent pricing, proper labor charge allocation, and efficient cost management. The process ensures all avionics work is properly tracked, billed accurately, and provides clients with clear understanding of charges and value received.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -2316,8 +2228,6 @@ Time Recording → Work Documentation → Parts Tracking → Cost Calculation �
 - Client Billing and Payment Records
 - Cost Analysis and Performance Reports
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Invoices generated and delivered within 5 business days of work completion.
@@ -2360,13 +2270,9 @@ ________________________________________________________________________________
 
 Provide emergency avionics support and Aircraft on Ground (AOG) services to minimize client downtime and restore aircraft to service quickly.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for providing emergency avionics support and Aircraft on Ground (AOG) services to minimize client aircraft downtime and restore aircraft to service as quickly as possible. The process ensures rapid response to emergency situations while maintaining safety standards and regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -2456,149 +2362,6 @@ Emergency Call → Priority Assessment → Team Activation → Remote Diagnosis 
 - Contact Lists and Escalation Procedures
 - Emergency Work Authorization Forms
 - AOG Service Level Agreements
-
-_____________________________________________________________________________________________
-
-### Success Metrics
-
-**Completion Time:** Emergency response initiated within 2 hours of notification during business hours, 4 hours after hours.
-**Quality Standard:** 90% of AOG situations resolved within 24 hours with aircraft returned to service.
-**Safety Standard:** All emergency repairs meet full safety and regulatory requirements with zero compromise.
-**Client Satisfaction:** Client satisfaction rating of 4.9/5 for emergency response time and effectiveness.
-
-### Common Issues and Solutions
-
-**Issue:** Required parts not available from normal suppliers causing extended AOG time
-**Solution:** Maintain relationships with multiple parts suppliers including international sources, consider approved alternate parts when available, and explore temporary operational limitations if approved by engineering
-
-**Issue:** Complex problems requiring specialized expertise not immediately available
-**Solution:** Maintain contact list of manufacturer technical support representatives, establish relationships with specialized avionics repair facilities, and consider remote technical support options
-
-**Issue:** Emergency repairs performed under time pressure not meeting normal quality standards
-**Solution:** Establish emergency quality control procedures that maintain safety while accommodating time constraints, provide additional training for emergency response procedures, and implement follow-up inspection requirements
-
-### Safety Considerations
-
-⚠️ **WARNING**: Never compromise safety standards or regulatory requirements even under emergency time pressure as unsafe repairs create greater risks than continued downtime
-
-⚡ **CAUTION**: Ensure emergency repairs are performed by qualified personnel using approved procedures and properly tested before return to service
-
-ℹ️ **NOTE**: All emergency repairs must be properly documented and meet the same regulatory requirements as normal maintenance
-
-✅ **BEST PRACTICE**: Maintain emergency response capabilities through regular training, equipment readiness, and supplier relationship management
-
-### Regulatory References
-
-- **14 CFR Part 43** - Maintenance, Rebuilding, and Alteration requirements apply to emergency repairs
-- **14 CFR Part 145** - Repair Station Operating Certificate requirements for emergency services
-- **14 CFR Part 91.405** - Maintenance required including emergency maintenance documentation
-- **AC 43-9C** - Maintenance Records requirements for emergency repair documentation
-- **Emergency Response Regulations** - Various federal and state emergency response requirements
-
----
-
-## Emergency and AOG Support
-
-Provide emergency avionics support and Aircraft on Ground (AOG) services to minimize client downtime and restore aircraft to service quickly.
-
-_____________________________________________________________________________________________
-
-### Purpose
-
-This process establishes procedures for providing emergency avionics support and Aircraft on Ground (AOG) services to minimize client aircraft downtime and restore aircraft to service as quickly as possible. The process ensures rapid response to emergency situations while maintaining safety standards and regulatory compliance.
-
-_____________________________________________________________________________________________
-
-### Roles and Responsibilities
-
-**Emergency Response Coordinator:**
-
-- Coordinate emergency response and resource allocation
-- Maintain emergency contact lists and escalation procedures
-- Monitor emergency response times and effectiveness
-- Coordinate with clients and external support services
-
-**Avionics Shop Leader:**
-
-- Authorize emergency response actions and resource deployment
-- Coordinate emergency parts procurement and expedited services
-- Oversee emergency repair procedures and quality control
-- Approve emergency work authorization and billing procedures
-
-**On-Call Avionics Technician:**
-
-- Respond to emergency calls and perform initial assessment
-- Execute emergency repairs and troubleshooting procedures
-- Coordinate with parts suppliers and external services
-- Maintain communication with clients throughout emergency response
-
-**Parts Expediter:**
-
-- Coordinate emergency parts procurement and delivery
-- Maintain relationships with expedited parts suppliers
-- Track emergency parts orders and delivery status
-- Process emergency parts authorization and payment
-
-### Process Steps
-
-#### Emergency Response Activation Phase
-
-- **Receive emergency notification** - Document emergency call details including aircraft location, problem description, and urgency level
-- **Assess emergency priority** - Evaluate situation severity and determine appropriate response level and resources required
-- **Activate response team** - Contact and deploy appropriate personnel based on emergency type and complexity
-- **Establish communication** - Set up communication channels with client and coordinate response activities
-
-#### Initial Assessment and Diagnosis Phase
-
-- **Conduct remote assessment** - Gather information about problem symptoms and aircraft condition through remote consultation
-- **Dispatch technician** - Send qualified technician to aircraft location with appropriate tools and equipment
-- **Perform on-site diagnosis** - Conduct thorough troubleshooting and fault isolation to identify specific problem
-- **Develop repair plan** - Create action plan including parts requirements, timeline, and resource needs
-
-#### Emergency Parts Procurement Phase
-
-- **Identify required parts** - Determine specific parts needed for repair with accurate part numbers and specifications
-- **Locate parts sources** - Contact multiple suppliers to locate parts and determine fastest delivery options
-- **Coordinate expedited delivery** - Arrange fastest possible parts delivery using appropriate shipping methods
-- **Track parts delivery** - Monitor parts shipment status and coordinate with repair team for arrival timing
-
-#### Emergency Repair Execution Phase
-
-- **Execute repair procedures** - Perform emergency repairs using approved methods and maintaining safety standards
-- **Conduct quality control** - Implement appropriate quality control measures for emergency repair work
-- **Test system operation** - Verify repaired system operates properly and meets performance requirements
-- **Document repair completion** - Complete all required documentation and obtain necessary approvals for return to service
-
-### Process Mapping
-
-```
-Emergency Call → Priority Assessment → Team Activation → Remote Diagnosis → On-Site Assessment → Parts Procurement → Repair Execution → Quality Control → Return to Service
-```
-
-### Tools and Resources
-
-**Emergency Response Equipment:**
-
-- Mobile Tool Kits and Test Equipment
-- Emergency Communication Systems
-- Transportation and Travel Resources
-- Portable Work Stations and Lighting
-
-**Parts Procurement Resources:**
-
-- Emergency Parts Supplier Network
-- Expedited Shipping Services
-- Parts Authentication and Verification Tools
-- Emergency Payment and Authorization Systems
-
-**Documentation:**
-
-- Emergency Response Procedures
-- Contact Lists and Escalation Procedures
-- Emergency Work Authorization Forms
-- AOG Service Level Agreements
-
-_____________________________________________________________________________________________
 
 ### Success Metrics
 

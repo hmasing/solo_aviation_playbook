@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Collect and analyze client feedback to continuously improve training programs and maintain high satisfaction levels while building strong client relationships.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for systematically collecting, analyzing, and responding to client feedback to ensure training programs meet client expectations, identify improvement opportunities, and maintain high levels of client satisfaction throughout the training experience.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing feedback management workflow from collection through implement
 - Team communication and coordination systems
 - Training and development resources for improvement implementation
 - Performance monitoring and evaluation tools
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

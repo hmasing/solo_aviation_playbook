@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Safely handle and dispose of hazardous materials in compliance with environmental regulations and safety standards.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for safe handling, storage, and disposal of hazardous materials used in aircraft maintenance operations. This process ensures compliance with environmental regulations, protects team member health and safety, and maintains responsible environmental stewardship throughout maintenance activities.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Regulatory compliance documentation and permit tracking systems
 - Training materials and certification programs for hazardous materials safety
 - Emergency response equipment and notification procedures
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

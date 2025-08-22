@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Maintain effective communication with clients throughout avionics projects and provide regular progress updates and technical explanations.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for maintaining effective communication with clients throughout avionics projects to provide regular progress updates, technical explanations, and project coordination. The process ensures clients remain informed of project status, understand technical requirements, and receive timely notification of any changes or issues affecting their aircraft.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Initial Contact → Project Planning → Regular Updates → Issue Communication
 - Client Contact Information Database
 - Communication Log Templates
 - Client Satisfaction Survey Forms
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

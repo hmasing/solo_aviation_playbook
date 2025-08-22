@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Perform quality control inspections and operational testing to verify maintenance work meets safety and performance standards.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic quality control procedures to verify all maintenance work meets regulatory requirements, manufacturer specifications, and safety standards before aircraft return to service. This process ensures maintenance quality and prevents defects from affecting aircraft airworthiness and operational safety.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Digital camera equipment for quality documentation and records
 - Communication systems for coordination with maintenance and client service teams
 - Quality metrics tracking and trend analysis tools
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

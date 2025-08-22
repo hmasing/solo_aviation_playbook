@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Conduct pre-flight briefings and checklist execution to ensure safe and effective flight training sessions with proper preparation and risk management.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for conducting thorough pre-flight briefings and systematic checklist execution to ensure students and instructors are properly prepared for flight training activities and understand safety procedures and training objectives.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing pre-flight preparation workflow from planning through final sa
 - Airport and airspace information resources
 - Risk assessment and decision-making tools
 - Training syllabus and lesson plan materials
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

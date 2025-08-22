@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Coordinate flight lesson scheduling to optimize aircraft and instructor utilization while meeting student training needs and ensuring safe flight operations.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish efficient scheduling procedures for flight training activities that maximize aircraft and instructor availability, accommodate student needs, and maintain safe operations while considering weather, maintenance, and regulatory requirements for Part 61 training operations.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing scheduling workflow from initial request through lesson comple
 - Aircraft operating limitations and requirements
 - Weather minimums for training operations
 - Instructor qualification and currency records
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

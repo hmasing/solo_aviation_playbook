@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Coordinate flight simulator sessions to enhance student training with cost-effective and safe simulation experiences that complement flight training activities.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for managing flight simulator operations, scheduling training sessions, and maintaining simulation equipment to provide students with valuable training experiences while reducing aircraft operating costs and weather dependencies.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing simulator session workflow from planning through post-session 
 - Training scenario documentation
 - Student evaluation forms
 - Instructor training resources
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

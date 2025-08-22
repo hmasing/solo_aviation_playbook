@@ -60,7 +60,7 @@ Coordinate maintenance services for visiting aircraft by managing vendor relatio
 - Vendor coordination and oversight
 - Quality assurance and client communication
 
-### [Crew and Passenger Transportation Arrangements Process](08-transportation-arrangements.md)
+### [Crew and Passenger Transportation Process](08-transportation-arrangements.md)
 
 Coordinate ground transportation and accommodation services for crew members and passengers to ensure convenient and comfortable travel experiences.
 

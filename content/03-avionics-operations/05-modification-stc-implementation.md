@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Execute avionics modifications and Supplemental Type Certificate (STC) installations ensuring regulatory compliance and proper documentation.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for implementing avionics modifications and Supplemental Type Certificate (STC) installations to ensure full regulatory compliance, proper documentation, and safe integration with existing aircraft systems. The process ensures all modifications are performed according to approved data and maintain aircraft airworthiness certification.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ STC Research → Regulatory Review → Modification Planning → Parts Procureme
 - Performance Verification Tools
 - Compliance Testing Instruments
 - Documentation and Recording Systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

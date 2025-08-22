@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Conduct thorough inspection and testing of avionics components to verify functionality and airworthiness before installation or return to service.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for comprehensive inspection and testing of avionics components to ensure proper functionality, regulatory compliance, and airworthiness before installation or return to service. The process ensures all components meet manufacturer specifications and regulatory requirements through systematic testing and documentation.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Component Receipt → Initial Inspection → Test Setup → Equipment Calibratio
 - Component Tracking Database
 - Test Results Documentation System
 - Calibration Management System
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage instructor scheduling and certification renewal to maintain qualified instruction team members and regulatory compliance while optimizing training capacity.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for managing flight instructor schedules, tracking certification currency, and coordinating professional development to ensure qualified instruction team members are available for all training activities while maintaining regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing instructor management workflow from qualification verification
 - Professional development planning tools
 - Industry conference and seminar information
 - Certification renewal resource materials
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

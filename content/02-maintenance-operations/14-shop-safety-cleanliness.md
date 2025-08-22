@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Maintain safe and clean work environment to protect personnel and ensure quality maintenance operations.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for maintaining safe work environments and cleanliness standards in maintenance facilities. This process protects team member health and safety, ensures quality maintenance work, and maintains professional appearance standards while complying with occupational safety regulations.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Emergency response equipment and first aid supplies
 - Safety signage and hazard identification materials
 - Regulatory compliance reference materials and guidance
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

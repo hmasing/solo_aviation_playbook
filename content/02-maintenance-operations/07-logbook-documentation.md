@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Maintain accurate maintenance records and logbook entries to ensure regulatory compliance and historical documentation.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for creating, maintaining, and updating aircraft maintenance logbooks and records in accordance with FAA regulations. This process ensures complete documentation of all maintenance actions while providing historical records for airworthiness determination and regulatory compliance.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Maintenance tracking software system
 - Record storage and filing systems
 - Copy and scanning equipment for record backup
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

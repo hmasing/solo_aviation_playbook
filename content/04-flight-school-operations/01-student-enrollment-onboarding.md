@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage student enrollment and onboarding to ensure smooth transition into flight training programs with proper documentation and orientation.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish a systematic approach to enrolling new students in Part 61 flight training programs, ensuring all regulatory requirements are met, proper documentation is collected, and students receive thorough orientation to training operations and safety protocols.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing enrollment progression from initial inquiry through first sche
 - TSA security clearance procedures
 - Flight school training syllabi and curricula
 - Insurance coverage requirements and policies
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

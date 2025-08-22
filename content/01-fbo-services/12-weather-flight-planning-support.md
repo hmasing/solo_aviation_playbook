@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Provide weather briefing and flight planning support services to assist pilots with safe flight operations and regulatory compliance requirements.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for weather briefing and flight planning support to assist Part 91 general aviation pilots with safe flight decision-making, regulatory compliance, and efficient flight operations while providing professional aviation support services. Our services support pilots operating aircraft from our Part 61 flight school training operations (Cessna 172, Piper Cherokee) to business aviation turboprop aircraft (King Air, Pilatus, TBM series).
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -82,8 +78,6 @@ Flowchart showing weather information access, pilot consultation, route analysis
 - Flight planning software and navigation charts
 - Communication equipment for coordination with Flight Service Station
 - Weather briefing documentation forms and pilot reference materials
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

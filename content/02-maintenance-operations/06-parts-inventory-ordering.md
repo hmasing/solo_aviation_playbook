@@ -14,13 +14,9 @@ effective_date: "2024-12-27"
 
 Manage parts inventory and procurement to ensure availability of quality components for maintenance operations.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish systematic procedures for managing aircraft parts inventory, procurement, and quality control to ensure availability of airworthy components while minimizing inventory costs and maintaining regulatory compliance throughout the parts management process.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -103,8 +99,6 @@ Flowchart to show sequential steps
 - Airworthiness documentation filing and tracking systems
 - Cost tracking and budget monitoring tools
 - Emergency parts procurement procedures and contacts
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

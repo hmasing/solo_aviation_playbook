@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage fuel operations for training aircraft to ensure safe, efficient, and cost-effective fuel management while maintaining training aircraft availability.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for managing aviation fuel inventory, conducting safe refueling operations, and coordinating fuel planning to support training aircraft operations while ensuring safety compliance and cost effectiveness.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing fuel management workflow from planning through service documen
 - Fire extinguishers and emergency response equipment
 - Fuel spill containment and cleanup materials
 - Safety signage and hazard identification systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

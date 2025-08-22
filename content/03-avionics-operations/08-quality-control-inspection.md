@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Conduct quality control inspections and final verification of avionics work to ensure compliance with regulatory requirements and quality standards.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for conducting independent quality control inspections and final verification of all avionics work to ensure compliance with regulatory requirements, manufacturer specifications, and quality standards before return to service. The process ensures all work meets safety and airworthiness requirements through systematic inspection and testing.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Work Completion → Inspection Scheduling → Documentation Review → Physical 
 - Test Result Recording Systems
 - Non-Conformance Reporting Procedures
 - Return to Service Authorization Forms
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

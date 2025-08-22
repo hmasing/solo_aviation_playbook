@@ -60,7 +60,7 @@ Coordinate maintenance services for visiting aircraft by managing vendor relatio
 - Vendor coordination and oversight
 - Quality assurance and client communication
 
-#### [Crew and Passenger Transportation Arrangements Process](08-transportation-arrangements.md)
+#### [Crew and Passenger Transportation Process](08-transportation-arrangements.md)
 
 Coordinate ground transportation and accommodation services for crew members and passengers to ensure convenient and comfortable travel experiences.
 
@@ -139,13 +139,9 @@ All FBO service personnel must complete:
 
 Provide handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for managing general aviation aircraft arrivals and departures to ensure safe ground operations, quality client experience, and efficient ramp utilization while maintaining regulatory compliance and operational excellence. Our 3,500-foot runway accommodates aircraft such as Cessna 172, Piper Cherokee, King Air, Pilatus, and TBM series aircraft.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -214,8 +210,6 @@ Flowchart showing sequential steps from aircraft approach monitoring through pos
 - Weather monitoring equipment and runway condition reports
 - Emergency contact lists and safety protocol references
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Aircraft handling process completed within 15 minutes of arrival.
@@ -254,13 +248,9 @@ ________________________________________________________________________________
 
 Provide safe, accurate, and efficient aircraft fueling services for both Jet A and 100LL aviation gasoline while maintaining quality control and regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for safe general aviation aircraft fueling operations to ensure proper fuel quality, accurate quantity delivery, and compliance with aviation fuel handling regulations while maintaining operational efficiency and client satisfaction. Our facility services aircraft requiring both Jet A fuel (turbine aircraft like King Air, Pilatus, TBM) and 100LL aviation gasoline (piston aircraft like Cessna 172, Piper Cherokee).
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -327,8 +317,6 @@ Flowchart showing fuel quality testing, safety verification, fueling operation s
 - Spill response equipment and environmental protection materials
 - Personal protective equipment and safety communication devices
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Standard fueling operations completed within 20 minutes per aircraft.
@@ -369,13 +357,9 @@ ________________________________________________________________________________
 
 Manage hangar and ramp space reservations to optimize facility utilization while providing clients with appropriate aircraft storage and parking solutions.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for efficient hangar and ramp space allocation to maximize facility utilization, ensure appropriate general aviation aircraft accommodation, and provide clients with reliable space reservations while maintaining operational flexibility and safety standards. Our facility accommodates typical Part 91 operations with aircraft ranging from single-engine trainers (Cessna 172, Piper Cherokee) to turboprop business aircraft (King Air, Pilatus PC-12, TBM series).
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -438,8 +422,6 @@ Flowchart showing space availability assessment, reservation processing, aircraf
 - Space measurement tools and aircraft specification references
 - Security access control systems and monitoring equipment
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Space assignments processed within 30 minutes of client request.
@@ -479,13 +461,9 @@ ________________________________________________________________________________
 
 Provide client reception and concierge services to ensure professional welcome experience and coordinate support services for visiting clients.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for professional client check-in and concierge services to create positive first impressions, coordinate client support services, and maintain high standards of hospitality while efficiently managing client needs and requests.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -548,8 +526,6 @@ Flowchart showing client greeting, check-in procedures, service coordination, an
 - Local area information resources and recommendation guides
 - Service quality feedback forms and client preference tracking systems
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Check-in process completed within 10 minutes with service coordination within 15 minutes.
@@ -589,13 +565,9 @@ ________________________________________________________________________________
 
 Provide safe and efficient aircraft ground guidance and parking services to ensure proper aircraft positioning while maintaining ramp safety and operational efficiency.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for general aviation aircraft marshalling and parking operations to ensure safe aircraft ground movement, optimal ramp space utilization, and compliance with ground safety regulations while providing professional guidance services to pilots and aircraft operators. Our operations focus on Part 91 general aviation aircraft including single-engine aircraft (Cessna 172, Piper Cherokee), light twins, and turboprop aircraft (King Air, Pilatus, TBM series).
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -658,8 +630,6 @@ Flowchart showing pre-marshalling assessment, aircraft guidance sequence, parkin
 - Ground power units and electrical connection equipment
 - Tie-down equipment and hardware for aircraft securing
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Aircraft marshalling and parking completed within 10 minutes of initial contact.
@@ -700,13 +670,9 @@ ________________________________________________________________________________
 
 Manage ground support equipment inventory, maintenance, and deployment to ensure reliable equipment availability and safe operation for all aircraft service requirements.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for ground support equipment management to ensure equipment reliability, operator safety, and efficient service delivery while maintaining regulatory compliance and optimizing equipment utilization across all FBO operations.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -769,8 +735,6 @@ Flowchart showing equipment inspection, deployment, operational monitoring, and 
 - Safety inspection equipment and regulatory compliance documentation
 - Equipment utilization tracking and analysis software
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Equipment deployment completed within 5 minutes of service request.
@@ -811,13 +775,9 @@ ________________________________________________________________________________
 
 Coordinate maintenance services for visiting aircraft by managing vendor relationships and ensuring quality service delivery while maintaining client communication and regulatory compliance.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for coordinating maintenance services for visiting general aviation aircraft to ensure timely, quality repairs and inspections while managing vendor relationships, maintaining regulatory compliance, and providing clear client communication throughout the maintenance process. Our facility coordinates maintenance for typical Part 91 aircraft including single-engine trainers from our Part 61 flight school (Cessna 172, Piper Cherokee) and transient turboprop aircraft (King Air, Pilatus, TBM series).
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -880,8 +840,6 @@ Flowchart showing maintenance request processing, vendor coordination, service m
 - Billing coordination systems and vendor payment processing tools
 - Maintenance service evaluation forms and vendor performance tracking systems
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Maintenance coordination initiated within 2 hours of client request.
@@ -917,17 +875,13 @@ ________________________________________________________________________________
 
 ---
 
-## Crew and Passenger Transportation Arrangements
+## Crew and Passenger Transportation
 
 Coordinate ground transportation and accommodation services for aircraft crew and passengers to ensure convenient, reliable, and professional support services throughout their visit.
-
-_____________________________________________________________________________________________
 
 ### Purpose
 
 This process establishes procedures for arranging ground transportation and accommodation services to provide support for visiting crew and passengers while maintaining vendor relationships, ensuring service quality, and delivering quality client experience.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -990,8 +944,6 @@ Flowchart showing transportation needs assessment, vendor coordination, service 
 - Billing and payment processing systems for vendor coordination
 - Client preference tracking and service evaluation forms
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Transportation arrangements confirmed within 30 minutes of client request.
@@ -1031,13 +983,9 @@ ________________________________________________________________________________
 
 Manage accurate billing and invoicing for all FBO services to ensure proper revenue collection, maintain client relationships, and provide transparent financial transactions.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for accurate service billing and invoicing to ensure proper revenue collection, maintain transparent client financial relationships, and provide efficient payment processing while supporting operational excellence and client satisfaction.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1100,8 +1048,6 @@ Flowchart showing service documentation, invoice generation, payment processing,
 - Financial reporting tools and account reconciliation systems
 - Billing inquiry tracking and resolution documentation systems
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Invoices generated and delivered within 24 hours of service completion.
@@ -1141,13 +1087,9 @@ ________________________________________________________________________________
 
 Conduct systematic safety and security inspections to maintain facility compliance, prevent incidents, and ensure safe operations for all team members and clients.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for conducting safety and security inspections to maintain regulatory compliance, prevent safety incidents, and ensure secure facility operations while protecting team members, clients, and facility assets.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1227,8 +1169,6 @@ Flowchart showing inspection planning, systematic facility inspection, hazard id
 - Regulatory compliance references and inspection standards
 - Corrective action tracking and follow-up systems
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Daily safety inspections completed within 2 hours of shift start.
@@ -1270,13 +1210,9 @@ ________________________________________________________________________________
 
 Maintain facility cleanliness and operational condition to ensure professional appearance, equipment reliability, and quality client experience through systematic maintenance and cleaning procedures.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for facility maintenance and cleaning to ensure professional facility appearance, equipment reliability, and quality client experience while maintaining regulatory compliance and operational efficiency.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1339,8 +1275,6 @@ Flowchart showing facility assessment, maintenance scheduling, cleaning operatio
 - Facility condition assessment forms and maintenance tracking systems
 - Quality control inspection checklists and client feedback forms
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Daily facility maintenance and cleaning completed within scheduled timeframes.
@@ -1381,13 +1315,9 @@ ________________________________________________________________________________
 
 Provide weather briefing and flight planning support services to assist pilots with safe flight operations and regulatory compliance requirements.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for weather briefing and flight planning support to assist Part 91 general aviation pilots with safe flight decision-making, regulatory compliance, and efficient flight operations while providing professional aviation support services. Our services support pilots operating aircraft from our Part 61 flight school training operations (Cessna 172, Piper Cherokee) to business aviation turboprop aircraft (King Air, Pilatus, TBM series).
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1450,8 +1380,6 @@ Flowchart showing weather information access, pilot consultation, route analysis
 - Communication equipment for coordination with Flight Service Station
 - Weather briefing documentation forms and pilot reference materials
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Weather briefings completed within 15 minutes of pilot request.
@@ -1492,13 +1420,9 @@ ________________________________________________________________________________
 
 Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for coordinating catering and in-flight services to meet diverse client requirements while maintaining vendor relationships, ensuring service quality, and providing quality client experience through reliable service coordination.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1561,8 +1485,6 @@ Flowchart showing service request processing, vendor coordination, quality contr
 - Billing coordination systems and vendor payment processing
 - Client feedback forms and vendor performance evaluation systems
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Catering orders processed and confirmed within 2 hours of client request.
@@ -1602,13 +1524,9 @@ ________________________________________________________________________________
 
 Implement emergency response procedures and incident reporting to ensure rapid response to emergencies while maintaining safety, regulatory compliance, and operational continuity.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes procedures for emergency response and incident reporting to ensure rapid, effective response to emergency situations while maintaining team member and client safety, regulatory compliance, and operational continuity through systematic emergency management. Our procedures address emergencies typical to general aviation operations including aircraft incidents, fuel spills, medical emergencies, and weather-related events at our Part 61 flight school and FBO operations.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
@@ -1670,8 +1588,6 @@ Flowchart showing emergency recognition, response activation, incident managemen
 - Regulatory reporting systems and compliance reference materials
 - Emergency communication systems and backup power supplies
 - Training materials and emergency procedure references
-
-_____________________________________________________________________________________________
 
 ### Success Metrics
 

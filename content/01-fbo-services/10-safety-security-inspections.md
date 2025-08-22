@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Conduct systematic safety and security inspections to maintain facility compliance, prevent incidents, and ensure safe operations for all team members and clients.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for conducting safety and security inspections to maintain regulatory compliance, prevent safety incidents, and ensure secure facility operations while protecting team members, clients, and facility assets.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -99,8 +95,6 @@ Flowchart showing inspection planning, systematic facility inspection, hazard id
 - Emergency response equipment and communication systems
 - Regulatory compliance references and inspection standards
 - Corrective action tracking and follow-up systems
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Provide handling services for arriving and departing aircraft to ensure safe, efficient, and professional client experience.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for managing general aviation aircraft arrivals and departures to ensure safe ground operations, quality client experience, and efficient ramp utilization while maintaining regulatory compliance and operational excellence. Our 3,500-foot runway accommodates aircraft such as Cessna 172, Piper Cherokee, King Air, Pilatus, and TBM series aircraft.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -88,8 +84,6 @@ Flowchart showing sequential steps from aircraft approach monitoring through pos
 - Service request forms and billing documentation systems
 - Weather monitoring equipment and runway condition reports
 - Emergency contact lists and safety protocol references
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

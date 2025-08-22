@@ -14,13 +14,9 @@ effective_date: "2025-01-27"
 
 Maintain comprehensive documentation and records for all avionics work performed in compliance with Part 145 requirements.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 This process establishes procedures for maintaining comprehensive documentation and records for all avionics work performed to ensure compliance with Part 145 repair station requirements and provide complete traceability of all maintenance activities. The process ensures proper documentation creation, storage, and retrieval to support regulatory compliance and quality assurance.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -110,8 +106,6 @@ Work Order Creation → Documentation Assignment → Maintenance Recording → T
 - Maintenance Record Keeping Standards
 - Component Traceability Requirements
 - Regulatory Reporting Procedures
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 

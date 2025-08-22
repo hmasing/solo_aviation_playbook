@@ -14,13 +14,9 @@ effective_date: "2024-01-15"
 
 Manage TSA security clearance requirements for international students to ensure compliance with federal regulations and enable international students to participate in flight training programs.
 
-_____________________________________________________________________________________________
-
 ## Purpose
 
 Establish procedures for processing Transportation Security Administration security clearance applications for international students seeking flight training, ensuring compliance with federal security regulations while facilitating international student enrollment.
-
-_____________________________________________________________________________________________
 
 ## Roles and Responsibilities
 
@@ -108,8 +104,6 @@ Flowchart showing TSA clearance process from application preparation through tra
 - TSA processing center contact information
 - Compliance reporting and documentation systems
 - Emergency contact and coordination procedures
-
-_____________________________________________________________________________________________
 
 ## Success Metrics
 
