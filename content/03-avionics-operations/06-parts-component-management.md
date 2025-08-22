@@ -20,34 +20,21 @@ This process establishes procedures for managing avionics parts inventory, procu
 
 ## Roles and Responsibilities
 
-**Parts Manager:**
+**A&P Mechanic:**
 
-- Coordinate parts procurement and supplier relationships
-- Maintain parts inventory levels and storage conditions
-- Verify parts authenticity and traceability documentation
-- Process parts orders and coordinate delivery schedules
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Avionics Shop Leader:**
+**Chief of Maintenance:**
 
-- Approve parts specifications and supplier selections
-- Review parts requirements for work orders and projects
-- Authorize emergency parts procurement and expedited orders
-- Oversee parts quality control and acceptance procedures
-
-**Quality Control Inspector:**
-
-- Conduct incoming parts inspection and acceptance
-- Verify parts compliance with specifications and standards
-- Review parts documentation and traceability records
-- Approve parts for installation and use
-
-**Inventory Specialist:**
-
-- Maintain accurate parts inventory records and locations
-- Conduct periodic inventory audits and cycle counts
-- Manage parts storage conditions and shelf life tracking
-- Process parts returns and warranty claims
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Parts Procurement Planning Phase

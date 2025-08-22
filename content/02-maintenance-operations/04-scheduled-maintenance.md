@@ -20,34 +20,29 @@ Execute scheduled maintenance tasks in accordance with manufacturer maintenance 
 
 ## Roles and Responsibilities
 
-**Chief of Maintenance:**
-
-- Review and approve scheduled maintenance programs and intervals
-- Assign qualified technicians to specific maintenance tasks
-- Ensure compliance with manufacturer recommendations and regulatory requirements
-- Oversee quality control and final inspection of completed maintenance
-
 **A&P Mechanic:**
 
-- Execute scheduled maintenance tasks according to manufacturer specifications
-- Document all maintenance actions and findings in aircraft records
-- Identify and report additional maintenance requirements discovered during scheduled work
-- Perform operational tests and system checks following maintenance completion
-
-**Parts Coordinator:**
-
-- Ensure availability of required parts and materials before maintenance start
-- Order and receive parts according to manufacturer specifications and quality standards
-- Maintain inventory of consumable items for scheduled maintenance tasks
-- Coordinate expedited parts delivery when schedule delays occur
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Client Service Representative:**
 
-- Communicate scheduled maintenance requirements and timelines to clients
-- Coordinate aircraft scheduling around mandatory maintenance intervals
-- Provide progress updates throughout scheduled maintenance process
-- Deliver completed aircraft and maintenance documentation to clients
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Maintenance Planning and Preparation

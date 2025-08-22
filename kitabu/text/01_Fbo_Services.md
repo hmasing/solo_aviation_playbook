@@ -148,21 +148,29 @@ This process establishes procedures for managing general aviation aircraft arriv
 ### Roles and Responsibilities
 
 **Line Service Technician:**
-Provide direct aircraft handling services including marshalling, parking guidance, and initial client contact
-Execute safety protocols and coordinate with ground support equipment operators during aircraft movements
 
-**Operations Leader:**
-Oversee ramp operations and coordinate between multiple aircraft movements and service requests
-Monitor safety compliance and resolve operational challenges during peak activity periods
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 
 **Client Service Representative:**
-Manage client communications and coordinate service requests from arrival through departure
-Process documentation and billing while maintaining professional client relationships throughout the experience
 
-**Ramp Safety Coordinator:**
-Ensure all ground operations comply with safety regulations and monitor hazardous conditions
-Conduct safety briefings and maintain situational awareness during complex aircraft movements
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Operations Leader:**
+
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Pre-Arrival Phase
@@ -256,26 +264,6 @@ This process establishes procedures for safe general aviation aircraft fueling o
 
 ### Roles and Responsibilities
 
-**Fuel Service Technician:**
-
-- Conduct aircraft fueling operations following safety protocols and verify fuel quality before delivery
-- Maintain fuel system equipment and document all fuel transactions accurately for billing and inventory control
-
-**Fuel Safety Coordinator:**
-
-- Monitor fuel quality testing schedules and ensure compliance with fuel storage and handling regulations
-- Coordinate fuel deliveries and maintain fuel inventory records while overseeing safety training for fuel personnel
-
-**Line Service Leader:**
-
-- Oversee fueling operations during complex aircraft servicing and coordinate fuel truck positioning and scheduling
-- Ensure proper grounding procedures and monitor environmental compliance during all fuel handling activities
-
-**Quality Assurance Technician:**
-
-- Conduct fuel quality testing and maintain testing equipment calibration and documentation
-- Investigate fuel quality issues and coordinate with suppliers for product quality assurance and corrective actions
-
 ### Process Steps
 
 #### Pre-Fueling Phase
@@ -365,22 +353,13 @@ This process establishes procedures for efficient hangar and ramp space allocati
 
 ### Roles and Responsibilities
 
-**Operations Coordinator:**
-Manage space reservations and coordinate hangar door operations while maintaining current occupancy records
-Monitor space utilization and coordinate with maintenance team for facility condition assessments and improvements
-
-**Ramp Leader:**
-Oversee aircraft positioning and coordinate ramp traffic flow during peak operational periods
-Ensure proper spacing between aircraft and monitor compliance with safety regulations for ground operations
-
 **Client Service Representative:**
-Process space reservation requests and communicate availability and pricing information to clients
-Coordinate special accommodation requests and maintain client communication throughout reservation period
 
-**Facility Maintenance Technician:**
-Conduct hangar door operations and maintain hangar systems including lighting, heating, and ventilation
-Perform routine facility inspections and coordinate repairs to ensure space availability and client satisfaction
-
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 ### Process Steps
 
 #### Space Assessment and Reservation Phase
@@ -470,21 +449,21 @@ This process establishes procedures for professional client check-in and concier
 ### Roles and Responsibilities
 
 **Client Service Representative:**
-Greet clients professionally and process check-in procedures while coordinating service requests and facility orientation
-Maintain client communication throughout visit and ensure all service needs are addressed promptly and professionally
 
-**Concierge Coordinator:**
-Coordinate special service arrangements including transportation, accommodations, and local area recommendations
-Manage vendor relationships and ensure quality delivery of all contracted services while maintaining client satisfaction
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Operations Leader:**
-Oversee client service delivery and coordinate between multiple service providers during complex client visits
-Monitor service quality and resolve operational challenges while maintaining professional client relationships
 
-**Guest Services Specialist:**
-Provide facility tours and amenity information while assisting with special requests and accommodation needs
-Coordinate with local vendors and service providers to fulfill unique client requirements and preferences
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Client Arrival Phase
@@ -573,22 +552,13 @@ This process establishes procedures for general aviation aircraft marshalling an
 
 ### Roles and Responsibilities
 
-**Aircraft Marshaller:**
-Provide visual guidance signals to pilots during aircraft taxi and parking operations using standard hand signals
-Maintain situational awareness of ramp traffic and coordinate with ground control for safe aircraft movement
-
-**Ramp Safety Officer:**
-Monitor all ground operations for safety compliance and coordinate emergency response if required
-Conduct safety briefings and ensure all personnel follow established safety protocols during aircraft movements
-
-**Ground Operations Coordinator:**
-Coordinate aircraft parking assignments and optimize ramp space utilization during peak operational periods
-Manage ground support equipment positioning and coordinate with multiple aircraft operations simultaneously
-
 **Line Service Technician:**
-Position safety equipment and assist with aircraft parking operations including chock placement and tie-down procedures
-Monitor aircraft systems during ground operations and coordinate with pilots for any operational requirements
 
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 ### Process Steps
 
 #### Pre-Marshalling Phase
@@ -678,22 +648,14 @@ This process establishes procedures for ground support equipment management to e
 
 ### Roles and Responsibilities
 
-**Equipment Leader:**
-Oversee equipment inventory management and coordinate maintenance schedules while ensuring regulatory compliance
-Monitor equipment utilization and coordinate procurement of new equipment based on operational requirements and usage analysis
-
-**Ground Equipment Technician:**
-Conduct daily equipment inspections and perform routine maintenance procedures according to manufacturer specifications
-Operate equipment safely and document any operational issues or maintenance requirements for management review
-
 **Operations Leader:**
-Coordinate equipment deployment and scheduling while ensuring adequate equipment availability during peak operational periods
-Monitor equipment operator certification status and coordinate training programs for new team members
 
-**Safety Coordinator:**
-Conduct equipment safety inspections and ensure compliance with safety regulations and operational procedures
-Investigate equipment-related incidents and coordinate corrective actions to prevent future safety issues
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Daily Operations Phase
@@ -783,22 +745,22 @@ This process establishes procedures for coordinating maintenance services for vi
 
 ### Roles and Responsibilities
 
-**Maintenance Coordinator:**
-Coordinate maintenance service requests with qualified vendors and monitor service delivery quality and timing
-Maintain vendor relationships and ensure all maintenance providers meet regulatory requirements and quality standards
-
 **Client Service Representative:**
-Communicate maintenance requirements with clients and provide regular updates on service progress and timing
-Process maintenance service requests and coordinate billing arrangements with clients and maintenance providers
 
-**Quality Assurance Inspector:**
-Review maintenance work quality and ensure compliance with regulatory requirements before aircraft return to service
-Coordinate with maintenance providers for any corrective actions and maintain documentation for regulatory compliance
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Operations Leader:**
-Oversee maintenance operations coordination and ensure minimal disruption to other FBO operations during maintenance activities
-Coordinate hangar space allocation and equipment requirements for maintenance activities
 
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Request Assessment Phase
@@ -887,22 +849,22 @@ This process establishes procedures for arranging ground transportation and acco
 
 ### Roles and Responsibilities
 
-**Transportation Coordinator:**
-Coordinate ground transportation services with approved vendors and monitor service delivery quality and timing
-Maintain vendor relationships and negotiate service agreements while ensuring reliable transportation availability
-
-**Guest Services Specialist:**
-Process accommodation requests and coordinate hotel reservations with preferred vendor partners
-Provide local area information and recommendations while assisting with special requests and preferences
-
 **Client Service Representative:**
-Communicate transportation and accommodation options with clients and coordinate service timing with flight schedules
-Process service requests and maintain client preference records for future visits and improved service delivery
+
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Operations Leader:**
-Oversee transportation coordination during peak periods and resolve service issues while maintaining operational efficiency
-Monitor vendor performance and coordinate alternative service arrangements when primary vendors are unavailable
 
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Needs Assessment Phase
@@ -991,22 +953,30 @@ This process establishes procedures for accurate service billing and invoicing t
 
 ### Roles and Responsibilities
 
-**Billing Coordinator:**
-Process service transactions and generate accurate invoices while maintaining detailed records of all billable services
-Monitor payment collection and coordinate with clients regarding billing inquiries and payment arrangements
-
 **Client Service Representative:**
-Document billable services during client interactions and coordinate with billing team for accurate service recording
-Communicate billing information to clients and assist with payment processing and billing inquiry resolution
+
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Finance Leader:**
-Oversee billing accuracy and coordinate payment collection procedures while managing client credit arrangements
-Monitor billing system performance and coordinate with operations team for service documentation improvements
+
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Operations Leader:**
-Ensure accurate service documentation and coordinate with billing team for timely service recording
-Monitor service delivery and coordinate with billing team to resolve any service documentation discrepancies
 
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Service Documentation Phase
@@ -1096,21 +1066,21 @@ This process establishes procedures for conducting safety and security inspectio
 ### Roles and Responsibilities
 
 **Safety Officer:**
-Conduct comprehensive safety inspections and coordinate corrective actions for identified safety hazards or compliance issues
-Maintain safety documentation and coordinate with regulatory authorities for compliance reporting and incident investigation
 
-**Security Coordinator:**
-Perform security system inspections and coordinate with law enforcement and TSA for security compliance requirements
-Monitor access control systems and coordinate security incident response and investigation procedures
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Operations Leader:**
-Oversee daily safety checks and coordinate with team members for immediate hazard correction and reporting
-Monitor operational safety compliance and coordinate with safety officer for systematic safety improvement initiatives
 
-**Facility Maintenance Technician:**
-Conduct facility safety inspections and perform immediate corrections for identified safety hazards or equipment malfunctions
-Coordinate with safety officer for major safety system maintenance and regulatory compliance requirements
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 **Step 1: Daily Safety Inspection Planning**
@@ -1218,22 +1188,14 @@ This process establishes procedures for facility maintenance and cleaning to ens
 
 ### Roles and Responsibilities
 
-**Facility Maintenance Technician:**
-Conduct scheduled maintenance procedures and respond to equipment malfunctions while maintaining detailed maintenance records
-Coordinate with vendors for specialized maintenance services and ensure compliance with manufacturer recommendations
-
-**Housekeeping Coordinator:**
-Oversee facility cleaning operations and maintain cleaning supply inventory while ensuring consistent cleanliness standards
-Train cleaning team members and monitor cleaning quality while coordinating with operations for minimal disruption
-
 **Operations Leader:**
-Monitor facility condition and coordinate maintenance priorities while ensuring minimal impact on client services
-Coordinate between maintenance and operations teams for efficient facility management and client satisfaction
 
-**Maintenance Leader:**
-Plan preventive maintenance schedules and coordinate major facility improvements while managing maintenance budgets
-Monitor equipment performance and coordinate replacement planning while ensuring regulatory compliance
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Daily Assessment Phase
@@ -1323,22 +1285,22 @@ This process establishes procedures for weather briefing and flight planning sup
 
 ### Roles and Responsibilities
 
-**Flight Planning Specialist:**
-Provide weather briefings and flight planning assistance while maintaining current knowledge of weather systems and aviation regulations
-Coordinate with Flight Service Station and air traffic control for flight planning support and regulatory compliance
-
 **Client Service Representative:**
-Assist pilots with basic weather information access and coordinate with flight planning specialist for weather briefings
-Provide facility resources and coordinate with operations team for flight planning equipment and communication access
+
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Operations Leader:**
-Monitor weather conditions affecting airport operations and coordinate with pilots regarding operational impacts
-Coordinate with air traffic control and airport management for weather-related operational decisions and safety measures
 
-**Meteorology Consultant:**
-Provide specialized weather analysis and interpretation for complex weather situations affecting flight operations
-Coordinate with pilots for weather briefings and assist with weather-related flight planning decisions
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Information Access and Assessment Phase
@@ -1428,22 +1390,22 @@ This process establishes procedures for coordinating catering and in-flight serv
 
 ### Roles and Responsibilities
 
-**Catering Coordinator:**
-Coordinate catering orders with approved vendors while managing service timing and quality standards
-Maintain vendor relationships and monitor service delivery while ensuring client satisfaction and dietary requirement compliance
-
 **Client Service Representative:**
-Process client catering requests and communicate service options while coordinating timing with flight schedules
-Document special dietary requirements and coordinate with catering coordinator for accurate service delivery
+
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Operations Leader:**
-Oversee catering delivery operations and coordinate with ramp team for aircraft service coordination
-Monitor service quality and resolve operational challenges while maintaining efficient catering operations
 
-**Vendor Relations Leader:**
-Manage catering vendor relationships and negotiate service agreements while ensuring quality standards and pricing
-Monitor vendor performance and coordinate alternative service arrangements when primary vendors are unavailable
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Service Request Phase
@@ -1532,22 +1494,22 @@ This process establishes procedures for emergency response and incident reportin
 
 ### Roles and Responsibilities
 
-**Emergency Response Coordinator:**
-Coordinate emergency response activities and maintain communication with emergency services while ensuring team member and client safety
-Implement emergency procedures and coordinate with management for incident resolution and operational recovery
-
 **Safety Officer:**
-Oversee emergency response compliance and coordinate incident investigation while maintaining regulatory reporting requirements
-Conduct emergency training and coordinate with authorities for emergency response planning and procedure updates
+
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Operations Leader:**
-Implement immediate emergency response actions and coordinate with team members for safety measures and operational continuity
-Monitor emergency situations and coordinate with emergency response coordinator for effective incident management
 
-**Incident Investigation Team:**
-Conduct thorough incident investigations and document findings while coordinating with regulatory authorities for compliance reporting
-Analyze incident causes and coordinate corrective actions to prevent future occurrences
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Immediate Response Phase

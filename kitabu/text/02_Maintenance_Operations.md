@@ -170,34 +170,21 @@ Establish a systematic approach to creating, documenting, and scheduling mainten
 
 ### Roles and Responsibilities
 
-**Maintenance Scheduler:**
-
-- Create and manage work orders in maintenance tracking system
-- Coordinate scheduling with clients and maintenance team members
-- Monitor work order progress and update status information
-- Communicate schedule changes and resource requirements
-
 **Client Service Representative:**
 
-- Collect initial maintenance requirements from clients
-- Provide cost estimates and timeline information to clients
-- Obtain client approvals for work scope and schedule changes
-- Maintain ongoing communication throughout maintenance process
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Chief of Maintenance:**
 
 - Review and approve complex or high-value work orders
 - Assign qualified technicians to specific maintenance tasks
-- Ensure regulatory compliance for all scheduled maintenance work
+- Ensure regulatory compliance for all maintenance work
 - Resolve scheduling conflicts and resource allocation issues
-
-**A&P Mechanic/Inspector:**
-
-- Review work order technical requirements and specifications
-- Provide technical input for work scope and time estimates
-- Execute assigned maintenance tasks according to work order specifications
-- Document completion status and any discovered discrepancies
-
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Initial Work Order Creation
@@ -298,34 +285,13 @@ Establish a systematic approach to pre-maintenance aircraft inspections that ide
 
 ### Roles and Responsibilities
 
-**Lead A&P Mechanic:**
-
-- Conduct initial aircraft inspection and condition assessment
-- Document all observed discrepancies and maintenance requirements
-- Verify aircraft configuration against maintenance records
-- Coordinate with Inspector for regulatory inspection requirements
-
-**Inspector (IA when required):**
-
-- Review inspection findings for regulatory compliance requirements
-- Identify mandatory maintenance items and airworthiness directives
-- Approve inspection documentation and work scope recommendations
-- Ensure compliance with 14 CFR Part 43 inspection requirements
-
-**Maintenance Scheduler:**
-
-- Coordinate inspection timing with client and maintenance schedule
-- Update work orders based on inspection findings
-- Communicate scope changes and cost impacts to clients
-- Adjust resource allocation based on identified maintenance needs
-
 **Client Service Representative:**
 
-- Explain inspection process and potential outcomes to clients
-- Obtain client authorization for additional work discovered during inspection
-- Communicate inspection results and revised estimates to clients
-- Document client decisions regarding optional maintenance items
-
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 ### Process Steps
 
 #### Pre-Inspection Preparation
@@ -427,34 +393,21 @@ Establish systematic procedures for conducting 100-hour and annual inspections i
 
 ### Roles and Responsibilities
 
-**Inspector (IA for Annual Inspections):**
-
-- Conduct or supervise all required inspection procedures
-- Sign off completed inspections and return aircraft to service
-- Ensure compliance with all regulatory requirements and airworthiness directives
-- Review and approve all maintenance actions performed during inspection
-
 **A&P Mechanic:**
 
-- Perform detailed inspection procedures under Inspector supervision
-- Execute required maintenance actions identified during inspection
-- Document all findings and corrective actions in aircraft records
-- Assist with disassembly and reassembly as required for inspection access
-
-**Maintenance Scheduler:**
-
-- Coordinate inspection scheduling with client operational requirements
-- Ensure required parts and materials are available before inspection start
-- Track inspection progress and communicate timeline updates to clients
-- Schedule follow-up maintenance for items requiring future attention
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Client Service Representative:**
 
-- Communicate inspection requirements and timeline to clients
-- Obtain client authorization for additional maintenance discovered during inspection
-- Provide regular progress updates throughout inspection process
-- Coordinate aircraft delivery upon inspection completion
-
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 ### Process Steps
 
 #### Pre-Inspection Planning
@@ -563,34 +516,29 @@ Execute scheduled maintenance tasks in accordance with manufacturer maintenance 
 
 ### Roles and Responsibilities
 
-**Chief of Maintenance:**
-
-- Review and approve scheduled maintenance programs and intervals
-- Assign qualified technicians to specific maintenance tasks
-- Ensure compliance with manufacturer recommendations and regulatory requirements
-- Oversee quality control and final inspection of completed maintenance
-
 **A&P Mechanic:**
 
-- Execute scheduled maintenance tasks according to manufacturer specifications
-- Document all maintenance actions and findings in aircraft records
-- Identify and report additional maintenance requirements discovered during scheduled work
-- Perform operational tests and system checks following maintenance completion
-
-**Parts Coordinator:**
-
-- Ensure availability of required parts and materials before maintenance start
-- Order and receive parts according to manufacturer specifications and quality standards
-- Maintain inventory of consumable items for scheduled maintenance tasks
-- Coordinate expedited parts delivery when schedule delays occur
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Client Service Representative:**
 
-- Communicate scheduled maintenance requirements and timelines to clients
-- Coordinate aircraft scheduling around mandatory maintenance intervals
-- Provide progress updates throughout scheduled maintenance process
-- Deliver completed aircraft and maintenance documentation to clients
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Maintenance Planning and Preparation
@@ -692,34 +640,13 @@ Establish systematic procedures for diagnosing, troubleshooting, and repairing u
 
 ### Roles and Responsibilities
 
-**Lead A&P Mechanic:**
-
-- Conduct initial problem diagnosis and troubleshooting procedures
-- Develop repair plans and coordinate with client for authorization
-- Execute approved repairs according to manufacturer specifications
-- Document all troubleshooting steps and repair actions in aircraft records
-
-**Inspector (IA when required):**
-
-- Review complex repairs requiring inspection authorization
-- Approve return to service for major repairs and alterations
-- Ensure compliance with regulatory requirements for repair procedures
-- Sign off completed repairs and inspect work quality
-
-**Parts Coordinator:**
-
-- Source required parts for unscheduled repairs with priority handling
-- Verify parts authenticity and airworthiness certification
-- Coordinate expedited delivery and emergency parts procurement
-- Maintain emergency stock of common repair components
-
 **Client Service Representative:**
 
-- Communicate problem diagnosis and repair options to clients
-- Obtain client authorization for repair work and associated costs
-- Provide regular updates on repair progress and completion timeline
-- Coordinate aircraft delivery and explain completed repair work
-
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 ### Process Steps
 
 #### Initial Problem Assessment
@@ -821,34 +748,29 @@ Establish systematic procedures for managing aircraft parts inventory, procureme
 
 ### Roles and Responsibilities
 
-**Parts Coordinator:**
+**A&P Mechanic:**
 
-- Manage daily parts inventory operations and stock level monitoring
-- Process parts orders and coordinate delivery scheduling with vendors
-- Verify parts authenticity and airworthiness documentation upon receipt
-- Maintain accurate inventory records and cost tracking systems
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
+
+**Client Service Representative:**
+
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Chief of Maintenance:**
 
-- Approve parts procurement policies and vendor selection criteria
-- Review and authorize high-value parts purchases and emergency orders
-- Ensure compliance with regulatory requirements for parts quality and documentation
-- Oversee inventory management procedures and cost control measures
-
-**A&P Mechanic:**
-
-- Submit parts requests with detailed specifications and installation requirements
-- Verify parts compatibility and configuration before installation
-- Report parts quality issues or discrepancies to Parts Coordinator
-- Return unused parts to inventory with proper documentation
-
-**Purchasing Leader:**
-
-- Negotiate vendor contracts and pricing agreements for parts procurement
-- Review and approve vendor qualifications and quality certifications
-- Monitor parts procurement costs and budget compliance
-- Coordinate with finance team for payment processing and vendor relations
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Inventory Management and Control
@@ -954,32 +876,27 @@ Establish systematic procedures for creating, maintaining, and updating aircraft
 
 **A&P Mechanic:**
 
-- Complete detailed maintenance logbook entries for all work performed
-- Document parts installed, procedures followed, and inspection results
-- Ensure all entries are legible, complete, and signed appropriately
-- Maintain work order documentation and supporting records
-
-**Inspector (IA when required):**
-
-- Review and approve maintenance logbook entries for accuracy and completeness
-- Sign return to service entries for inspections and major repairs
-- Ensure compliance with regulatory documentation requirements
-- Verify proper certification statements and required information
-
-**Chief of Maintenance:**
-
-- Oversee maintenance documentation procedures and quality control
-- Review complex maintenance entries and ensure regulatory compliance
-- Maintain master maintenance record files and historical documentation
-- Coordinate with regulatory authorities for record keeping requirements
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Client Service Representative:**
 
-- Provide clients with copies of maintenance documentation upon request
-- Explain maintenance logbook entries and work performed to aircraft owners
-- Coordinate logbook transfers and historical record management
-- Maintain client communication records related to maintenance actions
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Pre-Entry Documentation Review
@@ -1081,34 +998,21 @@ Establish systematic procedures for monitoring, maintaining, and reporting FAA r
 
 ### Roles and Responsibilities
 
-**Compliance Officer:**
+**Safety Officer:**
 
-- Monitor regulatory changes and update compliance procedures accordingly
-- Coordinate required reporting to FAA and other regulatory authorities
-- Maintain current regulatory reference library and training materials
-- Conduct compliance audits and corrective action implementation
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Chief of Maintenance:**
 
-- Ensure maintenance operations comply with all applicable regulations
-- Review and approve compliance procedures and training programs
-- Coordinate with regulatory authorities during inspections and audits
-- Maintain oversight of technician certification and training compliance
-
-**A&P Mechanic/Inspector:**
-
-- Perform maintenance activities in accordance with regulatory requirements
-- Report suspected unapproved parts and safety concerns through proper channels
-- Maintain current certificates and required training documentation
-- Participate in regulatory compliance training and assessment programs
-
-**Quality Assurance Leader:**
-
-- Conduct internal compliance audits and quality assessments
-- Track corrective actions and compliance improvement initiatives
-- Maintain documentation of compliance activities and training records
-- Interface with external auditors and regulatory inspectors
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Regulatory Monitoring and Updates
@@ -1210,34 +1114,13 @@ Establish systematic quality control procedures to verify all maintenance work m
 
 ### Roles and Responsibilities
 
-**Quality Assurance Leader:**
-
-- Develop and maintain quality control procedures and inspection checklists
-- Conduct final quality inspections before aircraft return to service
-- Monitor maintenance quality trends and implement improvement initiatives
-- Coordinate corrective actions for quality discrepancies and defects
-
-**Inspector (IA when required):**
-
-- Perform required inspections and approve return to service entries
-- Review maintenance work for compliance with regulatory requirements
-- Sign off completed inspections and major repairs or alterations
-- Ensure proper documentation and certification of all maintenance actions
-
-**Lead A&P Mechanic:**
-
-- Conduct self-inspections of completed maintenance work before quality review
-- Perform operational testing and system checks following maintenance completion
-- Document all quality control activities and test results
-- Coordinate with quality assurance team for final inspection scheduling
-
 **Chief of Maintenance:**
 
-- Oversee quality control program implementation and effectiveness
-- Review quality metrics and approve corrective action plans
-- Ensure adequate resources and training for quality control activities
-- Interface with clients regarding quality issues and corrective measures
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Pre-Delivery Quality Planning
@@ -1339,34 +1222,21 @@ Establish systematic procedures for calibrating, maintaining, and managing preci
 
 ### Roles and Responsibilities
 
-**Tool Room Coordinator:**
+**A&P Mechanic:**
 
-- Manage daily tool inventory operations and calibration scheduling
-- Maintain calibration records and equipment maintenance documentation
-- Coordinate with external calibration services and equipment repair facilities
-- Track tool usage patterns and replacement requirements
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Chief of Maintenance:**
 
-- Approve tool and equipment procurement and calibration procedures
-- Ensure adequate resources for tool maintenance and calibration programs
-- Review calibration program effectiveness and cost management
-- Authorize equipment repairs and replacement decisions
-
-**A&P Mechanic:**
-
-- Use tools and equipment according to manufacturer specifications and procedures
-- Report tool damage, wear, or calibration concerns immediately
-- Participate in tool care and maintenance training programs
-- Follow proper tool storage and handling procedures
-
-**Quality Assurance Leader:**
-
-- Audit tool calibration program compliance and effectiveness
-- Review calibration records and equipment maintenance documentation
-- Coordinate corrective actions for calibration discrepancies
-- Ensure tool accuracy requirements meet maintenance quality standards
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Tool and Equipment Inventory Management
@@ -1468,34 +1338,21 @@ Establish systematic procedures for tracking, managing, and maintaining technici
 
 ### Roles and Responsibilities
 
-**Training Leader:**
-
-- Develop and maintain training programs and certification tracking systems
-- Coordinate training schedules and monitor completion of required training
-- Maintain training records and documentation for regulatory compliance
-- Assess training effectiveness and implement program improvements
-
 **Chief of Maintenance:**
 
-- Approve training programs and certification requirements for maintenance positions
-- Ensure adequate resources for training activities and professional development
-- Review training effectiveness and support career development initiatives
-- Coordinate with regulatory authorities regarding training compliance
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 
-**Individual Technician:**
+**Business Leader:**
 
-- Maintain current certificates and complete required training programs
-- Participate actively in training activities and competency assessments
-- Report training needs and professional development interests
-- Keep personal training records current and accessible
-
-**Human Resources Leader:**
-
-- Coordinate training administration and record keeping systems
-- Track training costs and budget compliance for professional development
-- Manage external training vendor relationships and contracts
-- Ensure compliance with employment and certification requirements
-
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 ### Process Steps
 
 #### Certification Requirements Management
@@ -1597,34 +1454,38 @@ Establish systematic procedures for communicating with clients throughout the ma
 
 ### Roles and Responsibilities
 
+**A&P Mechanic:**
+
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
+
 **Client Service Representative:**
 
-- Serve as primary communication contact between clients and maintenance team
-- Explain maintenance findings, recommendations, and cost estimates to clients
-- Obtain written approvals for all maintenance work and scope changes
-- Coordinate aircraft delivery scheduling and maintenance completion communication
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Chief of Maintenance:**
 
-- Review complex maintenance issues requiring client consultation
-- Approve maintenance recommendations and cost estimates for client presentation
-- Coordinate with client service team for technical explanation requirements
-- Ensure maintenance quality meets client expectations and regulatory standards
-
-**A&P Mechanic:**
-
-- Provide technical information to client service team for client communication
-- Document all maintenance findings and recommendations clearly for client review
-- Participate in client consultations when technical expertise is required
-- Explain completed maintenance work during aircraft delivery process
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 
 **Operations Leader:**
 
-- Oversee client communication procedures and service quality standards
-- Resolve client concerns regarding maintenance work or service issues
-- Approve policies for client authorization and communication requirements
-- Ensure client satisfaction with maintenance services and communication quality
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Initial Client Consultation
@@ -1726,34 +1587,29 @@ Establish systematic procedures for safe handling, storage, and disposal of haza
 
 ### Roles and Responsibilities
 
+**A&P Mechanic:**
+
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
+
 **Safety Officer:**
 
-- Develop and maintain hazardous materials management procedures and training programs
-- Coordinate with regulatory authorities and waste disposal contractors
-- Conduct safety inspections and ensure compliance with environmental regulations
-- Manage hazardous materials inventory and documentation requirements
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Chief of Maintenance:**
 
-- Ensure maintenance operations comply with hazardous materials handling requirements
-- Approve hazardous materials usage and disposal procedures
-- Coordinate team member training on hazardous materials safety
-- Review incidents and implement corrective actions for safety improvements
-
-**A&P Mechanic:**
-
-- Handle hazardous materials according to safety procedures and manufacturer specifications
-- Use appropriate personal protective equipment during hazardous materials operations
-- Report hazardous materials incidents and safety concerns immediately
-- Participate in hazardous materials training and safety programs
-
-**Environmental Compliance Coordinator:**
-
-- Maintain regulatory compliance documentation and permits for hazardous materials
-- Coordinate waste disposal services and contractor management
-- Track hazardous materials usage and disposal for regulatory reporting
-- Monitor environmental regulations and update procedures accordingly
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Hazardous Materials Identification and Inventory
@@ -1857,32 +1713,19 @@ Establish systematic procedures for maintaining safe work environments and clean
 
 **Safety Officer:**
 
-- Develop and maintain safety procedures and cleanliness standards for maintenance facilities
-- Conduct regular safety inspections and coordinate corrective actions
-- Manage safety training programs and incident investigation procedures
-- Interface with regulatory authorities regarding workplace safety compliance
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Chief of Maintenance:**
 
-- Ensure maintenance operations comply with safety and cleanliness requirements
-- Allocate resources for safety equipment and facility maintenance
-- Review safety performance and implement improvement initiatives
-- Coordinate with safety officer for incident response and prevention
-
-**Maintenance Team Members:**
-
-- Follow established safety procedures and maintain clean work areas
-- Use personal protective equipment and safety equipment properly
-- Report safety hazards and cleanliness issues immediately
-- Participate in safety training and maintain awareness of safety requirements
-
-**Facility Maintenance Coordinator:**
-
-- Coordinate facility cleaning and maintenance activities
-- Maintain inventory of cleaning supplies and safety equipment
-- Schedule facility maintenance and repair activities
-- Monitor facility conditions and coordinate improvement projects
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Daily Safety and Cleanliness Inspection
@@ -1984,34 +1827,29 @@ Establish systematic procedures for tracking maintenance costs, preparing accura
 
 ### Roles and Responsibilities
 
-**Billing Coordinator:**
-
-- Process maintenance invoices and coordinate billing activities with accounting systems
-- Track work order costs and verify accuracy of labor and materials charges
-- Communicate with clients regarding billing questions and payment processing
-- Maintain billing documentation and coordinate with collections procedures
-
-**Chief of Maintenance:**
-
-- Review and approve maintenance work orders and cost estimates before billing
-- Ensure accuracy of labor time reporting and materials usage documentation
-- Coordinate with billing team for complex maintenance billing issues
-- Approve billing adjustments and warranty work authorization
-
 **A&P Mechanic:**
 
-- Record accurate labor time and materials usage for all maintenance activities
-- Document work performed and parts installed for billing verification
-- Report any discrepancies in work order scope or cost estimates
-- Participate in billing reviews when technical clarification is required
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Finance Leader:**
 
-- Oversee billing procedures and coordinate with accounting systems
-- Review billing accuracy and approve credit terms and payment arrangements
-- Monitor accounts receivable and coordinate collection activities
-- Ensure compliance with financial reporting and tax requirements
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Work Order Cost Tracking

@@ -20,34 +20,21 @@ Establish systematic procedures for calibrating, maintaining, and managing preci
 
 ## Roles and Responsibilities
 
-**Tool Room Coordinator:**
+**A&P Mechanic:**
 
-- Manage daily tool inventory operations and calibration scheduling
-- Maintain calibration records and equipment maintenance documentation
-- Coordinate with external calibration services and equipment repair facilities
-- Track tool usage patterns and replacement requirements
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Chief of Maintenance:**
 
-- Approve tool and equipment procurement and calibration procedures
-- Ensure adequate resources for tool maintenance and calibration programs
-- Review calibration program effectiveness and cost management
-- Authorize equipment repairs and replacement decisions
-
-**A&P Mechanic:**
-
-- Use tools and equipment according to manufacturer specifications and procedures
-- Report tool damage, wear, or calibration concerns immediately
-- Participate in tool care and maintenance training programs
-- Follow proper tool storage and handling procedures
-
-**Quality Assurance Leader:**
-
-- Audit tool calibration program compliance and effectiveness
-- Review calibration records and equipment maintenance documentation
-- Coordinate corrective actions for calibration discrepancies
-- Ensure tool accuracy requirements meet maintenance quality standards
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Tool and Equipment Inventory Management

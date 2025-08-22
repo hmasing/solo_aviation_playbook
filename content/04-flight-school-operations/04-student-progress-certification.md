@@ -20,34 +20,21 @@ Establish systematic procedures for monitoring student pilot progress, documenti
 
 ## Roles and Responsibilities
 
-**Chief Flight Instructor:**
-
-- Review student progress reports and approve training milestone achievements
-- Conduct stage checks and evaluate student readiness for certification checkrides
-- Coordinate with designated pilot examiners for practical test scheduling
-- Maintain oversight of training quality and regulatory compliance
-
 **Flight Instructor:**
 
-- Document student progress after each lesson and maintain accurate training records
-- Evaluate student performance against established training standards and objectives
-- Prepare students for stage checks, knowledge tests, and practical examinations
-- Coordinate with Chief Flight Instructor for training milestone approvals
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
-**Flight School Administrator:**
+**Chief Flight Instructor:**
 
-- Maintain student training records and certification tracking systems
-- Process knowledge test authorizations and practical test applications
-- Coordinate with FAA and designated examiners for certification requirements
-- Generate progress reports and communicate with students regarding certification status
-
-**Student Pilot:**
-
-- Maintain personal logbook with accurate flight time and training records
-- Complete required knowledge tests and practical test preparations
-- Demonstrate proficiency in all required training areas and maneuvers
-- Coordinate with instructors and administrators for certification scheduling
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ## Process Steps
 
 ### Training Progress Documentation Phase

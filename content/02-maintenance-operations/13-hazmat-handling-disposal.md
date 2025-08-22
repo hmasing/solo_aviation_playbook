@@ -20,34 +20,29 @@ Establish systematic procedures for safe handling, storage, and disposal of haza
 
 ## Roles and Responsibilities
 
+**A&P Mechanic:**
+
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
+
 **Safety Officer:**
 
-- Develop and maintain hazardous materials management procedures and training programs
-- Coordinate with regulatory authorities and waste disposal contractors
-- Conduct safety inspections and ensure compliance with environmental regulations
-- Manage hazardous materials inventory and documentation requirements
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Chief of Maintenance:**
 
-- Ensure maintenance operations comply with hazardous materials handling requirements
-- Approve hazardous materials usage and disposal procedures
-- Coordinate team member training on hazardous materials safety
-- Review incidents and implement corrective actions for safety improvements
-
-**A&P Mechanic:**
-
-- Handle hazardous materials according to safety procedures and manufacturer specifications
-- Use appropriate personal protective equipment during hazardous materials operations
-- Report hazardous materials incidents and safety concerns immediately
-- Participate in hazardous materials training and safety programs
-
-**Environmental Compliance Coordinator:**
-
-- Maintain regulatory compliance documentation and permits for hazardous materials
-- Coordinate waste disposal services and contractor management
-- Track hazardous materials usage and disposal for regulatory reporting
-- Monitor environmental regulations and update procedures accordingly
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Hazardous Materials Identification and Inventory

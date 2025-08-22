@@ -20,30 +20,30 @@ Establish systematic budget planning and monitoring procedures that support stra
 
 ## Roles and Responsibilities
 
-**Business Leader:**
-
-- Approve annual budgets and major budget revisions
-- Review monthly financial performance against budget
-- Authorize budget transfers and significant variances
-
 **Finance Leader:**
 
-- Develop budget templates and coordinate planning process
-- Monitor budget performance and prepare variance reports
-- Provide financial analysis and recommendations for adjustments
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
+
+**Business Leader:**
+
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Provide operational input for budget planning
-- Monitor departmental spending against approved budgets
-- Justify budget variances and request adjustments when needed
-
-**Department Leaders:**
-
-- Submit departmental budget requests with supporting justification
-- Monitor team spending and ensure budget compliance
-- Report budget concerns and opportunities promptly
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Budget Planning Phase

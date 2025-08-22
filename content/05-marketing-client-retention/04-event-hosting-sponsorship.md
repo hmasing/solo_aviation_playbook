@@ -22,32 +22,28 @@ This process establishes systematic methods for hosting aviation events and mana
 
 **Marketing Leader:**
 
-- Develop event strategy and approve event concepts
-- Coordinate sponsorship opportunities and partnerships
-- Oversee event marketing and promotional activities
-- Manage event budgets and return on investment analysis
-
-**Operations Leader:**
-
-- Assess operational capacity and facility requirements for events
-- Coordinate safety and security measures during events
-- Ensure compliance with airport and Federal Aviation Administration (FAA) regulations
-- Manage team member assignments and operational support
-
-**Client Experience Lead:**
-
-- Support event planning and client interaction management
-- Coordinate hospitality and client experience elements
-- Gather feedback from event attendees and participants
-- Assist with follow-up activities and relationship building
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Safety Officer:**
 
-- Review event safety plans and risk assessments
-- Ensure compliance with Aircraft Rescue and Fire Fighting (ARFF) requirements
-- Coordinate with airport authority on safety protocols
-- Monitor safety compliance during event execution
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
+**Operations Leader:**
+
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Event Planning and Concept Development Phase

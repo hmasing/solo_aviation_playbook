@@ -20,34 +20,21 @@ Establish procedures for coordinating training aircraft maintenance, conducting 
 
 ## Roles and Responsibilities
 
-**Maintenance Coordinator:**
+**Flight Instructor:**
 
-- Schedule and coordinate all aircraft maintenance activities with flight training operations
-- Monitor aircraft maintenance status and airworthiness compliance
-- Maintain maintenance records and coordinate with certified mechanics
-- Communicate aircraft availability status to flight scheduling team
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Review and approve aircraft grounding decisions for maintenance issues
-- Coordinate training schedule adjustments for planned maintenance activities
-- Ensure flight instructors report aircraft discrepancies properly
-- Verify aircraft airworthiness before authorizing training flights
-
-**Flight Instructor:**
-
-- Conduct thorough pre-flight inspections before each training flight
-- Document aircraft discrepancies and maintenance issues immediately
-- Brief students on aircraft systems and inspection procedures
-- Coordinate with maintenance team for aircraft status updates
-
-**Student Pilot:**
-
-- Participate in pre-flight inspection procedures under instructor supervision
-- Report any observed aircraft discrepancies to flight instructor immediately
-- Complete aircraft inspection checklists as part of training requirements
-- Maintain awareness of aircraft limitations and operational requirements
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ## Process Steps
 
 ### Daily Aircraft Status Review Phase

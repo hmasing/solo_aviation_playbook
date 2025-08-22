@@ -20,34 +20,29 @@ This process establishes procedures for implementing avionics modifications and 
 
 ## Roles and Responsibilities
 
-**Avionics Shop Leader:**
-
-- Review STC documentation and approve modification procedures
-- Verify compliance with applicable regulations and airworthiness requirements
-- Oversee complex modifications and coordinate with regulatory authorities
-- Approve modification completion and airworthiness certification
-
 **Avionics Technician:**
 
-- Execute modification procedures according to approved STC instructions
-- Perform installation work and system integration testing
-- Document modification procedures and configuration changes
-- Conduct required inspections and testing procedures
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Conduct independent verification of STC compliance
-- Review modification documentation for completeness and accuracy
-- Inspect modification workmanship and regulatory compliance
-- Approve modifications for airworthiness certification
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Documentation Specialist:**
+**Chief of Maintenance:**
 
-- Maintain STC documentation and revision control
-- Prepare required regulatory submissions and reports
-- Update aircraft records and equipment lists
-- Coordinate with regulatory authorities for approvals
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### STC Research and Approval Phase

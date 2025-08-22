@@ -143,34 +143,21 @@ Establish a systematic approach to enrolling new students in Part 61 flight trai
 
 ### Roles and Responsibilities
 
-**Flight School Administrator:**
+**Flight Instructor:**
 
-- Process student applications and verify eligibility requirements
-- Coordinate medical certificate and documentation verification
-- Schedule orientation sessions and initial flight training appointments
-- Maintain accurate student enrollment records and training agreements
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Review student qualifications and training goals during initial consultation
-- Assign appropriate flight instructors based on student needs and instructor availability
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
 - Conduct flight school orientation and safety briefings
-- Approve training program selection and scheduling recommendations
-
-**Flight Instructor:**
-
-- Conduct initial student assessment and training readiness evaluation
-- Review training objectives and establish learning milestones with students
-- Coordinate aircraft scheduling and training resource allocation
-- Maintain ongoing communication with students regarding progress and requirements
-
-**Client Experience Coordinator:**
-
-- Provide initial facility tour and introduce students to team members
-- Coordinate payment processing and billing arrangements
-- Address student questions and concerns throughout onboarding process
-- Follow up with students to ensure satisfaction with enrollment experience
-
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Application and Documentation Phase
@@ -276,34 +263,21 @@ Establish efficient scheduling procedures for flight training activities that ma
 
 ### Roles and Responsibilities
 
-**Flight School Scheduler:**
+**Flight Instructor:**
 
-- Coordinate aircraft and instructor assignments for all scheduled flight lessons
-- Monitor weather conditions and make scheduling adjustments as needed
-- Maintain scheduling system accuracy and resolve conflicts between bookings
-- Communicate schedule changes to students and instructors promptly
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Approve instructor assignments and training activity scheduling
-- Review student progress to ensure appropriate lesson frequency and sequencing
-- Coordinate with maintenance team for aircraft availability planning
-- Make final decisions on weather-related flight training cancellations
-
-**Flight Instructor:**
-
-- Submit availability schedules and coordinate with assigned students
-- Review weather conditions and aircraft status before scheduled lessons
-- Communicate lesson objectives and requirements to scheduling team
-- Report aircraft discrepancies or maintenance needs affecting future scheduling
-
-**Maintenance Coordinator:**
-
-- Provide aircraft availability status for scheduling purposes
-- Coordinate scheduled maintenance to minimize training disruptions
-- Report aircraft grounding or return-to-service status immediately
-- Plan maintenance activities during low-demand scheduling periods
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Daily Scheduling Review Phase
@@ -409,34 +383,21 @@ Establish procedures for coordinating training aircraft maintenance, conducting 
 
 ### Roles and Responsibilities
 
-**Maintenance Coordinator:**
+**Flight Instructor:**
 
-- Schedule and coordinate all aircraft maintenance activities with flight training operations
-- Monitor aircraft maintenance status and airworthiness compliance
-- Maintain maintenance records and coordinate with certified mechanics
-- Communicate aircraft availability status to flight scheduling team
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Review and approve aircraft grounding decisions for maintenance issues
-- Coordinate training schedule adjustments for planned maintenance activities
-- Ensure flight instructors report aircraft discrepancies properly
-- Verify aircraft airworthiness before authorizing training flights
-
-**Flight Instructor:**
-
-- Conduct thorough pre-flight inspections before each training flight
-- Document aircraft discrepancies and maintenance issues immediately
-- Brief students on aircraft systems and inspection procedures
-- Coordinate with maintenance team for aircraft status updates
-
-**Student Pilot:**
-
-- Participate in pre-flight inspection procedures under instructor supervision
-- Report any observed aircraft discrepancies to flight instructor immediately
-- Complete aircraft inspection checklists as part of training requirements
-- Maintain awareness of aircraft limitations and operational requirements
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Daily Aircraft Status Review Phase
@@ -542,34 +503,21 @@ Establish systematic procedures for monitoring student pilot progress, documenti
 
 ### Roles and Responsibilities
 
-**Chief Flight Instructor:**
-
-- Review student progress reports and approve training milestone achievements
-- Conduct stage checks and evaluate student readiness for certification checkrides
-- Coordinate with designated pilot examiners for practical test scheduling
-- Maintain oversight of training quality and regulatory compliance
-
 **Flight Instructor:**
 
-- Document student progress after each lesson and maintain accurate training records
-- Evaluate student performance against established training standards and objectives
-- Prepare students for stage checks, knowledge tests, and practical examinations
-- Coordinate with Chief Flight Instructor for training milestone approvals
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
-**Flight School Administrator:**
+**Chief Flight Instructor:**
 
-- Maintain student training records and certification tracking systems
-- Process knowledge test authorizations and practical test applications
-- Coordinate with FAA and designated examiners for certification requirements
-- Generate progress reports and communicate with students regarding certification status
-
-**Student Pilot:**
-
-- Maintain personal logbook with accurate flight time and training records
-- Complete required knowledge tests and practical test preparations
-- Demonstrate proficiency in all required training areas and maneuvers
-- Coordinate with instructors and administrators for certification scheduling
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Training Progress Documentation Phase
@@ -675,34 +623,29 @@ Establish procedures for reporting, investigating, and responding to safety inci
 
 ### Roles and Responsibilities
 
+**Flight Instructor:**
+
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
+
 **Safety Officer:**
 
-- Investigate all reported safety incidents and coordinate with regulatory authorities
-- Maintain safety incident database and trend analysis reporting
-- Develop corrective action plans and monitor implementation effectiveness
-- Conduct safety briefings and training for all flight school team members
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Chief Flight Instructor:**
 
-- Ensure immediate reporting of all safety incidents and coordinate initial response
-- Review incident reports and recommend training or procedural improvements
-- Coordinate with Safety Officer for incident investigation and analysis
-- Implement safety-related training modifications based on incident findings
-
-**Flight Instructor:**
-
-- Report all safety incidents immediately to Chief Flight Instructor and Safety Officer
-- Participate in incident investigations and provide detailed incident information
-- Implement corrective actions and safety improvements in training activities
-- Brief students on safety lessons learned from incident investigations
-
-**Flight School Administrator:**
-
-- Process incident documentation and coordinate with insurance providers
-- Maintain incident records and coordinate regulatory reporting requirements
-- Support incident investigation activities and corrective action implementation
-- Communicate with affected students and families regarding incident status
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Immediate Response Phase
@@ -808,34 +751,21 @@ Establish procedures for delivering ground instruction that meets Part 61 aerona
 
 ### Roles and Responsibilities
 
-**Chief Flight Instructor:**
-
-- Approve ground school curriculum content and ensure regulatory compliance
-- Assign qualified instructors to ground school instruction responsibilities
-- Monitor ground instruction quality and student learning outcomes
-- Coordinate ground school scheduling with flight training activities
-
-**Ground Instructor:**
-
-- Deliver ground school curriculum using approved lesson plans and materials
-- Assess student understanding through quizzes, tests, and practical applications
-- Maintain accurate records of ground instruction provided and student progress
-- Coordinate with flight instructors to reinforce ground school concepts during flight training
-
 **Flight Instructor:**
 
-- Integrate ground school concepts into flight training lessons
-- Provide additional ground instruction as needed for individual students
-- Assess student knowledge application during flight training activities
-- Coordinate with ground instructors to address knowledge gaps
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
-**Flight School Administrator:**
+**Chief Flight Instructor:**
 
-- Schedule ground school classes and coordinate classroom resources
-- Maintain ground school records and track student attendance
-- Process knowledge test endorsements and coordinate testing appointments
-- Support ground instruction activities with materials and resources
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Curriculum Planning Phase
@@ -941,34 +871,30 @@ Establish procedures for managing flight instructor schedules, tracking certific
 
 ### Roles and Responsibilities
 
-**Chief Flight Instructor:**
-
-- Monitor instructor certification currency and coordinate renewal activities
-- Assign instructors to students based on qualifications and training requirements
-- Conduct instructor proficiency checks and standardization training
-- Approve instructor professional development and training activities
-
 **Flight Instructor:**
 
-- Maintain current flight instructor certificates and required endorsements
-- Submit availability schedules and coordinate with assigned students
-- Participate in required proficiency checks and training activities
-- Report certification status changes and renewal requirements
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
-**Flight School Administrator:**
+**Chief Flight Instructor:**
 
-- Track instructor certification expiration dates and renewal requirements
-- Coordinate instructor scheduling and availability management
-- Process instructor payroll and maintain employment records
-- Support instructor professional development and training coordination
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 
 **Operations Leader:**
 
-- Approve instructor hiring and termination decisions
-- Review instructor performance and client feedback
-- Coordinate instructor compensation and benefits programs
-- Ensure adequate instructor staffing for training demand
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Instructor Qualification Management Phase
@@ -1074,34 +1000,21 @@ Establish procedures for managing flight simulator operations, scheduling traini
 
 ### Roles and Responsibilities
 
-**Simulator Operator:**
-
-- Operate flight simulation equipment and coordinate training sessions
-- Maintain simulator equipment and coordinate calibration and maintenance activities
-- Develop training scenarios and coordinate with instructors for lesson planning
-- Document simulator usage and maintain operational records
-
 **Flight Instructor:**
 
-- Plan simulator training sessions to complement flight training objectives
-- Conduct simulator instruction and evaluate student performance
-- Coordinate simulator scenarios with overall training progression
-- Integrate simulator training with actual flight training activities
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Approve simulator training curricula and ensure training effectiveness
-- Monitor simulator usage and coordinate with flight training schedules
-- Evaluate simulator training outcomes and student learning benefits
-- Coordinate simulator instructor training and qualification requirements
-
-**Flight School Administrator:**
-
-- Schedule simulator sessions and coordinate with student availability
-- Maintain simulator usage records and billing information
-- Process simulator training payments and coordinate with student accounts
-- Support simulator operations with administrative and logistical assistance
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Session Planning Phase
@@ -1207,34 +1120,21 @@ Establish procedures for processing Transportation Security Administration secur
 
 ### Roles and Responsibilities
 
-**Compliance Officer:**
+**Safety Officer:**
 
-- Coordinate TSA security clearance applications and maintain regulatory compliance
-- Monitor clearance application status and coordinate with TSA processing centers
-- Maintain security clearance records and ensure documentation accuracy
-- Provide guidance on security clearance requirements and procedures
-
-**Flight School Administrator:**
-
-- Process international student applications and collect required documentation
-- Coordinate with students for security clearance application completion
-- Maintain communication with students regarding clearance status updates
-- Support compliance activities with administrative and documentation assistance
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Chief Flight Instructor:**
 
-- Review international student training plans and coordinate with security clearance requirements
-- Ensure training activities comply with security clearance limitations and conditions
-- Coordinate with compliance officer for training authorization decisions
-- Monitor international student training progress and regulatory compliance
-
-**International Student:**
-
-- Provide accurate and complete information for security clearance applications
-- Coordinate with flight school for application submission and processing
-- Maintain communication regarding application status and any required updates
-- Comply with all security clearance conditions and training limitations
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Application Preparation Phase
@@ -1342,32 +1242,19 @@ Establish procedures for generating student invoices, processing payments, and m
 
 **Finance Leader:**
 
-- Review and approve billing procedures and payment processing policies
-- Monitor accounts receivable and coordinate collection activities for overdue accounts
-- Analyze financial performance and coordinate with leadership on pricing and payment policies
-- Ensure compliance with financial regulations and accounting standards
-
-**Flight School Administrator:**
-
-- Generate student invoices and process payment transactions
-- Maintain accurate student account records and coordinate payment plan arrangements
-- Communicate with students regarding billing questions and payment status
-- Coordinate with instructors and schedulers for billing accuracy verification
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Chief Flight Instructor:**
 
-- Verify training activity records for billing accuracy
-- Coordinate with administration for training milestone billing and payment requirements
-- Review student account status before authorizing continued training activities
-- Support payment collection efforts through training progress coordination
-
-**Student:**
-
-- Provide accurate billing information and maintain current contact details
-- Make timely payments according to established payment schedules
-- Communicate payment difficulties or billing questions promptly
-- Coordinate with flight school for payment plan arrangements when needed
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Invoice Generation Phase
@@ -1475,32 +1362,19 @@ Establish procedures for conducting thorough pre-flight briefings and systematic
 
 **Flight Instructor:**
 
-- Conduct pre-flight briefings covering training objectives, safety procedures, and flight planning
-- Review weather conditions, aircraft status, and operational considerations with students
-- Execute pre-flight checklists systematically and ensure student understanding
-- Coordinate emergency procedures review and risk assessment for planned training activities
-
-**Student Pilot:**
-
-- Participate actively in pre-flight briefing and demonstrate understanding of training objectives
-- Assist with pre-flight inspection and checklist execution under instructor supervision
-- Ask questions about procedures, weather, or safety concerns during briefing
-- Demonstrate knowledge of emergency procedures and aircraft systems operation
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Approve standardized briefing procedures and checklist requirements
-- Monitor briefing quality and ensure consistent standards across all instructors
-- Coordinate emergency procedure training and risk management protocols
-- Review briefing effectiveness and coordinate improvements based on safety outcomes
-
-**Operations Coordinator:**
-
-- Provide current weather information and operational updates for flight planning
-- Coordinate aircraft availability and maintenance status for scheduled training flights
-- Support briefing activities with charts, publications, and reference materials
-- Maintain briefing room facilities and equipment for effective training preparation
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Pre-Flight Planning Phase
@@ -1608,32 +1482,19 @@ Establish procedures for conducting effective post-flight debriefings that reinf
 
 **Flight Instructor:**
 
-- Conduct thorough post-flight debriefings focusing on training objectives and performance evaluation
-- Provide constructive feedback on student performance and identify areas for improvement
-- Complete accurate logbook entries and training record documentation
-- Coordinate with students on next lesson planning and training progression
-
-**Student Pilot:**
-
-- Participate actively in post-flight debriefing and self-assessment of performance
-- Ask questions about flight performance and areas requiring additional practice
-- Maintain accurate personal logbook records with instructor verification
-- Review feedback and prepare for subsequent training lessons
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Monitor debriefing quality and ensure consistent evaluation standards
-- Review student progress documentation and training milestone achievement
-- Coordinate with instructors on training effectiveness and improvement opportunities
-- Ensure compliance with logbook documentation and record-keeping requirements
-
-**Flight School Administrator:**
-
-- Maintain training records and coordinate with billing for accurate flight time recording
-- Support debriefing activities with documentation and administrative assistance
-- Process training milestone documentation and certification progress tracking
-- Coordinate with maintenance team for aircraft discrepancy reporting and resolution
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Initial Assessment Phase
@@ -1739,34 +1600,38 @@ Establish procedures for responding to emergency situations at flight school fac
 
 ### Roles and Responsibilities
 
+**Flight Instructor:**
+
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
+
 **Safety Officer:**
 
-- Coordinate emergency response planning and maintain emergency procedures documentation
-- Conduct emergency drills and training for all flight school team members
-- Coordinate with local emergency services and maintain emergency contact information
-- Investigate emergency incidents and implement corrective actions for prevention
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Operations Leader:**
 
-- Authorize emergency response procedures and coordinate with external emergency services
-- Make decisions regarding facility evacuation and training activity suspension
-- Coordinate emergency communications with students, families, and regulatory authorities
-- Ensure emergency response compliance with regulatory requirements and insurance obligations
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 
-**Flight Instructor:**
+**Chief Flight Instructor:**
 
-- Implement emergency procedures for students under their supervision
-- Coordinate student evacuation and account for all assigned students during emergencies
-- Provide first aid assistance and coordinate with emergency medical services
-- Maintain communication with operations leadership during emergency situations
-
-**Flight School Administrator:**
-
-- Maintain current emergency contact information for all students and team members
-- Coordinate emergency communications and notifications to affected parties
-- Support emergency response activities with documentation and administrative assistance
-- Coordinate with insurance providers and regulatory authorities for incident reporting
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ### Process Steps
 
 #### Emergency Detection and Assessment Phase
@@ -1872,34 +1737,21 @@ Establish procedures for managing aviation fuel inventory, conducting safe refue
 
 ### Roles and Responsibilities
 
-**Fuel Operations Coordinator:**
-
-- Coordinate fuel orders and inventory management for training aircraft operations
-- Monitor fuel quality and coordinate contamination testing procedures
-- Maintain fuel operation records and coordinate with finance for cost tracking
-- Ensure compliance with fuel handling safety regulations and environmental requirements
-
 **Line Service Technician:**
 
-- Conduct aircraft refueling operations following established safety procedures
-- Perform fuel quality checks and contamination testing before aircraft refueling
-- Maintain fuel handling equipment and coordinate maintenance and calibration activities
-- Document fuel services provided and coordinate with billing for accurate records
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 
 **Flight Instructor:**
 
-- Plan fuel requirements for training flights and coordinate with fuel operations
-- Monitor student fuel planning and decision-making during training activities
-- Verify adequate fuel for planned training activities and alternate airport requirements
-- Coordinate with fuel operations for aircraft refueling scheduling
-
-**Maintenance Coordinator:**
-
-- Coordinate fuel system maintenance and inspection activities
-- Monitor fuel system discrepancies and coordinate repair activities
-- Ensure fuel handling equipment maintenance and safety compliance
-- Coordinate with fuel operations for aircraft fuel system servicing
-
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 ### Process Steps
 
 #### Fuel Planning Phase
@@ -2005,34 +1857,30 @@ Establish procedures for systematically collecting, analyzing, and responding to
 
 ### Roles and Responsibilities
 
-**Client Experience Coordinator:**
+**Flight Instructor:**
 
-- Design and implement client feedback collection systems and survey programs
-- Analyze feedback data and identify trends, issues, and improvement opportunities
-- Coordinate with department leaders to implement feedback-driven improvements
-- Maintain client communication regarding feedback responses and program changes
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Review training-related feedback and coordinate instructional improvements
-- Address individual instructor performance issues identified through client feedback
-- Implement training program modifications based on client suggestions and needs
-- Monitor training quality metrics and client satisfaction outcomes
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 
 **Operations Leader:**
 
-- Review overall client satisfaction trends and approve improvement initiatives
-- Coordinate with team leaders to address systemic issues identified through feedback
-- Ensure adequate resources are allocated for client satisfaction improvement programs
-- Monitor client retention and satisfaction metrics for business performance evaluation
-
-**Flight Instructor:**
-
-- Encourage client feedback and maintain open communication with assigned students
-- Respond professionally to client concerns and coordinate resolution with leadership
-- Implement feedback-driven improvements in individual instruction methods
-- Participate in client satisfaction improvement initiatives and training programs
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Feedback Collection Phase

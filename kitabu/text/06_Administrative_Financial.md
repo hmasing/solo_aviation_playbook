@@ -138,30 +138,38 @@ Establish a systematic approach to billing and invoicing that ensures accurate s
 
 ### Roles and Responsibilities
 
+**Line Service Technician:**
+
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
+
 **Finance Leader:**
 
 - Review and approve billing policies and procedures
-- Oversee invoice accuracy and dispute resolution
-- Monitor accounts receivable and collection activities
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Client Service Representative:**
 
-- Capture service details and verify charges
-- Generate and distribute invoices to clients
-- Handle initial billing inquiries and clarifications
-
-**Line Service Technician:**
-
-- Document all services provided accurately
-- Verify fuel quantities and service completions
-- Report any billing discrepancies immediately
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Operations Leader:**
 
-- Authorize service charge adjustments when appropriate
-- Review billing disputes and approve resolutions
-- Ensure billing procedures support operational efficiency
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Service Documentation Phase
@@ -266,28 +274,36 @@ Establish efficient payment processing and collections procedures that ensure ti
 
 **Finance Leader:**
 
-- Establish payment terms and collection policies
-- Review aged receivables and approve collection actions
-- Coordinate with external collection agencies when necessary
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Client Service Representative:**
 
-- Process payments and update account status
-- Communicate with clients regarding payment status
-- Initiate collection procedures per established timelines
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Business Leader:**
 
-- Approve payment terms for new clients
-- Review and authorize write-offs for uncollectable accounts
-- Monitor overall collection performance and cash flow
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Coordinate service holds for delinquent accounts
-- Support collection efforts with service documentation
-- Ensure collection activities don't compromise safety operations
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Payment Processing Phase
@@ -399,30 +415,30 @@ Establish systematic budget planning and monitoring procedures that support stra
 
 ### Roles and Responsibilities
 
-**Business Leader:**
-
-- Approve annual budgets and major budget revisions
-- Review monthly financial performance against budget
-- Authorize budget transfers and significant variances
-
 **Finance Leader:**
 
-- Develop budget templates and coordinate planning process
-- Monitor budget performance and prepare variance reports
-- Provide financial analysis and recommendations for adjustments
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
+
+**Business Leader:**
+
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Provide operational input for budget planning
-- Monitor departmental spending against approved budgets
-- Justify budget variances and request adjustments when needed
-
-**Department Leaders:**
-
-- Submit departmental budget requests with supporting justification
-- Monitor team spending and ensure budget compliance
-- Report budget concerns and opportunities promptly
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Budget Planning Phase
@@ -527,30 +543,21 @@ Establish systematic expense tracking and approval procedures that ensure proper
 
 ### Roles and Responsibilities
 
-**Business Leader:**
-
-- Approve capital expenditures over $10,000
-- Review monthly expense reports and budget variances
-- Establish expense policies and authorization limits
-
 **Finance Leader:**
 
-- Process expense reports and verify supporting documentation
-- Monitor expense compliance with budget and policies
-- Coordinate with department leaders on expense planning
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Department Leaders:**
+**Business Leader:**
 
-- Approve departmental expenses within authorization limits
-- Review team member expense reports for accuracy and compliance
-- Monitor departmental spending against approved budgets
-
-**Team Members:**
-
-- Submit expense reports with complete documentation
-- Follow expense policies and obtain proper approvals
-- Maintain receipts and supporting documentation
-
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 ### Process Steps
 
 #### Expense Documentation Phase
@@ -659,28 +666,28 @@ Establish systematic payroll administration procedures that ensure accurate calc
 
 **Finance Leader:**
 
-- Oversee payroll processing and ensure accuracy
-- Manage tax withholdings and regulatory compliance
-- Coordinate with external payroll service providers
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Business Leader:**
 
-- Approve payroll policies and compensation changes
-- Review payroll reports and budget compliance
-- Authorize overtime and special compensation arrangements
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Submit timekeeping records and schedule changes
-- Verify hours worked and approve overtime requests
-- Coordinate with finance on payroll-related operational needs
-
-**Department Leaders:**
-
-- Review and approve team member timesheets
-- Report schedule changes and time-off requests
-- Ensure accurate recording of hours worked and leave taken
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Timekeeping Collection Phase
@@ -786,30 +793,30 @@ Establish systematic contract management procedures that secure favorable vendor
 
 ### Roles and Responsibilities
 
+**Finance Leader:**
+
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
+
 **Business Leader:**
 
-- Negotiate major contracts and approve contract terms
-- Review vendor performance and authorize contract renewals
-- Establish procurement policies and vendor selection criteria
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Identify operational needs and vendor requirements
-- Evaluate vendor performance and service quality
-- Coordinate with vendors on service delivery and issues
-
-**Finance Leader:**
-
-- Review contract financial terms and payment obligations
-- Monitor contract compliance and payment schedules
-- Analyze vendor costs and negotiate pricing improvements
-
-**Department Leaders:**
-
-- Specify departmental vendor requirements and service levels
-- Monitor vendor performance within their areas
-- Report vendor issues and recommend contract modifications
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Vendor Selection Phase
@@ -918,28 +925,28 @@ Establish systematic financial reporting and reconciliation procedures that ensu
 
 **Finance Leader:**
 
-- Prepare monthly financial statements and management reports
-- Perform account reconciliations and resolve discrepancies
-- Ensure compliance with accounting standards and regulations
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Business Leader:**
 
-- Review financial reports and analyze performance trends
-- Use financial information for strategic planning and decision-making
-- Approve accounting policy changes and significant adjustments
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Provide operational data for financial analysis
-- Explain operational factors affecting financial performance
-- Use financial reports to monitor departmental performance
-
-**Department Leaders:**
-
-- Review departmental financial reports and explain variances
-- Provide input for budget planning and forecasting
-- Monitor departmental costs and revenue performance
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Monthly Closing Phase
@@ -1045,28 +1052,28 @@ Establish systematic tax filing and compliance procedures that ensure timely and
 
 **Finance Leader:**
 
-- Coordinate tax preparation and filing activities
-- Maintain tax records and supporting documentation
-- Monitor compliance with tax regulations and deadlines
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Business Leader:**
 
-- Review and approve tax returns before filing
-- Make strategic tax planning decisions
-- Authorize tax professional services and representation
-
-**External CPA:**
-
-- Prepare complex tax returns and provide tax planning advice
-- Represent company in tax audits and examinations
-- Provide updates on tax law changes affecting aviation businesses
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Provide operational data supporting tax calculations
-- Ensure tax considerations are included in operational decisions
-- Coordinate with finance on tax-related operational requirements
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Tax Planning Phase
@@ -1170,30 +1177,38 @@ Establish systematic insurance policy management procedures that ensure adequate
 
 ### Roles and Responsibilities
 
-**Business Leader:**
-
-- Review insurance coverage requirements and approve policy changes
-- Coordinate with insurance broker on coverage needs and claims
-- Make strategic decisions on risk retention and coverage levels
-
-**Operations Leader:**
-
-- Identify operational risks requiring insurance coverage
-- Report incidents and potential claims promptly
-- Ensure operational activities comply with insurance requirements
-
 **Finance Leader:**
 
-- Monitor insurance costs and budget compliance
-- Process insurance payments and maintain policy records
-- Coordinate insurance requirements with vendor contracts
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Safety Officer:**
 
-- Assess safety risks and recommend appropriate coverage
-- Support claims investigations with incident documentation
-- Monitor safety performance affecting insurance rates
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
+**Business Leader:**
+
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
+
+**Operations Leader:**
+
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Coverage Assessment Phase
@@ -1300,30 +1315,22 @@ Establish systematic scheduling and timekeeping procedures that ensure adequate 
 
 ### Roles and Responsibilities
 
-**Operations Leader:**
-
-- Develop master schedules and approve schedule changes
-- Monitor staffing levels and authorize overtime when needed
-- Coordinate scheduling across departments for operational coverage
-
-**Department Leaders:**
-
-- Create departmental schedules and manage team member assignments
-- Approve time-off requests and coordinate coverage
-- Monitor attendance and address scheduling issues
-
 **Finance Leader:**
 
-- Review timekeeping records for payroll accuracy
-- Monitor overtime costs and budget compliance
-- Process time-off accruals and benefit calculations
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Team Members:**
+**Operations Leader:**
 
-- Submit accurate timekeeping records and schedule requests
-- Coordinate schedule changes with supervisors and team members
-- Maintain reliable attendance and punctuality standards
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Schedule Planning Phase
@@ -1429,30 +1436,22 @@ Establish systematic record-keeping procedures that ensure compliance with all a
 
 ### Roles and Responsibilities
 
-**Compliance Leader:**
+**Finance Leader:**
 
-- Establish record retention policies and procedures
-- Monitor compliance with regulatory record-keeping requirements
-- Coordinate audit activities and regulatory inspections
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Operations Leader:**
 
-- Ensure operational records meet regulatory standards
-- Coordinate with compliance on record-keeping requirements
-- Provide operational context for regulatory documentation
-
-**Finance Leader:**
-
-- Maintain financial records per regulatory requirements
-- Coordinate with external auditors and tax authorities
-- Ensure record security and access controls
-
-**Department Leaders:**
-
-- Maintain departmental records according to established procedures
-- Train team members on proper record-keeping practices
-- Report record-keeping issues and compliance concerns
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Record Classification Phase
@@ -1558,30 +1557,30 @@ Establish systematic inventory management procedures that ensure adequate fuel a
 
 ### Roles and Responsibilities
 
-**Operations Leader:**
-
-- Establish inventory level requirements and reorder points
-- Monitor inventory usage patterns and operational needs
-- Coordinate with suppliers on delivery schedules and emergency orders
-
 **Line Service Technician:**
 
-- Monitor fuel levels and report consumption patterns
-- Conduct daily inventory checks and record usage
-- Identify supply needs and report inventory shortages
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 
 **Finance Leader:**
 
-- Monitor inventory costs and budget compliance
-- Process purchase orders and vendor payments
-- Analyze inventory turnover and carrying costs
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Fuel System Operator:**
+**Operations Leader:**
 
-- Maintain fuel quality and conduct required testing
-- Monitor fuel deliveries and verify quantities received
-- Ensure fuel storage compliance with safety regulations
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Inventory Monitoring Phase
@@ -1686,30 +1685,30 @@ Establish systematic client account management procedures that ensure accurate c
 
 ### Roles and Responsibilities
 
-**Client Service Leader:**
-
-- Oversee CRM system administration and data quality
-- Establish client communication standards and follow-up procedures
-- Monitor client satisfaction and relationship health metrics
-
 **Client Service Representative:**
 
-- Maintain accurate client account information and service history
-- Record client interactions and preferences in CRM system
-- Coordinate follow-up communications and service requests
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Business Leader:**
 
-- Review client relationship reports and growth opportunities
-- Approve client communication strategies and retention initiatives
-- Use CRM data for strategic planning and business development
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Provide operational data for client service analysis
-- Support client relationship management with service delivery excellence
-- Coordinate operational changes based on client feedback
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Account Setup Phase
@@ -1815,28 +1814,20 @@ Establish systematic purchase order processing procedures that ensure proper aut
 
 **Finance Leader:**
 
-- Review and approve purchase orders within authorization limits
-- Monitor purchase order compliance with budget and policies
-- Coordinate with vendors on payment terms and delivery schedules
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Operations Leader:**
 
-- Identify operational needs and specify purchase requirements
-- Approve purchase orders for operational supplies and services
-- Coordinate with vendors on delivery timing and service requirements
-
-**Department Leaders:**
-
-- Submit purchase requests with detailed specifications
-- Approve departmental purchases within established limits
-- Monitor deliveries and verify receipt of ordered items
-
-**Purchasing Coordinator:**
-
-- Process purchase orders and coordinate with vendors
-- Verify vendor information and maintain supplier database
-- Track order status and delivery schedules
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Purchase Request Phase
@@ -1941,30 +1932,21 @@ Establish systematic audit preparation and support procedures that ensure effici
 
 ### Roles and Responsibilities
 
-**Business Leader:**
-
-- Coordinate with external auditors and regulatory inspectors
-- Review audit findings and approve corrective action plans
-- Ensure adequate resources are allocated for audit support
-
-**Compliance Leader:**
-
-- Organize audit documentation and coordinate internal preparations
-- Serve as primary contact for auditors and inspectors
-- Monitor corrective action implementation and compliance verification
-
 **Finance Leader:**
 
-- Prepare financial records and support financial audits
-- Coordinate with external CPA firms on audit requirements
-- Ensure accounting records are audit-ready and properly documented
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Department Leaders:**
+**Business Leader:**
 
-- Provide departmental records and operational documentation
-- Support auditor interviews and facility tours
-- Implement corrective actions within their areas of responsibility
-
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 ### Process Steps
 
 #### Pre-Audit Preparation Phase

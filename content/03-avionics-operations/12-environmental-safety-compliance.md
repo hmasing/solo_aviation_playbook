@@ -20,34 +20,29 @@ This process establishes procedures for ensuring compliance with environmental r
 
 ## Roles and Responsibilities
 
-**Safety Officer:**
-
-- Develop and maintain safety procedures for avionics operations
-- Conduct safety training and compliance monitoring
-- Investigate safety incidents and implement corrective actions
-- Coordinate with regulatory authorities for safety compliance
-
-**Environmental Compliance Coordinator:**
-
-- Monitor environmental regulations and compliance requirements
-- Coordinate waste disposal and environmental protection procedures
-- Maintain environmental compliance documentation
-- Process environmental permits and regulatory submissions
-
-**Avionics Shop Leader:**
-
-- Implement safety procedures in daily operations
-- Ensure team member compliance with safety requirements
-- Report safety concerns and environmental issues
-- Coordinate safety training and awareness programs
-
 **Avionics Technician:**
 
-- Follow established safety and environmental procedures
-- Use proper protective equipment and safety protocols
-- Report safety hazards and environmental concerns
-- Participate in safety training and compliance activities
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
+**Safety Officer:**
+
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
+
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### ESD Protection Implementation Phase

@@ -20,34 +20,38 @@ Establish procedures for responding to emergency situations at flight school fac
 
 ## Roles and Responsibilities
 
+**Flight Instructor:**
+
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
+
 **Safety Officer:**
 
-- Coordinate emergency response planning and maintain emergency procedures documentation
-- Conduct emergency drills and training for all flight school team members
-- Coordinate with local emergency services and maintain emergency contact information
-- Investigate emergency incidents and implement corrective actions for prevention
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Operations Leader:**
 
-- Authorize emergency response procedures and coordinate with external emergency services
-- Make decisions regarding facility evacuation and training activity suspension
-- Coordinate emergency communications with students, families, and regulatory authorities
-- Ensure emergency response compliance with regulatory requirements and insurance obligations
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 
-**Flight Instructor:**
+**Chief Flight Instructor:**
 
-- Implement emergency procedures for students under their supervision
-- Coordinate student evacuation and account for all assigned students during emergencies
-- Provide first aid assistance and coordinate with emergency medical services
-- Maintain communication with operations leadership during emergency situations
-
-**Flight School Administrator:**
-
-- Maintain current emergency contact information for all students and team members
-- Coordinate emergency communications and notifications to affected parties
-- Support emergency response activities with documentation and administrative assistance
-- Coordinate with insurance providers and regulatory authorities for incident reporting
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ## Process Steps
 
 ### Emergency Detection and Assessment Phase

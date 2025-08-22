@@ -1,0 +1,1808 @@
+# Procedure Regeneration Preview
+# Generated: 2025-08-22 06:26:26
+
+---
+:summary:
+  :total_procedures: 105
+  :total_roles_before: 420
+  :total_roles_after: 247
+  :role_reduction: 173
+:changes:
+- :file: content/01-fbo-services/01-aircraft-arrival-departure-handling.md
+  :procedure: Aircraft Arrival and Departure Handling
+  :section: FBO Services
+  :original_roles:
+  - Client Service Representative
+  - Line Service Technician
+  - Operations Leader
+  - Ramp Safety Coordinator
+  :new_roles:
+  - Client Service Representative
+  - Line Service Technician
+  - Operations Leader
+  :roles_removed:
+  - Ramp Safety Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/02-fueling-operations.md
+  :procedure: Fueling Operations
+  :section: FBO Services
+  :original_roles:
+  - Fuel Safety Coordinator
+  - Fuel Service Technician
+  - Line Service Leader
+  - Quality Assurance Technician
+  :new_roles: []
+  :roles_removed:
+  - Fuel Service Technician
+  - Fuel Safety Coordinator
+  - Line Service Leader
+  - Quality Assurance Technician
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/03-hangar-ramp-space-allocation.md
+  :procedure: Hangar and Ramp Space Allocation
+  :section: FBO Services
+  :original_roles:
+  - Client Service Representative
+  - Facility Maintenance Technician
+  - Operations Coordinator
+  - Ramp Leader
+  :new_roles:
+  - Client Service Representative
+  :roles_removed:
+  - Operations Coordinator
+  - Ramp Leader
+  - Facility Maintenance Technician
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/04-client-checkin-concierge.md
+  :procedure: Client Check-In and Concierge Services
+  :section: FBO Services
+  :original_roles:
+  - Client Service Representative
+  - Concierge Coordinator
+  - Guest Services Specialist
+  - Operations Leader
+  :new_roles:
+  - Client Service Representative
+  - Operations Leader
+  :roles_removed:
+  - Concierge Coordinator
+  - Guest Services Specialist
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/05-aircraft-marshalling-parking.md
+  :procedure: Aircraft Marshalling and Parking
+  :section: FBO Services
+  :original_roles:
+  - Aircraft Marshaller
+  - Ground Operations Coordinator
+  - Line Service Technician
+  - Ramp Safety Officer
+  :new_roles:
+  - Line Service Technician
+  :roles_removed:
+  - Aircraft Marshaller
+  - Ramp Safety Officer
+  - Ground Operations Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/06-gse-management.md
+  :procedure: Ground Support Equipment Management
+  :section: FBO Services
+  :original_roles:
+  - Equipment Leader
+  - Ground Equipment Technician
+  - Operations Leader
+  - Safety Coordinator
+  :new_roles:
+  - Operations Leader
+  :roles_removed:
+  - Equipment Leader
+  - Ground Equipment Technician
+  - Safety Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/07-maintenance-coordination-visiting.md
+  :procedure: Maintenance Coordination for Visiting Aircraft
+  :section: FBO Services
+  :original_roles:
+  - Client Service Representative
+  - Maintenance Coordinator
+  - Operations Leader
+  - Quality Assurance Inspector
+  :new_roles:
+  - Client Service Representative
+  - Operations Leader
+  :roles_removed:
+  - Maintenance Coordinator
+  - Quality Assurance Inspector
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/08-transportation-arrangements.md
+  :procedure: Crew and Passenger Transportation
+  :section: FBO Services
+  :original_roles:
+  - Client Service Representative
+  - Guest Services Specialist
+  - Operations Leader
+  - Transportation Coordinator
+  :new_roles:
+  - Client Service Representative
+  - Operations Leader
+  :roles_removed:
+  - Transportation Coordinator
+  - Guest Services Specialist
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/09-billing-invoicing-services.md
+  :procedure: Billing and Invoicing for Services
+  :section: FBO Services
+  :original_roles:
+  - Billing Coordinator
+  - Client Service Representative
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Client Service Representative
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Billing Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/10-safety-security-inspections.md
+  :procedure: Safety and Security Inspections
+  :section: FBO Services
+  :original_roles:
+  - Facility Maintenance Technician
+  - Operations Leader
+  - Safety Officer
+  - Security Coordinator
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Security Coordinator
+  - Facility Maintenance Technician
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/11-facility-maintenance-cleaning.md
+  :procedure: Facility Maintenance and Cleaning
+  :section: FBO Services
+  :original_roles:
+  - Facility Maintenance Technician
+  - Housekeeping Coordinator
+  - Maintenance Leader
+  - Operations Leader
+  :new_roles:
+  - Operations Leader
+  :roles_removed:
+  - Facility Maintenance Technician
+  - Housekeeping Coordinator
+  - Maintenance Leader
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/12-weather-flight-planning-support.md
+  :procedure: Weather Briefing and Flight Planning Support
+  :section: FBO Services
+  :original_roles:
+  - Client Service Representative
+  - Flight Planning Specialist
+  - Meteorology Consultant
+  - Operations Leader
+  :new_roles:
+  - Client Service Representative
+  - Operations Leader
+  :roles_removed:
+  - Flight Planning Specialist
+  - Meteorology Consultant
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/13-catering-inflight-services.md
+  :procedure: Catering and In-Flight Service Requests
+  :section: FBO Services
+  :original_roles:
+  - Catering Coordinator
+  - Client Service Representative
+  - Operations Leader
+  - Vendor Relations Leader
+  :new_roles:
+  - Client Service Representative
+  - Operations Leader
+  :roles_removed:
+  - Catering Coordinator
+  - Vendor Relations Leader
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/01-fbo-services/14-emergency-response-incident-reporting.md
+  :procedure: Emergency Response and Incident Reporting
+  :section: FBO Services
+  :original_roles:
+  - Emergency Response Coordinator
+  - Incident Investigation Team
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Emergency Response Coordinator
+  - Incident Investigation Team
+  :roles_added: []
+  :roles_mapped:
+    Emergency Response Coordinator: Operations Leader
+- :file: content/02-maintenance-operations/01-work-order-creation-scheduling.md
+  :procedure: Work Order Creation and Scheduling
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic/Inspector
+  - Chief of Maintenance
+  - Client Service Representative
+  - Maintenance Scheduler
+  :new_roles:
+  - Chief of Maintenance
+  - Client Service Representative
+  :roles_removed:
+  - Maintenance Scheduler
+  - A&P Mechanic/Inspector
+  :roles_added: []
+  :roles_mapped:
+    Maintenance Scheduler: Client Service Representative
+- :file: content/02-maintenance-operations/02-pre-maintenance-inspection.md
+  :procedure: Pre-Maintenance Aircraft Inspection
+  :section: Maintenance Operations
+  :original_roles:
+  - Client Service Representative
+  - Inspector (IA when required)
+  - Lead A&P Mechanic
+  - Maintenance Scheduler
+  :new_roles:
+  - Client Service Representative
+  :roles_removed:
+  - Lead A&P Mechanic
+  - Inspector (IA when required)
+  - Maintenance Scheduler
+  :roles_added: []
+  :roles_mapped:
+    Maintenance Scheduler: Client Service Representative
+- :file: content/02-maintenance-operations/03-100hr-annual-inspection.md
+  :procedure: 100-Hour and Annual Inspection Execution
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Client Service Representative
+  - Inspector (IA for Annual Inspections)
+  - Maintenance Scheduler
+  :new_roles:
+  - A&P Mechanic
+  - Client Service Representative
+  :roles_removed:
+  - Inspector (IA for Annual Inspections)
+  - Maintenance Scheduler
+  :roles_added: []
+  :roles_mapped:
+    Maintenance Scheduler: Client Service Representative
+- :file: content/02-maintenance-operations/04-scheduled-maintenance.md
+  :procedure: Scheduled Maintenance
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Client Service Representative
+  - Parts Coordinator
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Client Service Representative
+  :roles_removed:
+  - Parts Coordinator
+  :roles_added: []
+  :roles_mapped:
+    Parts Coordinator: Client Service Representative
+- :file: content/02-maintenance-operations/05-unscheduled-repair-troubleshooting.md
+  :procedure: Unscheduled Repair and Troubleshooting
+  :section: Maintenance Operations
+  :original_roles:
+  - Client Service Representative
+  - Inspector (IA when required)
+  - Lead A&P Mechanic
+  - Parts Coordinator
+  :new_roles:
+  - Client Service Representative
+  :roles_removed:
+  - Lead A&P Mechanic
+  - Inspector (IA when required)
+  - Parts Coordinator
+  :roles_added: []
+  :roles_mapped:
+    Parts Coordinator: Client Service Representative
+- :file: content/02-maintenance-operations/06-parts-inventory-ordering.md
+  :procedure: Parts Inventory Management and Ordering
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Parts Coordinator
+  - Purchasing Leader
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Client Service Representative
+  :roles_removed:
+  - Parts Coordinator
+  - Purchasing Leader
+  :roles_added:
+  - Client Service Representative
+  :roles_mapped:
+    Parts Coordinator: Client Service Representative
+- :file: content/02-maintenance-operations/07-logbook-documentation.md
+  :procedure: Maintenance Logbook Updates and Documentation
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Client Service Representative
+  - Inspector (IA when required)
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Client Service Representative
+  :roles_removed:
+  - Inspector (IA when required)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/02-maintenance-operations/08-faa-compliance-reporting.md
+  :procedure: FAA Regulatory Compliance and Reporting
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic/Inspector
+  - Chief of Maintenance
+  - Compliance Officer
+  - Quality Assurance Leader
+  :new_roles:
+  - Chief of Maintenance
+  - Safety Officer
+  :roles_removed:
+  - Compliance Officer
+  - A&P Mechanic/Inspector
+  - Quality Assurance Leader
+  :roles_added:
+  - Safety Officer
+  :roles_mapped:
+    Compliance Officer: Safety Officer
+- :file: content/02-maintenance-operations/09-quality-control-checks.md
+  :procedure: Quality Control and Post-Maintenance Checks
+  :section: Maintenance Operations
+  :original_roles:
+  - Chief of Maintenance
+  - Inspector (IA when required)
+  - Lead A&P Mechanic
+  - Quality Assurance Leader
+  :new_roles:
+  - Chief of Maintenance
+  :roles_removed:
+  - Quality Assurance Leader
+  - Inspector (IA when required)
+  - Lead A&P Mechanic
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/02-maintenance-operations/10-tool-equipment-calibration.md
+  :procedure: Tool and Equipment Calibration and Maintenance
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Quality Assurance Leader
+  - Tool Room Coordinator
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  :roles_removed:
+  - Tool Room Coordinator
+  - Quality Assurance Leader
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/02-maintenance-operations/11-technician-training-certification.md
+  :procedure: Technician Training and Certification Tracking
+  :section: Maintenance Operations
+  :original_roles:
+  - Chief of Maintenance
+  - Human Resources Leader
+  - Individual Technician
+  - Training Leader
+  :new_roles:
+  - Business Leader
+  - Chief of Maintenance
+  :roles_removed:
+  - Training Leader
+  - Individual Technician
+  - Human Resources Leader
+  :roles_added:
+  - Business Leader
+  :roles_mapped:
+    Human Resources Leader: Business Leader
+- :file: content/02-maintenance-operations/12-client-communication-approval.md
+  :procedure: Client Communication and Work Approval
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Client Service Representative
+  - Operations Leader
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Client Service Representative
+  - Operations Leader
+  :roles_removed: []
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/02-maintenance-operations/13-hazmat-handling-disposal.md
+  :procedure: Hazardous Materials Handling and Disposal
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Environmental Compliance Coordinator
+  - Safety Officer
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Safety Officer
+  :roles_removed:
+  - Environmental Compliance Coordinator
+  :roles_added: []
+  :roles_mapped:
+    Environmental Compliance Coordinator: Safety Officer
+- :file: content/02-maintenance-operations/14-shop-safety-cleanliness.md
+  :procedure: Shop Safety and Cleanliness Protocols
+  :section: Maintenance Operations
+  :original_roles:
+  - Chief of Maintenance
+  - Facility Maintenance Coordinator
+  - Maintenance Team Members
+  - Safety Officer
+  :new_roles:
+  - Chief of Maintenance
+  - Safety Officer
+  :roles_removed:
+  - Maintenance Team Members
+  - Facility Maintenance Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/02-maintenance-operations/15-billing-invoicing-maintenance.md
+  :procedure: Billing and Invoicing for Maintenance Services
+  :section: Maintenance Operations
+  :original_roles:
+  - A&P Mechanic
+  - Billing Coordinator
+  - Chief of Maintenance
+  - Finance Leader
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  - Finance Leader
+  :roles_removed:
+  - Billing Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/03-avionics-operations/01-work-order-authorization.md
+  :procedure: Work Order Creation and Authorization
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Client Service Representative
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  - Client Service Representative
+  :roles_removed:
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  :roles_added:
+  - Chief of Maintenance
+  - A&P Mechanic
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+    Quality Control Inspector: A&P Mechanic
+- :file: content/03-avionics-operations/02-component-inspection-testing.md
+  :procedure: Avionics Component Inspection and Testing
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Parts Manager
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  - Parts Manager
+  :roles_added:
+  - Chief of Maintenance
+  - A&P Mechanic
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+    Quality Control Inspector: A&P Mechanic
+- :file: content/03-avionics-operations/03-installation-configuration.md
+  :procedure: Avionics Installation and Configuration
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Electrical Systems Specialist
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  - Electrical Systems Specialist
+  :roles_added:
+  - Chief of Maintenance
+  - A&P Mechanic
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+    Quality Control Inspector: A&P Mechanic
+- :file: content/03-avionics-operations/04-repair-troubleshooting.md
+  :procedure: Avionics Repair and Troubleshooting
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Parts Manager
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  - Parts Manager
+  :roles_added:
+  - Chief of Maintenance
+  - A&P Mechanic
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+    Quality Control Inspector: A&P Mechanic
+- :file: content/03-avionics-operations/05-modification-stc-implementation.md
+  :procedure: Avionics Modification and STC Implementation
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Documentation Specialist
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  - Documentation Specialist
+  :roles_added:
+  - Chief of Maintenance
+  - A&P Mechanic
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+    Quality Control Inspector: A&P Mechanic
+- :file: content/03-avionics-operations/06-parts-component-management.md
+  :procedure: Avionics Parts and Component Management
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Inventory Specialist
+  - Parts Manager
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Chief of Maintenance
+  :roles_removed:
+  - Parts Manager
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  - Inventory Specialist
+  :roles_added:
+  - Chief of Maintenance
+  - A&P Mechanic
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+    Quality Control Inspector: A&P Mechanic
+- :file: content/03-avionics-operations/07-avionics-documentation-records.md
+  :procedure: Avionics Documentation and Records Management
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Documentation Specialist
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Documentation Specialist
+  - Quality Control Inspector
+  - Avionics Shop Leader
+  :roles_added:
+  - A&P Mechanic
+  - Chief of Maintenance
+  :roles_mapped:
+    Quality Control Inspector: A&P Mechanic
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/07-documentation-records.md
+  :procedure: Avionics Documentation and Records Management
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Documentation Specialist
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Documentation Specialist
+  - Quality Control Inspector
+  - Avionics Shop Leader
+  :roles_added:
+  - A&P Mechanic
+  - Chief of Maintenance
+  :roles_mapped:
+    Quality Control Inspector: A&P Mechanic
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/08-quality-control-inspection.md
+  :procedure: Avionics Quality Control and Inspection
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Chief of Maintenance
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Quality Control Inspector
+  - Avionics Shop Leader
+  :roles_added:
+  - A&P Mechanic
+  :roles_mapped:
+    Quality Control Inspector: A&P Mechanic
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/09-test-equipment-calibration.md
+  :procedure: Avionics Test Equipment Calibration
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Equipment Calibration Specialist
+  - Quality Control Inspector
+  :new_roles:
+  - A&P Mechanic
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Equipment Calibration Specialist
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  :roles_added:
+  - Chief of Maintenance
+  - A&P Mechanic
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+    Quality Control Inspector: A&P Mechanic
+- :file: content/03-avionics-operations/10-technician-training-certification.md
+  :procedure: Avionics Technician Training and Certification
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Chief of Maintenance
+  - Training Coordinator
+  :new_roles:
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Training Coordinator
+  - Avionics Shop Leader
+  :roles_added: []
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/11-client-communication-reporting.md
+  :procedure: Avionics Client Communication and Progress Reporting
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Client Service Representative
+  - Project Manager
+  :new_roles:
+  - Avionics Technician
+  - Chief of Maintenance
+  - Client Service Representative
+  :roles_removed:
+  - Avionics Shop Leader
+  - Project Manager
+  :roles_added:
+  - Chief of Maintenance
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/12-environmental-safety-compliance.md
+  :procedure: Avionics Environmental and Safety Compliance
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Environmental Compliance Coordinator
+  - Safety Officer
+  :new_roles:
+  - Avionics Technician
+  - Chief of Maintenance
+  - Safety Officer
+  :roles_removed:
+  - Environmental Compliance Coordinator
+  - Avionics Shop Leader
+  :roles_added:
+  - Chief of Maintenance
+  :roles_mapped:
+    Environmental Compliance Coordinator: Safety Officer
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/13-warranty-service-support.md
+  :procedure: Avionics Warranty and Service Support
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Client Service Representative
+  - Warranty Administrator
+  :new_roles:
+  - Avionics Technician
+  - Chief of Maintenance
+  - Client Service Representative
+  :roles_removed:
+  - Warranty Administrator
+  - Avionics Shop Leader
+  :roles_added:
+  - Chief of Maintenance
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/14-billing-cost-management.md
+  :procedure: Avionics Billing and Cost Management
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Billing Administrator
+  - Project Manager
+  :new_roles:
+  - Avionics Technician
+  - Chief of Maintenance
+  :roles_removed:
+  - Billing Administrator
+  - Avionics Shop Leader
+  - Project Manager
+  :roles_added:
+  - Chief of Maintenance
+  :roles_mapped:
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/03-avionics-operations/15-emergency-aog-support.md
+  :procedure: Emergency and AOG Support
+  :section: Avionics Operations
+  :original_roles:
+  - Avionics Shop Leader
+  - Emergency Response Coordinator
+  - On-Call Avionics Technician
+  - Parts Expediter
+  :new_roles:
+  - Chief of Maintenance
+  - Operations Leader
+  :roles_removed:
+  - Emergency Response Coordinator
+  - Avionics Shop Leader
+  - On-Call Avionics Technician
+  - Parts Expediter
+  :roles_added:
+  - Operations Leader
+  - Chief of Maintenance
+  :roles_mapped:
+    Emergency Response Coordinator: Operations Leader
+    Avionics Shop Leader: Chief of Maintenance
+- :file: content/04-flight-school-operations/01-student-enrollment-onboarding.md
+  :procedure: Student Enrollment and Onboarding
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Client Experience Coordinator
+  - Flight Instructor
+  - Flight School Administrator
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Flight School Administrator
+  - Client Experience Coordinator
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/02-flight-lesson-scheduling.md
+  :procedure: Flight Lesson Scheduling
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Scheduler
+  - Maintenance Coordinator
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Flight School Scheduler
+  - Maintenance Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/04-flight-school-operations/03-aircraft-maintenance-inspection.md
+  :procedure: Aircraft Maintenance and Inspection
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Maintenance Coordinator
+  - Student Pilot
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Maintenance Coordinator
+  - Student Pilot
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/04-flight-school-operations/04-student-progress-certification.md
+  :procedure: Student Progress Tracking and Certification
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Administrator
+  - Student Pilot
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Flight School Administrator
+  - Student Pilot
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/05-safety-incident-reporting.md
+  :procedure: Safety Incident Reporting
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Administrator
+  - Safety Officer
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Safety Officer
+  :roles_removed:
+  - Flight School Administrator
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/06-ground-school-curriculum.md
+  :procedure: Ground School Curriculum Delivery
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Administrator
+  - Ground Instructor
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Ground Instructor
+  - Flight School Administrator
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/07-instructor-scheduling-certification.md
+  :procedure: Instructor Scheduling and Certification Renewal
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Administrator
+  - Operations Leader
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Operations Leader
+  :roles_removed:
+  - Flight School Administrator
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/08-flight-simulator-management.md
+  :procedure: Flight Simulator Session Management
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Administrator
+  - Simulator Operator
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Simulator Operator
+  - Flight School Administrator
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/09-tsa-security-clearance.md
+  :procedure: TSA Security Clearance for International Students
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Compliance Officer
+  - Flight School Administrator
+  - International Student
+  :new_roles:
+  - Chief Flight Instructor
+  - Safety Officer
+  :roles_removed:
+  - Compliance Officer
+  - Flight School Administrator
+  - International Student
+  :roles_added:
+  - Safety Officer
+  :roles_mapped:
+    Compliance Officer: Safety Officer
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/10-billing-payment-processing.md
+  :procedure: Billing and Payment Processing
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Finance Leader
+  - Flight School Administrator
+  - Student
+  :new_roles:
+  - Chief Flight Instructor
+  - Finance Leader
+  :roles_removed:
+  - Flight School Administrator
+  - Student
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/11-preflight-briefing-checklist.md
+  :procedure: Pre-Flight Briefing and Checklist Execution
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Operations Coordinator
+  - Student Pilot
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Student Pilot
+  - Operations Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/04-flight-school-operations/12-postflight-debriefing-logbook.md
+  :procedure: Post-Flight Debriefing and Logbook Updates
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Administrator
+  - Student Pilot
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  :roles_removed:
+  - Student Pilot
+  - Flight School Administrator
+  :roles_added: []
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/13-emergency-response-evacuation.md
+  :procedure: Emergency Response and Evacuation Procedures
+  :section: Flight School Operations
+  :original_roles:
+  - Flight Instructor
+  - Flight School Administrator
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Flight School Administrator
+  :roles_added:
+  - Chief Flight Instructor
+  :roles_mapped:
+    Flight School Administrator: Chief Flight Instructor
+- :file: content/04-flight-school-operations/14-fuel-management-refueling.md
+  :procedure: Fuel Management and Refueling Operations
+  :section: Flight School Operations
+  :original_roles:
+  - Flight Instructor
+  - Fuel Operations Coordinator
+  - Line Service Technician
+  - Maintenance Coordinator
+  :new_roles:
+  - Flight Instructor
+  - Line Service Technician
+  :roles_removed:
+  - Fuel Operations Coordinator
+  - Maintenance Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/04-flight-school-operations/15-client-feedback-surveys.md
+  :procedure: Client Feedback and Satisfaction Surveys
+  :section: Flight School Operations
+  :original_roles:
+  - Chief Flight Instructor
+  - Client Experience Coordinator
+  - Flight Instructor
+  - Operations Leader
+  :new_roles:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/01-client-segmentation-targeting.md
+  :procedure: Client Segmentation and Targeting
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Business Leader
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/02-digital-marketing-campaigns.md
+  :procedure: Digital Marketing Campaign Management
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Team Members (Designated)
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  - Team Members (Designated)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/03-promotional-offer-development.md
+  :procedure: Promotional Offer Development
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Business Leader
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/04-event-hosting-sponsorship.md
+  :procedure: Event Hosting and Sponsorship
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/05-client-feedback-analysis.md
+  :procedure: Client Feedback Collection and Analysis
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Team Members (All Departments)
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  - Team Members (All Departments)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/06-loyalty-program-management.md
+  :procedure: Loyalty Program Management
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Business Leader
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/07-personalized-client-followup.md
+  :procedure: Personalized Client Follow-Up
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Team Members (Service-Specific)
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  - Team Members (Service-Specific)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/08-referral-program-administration.md
+  :procedure: Referral Program Administration
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Business Leader
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/09-content-creation.md
+  :procedure: Content Creation
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Team Members (Subject Matter Experts)
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  - Team Members (Subject Matter Experts)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/10-partnership-development.md
+  :procedure: Partnership Development with Local Businesses
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Business Leader
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/11-client-complaint-resolution.md
+  :procedure: Client Complaint Resolution
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Team Members (Involved)
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  - Team Members (Involved)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/12-social-media-reputation.md
+  :procedure: Social Media Engagement and Reputation Management
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Team Members (Designated Social Media)
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  - Team Members (Designated Social Media)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/13-pilot-community-outreach.md
+  :procedure: Pilot Community Outreach
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  - Team Members (Aviation Professionals)
+  :new_roles:
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  - Team Members (Aviation Professionals)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/14-seasonal-marketing-campaigns.md
+  :procedure: Seasonal Marketing Campaigns
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Business Leader
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/05-marketing-client-retention/15-client-retention-analytics.md
+  :procedure: Client Retention Analytics and Reporting
+  :section: Marketing and Client Retention
+  :original_roles:
+  - Business Leader
+  - Client Experience Lead
+  - Marketing Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Marketing Leader
+  - Operations Leader
+  :roles_removed:
+  - Client Experience Lead
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/01-client-billing-invoicing.md
+  :procedure: Client Billing and Invoicing
+  :section: Administrative and Financial
+  :original_roles:
+  - Client Service Representative
+  - Finance Leader
+  - Line Service Technician
+  - Operations Leader
+  :new_roles:
+  - Client Service Representative
+  - Finance Leader
+  - Line Service Technician
+  - Operations Leader
+  :roles_removed: []
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/02-payment-processing-collections.md
+  :procedure: Payment Processing and Collections
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Client Service Representative
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Client Service Representative
+  - Finance Leader
+  - Operations Leader
+  :roles_removed: []
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/03-budget-planning-monitoring.md
+  :procedure: Budget Planning and Monitoring
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Department Leaders
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/04-expense-tracking-approval.md
+  :procedure: Expense Tracking and Approval
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Department Leaders
+  - Finance Leader
+  - Team Members
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  :roles_removed:
+  - Department Leaders
+  - Team Members
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/05-payroll-administration.md
+  :procedure: Payroll Administration for Team Members
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Department Leaders
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/06-vendor-supplier-contracts.md
+  :procedure: Vendor and Supplier Contract Management
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Department Leaders
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/07-financial-reporting-reconciliation.md
+  :procedure: Financial Reporting and Reconciliation
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Department Leaders
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/08-tax-filing-compliance.md
+  :procedure: Tax Filing and Compliance
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - External CPA
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - External CPA
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/09-insurance-policy-management.md
+  :procedure: Insurance Policy Management
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Finance Leader
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  - Operations Leader
+  - Safety Officer
+  :roles_removed: []
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/10-team-member-scheduling-timekeeping.md
+  :procedure: Team Member Scheduling and Timekeeping
+  :section: Administrative and Financial
+  :original_roles:
+  - Department Leaders
+  - Finance Leader
+  - Operations Leader
+  - Team Members
+  :new_roles:
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Department Leaders
+  - Team Members
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/11-regulatory-record-keeping.md
+  :procedure: Record-Keeping for Regulatory Compliance
+  :section: Administrative and Financial
+  :original_roles:
+  - Compliance Leader
+  - Department Leaders
+  - Finance Leader
+  - Operations Leader
+  :new_roles:
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Compliance Leader
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/12-inventory-management.md
+  :procedure: Inventory Management for Fuel and Supplies
+  :section: Administrative and Financial
+  :original_roles:
+  - Finance Leader
+  - Fuel System Operator
+  - Line Service Technician
+  - Operations Leader
+  :new_roles:
+  - Finance Leader
+  - Line Service Technician
+  - Operations Leader
+  :roles_removed:
+  - Fuel System Operator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/13-client-account-crm.md
+  :procedure: Client Account Management in CRM
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Client Service Leader
+  - Client Service Representative
+  - Operations Leader
+  :new_roles:
+  - Business Leader
+  - Client Service Representative
+  - Operations Leader
+  :roles_removed:
+  - Client Service Leader
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/14-purchase-order-processing.md
+  :procedure: Purchase Order Processing
+  :section: Administrative and Financial
+  :original_roles:
+  - Department Leaders
+  - Finance Leader
+  - Operations Leader
+  - Purchasing Coordinator
+  :new_roles:
+  - Finance Leader
+  - Operations Leader
+  :roles_removed:
+  - Department Leaders
+  - Purchasing Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/06-administrative-financial/15-audit-preparation-support.md
+  :procedure: Audit Preparation and Support
+  :section: Administrative and Financial
+  :original_roles:
+  - Business Leader
+  - Compliance Leader
+  - Department Leaders
+  - Finance Leader
+  :new_roles:
+  - Business Leader
+  - Finance Leader
+  :roles_removed:
+  - Compliance Leader
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/01-safety-incident-reporting-investigation.md
+  :procedure: Safety Incident Reporting and Investigation
+  :section: Safety and Compliance
+  :original_roles:
+  - Operations Leader
+  - Quality Assurance Leader
+  - Safety Officer
+  - Team Members (All)
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Team Members (All)
+  - Quality Assurance Leader
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/02-aircraft-fueling-safety.md
+  :procedure: Aircraft Fueling Safety Procedures
+  :section: Safety and Compliance
+  :original_roles:
+  - Fuel Safety Coordinator
+  - Line Service Technician
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Line Service Technician
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Fuel Safety Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/03-ground-handling-safety.md
+  :procedure: Ground Handling Safety Protocols
+  :section: Safety and Compliance
+  :original_roles:
+  - Line Service Technician
+  - Operations Leader
+  - Ramp Safety Coordinator
+  - Safety Officer
+  :new_roles:
+  - Line Service Technician
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Ramp Safety Coordinator
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/04-faa-regulations-compliance.md
+  :procedure: FAA Regulations Compliance
+  :section: Safety and Compliance
+  :original_roles:
+  - Compliance Officer
+  - Department Leaders
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Compliance Officer
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped:
+    Compliance Officer: Safety Officer
+- :file: content/07-safety-compliance/05-faa-compliance-audits.md
+  :procedure: FAA Compliance Audits
+  :section: Safety and Compliance
+  :original_roles:
+  - Compliance Officer
+  - Department Leaders
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Compliance Officer
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped:
+    Compliance Officer: Safety Officer
+- :file: content/07-safety-compliance/06-osha-compliance-audits.md
+  :procedure: OSHA Compliance Audits
+  :section: Safety and Compliance
+  :original_roles:
+  - Department Leaders
+  - Human Resources Leader
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Business Leader
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Department Leaders
+  - Human Resources Leader
+  :roles_added:
+  - Business Leader
+  :roles_mapped:
+    Human Resources Leader: Business Leader
+- :file: content/07-safety-compliance/07-emergency-response-plan.md
+  :procedure: Emergency Response Plan Execution
+  :section: Safety and Compliance
+  :original_roles:
+  - Emergency Response Coordinator
+  - Operations Leader
+  - Safety Officer
+  - Team Members (All)
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Emergency Response Coordinator
+  - Team Members (All)
+  :roles_added: []
+  :roles_mapped:
+    Emergency Response Coordinator: Operations Leader
+- :file: content/07-safety-compliance/09-ramp-hangar-safety-inspections.md
+  :procedure: Ramp and Hangar Safety Inspections
+  :section: Safety and Compliance
+  :original_roles:
+  - Department Leaders
+  - Operations Leader
+  - Safety Inspector
+  - Team Members (All)
+  :new_roles:
+  - Operations Leader
+  :roles_removed:
+  - Safety Inspector
+  - Department Leaders
+  - Team Members (All)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/10-team-member-safety-training.md
+  :procedure: Team Member Safety Training and Certification
+  :section: Safety and Compliance
+  :original_roles:
+  - Department Leaders
+  - Operations Leader
+  - Safety Officer
+  - Training Coordinator
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Training Coordinator
+  - Department Leaders
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/11-security-screening.md
+  :procedure: Security Screening for Personnel and Visitors
+  :section: Safety and Compliance
+  :original_roles:
+  - Department Leaders
+  - Operations Leader
+  - Security Coordinator
+  - Team Members (All)
+  :new_roles:
+  - Operations Leader
+  :roles_removed:
+  - Security Coordinator
+  - Department Leaders
+  - Team Members (All)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/12-environmental-compliance.md
+  :procedure: Environmental Compliance
+  :section: Safety and Compliance
+  :original_roles:
+  - Department Leaders
+  - Environmental Compliance Officer
+  - Operations Leader
+  - Team Members (All)
+  :new_roles:
+  - Operations Leader
+  :roles_removed:
+  - Environmental Compliance Officer
+  - Department Leaders
+  - Team Members (All)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/13-equipment-maintenance-safety.md
+  :procedure: Equipment Maintenance and Safety Checks
+  :section: Safety and Compliance
+  :original_roles:
+  - Equipment Maintenance Supervisor
+  - Equipment Operators
+  - Operations Leader
+  - Safety Officer
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Equipment Maintenance Supervisor
+  - Equipment Operators
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/14-runway-incursion-prevention.md
+  :procedure: Runway Incursion Prevention Training
+  :section: Safety and Compliance
+  :original_roles:
+  - Ground Operations Supervisor
+  - Operations Leader
+  - Runway Safety Officer
+  - Team Members (All)
+  :new_roles:
+  - Operations Leader
+  :roles_removed:
+  - Runway Safety Officer
+  - Ground Operations Supervisor
+  - Team Members (All)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/15-sms-implementation.md
+  :procedure: Safety Management System Implementation
+  :section: Safety and Compliance
+  :original_roles:
+  - Department Leaders
+  - Operations Leader
+  - Safety Manager
+  - Team Members (All)
+  :new_roles:
+  - Operations Leader
+  :roles_removed:
+  - Safety Manager
+  - Department Leaders
+  - Team Members (All)
+  :roles_added: []
+  :roles_mapped: {}
+- :file: content/07-safety-compliance/16-regulatory-documentation.md
+  :procedure: Regulatory Documentation and Record-Keeping
+  :section: Safety and Compliance
+  :original_roles:
+  - Compliance Officer
+  - Department Leaders
+  - Operations Leader
+  - Records Management Coordinator
+  :new_roles:
+  - Operations Leader
+  - Safety Officer
+  :roles_removed:
+  - Records Management Coordinator
+  - Compliance Officer
+  - Department Leaders
+  :roles_added:
+  - Safety Officer
+  :roles_mapped:
+    Compliance Officer: Safety Officer

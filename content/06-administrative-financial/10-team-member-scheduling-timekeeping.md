@@ -20,30 +20,22 @@ Establish systematic scheduling and timekeeping procedures that ensure adequate 
 
 ## Roles and Responsibilities
 
-**Operations Leader:**
-
-- Develop master schedules and approve schedule changes
-- Monitor staffing levels and authorize overtime when needed
-- Coordinate scheduling across departments for operational coverage
-
-**Department Leaders:**
-
-- Create departmental schedules and manage team member assignments
-- Approve time-off requests and coordinate coverage
-- Monitor attendance and address scheduling issues
-
 **Finance Leader:**
 
-- Review timekeeping records for payroll accuracy
-- Monitor overtime costs and budget compliance
-- Process time-off accruals and benefit calculations
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Team Members:**
+**Operations Leader:**
 
-- Submit accurate timekeeping records and schedule requests
-- Coordinate schedule changes with supervisors and team members
-- Maintain reliable attendance and punctuality standards
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Schedule Planning Phase

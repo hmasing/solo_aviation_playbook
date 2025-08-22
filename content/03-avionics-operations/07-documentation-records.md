@@ -20,34 +20,29 @@ This process establishes procedures for maintaining comprehensive documentation 
 
 ## Roles and Responsibilities
 
-**Documentation Specialist:**
-
-- Maintain master documentation files and revision control
-- Process documentation updates and distribute current revisions
-- Coordinate with regulatory authorities for required submissions
-- Ensure compliance with documentation retention requirements
-
 **Avionics Technician:**
 
-- Complete work order documentation accurately and completely
-- Record all maintenance actions and test results
-- Maintain component installation and configuration records
-- Submit completed documentation for quality review
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Review all documentation for completeness and accuracy
-- Verify compliance with regulatory documentation requirements
-- Approve completed work packages for record retention
-- Conduct periodic documentation audits and compliance reviews
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Avionics Shop Leader:**
+**Chief of Maintenance:**
 
-- Approve documentation procedures and format requirements
-- Review and sign off on completed work documentation
-- Ensure technician training on documentation requirements
-- Coordinate with regulatory authorities for inspections and audits
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Work Order Documentation Phase

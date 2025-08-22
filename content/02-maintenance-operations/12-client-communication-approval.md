@@ -20,34 +20,38 @@ Establish systematic procedures for communicating with clients throughout the ma
 
 ## Roles and Responsibilities
 
+**A&P Mechanic:**
+
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
+
 **Client Service Representative:**
 
-- Serve as primary communication contact between clients and maintenance team
-- Explain maintenance findings, recommendations, and cost estimates to clients
-- Obtain written approvals for all maintenance work and scope changes
-- Coordinate aircraft delivery scheduling and maintenance completion communication
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Chief of Maintenance:**
 
-- Review complex maintenance issues requiring client consultation
-- Approve maintenance recommendations and cost estimates for client presentation
-- Coordinate with client service team for technical explanation requirements
-- Ensure maintenance quality meets client expectations and regulatory standards
-
-**A&P Mechanic:**
-
-- Provide technical information to client service team for client communication
-- Document all maintenance findings and recommendations clearly for client review
-- Participate in client consultations when technical expertise is required
-- Explain completed maintenance work during aircraft delivery process
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 
 **Operations Leader:**
 
-- Oversee client communication procedures and service quality standards
-- Resolve client concerns regarding maintenance work or service issues
-- Approve policies for client authorization and communication requirements
-- Ensure client satisfaction with maintenance services and communication quality
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Initial Client Consultation

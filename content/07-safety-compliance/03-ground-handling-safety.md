@@ -26,34 +26,28 @@ Establish safety protocols for ground handling operations to protect personnel a
 
 **Line Service Technician:**
 
-- Follow established ground handling safety procedures
-- Operate ground support equipment safely and competently
-- Maintain situational awareness during ramp operations
-- Report safety hazards and equipment malfunctions immediately
-
-**Ramp Safety Coordinator:**
-
-- Supervise ground handling operations for safety compliance
-- Conduct safety briefings for ground handling team members
-- Inspect and maintain ground support equipment
-- Investigate ground handling incidents and implement corrective actions
-
-**Operations Leader:**
-
-- Ensure ground handling safety program implementation
-- Authorize ground support equipment purchases and training
-- Review ground handling safety performance and incidents
-- Coordinate with airport authority on ramp safety matters
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 
 **Safety Officer:**
 
-- Audit ground handling safety procedures and compliance
-- Develop ground handling safety training programs
-- Investigate serious ground handling incidents
-- Monitor regulatory changes affecting ground operations
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
----
+**Operations Leader:**
 
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Pre-Operation Safety Phase

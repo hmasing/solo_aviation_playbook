@@ -1,0 +1,212 @@
+# FBO Operations Playbook - Curated Role Definitions
+# This file contains the refined set of roles that match our actual team structure
+# Edit this file to define which roles to use in procedure generation
+
+# INSTRUCTIONS:
+# 1. Set 'active: true' for roles you want to keep in procedures
+# 2. Set 'active: false' for roles to exclude from regenerated procedures  
+# 3. Use 'maps_to:' to redirect one role to another (e.g., consolidate similar roles)
+# 4. Modify 'responsibilities:' lists to customize role definitions
+# 5. 'level:' determines role order in procedures (1=doers, 4=leaders)
+
+metadata:
+  description: "Curated roles for FBO operations matching actual team structure"
+  last_updated: "2025-08-22"
+  total_active_roles: 0  # Will be calculated automatically
+  
+# ROLE LEVEL TAXONOMY:
+# Level 1 - Direct Service Providers: Hands-on execution, direct client/aircraft interaction
+# Level 2 - Technical Specialists: Specialized skills, technical execution, quality assurance  
+# Level 3 - Coordinators: Cross-functional coordination, process oversight, client relationships
+# Level 4 - Leaders: Strategic oversight, resource allocation, regulatory compliance, final authority
+roles:
+  "Operations Leader":
+    active: true
+    level: 4
+    maps_to: null  # Use as-is
+    responsibilities:
+      - Oversee daily operations and coordinate between departments
+      - Authorize emergency response procedures and resource allocation
+      - Monitor safety compliance and operational excellence
+      - Coordinate scheduling across departments for operational coverage
+      - Review billing disputes and approve service adjustments
+      - Ensure regulatory compliance across all operations
+
+  "Business Leader":
+    active: true
+    level: 4
+    maps_to: null
+    responsibilities:
+      - Approve marketing budget and resource allocation
+      - Review financial projections and business development strategies
+      - Provide strategic direction for market expansion
+      - Monitor competitive positioning and pricing strategies
+      - Oversee vendor contracts and supplier relationships
+
+  "Chief of Maintenance":
+    active: true
+    level: 4
+    maps_to: null
+    responsibilities:
+      - Review and approve complex or high-value work orders
+      - Assign qualified technicians to specific maintenance tasks
+      - Ensure regulatory compliance for all maintenance work
+      - Resolve scheduling conflicts and resource allocation issues
+      - Oversee maintenance quality and safety standards
+
+  "Chief Flight Instructor":
+    active: true
+    level: 4
+    maps_to: null
+    responsibilities:
+      - Review student qualifications and training goals
+      - Assign appropriate flight instructors based on needs
+      - Conduct flight school orientation and safety briefings
+      - Approve training program selection and scheduling
+      - Ensure Part 61 compliance for all training operations
+
+# Level 3 - Coordinators
+  "Client Service Representative":
+    active: true
+    level: 3
+    maps_to: null
+    responsibilities:
+      - Manage client communications and service requests
+      - Process documentation and billing
+      - Obtain client authorizations and approvals
+      - Coordinate scheduling and aircraft availability
+      - Maintain professional client relationships
+
+  "Line Service Technician":
+    active: true
+    level: 1
+    maps_to: null
+    responsibilities:
+      - Provide direct aircraft handling services
+      - Execute safety protocols during aircraft movements
+      - Document all services provided accurately
+      - Coordinate with ground support equipment
+      - Monitor safety compliance during operations
+
+  "A&P Mechanic":
+    active: true
+    level: 2
+    maps_to: null
+    responsibilities:
+      - Execute assigned maintenance tasks per specifications
+      - Review work order technical requirements
+      - Provide technical input for work scope estimates
+      - Document completion status and discrepancies
+      - Ensure regulatory compliance in all maintenance work
+
+  "Avionics Technician":
+    active: true
+    level: 2
+    maps_to: null
+    responsibilities:
+      - Conduct avionics system assessments and repairs
+      - Prepare detailed work scope and time estimates
+      - Document component requirements and procedures
+      - Coordinate with parts department for availability
+      - Ensure regulatory compliance for avionics work
+
+  "Flight Instructor":
+    active: true
+    level: 2
+    maps_to: null
+    responsibilities:
+      - Conduct student assessments and training
+      - Review training objectives with students
+      - Coordinate aircraft scheduling for training
+      - Maintain communication with students on progress
+      - Ensure safety and regulatory compliance
+
+  "Safety Officer":
+    active: true
+    level: 3
+    maps_to: null
+    responsibilities:
+      - Monitor safety compliance across all operations
+      - Conduct safety investigations and reporting
+      - Coordinate safety training and certification
+      - Ensure regulatory safety compliance
+      - Authorize safety equipment and improvements
+
+  "Finance Leader":
+    active: true
+    level: 3
+    maps_to: null
+    responsibilities:
+      - Review and approve billing policies and procedures
+      - Oversee invoice accuracy and accounts receivable
+      - Monitor financial performance and budgets
+      - Ensure compliance with financial regulations
+      - Coordinate with external accounting services
+
+  "Marketing Leader":
+    active: true
+    level: 3
+    maps_to: null
+    responsibilities:
+      - Oversee market research and segmentation analysis
+      - Approve targeting strategies and budget allocation
+      - Monitor campaign performance and ROI
+      - Coordinate marketing initiatives and content creation
+      - Manage client retention and loyalty programs
+
+# Consolidated/Mapped Roles (roles that map to others)
+  "Maintenance Scheduler":
+    active: false
+    maps_to: "Client Service Representative"
+    note: "Scheduling functions handled by Client Service Representative"
+
+  "Flight School Administrator":
+    active: false
+    maps_to: "Chief Flight Instructor"
+    note: "Administrative functions handled by Chief Flight Instructor"
+
+  "Avionics Shop Leader":
+    active: false
+    maps_to: "Chief of Maintenance"
+    note: "Avionics oversight handled by Chief of Maintenance"
+
+  "Quality Control Inspector":
+    active: false
+    maps_to: "A&P Mechanic"
+    note: "Quality control integrated into A&P Mechanic responsibilities"
+
+  "Parts Coordinator":
+    active: false
+    maps_to: "Client Service Representative"
+    note: "Parts coordination handled by Client Service Representative"
+
+  "Compliance Officer":
+    active: false
+    maps_to: "Safety Officer"
+    note: "Compliance oversight handled by Safety Officer"
+
+# Inactive Roles (not used in our operation)
+  "Department Leaders":
+    active: false
+    maps_to: null
+    note: "Too generic - specific leader roles used instead"
+
+  "Team Members (All)":
+    active: false
+    maps_to: null
+    note: "Too generic - specific roles used instead"
+
+  "Emergency Response Coordinator":
+    active: false
+    maps_to: "Operations Leader"
+    note: "Emergency coordination handled by Operations Leader"
+
+  "Human Resources Leader":
+    active: false
+    maps_to: "Business Leader"
+    note: "HR functions handled by Business Leader"
+
+  "Environmental Compliance Coordinator":
+    active: false
+    maps_to: "Safety Officer"
+    note: "Environmental compliance handled by Safety Officer"

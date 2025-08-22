@@ -20,30 +20,38 @@ Establish systematic insurance policy management procedures that ensure adequate
 
 ## Roles and Responsibilities
 
-**Business Leader:**
-
-- Review insurance coverage requirements and approve policy changes
-- Coordinate with insurance broker on coverage needs and claims
-- Make strategic decisions on risk retention and coverage levels
-
-**Operations Leader:**
-
-- Identify operational risks requiring insurance coverage
-- Report incidents and potential claims promptly
-- Ensure operational activities comply with insurance requirements
-
 **Finance Leader:**
 
-- Monitor insurance costs and budget compliance
-- Process insurance payments and maintain policy records
-- Coordinate insurance requirements with vendor contracts
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Safety Officer:**
 
-- Assess safety risks and recommend appropriate coverage
-- Support claims investigations with incident documentation
-- Monitor safety performance affecting insurance rates
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
+**Business Leader:**
+
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
+
+**Operations Leader:**
+
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Coverage Assessment Phase

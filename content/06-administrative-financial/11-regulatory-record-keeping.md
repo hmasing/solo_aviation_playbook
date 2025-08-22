@@ -20,30 +20,22 @@ Establish systematic record-keeping procedures that ensure compliance with all a
 
 ## Roles and Responsibilities
 
-**Compliance Leader:**
+**Finance Leader:**
 
-- Establish record retention policies and procedures
-- Monitor compliance with regulatory record-keeping requirements
-- Coordinate audit activities and regulatory inspections
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Operations Leader:**
 
-- Ensure operational records meet regulatory standards
-- Coordinate with compliance on record-keeping requirements
-- Provide operational context for regulatory documentation
-
-**Finance Leader:**
-
-- Maintain financial records per regulatory requirements
-- Coordinate with external auditors and tax authorities
-- Ensure record security and access controls
-
-**Department Leaders:**
-
-- Maintain departmental records according to established procedures
-- Train team members on proper record-keeping practices
-- Report record-keeping issues and compliance concerns
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Record Classification Phase

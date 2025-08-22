@@ -20,34 +20,21 @@ This process establishes procedures for managing accurate billing and cost track
 
 ## Roles and Responsibilities
 
-**Billing Administrator:**
-
-- Process avionics billing and invoice generation
-- Track labor hours and material costs for accuracy
-- Coordinate with accounting for payment processing
-- Maintain billing records and client account information
-
-**Avionics Shop Leader:**
-
-- Approve labor rates and billing procedures
-- Review complex billing situations and authorize adjustments
-- Coordinate with clients on billing questions and disputes
-- Monitor billing accuracy and client satisfaction
-
 **Avionics Technician:**
 
-- Record accurate labor time and work performed
-- Document materials used and services provided
-- Report billing discrepancies or special circumstances
-- Maintain detailed work records for billing verification
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Project Manager:**
+**Chief of Maintenance:**
 
-- Monitor project costs against estimates and budgets
-- Coordinate billing schedules and payment terms
-- Communicate cost overruns or changes to clients
-- Ensure project profitability and cost control
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Labor Time Tracking Phase

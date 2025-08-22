@@ -24,36 +24,22 @@ Establish systematic emergency response procedures to protect personnel, clients
 
 ## Roles and Responsibilities
 
-**Emergency Response Coordinator:**
+**Safety Officer:**
 
-- Activate emergency response procedures and coordinate overall response
-- Serve as primary contact with emergency services and airport authority
-- Direct evacuation procedures and personnel accountability
-- Communicate with leadership and external stakeholders during emergencies
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Operations Leader:**
 
-- Authorize emergency response activation and resource allocation
-- Make critical decisions regarding facility operations and personnel safety
-- Coordinate with airport authority and emergency services leadership
-- Communicate with clients and media as appropriate
-
-**Team Members (All):**
-
-- Follow established emergency procedures and evacuation routes
-- Report emergencies immediately using established communication protocols
-- Assist with emergency response activities as trained and directed
-- Participate in emergency drills and training exercises
-
-**Safety Officer:**
-
-- Maintain emergency response procedures and training programs
-- Investigate emergency incidents and implement corrective actions
-- Coordinate with local emergency services on response planning
-- Conduct emergency preparedness assessments and improvements
-
----
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Emergency Detection and Assessment Phase

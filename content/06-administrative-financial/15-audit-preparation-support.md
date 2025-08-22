@@ -20,30 +20,21 @@ Establish systematic audit preparation and support procedures that ensure effici
 
 ## Roles and Responsibilities
 
-**Business Leader:**
-
-- Coordinate with external auditors and regulatory inspectors
-- Review audit findings and approve corrective action plans
-- Ensure adequate resources are allocated for audit support
-
-**Compliance Leader:**
-
-- Organize audit documentation and coordinate internal preparations
-- Serve as primary contact for auditors and inspectors
-- Monitor corrective action implementation and compliance verification
-
 **Finance Leader:**
 
-- Prepare financial records and support financial audits
-- Coordinate with external CPA firms on audit requirements
-- Ensure accounting records are audit-ready and properly documented
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Department Leaders:**
+**Business Leader:**
 
-- Provide departmental records and operational documentation
-- Support auditor interviews and facility tours
-- Implement corrective actions within their areas of responsibility
-
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 ## Process Steps
 
 ### Pre-Audit Preparation Phase

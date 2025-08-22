@@ -20,34 +20,21 @@ Establish procedures for delivering ground instruction that meets Part 61 aerona
 
 ## Roles and Responsibilities
 
-**Chief Flight Instructor:**
-
-- Approve ground school curriculum content and ensure regulatory compliance
-- Assign qualified instructors to ground school instruction responsibilities
-- Monitor ground instruction quality and student learning outcomes
-- Coordinate ground school scheduling with flight training activities
-
-**Ground Instructor:**
-
-- Deliver ground school curriculum using approved lesson plans and materials
-- Assess student understanding through quizzes, tests, and practical applications
-- Maintain accurate records of ground instruction provided and student progress
-- Coordinate with flight instructors to reinforce ground school concepts during flight training
-
 **Flight Instructor:**
 
-- Integrate ground school concepts into flight training lessons
-- Provide additional ground instruction as needed for individual students
-- Assess student knowledge application during flight training activities
-- Coordinate with ground instructors to address knowledge gaps
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
-**Flight School Administrator:**
+**Chief Flight Instructor:**
 
-- Schedule ground school classes and coordinate classroom resources
-- Maintain ground school records and track student attendance
-- Process knowledge test endorsements and coordinate testing appointments
-- Support ground instruction activities with materials and resources
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ## Process Steps
 
 ### Curriculum Planning Phase

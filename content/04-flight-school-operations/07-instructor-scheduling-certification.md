@@ -20,34 +20,30 @@ Establish procedures for managing flight instructor schedules, tracking certific
 
 ## Roles and Responsibilities
 
-**Chief Flight Instructor:**
-
-- Monitor instructor certification currency and coordinate renewal activities
-- Assign instructors to students based on qualifications and training requirements
-- Conduct instructor proficiency checks and standardization training
-- Approve instructor professional development and training activities
-
 **Flight Instructor:**
 
-- Maintain current flight instructor certificates and required endorsements
-- Submit availability schedules and coordinate with assigned students
-- Participate in required proficiency checks and training activities
-- Report certification status changes and renewal requirements
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
-**Flight School Administrator:**
+**Chief Flight Instructor:**
 
-- Track instructor certification expiration dates and renewal requirements
-- Coordinate instructor scheduling and availability management
-- Process instructor payroll and maintain employment records
-- Support instructor professional development and training coordination
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 
 **Operations Leader:**
 
-- Approve instructor hiring and termination decisions
-- Review instructor performance and client feedback
-- Coordinate instructor compensation and benefits programs
-- Ensure adequate instructor staffing for training demand
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Instructor Qualification Management Phase

@@ -22,32 +22,27 @@ This process establishes procedures for comprehensive inspection and testing of 
 
 **Avionics Technician:**
 
-- Conduct visual inspections and component testing procedures
-- Operate test equipment and document test results
-- Identify component defects and performance issues
-- Prepare components for installation or return to service
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Avionics Shop Leader:**
+**A&P Mechanic:**
 
-- Review test procedures and approve testing protocols
-- Verify technician qualifications for specific component testing
-- Approve test results and component disposition decisions
-- Ensure compliance with manufacturer testing requirements
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Conduct independent verification of critical test results
-- Review test documentation for completeness and accuracy
-- Approve components for installation or return to service
-- Verify calibration status of test equipment used
-
-**Parts Manager:**
-
-- Coordinate component receipt and inspection scheduling
-- Manage component serialization and traceability records
-- Process warranty claims for defective components
-- Maintain component storage and handling protocols
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Component Receipt and Preparation Phase

@@ -22,32 +22,27 @@ This process establishes systematic procedures for diagnosing and repairing avio
 
 **Avionics Technician:**
 
-- Conduct systematic troubleshooting and fault isolation procedures
-- Perform component-level repairs using approved techniques
-- Execute system testing and verification procedures
-- Document troubleshooting steps and repair actions taken
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Avionics Shop Leader:**
+**A&P Mechanic:**
 
-- Review troubleshooting approach and approve repair methods
-- Verify technician qualifications for specific repair procedures
-- Oversee complex repairs and provide technical guidance
-- Approve repair completion and return to service authorization
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Conduct independent verification of repair procedures
-- Review troubleshooting documentation and test results
-- Inspect repair workmanship and compliance with approved methods
-- Approve repaired systems for return to service
-
-**Parts Manager:**
-
-- Coordinate replacement parts procurement and availability
-- Verify parts authenticity and traceability documentation
-- Process warranty claims for defective components
-- Manage repair parts inventory and supplier relationships
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Initial Problem Assessment Phase

@@ -20,22 +20,22 @@ This process establishes procedures for emergency response and incident reportin
 
 ## Roles and Responsibilities
 
-**Emergency Response Coordinator:**
-Coordinate emergency response activities and maintain communication with emergency services while ensuring team member and client safety
-Implement emergency procedures and coordinate with management for incident resolution and operational recovery
-
 **Safety Officer:**
-Oversee emergency response compliance and coordinate incident investigation while maintaining regulatory reporting requirements
-Conduct emergency training and coordinate with authorities for emergency response planning and procedure updates
+
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Operations Leader:**
-Implement immediate emergency response actions and coordinate with team members for safety measures and operational continuity
-Monitor emergency situations and coordinate with emergency response coordinator for effective incident management
 
-**Incident Investigation Team:**
-Conduct thorough incident investigations and document findings while coordinating with regulatory authorities for compliance reporting
-Analyze incident causes and coordinate corrective actions to prevent future occurrences
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Immediate Response Phase

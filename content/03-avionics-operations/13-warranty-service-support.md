@@ -18,34 +18,29 @@ This process establishes procedures for managing warranty claims, implementing s
 
 ## Roles and Responsibilities
 
-**Warranty Administrator:**
-
-- Process warranty claims and coordinate with manufacturers
-- Track warranty periods and coverage for installed equipment
-- Maintain warranty documentation and claim records
-- Coordinate warranty repairs and replacement procedures
-
-**Avionics Shop Leader:**
-
-- Review warranty claims and approve warranty work
-- Coordinate with manufacturers for technical support
-- Oversee service bulletin implementation and compliance
-- Approve warranty policy and procedure updates
-
 **Avionics Technician:**
 
-- Identify warranty-eligible issues during maintenance
-- Perform warranty repairs according to manufacturer procedures
-- Document warranty work and maintain accurate records
-- Report service bulletin compliance and implementation
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
 **Client Service Representative:**
 
-- Communicate warranty coverage and benefits to clients
-- Coordinate warranty claim processing with clients
-- Provide updates on warranty repair status and completion
-- Manage client expectations for warranty service timelines
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Warranty Coverage Management Phase

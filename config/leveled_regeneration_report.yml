@@ -1,0 +1,29 @@
+# Leveled Procedure Regeneration Report
+# Generated: 2025-08-22 06:34:22
+
+---
+:regeneration_date: '2025-08-22 06:34:22'
+:level_taxonomy:
+  1: Direct Service Providers
+  2: Technical Specialists
+  3: Coordinators
+  4: Leaders
+:roles_by_level:
+  4:
+  - Operations Leader
+  - Business Leader
+  - Chief of Maintenance
+  - Chief Flight Instructor
+  3:
+  - Client Service Representative
+  - Safety Officer
+  - Finance Leader
+  - Marketing Leader
+  1:
+  - Line Service Technician
+  2:
+  - A&P Mechanic
+  - Avionics Technician
+  - Flight Instructor
+:total_active_roles: 12
+:backup_location: content_backup

@@ -12,7 +12,7 @@
 html {
   background: var(--background-color);
   padding: 2rem;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 body {
@@ -20,10 +20,10 @@ body {
   padding: 3rem;
   background: #fff;
   margin: 0 auto;
-  line-height: 1.6;
+  line-height: 1.4;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--text-color);
-  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
 }
 
@@ -219,12 +219,13 @@ li code {
 
 .table-of-contents .level1 a {
   text-decoration: none;
-  color: #000;
+  color: #333;
   text-transform: uppercase;
   font-weight: bold;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  font-size: 14px;
 }
 
 .table-of-contents .level1 a::after {
@@ -238,13 +239,14 @@ li code {
   flex-shrink: 0;
 }
 
-.table-of-contents .level1:before {
-  content: "Chapter " counter(toc-level1);
-  font-size: 13px;
+.table-of-contents .level1 a::before {
+  content: "Chapter " counter(toc-level1) ": ";
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: bold;
-  color: #aaa;
-  display: block;
+  color: #666;
+  display: inline;
+  margin-right: 8px;
 }
 
 .table-of-contents .level1 ~ .level1 {

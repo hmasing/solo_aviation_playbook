@@ -20,34 +20,29 @@ Establish systematic procedures for managing aircraft parts inventory, procureme
 
 ## Roles and Responsibilities
 
-**Parts Coordinator:**
+**A&P Mechanic:**
 
-- Manage daily parts inventory operations and stock level monitoring
-- Process parts orders and coordinate delivery scheduling with vendors
-- Verify parts authenticity and airworthiness documentation upon receipt
-- Maintain accurate inventory records and cost tracking systems
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
+
+**Client Service Representative:**
+
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Chief of Maintenance:**
 
-- Approve parts procurement policies and vendor selection criteria
-- Review and authorize high-value parts purchases and emergency orders
-- Ensure compliance with regulatory requirements for parts quality and documentation
-- Oversee inventory management procedures and cost control measures
-
-**A&P Mechanic:**
-
-- Submit parts requests with detailed specifications and installation requirements
-- Verify parts compatibility and configuration before installation
-- Report parts quality issues or discrepancies to Parts Coordinator
-- Return unused parts to inventory with proper documentation
-
-**Purchasing Leader:**
-
-- Negotiate vendor contracts and pricing agreements for parts procurement
-- Review and approve vendor qualifications and quality certifications
-- Monitor parts procurement costs and budget compliance
-- Coordinate with finance team for payment processing and vendor relations
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Inventory Management and Control

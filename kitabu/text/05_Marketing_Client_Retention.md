@@ -142,30 +142,26 @@ This process establishes systematic methods for identifying, analyzing, and targ
 
 - Oversee market research and segmentation analysis
 - Approve targeting strategies and budget allocation
-- Monitor campaign performance and return on investment
-- Coordinate with Operations Leader on service capacity planning
-
-**Client Experience Lead:**
-
-- Provide client interaction insights and feedback patterns
-- Support data collection from client touchpoints
-- Validate segmentation accuracy based on field observations
-- Assist with personalized targeting implementation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Review operational capacity for targeted client segments
-- Provide input on service delivery capabilities
-- Ensure alignment between marketing targets and operational readiness
-- Support resource allocation for targeted initiatives
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 
 **Business Leader:**
 
 - Approve marketing budget and resource allocation
-- Review financial projections and return on investment analysis
+- Review financial projections and business development strategies
 - Provide strategic direction for market expansion
 - Monitor competitive positioning and pricing strategies
-
+- Oversee vendor contracts and supplier relationships
 ### Process Steps
 
 #### Market Research and Analysis Phase
@@ -274,32 +270,20 @@ This process establishes systematic methods for creating, implementing, and opti
 
 **Marketing Leader:**
 
-- Develop campaign strategy and approve budget allocation
-- Oversee campaign execution and performance monitoring
-- Coordinate with external digital marketing vendors and agencies
-- Report campaign results and return on investment to leadership
-
-**Client Experience Lead:**
-
-- Provide insights on client preferences and communication channels
-- Support lead qualification and handoff processes
-- Monitor campaign impact on client experience and satisfaction
-- Assist with content development and messaging validation
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Review operational capacity for campaign-generated leads
-- Provide input on service availability and scheduling constraints
-- Ensure campaign promises align with service delivery capabilities
-- Support resource allocation for increased client activity
-
-**Team Members (Designated):**
-
-- Create and schedule social media content
-- Monitor campaign performance metrics and analytics
-- Respond to digital inquiries and engagement
-- Maintain website content and landing page updates
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Campaign Planning and Strategy Phase
@@ -422,32 +406,28 @@ This process establishes systematic methods for developing, implementing, and ev
 
 **Marketing Leader:**
 
-- Develop promotional strategy and approve offer terms
-- Coordinate promotional campaigns across marketing channels
-- Monitor offer performance and return on investment
-- Ensure promotional offers align with business objectives
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Business Leader:**
 
-- Approve promotional pricing and financial impact analysis
-- Review profit margins and revenue projections
-- Provide strategic guidance on competitive positioning
-- Monitor overall financial performance of promotional activities
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Assess operational capacity and service delivery requirements
-- Coordinate team member training on promotional offers
-- Monitor service quality during promotional periods
-- Ensure promotional offers don't compromise safety or compliance
-
-**Client Experience Lead:**
-
-- Provide input on client preferences and behavior patterns
-- Support promotional offer communication and explanation
-- Monitor client satisfaction during promotional periods
-- Gather feedback on offer attractiveness and value perception
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Offer Strategy and Development Phase
@@ -570,32 +550,28 @@ This process establishes systematic methods for hosting aviation events and mana
 
 **Marketing Leader:**
 
-- Develop event strategy and approve event concepts
-- Coordinate sponsorship opportunities and partnerships
-- Oversee event marketing and promotional activities
-- Manage event budgets and return on investment analysis
-
-**Operations Leader:**
-
-- Assess operational capacity and facility requirements for events
-- Coordinate safety and security measures during events
-- Ensure compliance with airport and Federal Aviation Administration (FAA) regulations
-- Manage team member assignments and operational support
-
-**Client Experience Lead:**
-
-- Support event planning and client interaction management
-- Coordinate hospitality and client experience elements
-- Gather feedback from event attendees and participants
-- Assist with follow-up activities and relationship building
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Safety Officer:**
 
-- Review event safety plans and risk assessments
-- Ensure compliance with Aircraft Rescue and Fire Fighting (ARFF) requirements
-- Coordinate with airport authority on safety protocols
-- Monitor safety compliance during event execution
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
+**Operations Leader:**
+
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Event Planning and Concept Development Phase
@@ -717,34 +693,22 @@ This process establishes systematic methods for gathering, analyzing, and acting
 
 ### Roles and Responsibilities
 
-**Client Experience Lead:**
-
-- Design feedback collection systems and survey instruments
-- Coordinate feedback collection across all client touchpoints
-- Analyze feedback data and identify trends and opportunities
-- Develop action plans based on feedback insights
-
 **Marketing Leader:**
 
-- Support feedback collection strategy and channel integration
-- Analyze feedback for marketing and communication insights
-- Coordinate with external survey vendors and platforms
-- Report feedback insights to leadership and stakeholders
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Review operational feedback and implement process improvements
-- Coordinate with team members on feedback-driven changes
-- Ensure feedback collection doesn't interfere with operations
-- Support resolution of operational issues identified through feedback
-
-**Team Members (All Departments):**
-
-- Collect informal feedback during client interactions
-- Encourage client participation in formal feedback programs
-- Implement feedback-driven improvements in their areas
-- Report significant feedback themes to leadership
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Feedback Collection System Design Phase
@@ -867,32 +831,28 @@ This process establishes systematic methods for creating, implementing, and mana
 
 **Marketing Leader:**
 
-- Develop loyalty program strategy and structure
-- Design reward systems and benefit tiers
-- Coordinate program marketing and promotion activities
-- Monitor program performance and return on investment
-
-**Client Experience Lead:**
-
-- Support program enrollment and client communication
-- Manage day-to-day program operations and client inquiries
-- Track client participation and satisfaction with program benefits
-- Coordinate reward fulfillment and recognition activities
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Business Leader:**
 
-- Approve program financial structure and reward costs
-- Review program profitability and impact on revenue
-- Provide strategic guidance on program expansion or modification
-- Monitor competitive positioning and industry benchmarking
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Ensure program benefits can be delivered consistently
-- Coordinate team member training on program administration
-- Monitor operational impact of program benefits and rewards
-- Support integration of program benefits with service delivery
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Program Design and Development Phase
@@ -1013,34 +973,22 @@ This process establishes systematic methods for conducting personalized follow-u
 
 ### Roles and Responsibilities
 
-**Client Experience Lead:**
-
-- Develop personalized follow-up strategies and communication templates
-- Coordinate follow-up activities across all service areas
-- Monitor follow-up effectiveness and client response patterns
-- Train team members on personalized communication techniques
-
 **Marketing Leader:**
 
-- Support follow-up campaign development and automation
-- Analyze follow-up data for marketing insights and opportunities
-- Coordinate follow-up activities with broader marketing initiatives
-- Monitor follow-up impact on client retention and acquisition
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Provide operational insights for follow-up content and timing
-- Ensure follow-up activities don't interfere with service delivery
-- Support team member participation in follow-up activities
-- Monitor operational opportunities identified through follow-up
-
-**Team Members (Service-Specific):**
-
-- Conduct personalized follow-up calls and communications
-- Document client feedback and service opportunities
-- Coordinate follow-up scheduling with client availability
-- Report significant client insights to leadership
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Follow-Up Strategy Development Phase
@@ -1163,32 +1111,28 @@ This process establishes systematic methods for creating, implementing, and mana
 
 **Marketing Leader:**
 
-- Develop referral program strategy and incentive structure
-- Create program marketing materials and communication campaigns
-- Monitor program performance and return on investment
-- Coordinate program promotion across marketing channels
-
-**Client Experience Lead:**
-
-- Manage program enrollment and participant communication
-- Track referral submissions and validate new client conversions
-- Coordinate reward fulfillment and recognition activities
-- Monitor participant satisfaction and program effectiveness
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Business Leader:**
 
-- Approve program financial structure and reward budgets
-- Review program profitability and impact on client acquisition costs
-- Provide strategic guidance on program expansion or modification
-- Monitor competitive positioning and industry benchmarking
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Ensure operational capacity for referral-generated business
-- Support integration of referred clients into service delivery
-- Monitor service quality for referred clients
-- Coordinate team member training on referral program benefits
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Program Design and Structure Phase
@@ -1311,32 +1255,20 @@ This process establishes systematic methods for creating, managing, and distribu
 
 **Marketing Leader:**
 
-- Develop content strategy and editorial calendar
-- Oversee content creation and approve final materials
-- Coordinate content distribution across marketing channels
-- Monitor content performance and engagement metrics
-
-**Client Experience Lead:**
-
-- Provide client insights and feedback for content development
-- Support content creation with client stories and testimonials
-- Review content for accuracy and client appeal
-- Coordinate content distribution through client touchpoints
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Provide technical expertise and operational insights for content
-- Review content for operational accuracy and compliance
-- Support content creation with facility and service information
-- Ensure content doesn't interfere with operational activities
-
-**Team Members (Subject Matter Experts):**
-
-- Contribute specialized knowledge for technical content
-- Participate in content creation including photography and interviews
-- Review content for accuracy within their expertise areas
-- Support content distribution through professional networks
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Content Strategy and Planning Phase
@@ -1459,32 +1391,28 @@ This process establishes systematic methods for identifying, developing, and man
 
 **Marketing Leader:**
 
-- Identify potential partnership opportunities and develop partnership strategy
-- Negotiate partnership agreements and coordinate joint marketing activities
-- Monitor partnership performance and return on investment
-- Maintain relationships with key partnership contacts
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Business Leader:**
 
-- Approve partnership agreements and financial commitments
-- Review partnership terms and legal implications
-- Provide strategic guidance on partnership selection and priorities
-- Monitor partnership impact on business performance
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Assess operational capacity for partnership-related services
-- Coordinate service delivery for partner-referred clients
-- Ensure partnership commitments can be fulfilled consistently
-- Support integration of partner services with FBO operations
-
-**Client Experience Lead:**
-
-- Support partnership development with client experience insights
-- Coordinate partner service integration for seamless client experience
-- Monitor client satisfaction with partner-provided services
-- Gather feedback on partnership value and effectiveness
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Partnership Identification and Evaluation Phase
@@ -1599,46 +1527,28 @@ Flowchart showing partnership development lifecycle from identification and eval
 
 Manage client complaints effectively to maintain satisfaction and turn negative experiences into positive outcomes.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes systematic methods for receiving, investigating, and resolving client complaints to maintain client satisfaction, prevent relationship damage, and identify opportunities for service improvement.
 
-_____________________________________________________________________________________________
-
 ### Roles and Responsibilities
-
-**Client Experience Lead:**
-
-- Receive and document client complaints across all channels
-- Coordinate complaint investigation and resolution activities
-- Communicate with clients throughout the resolution process
-- Monitor complaint trends and recommend systemic improvements
-
-**Operations Leader:**
-
-- Support complaint investigation with operational expertise
-- Coordinate with team members involved in complaint situations
-- Implement operational changes based on complaint findings
-- Ensure complaint resolution doesn't compromise safety or compliance
 
 **Marketing Leader:**
 
-- Support complaint resolution communication and relationship recovery
-- Analyze complaint impact on brand reputation and client relationships
-- Coordinate follow-up marketing and retention activities
-- Monitor complaint resolution effectiveness and client satisfaction
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
-**Team Members (Involved):**
+**Operations Leader:**
 
-- Provide factual information and documentation for complaint investigations
-- Participate in resolution activities and corrective actions
-- Implement process improvements identified through complaint analysis
-- Support prevention of similar complaints through improved service delivery
-
-_____________________________________________________________________________________________
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Complaint Intake and Documentation Phase
@@ -1677,13 +1587,9 @@ ________________________________________________________________________________
 - **Report complaint trends** - Provide regular reports on complaint patterns, resolution effectiveness, and improvement opportunities
 - **Update procedures as needed** - Modify policies and procedures based on complaint analysis and resolution outcomes
 
-_____________________________________________________________________________________________
-
 ### Process Mapping
 
 Flowchart showing complaint resolution lifecycle from intake and documentation through investigation, resolution, and follow-up with feedback loops for continuous improvement.
-
-_____________________________________________________________________________________________
 
 ### Tools and Resources
 
@@ -1715,16 +1621,12 @@ ________________________________________________________________________________
 - Implementation tracking and verification systems
 - Process improvement and change management tools
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Initial complaint acknowledgment within 4 hours and resolution communication within 48 hours for standard complaints.
 **Quality Standard:** 95% of complaints resolved to client satisfaction with no recurring issues within 90 days.
 **Performance Standard:** Complaint resolution process results in 80% client retention rate for complaining clients.
 **Client Satisfaction:** 90% of clients report satisfaction with complaint handling process and resolution outcomes.
-
-_____________________________________________________________________________________________
 
 ### Common Issues and Solutions
 
@@ -1737,8 +1639,6 @@ ________________________________________________________________________________
 **Issue:** Team member resistance to participating in complaint investigations or implementing changes
 **Solution:** Provide training on complaint resolution value, involve team members in solution development, and recognize contributions to improvement efforts
 
-_____________________________________________________________________________________________
-
 ### Safety Considerations
 
 ⚠️ **WARNING**: Immediately escalate any complaints involving safety concerns or regulatory compliance issues to appropriate authorities
@@ -1748,8 +1648,6 @@ ________________________________________________________________________________
 ℹ️ **NOTE**: Document all safety-related complaints and resolutions for regulatory compliance and safety management system requirements
 
 ✅ **BEST PRACTICE**: Use complaint analysis to identify potential safety risks and implement preventive measures
-
-_____________________________________________________________________________________________
 
 ### Regulatory References
 
@@ -1765,46 +1663,28 @@ ________________________________________________________________________________
 
 Manage social media presence and online reputation to build brand awareness and maintain positive public perception.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes systematic methods for managing social media platforms, engaging with online communities, monitoring brand reputation, and responding to online feedback to build positive brand awareness and maintain strong client relationships.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
 **Marketing Leader:**
 
-- Develop social media strategy and content calendar
-- Oversee brand messaging and reputation management activities
-- Monitor social media performance and engagement metrics
-- Coordinate crisis communication and reputation recovery efforts
-
-**Client Experience Lead:**
-
-- Support social media content creation with client stories and testimonials
-- Monitor client feedback and engagement on social platforms
-- Coordinate response to client inquiries and concerns via social media
-- Gather insights from social media interactions for service improvement
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Provide operational content and expertise for social media posts
-- Review social media content for operational accuracy and compliance
-- Support social media activities without interfering with operations
-- Coordinate team member participation in social media content creation
-
-**Team Members (Designated Social Media):**
-
-- Create and schedule social media content according to calendar
-- Monitor social media platforms for mentions, comments, and messages
-- Respond to inquiries and engage with followers in timely manner
-- Report significant social media issues or opportunities to leadership
-
-_____________________________________________________________________________________________
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Social Media Strategy and Planning Phase
@@ -1843,13 +1723,9 @@ ________________________________________________________________________________
 - **Document reputation incidents** - Record negative feedback, response actions, and resolution outcomes for analysis
 - **Report reputation metrics** - Provide regular reports on online reputation status and improvement recommendations
 
-_____________________________________________________________________________________________
-
 ### Process Mapping
 
 Flowchart showing social media management lifecycle from strategy and planning through content creation, community engagement, and reputation monitoring with feedback loops for continuous improvement.
-
-_____________________________________________________________________________________________
 
 ### Tools and Resources
 
@@ -1881,16 +1757,12 @@ ________________________________________________________________________________
 - Community management best practices
 - Escalation procedures for serious issues
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Social media posts published according to content calendar schedule with 95% consistency.
 **Quality Standard:** All social media content meets brand guidelines and generates zero compliance or reputation issues.
 **Performance Standard:** Social media engagement rates improve by 25% and follower growth increases by 15% within 6 months.
 **Client Satisfaction:** 90% of social media interactions result in positive client sentiment and engagement.
-
-_____________________________________________________________________________________________
 
 ### Common Issues and Solutions
 
@@ -1903,8 +1775,6 @@ ________________________________________________________________________________
 **Issue:** Inconsistent posting schedule and content quality due to operational demands
 **Solution:** Use scheduling tools to maintain consistency, create content templates for efficiency, and designate backup team members for content management
 
-_____________________________________________________________________________________________
-
 ### Safety Considerations
 
 ℹ️ **NOTE**: Ensure all social media content accurately represents safety procedures and regulatory compliance
@@ -1914,8 +1784,6 @@ ________________________________________________________________________________
 ✅ **BEST PRACTICE**: Use social media to promote safety awareness and best practices within the aviation community
 
 ⚠️ **WARNING**: Never post content that could encourage unsafe aviation practices or compromise Federal Aviation Administration (FAA) compliance
-
-_____________________________________________________________________________________________
 
 ### Regulatory References
 
@@ -1931,46 +1799,28 @@ ________________________________________________________________________________
 
 Engage with the pilot community through outreach initiatives to build relationships and establish market presence.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes systematic methods for engaging with local and regional pilot communities, aviation organizations, and industry groups to build relationships, establish market presence, and generate referrals and new business opportunities.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
 **Marketing Leader:**
 
-- Develop community outreach strategy and identify target organizations
-- Coordinate participation in aviation events and industry activities
-- Monitor outreach effectiveness and return on investment
-- Maintain relationships with aviation organization leaders
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Support outreach activities with operational expertise and facility access
-- Coordinate team member participation in community events
-- Ensure outreach activities don't interfere with service delivery
-- Provide technical expertise for educational outreach programs
-
-**Client Experience Lead:**
-
-- Support outreach activities with client relationship insights
-- Coordinate follow-up activities with community contacts
-- Monitor client acquisition from community outreach efforts
-- Gather feedback on community perception and needs
-
-**Team Members (Aviation Professionals):**
-
-- Participate in community events and professional organizations
-- Share expertise through presentations and educational activities
-- Build relationships with pilot community members
-- Report community insights and opportunities to leadership
-
-_____________________________________________________________________________________________
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Community Identification and Research Phase
@@ -2009,13 +1859,9 @@ ________________________________________________________________________________
 - **Expand successful relationships** - Deepen engagement with high-value community relationships and expand network
 - **Report community insights** - Share community feedback and market intelligence with leadership for strategic planning
 
-_____________________________________________________________________________________________
-
 ### Process Mapping
 
 Flowchart showing community outreach lifecycle from identification and research through relationship building, educational outreach, and follow-up with feedback loops for continuous engagement.
-
-_____________________________________________________________________________________________
 
 ### Tools and Resources
 
@@ -2047,16 +1893,12 @@ ________________________________________________________________________________
 - Business development tracking and opportunity management
 - Performance measurement and reporting tools
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Community outreach activities executed according to annual calendar with 90% participation rate.
 **Quality Standard:** Positive feedback from 85% of community interactions and educational presentations.
 **Performance Standard:** Community outreach generates 20% of new client leads and 15% increase in regional market awareness.
 **Client Satisfaction:** 90% of community-referred clients report satisfaction with services and continue relationship.
-
-_____________________________________________________________________________________________
 
 ### Common Issues and Solutions
 
@@ -2069,8 +1911,6 @@ ________________________________________________________________________________
 **Issue:** Community events and activities conflicting with operational demands
 **Solution:** Plan outreach activities during slower operational periods, designate backup participants, and coordinate with operations team for scheduling
 
-_____________________________________________________________________________________________
-
 ### Safety Considerations
 
 ℹ️ **NOTE**: Use community outreach opportunities to promote aviation safety and best practices
@@ -2080,8 +1920,6 @@ ________________________________________________________________________________
 ✅ **BEST PRACTICE**: Participate in community safety initiatives and promote safety culture throughout outreach activities
 
 ⚠️ **WARNING**: Never compromise safety standards or provide incorrect safety information during community presentations
-
-_____________________________________________________________________________________________
 
 ### Regulatory References
 
@@ -2097,46 +1935,36 @@ ________________________________________________________________________________
 
 Develop and execute seasonal marketing campaigns to capitalize on seasonal opportunities and maintain year-round engagement.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes systematic methods for planning, developing, and executing seasonal marketing campaigns that capitalize on aviation activity patterns, weather cycles, and holiday periods to maximize client engagement and business opportunities.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
 **Marketing Leader:**
 
-- Develop seasonal campaign strategy and calendar
-- Coordinate campaign execution across marketing channels
-- Monitor seasonal campaign performance and return on investment
-- Adjust campaigns based on weather and market conditions
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Operations Leader:**
 
-- Provide insights on seasonal operational patterns and capacity
-- Coordinate operational support for seasonal campaign promises
-- Monitor service delivery during high-demand seasonal periods
-- Support campaign execution without compromising service quality
-
-**Client Experience Lead:**
-
-- Support seasonal campaign development with client behavior insights
-- Coordinate client communication and campaign message delivery
-- Monitor client response and satisfaction during seasonal campaigns
-- Gather feedback on seasonal campaign effectiveness and appeal
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 
 **Business Leader:**
 
-- Approve seasonal campaign budgets and financial commitments
-- Review seasonal revenue projections and performance targets
-- Provide strategic guidance on seasonal market opportunities
-- Monitor competitive positioning during seasonal periods
-
-_____________________________________________________________________________________________
-
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 ### Process Steps
 
 #### Seasonal Opportunity Analysis Phase
@@ -2175,13 +2003,9 @@ ________________________________________________________________________________
 - **Plan campaign improvements** - Develop recommendations for enhancing future seasonal campaigns based on performance analysis
 - **Prepare for next season** - Begin early planning for upcoming seasonal campaigns incorporating lessons learned and market changes
 
-_____________________________________________________________________________________________
-
 ### Process Mapping
 
 Flowchart showing seasonal campaign lifecycle from opportunity analysis through development, execution, and evaluation with feedback loops for continuous improvement and next season planning.
-
-_____________________________________________________________________________________________
 
 ### Tools and Resources
 
@@ -2213,16 +2037,12 @@ ________________________________________________________________________________
 - Return on investment calculation and tracking
 - Lessons learned documentation and planning templates
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Seasonal campaigns launched according to planned schedule with all materials and systems ready 2 weeks before campaign start.
 **Quality Standard:** Seasonal campaigns maintain brand consistency and generate zero compliance or operational issues.
 **Performance Standard:** Seasonal campaigns achieve 20% higher engagement rates and 15% increase in seasonal revenue compared to non-campaign periods.
 **Client Satisfaction:** 85% of clients report positive response to seasonal campaigns and find offers relevant to their needs.
-
-_____________________________________________________________________________________________
 
 ### Common Issues and Solutions
 
@@ -2235,8 +2055,6 @@ ________________________________________________________________________________
 **Issue:** Seasonal campaigns generating short-term results without long-term client retention
 **Solution:** Focus on relationship building rather than transactional offers, implement follow-up strategies for seasonal clients, and create year-round engagement programs
 
-_____________________________________________________________________________________________
-
 ### Safety Considerations
 
 ℹ️ **NOTE**: Ensure seasonal campaigns promote safe flying practices and appropriate weather decision-making
@@ -2246,8 +2064,6 @@ ________________________________________________________________________________
 ✅ **BEST PRACTICE**: Include safety messaging and weather awareness in seasonal campaign communications
 
 ⚠️ **WARNING**: Never compromise safety standards or encourage unsafe practices to meet seasonal campaign objectives
-
-_____________________________________________________________________________________________
 
 ### Regulatory References
 
@@ -2263,46 +2079,36 @@ ________________________________________________________________________________
 
 Analyze client retention metrics and generate reports to guide strategic decisions and improve client retention rates.
 
-_____________________________________________________________________________________________
-
 ### Purpose
 
 This process establishes systematic methods for collecting, analyzing, and reporting client retention data to identify trends, measure program effectiveness, and guide strategic decisions for improving client loyalty and long-term business relationships.
-
-_____________________________________________________________________________________________
 
 ### Roles and Responsibilities
 
 **Marketing Leader:**
 
-- Oversee retention analytics strategy and reporting requirements
-- Analyze retention data for marketing program effectiveness
-- Coordinate retention improvement initiatives based on analytics insights
-- Report retention performance to leadership and stakeholders
+- Oversee market research and segmentation analysis
+- Approve targeting strategies and budget allocation
+- Monitor campaign performance and ROI
+- Coordinate marketing initiatives and content creation
+- Manage client retention and loyalty programs
 
 **Business Leader:**
 
-- Define retention performance targets and business objectives
-- Review retention analytics for strategic planning and resource allocation
-- Approve retention improvement investments based on analytics recommendations
-- Monitor retention impact on overall business performance and profitability
-
-**Client Experience Lead:**
-
-- Support data collection and analysis with client interaction insights
-- Implement retention improvement initiatives based on analytics findings
-- Monitor retention program effectiveness and client satisfaction trends
-- Provide feedback on analytics accuracy and practical applications
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Provide operational data and insights for retention analysis
-- Support implementation of retention improvement initiatives
-- Monitor operational impact of retention programs and strategies
-- Ensure retention activities don't compromise service quality or safety
-
-_____________________________________________________________________________________________
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ### Process Steps
 
 #### Data Collection and System Setup Phase
@@ -2341,13 +2147,9 @@ ________________________________________________________________________________
 - **Adjust strategies as needed** - Modify retention approaches based on performance data and changing client needs
 - **Report improvement results** - Provide regular updates on retention strategy implementation and effectiveness
 
-_____________________________________________________________________________________________
-
 ### Process Mapping
 
 Flowchart showing retention analytics lifecycle from data collection and analysis through insight development, strategic planning, and implementation monitoring with feedback loops for continuous improvement.
-
-_____________________________________________________________________________________________
 
 ### Tools and Resources
 
@@ -2379,16 +2181,12 @@ ________________________________________________________________________________
 - Performance measurement and tracking systems
 - Best practices and industry benchmarking resources
 
-_____________________________________________________________________________________________
-
 ### Success Metrics
 
 **Completion Time:** Monthly retention analytics and reports completed within 5 business days of month-end.
 **Quality Standard:** Retention data accuracy of 95% with consistent methodology and reliable trend identification.
 **Performance Standard:** Retention analytics identify improvement opportunities resulting in 10% increase in client retention rates within 12 months.
 **Client Satisfaction:** Analytics-driven retention strategies result in 15% improvement in client satisfaction scores.
-
-_____________________________________________________________________________________________
 
 ### Common Issues and Solutions
 
@@ -2401,8 +2199,6 @@ ________________________________________________________________________________
 **Issue:** Retention strategies showing limited impact despite analytics indicating opportunities
 **Solution:** Review strategy implementation effectiveness, gather client feedback on retention initiatives, and adjust approaches based on actual client response and behavior
 
-_____________________________________________________________________________________________
-
 ### Safety Considerations
 
 ℹ️ **NOTE**: Ensure retention analytics and strategies don't compromise safety standards or create pressure for unsafe operations
@@ -2412,8 +2208,6 @@ ________________________________________________________________________________
 ✅ **BEST PRACTICE**: Include safety-related metrics in retention analysis to identify potential safety impacts of retention strategies
 
 ⚠️ **WARNING**: Never compromise Federal Aviation Administration (FAA) regulations or safety procedures to improve retention metrics
-
-_____________________________________________________________________________________________
 
 ### Regulatory References
 

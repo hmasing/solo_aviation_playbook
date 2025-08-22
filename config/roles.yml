@@ -1,0 +1,1873 @@
+# FBO Operations Playbook - Role Definitions
+# Generated automatically from procedure documents
+# Last updated: 2025-08-22 06:24:11
+
+---
+:metadata:
+  :generated_at: '2025-08-22T06:24:11-0400'
+  :total_roles: 84
+  :description: Extracted roles and responsibilities from FBO Operations Playbook
+    procedures
+:roles:
+  Operations Leader:
+    :responsibilities:
+    - Approve corrective action plans and timelines
+    - Approve instructor hiring and termination decisions
+    - Approve policies for client authorization and communication requirements
+    - Approve purchase orders for operational supplies and services
+    - Assess operational capacity and facility requirements for events
+    - Assess operational capacity and service delivery requirements
+    - Assess operational capacity for partnership-related services
+    - Authorize audit preparation resources and activities
+    - Authorize emergency response activation and resource allocation
+    - Authorize emergency response procedures and coordinate with external emergency
+      services
+    - Authorize equipment purchases, repairs, and safety improvements
+    - Authorize fuel safety equipment purchases and maintenance
+    - Authorize ground support equipment purchases and training
+    - Authorize investigation resources and support
+    - Authorize record-keeping systems and technology investments
+    - Authorize resources for compliance activities and training
+    - Authorize resources for environmental protection and compliance
+    - Authorize resources for hazard correction and safety improvements
+    - Authorize resources for workplace safety improvements
+    - Authorize security access levels for personnel and visitors
+    - Authorize service charge adjustments when appropriate
+    - Authorize specialized training and certification programs
+    - Communicate with clients and media as appropriate
+    - Communicate with senior leadership
+    - Coordinate emergency communications with students, families, and regulatory
+      authorities
+    - Coordinate instructor compensation and benefits programs
+    - Coordinate operational changes based on client feedback
+    - Coordinate operational support for seasonal campaign promises
+    - Coordinate safety and security measures during events
+    - Coordinate scheduling across departments for operational coverage
+    - Coordinate service delivery for partner-referred clients
+    - Coordinate service holds for delinquent accounts
+    - Coordinate team member participation in community events
+    - Coordinate team member participation in social media content creation
+    - Coordinate team member training on program administration
+    - Coordinate team member training on promotional offers
+    - Coordinate team member training on referral program benefits
+    - Coordinate with airport authority and emergency services leadership
+    - Coordinate with airport authority on ramp safety matters
+    - Coordinate with compliance on record-keeping requirements
+    - Coordinate with finance on payroll-related operational needs
+    - Coordinate with finance on tax-related operational requirements
+    - Coordinate with regulatory agencies on fuel safety matters
+    - Coordinate with suppliers on delivery schedules and emergency orders
+    - Coordinate with team leaders to address systemic issues identified through feedback
+    - Coordinate with team members involved in complaint situations
+    - Coordinate with team members on feedback-driven changes
+    - Coordinate with vendors on delivery timing and service requirements
+    - Coordinate with vendors on service delivery and issues
+    - Demonstrate leadership commitment to workplace safety
+    - Demonstrate visible commitment to safety culture and continuous improvement
+    - Develop master schedules and approve schedule changes
+    - Ensure adequate instructor staffing for training demand
+    - Ensure adequate resources are allocated for client satisfaction improvement
+      programs
+    - Ensure adequate resources for equipment maintenance and safety programs
+    - Ensure adequate resources for regulatory documentation and record-keeping
+    - Ensure adequate resources for safety management activities
+    - Ensure adequate resources for safety training programs
+    - Ensure alignment between marketing targets and operational readiness
+    - Ensure billing procedures support operational efficiency
+    - Ensure campaign promises align with service delivery capabilities
+    - Ensure client satisfaction with maintenance services and communication quality
+    - Ensure collection activities don't compromise safety operations
+    - Ensure complaint resolution doesn't compromise safety or compliance
+    - Ensure compliance with airport and Federal Aviation Administration (FAA) regulations
+    - Ensure content doesn't interfere with operational activities
+    - Ensure emergency response compliance with regulatory requirements and insurance
+      obligations
+    - Ensure environmental program implementation and effectiveness
+    - Ensure feedback collection doesn't interfere with operations
+    - Ensure follow-up activities don't interfere with service delivery
+    - Ensure fuel safety program compliance
+    - Ensure ground handling safety program implementation
+    - Ensure immediate response to incidents
+    - Ensure operational activities comply with insurance requirements
+    - Ensure operational capacity for referral-generated business
+    - Ensure operational records meet regulatory standards
+    - Ensure organizational compliance with FAA regulations
+    - Ensure organizational support for OSHA compliance
+    - Ensure organizational support for audit process
+    - Ensure outreach activities don't interfere with service delivery
+    - Ensure partnership commitments can be fulfilled consistently
+    - Ensure program benefits can be delivered consistently
+    - Ensure promotional offers don't compromise safety or compliance
+    - Ensure retention activities don't compromise service quality or safety
+    - Ensure runway safety program implementation and compliance
+    - Ensure safety inspection program implementation and effectiveness
+    - Ensure security program compliance and effectiveness
+    - Ensure tax considerations are included in operational decisions
+    - Establish inventory level requirements and reorder points
+    - Evaluate vendor performance and service quality
+    - Explain operational factors affecting financial performance
+    - Identify operational needs and specify purchase requirements
+    - Identify operational needs and vendor requirements
+    - Identify operational risks requiring insurance coverage
+    - Implement operational changes based on complaint findings
+    - Interface with airport authority and FAA on runway safety matters
+    - Interface with airport authority on security matters
+    - Interface with regulatory agencies on environmental matters
+    - Justify budget variances and request adjustments when needed
+    - Make critical decisions regarding facility operations and personnel safety
+    - Make decisions regarding facility evacuation and training activity suspension
+    - Manage team member assignments and operational support
+    - Monitor client retention and satisfaction metrics for business performance evaluation
+    - Monitor departmental spending against approved budgets
+    - Monitor inventory usage patterns and operational needs
+    - Monitor operational impact of program benefits and rewards
+    - Monitor operational impact of retention programs and strategies
+    - Monitor operational opportunities identified through follow-up
+    - Monitor safety performance metrics and improvement trends
+    - Monitor service delivery during high-demand seasonal periods
+    - Monitor service quality during promotional periods
+    - Monitor service quality for referred clients
+    - Monitor staffing levels and authorize overtime when needed
+    - Oversee client communication procedures and service quality standards
+    - Participate in audit opening and closing meetings
+    - Provide input on service availability and scheduling constraints
+    - Provide input on service delivery capabilities
+    - Provide insights on seasonal operational patterns and capacity
+    - Provide leadership commitment and support for SMS implementation
+    - Provide operational content and expertise for social media posts
+    - Provide operational context for regulatory documentation
+    - Provide operational data and insights for retention analysis
+    - Provide operational data for client service analysis
+    - Provide operational data for financial analysis
+    - Provide operational data supporting tax calculations
+    - Provide operational input for budget planning
+    - Provide operational insights for follow-up content and timing
+    - Provide technical expertise and operational insights for content
+    - Provide technical expertise for educational outreach programs
+    - Report incidents and potential claims promptly
+    - Represent organization in FAA meetings and communications
+    - Resolve client concerns regarding maintenance work or service issues
+    - Review and approve corrective actions
+    - Review audit findings and approve corrective actions
+    - Review billing disputes and approve resolutions
+    - Review compliance reports and corrective actions
+    - Review content for operational accuracy and compliance
+    - Review environmental incidents and approve corrective actions
+    - Review equipment performance and safety metrics
+    - Review fuel safety incidents and corrective actions
+    - Review ground handling safety performance and incidents
+    - Review inspection findings and approve corrective action plans
+    - Review instructor performance and client feedback
+    - Review operational capacity for campaign-generated leads
+    - Review operational capacity for targeted client segments
+    - Review operational feedback and implement process improvements
+    - Review overall client satisfaction trends and approve improvement initiatives
+    - Review record-keeping performance and approve system improvements
+    - Review runway safety performance metrics and improvement plans
+    - Review safety performance and approve risk mitigation strategies
+    - Review security incidents and approve security improvements
+    - Review social media content for operational accuracy and compliance
+    - Review training performance metrics and improvement initiatives
+    - Submit timekeeping records and schedule changes
+    - Support campaign execution without compromising service quality
+    - Support client relationship management with service delivery excellence
+    - Support collection efforts with service documentation
+    - Support complaint investigation with operational expertise
+    - Support content creation with facility and service information
+    - Support equipment maintenance scheduling and operational coordination
+    - Support implementation of retention improvement initiatives
+    - Support integration of partner services with FBO operations
+    - Support integration of program benefits with service delivery
+    - Support integration of referred clients into service delivery
+    - Support outreach activities with operational expertise and facility access
+    - Support regulatory inspection activities and documentation requests
+    - Support resolution of operational issues identified through feedback
+    - Support resource allocation for increased client activity
+    - Support resource allocation for targeted initiatives
+    - Support runway safety training and awareness initiatives
+    - Support social media activities without interfering with operations
+    - Support team member participation in follow-up activities
+    - Support team member participation in required training
+    - Use financial reports to monitor departmental performance
+    - Verify hours worked and approve overtime requests
+    :usage_count: 47
+    :sections_used:
+    - Administrative and Financial
+    - Flight School Operations
+    - Maintenance Operations
+    - Marketing and Client Retention
+    - Safety and Compliance
+  Department Leaders:
+    :responsibilities:
+    - Approve departmental expenses within authorization limits
+    - Approve departmental purchases within established limits
+    - Approve time-off requests and coordinate coverage
+    - Create departmental schedules and manage team member assignments
+    - Ensure accurate recording of hours worked and leave taken
+    - Ensure team member compliance with safety procedures
+    - Ensure team members complete required documentation accurately and timely
+    - Ensure team members in their areas complete required training
+    - Ensure team members maintain required security credentials
+    - Foster positive safety culture among their team members
+    - Implement FAA compliance requirements in their areas
+    - Implement SMS requirements in their operational areas
+    - Implement assigned corrective actions
+    - Implement assigned corrective actions within established timeframes
+    - Implement assigned workplace safety corrective actions
+    - Implement corrective actions within their areas of responsibility
+    - Implement environmental procedures in their operational areas
+    - Maintain OSHA compliance in their operational areas
+    - Maintain departmental records according to established procedures
+    - Maintain ongoing compliance in their operational areas
+    - Maintain ongoing safety compliance in their areas of responsibility
+    - Maintain required records for their operational areas
+    - Monitor application of safety training in daily operations
+    - Monitor attendance and address scheduling issues
+    - Monitor daily operations for compliance adherence
+    - Monitor deliveries and verify receipt of ordered items
+    - Monitor departmental costs and revenue performance
+    - Monitor departmental spending against approved budgets
+    - Monitor environmental compliance in daily operations
+    - Monitor safety performance and implement corrective actions
+    - Monitor security compliance in their operational areas
+    - Monitor team spending and ensure budget compliance
+    - Monitor vendor performance within their areas
+    - Participate in hazard identification and risk assessment processes
+    - Prepare their areas for audit inspection
+    - Provide departmental records and operational documentation
+    - Provide input for budget planning and forecasting
+    - Provide on-the-job safety training and mentoring
+    - Provide subject matter expertise during audit
+    - Provide workplace safety expertise during audits
+    - Report budget concerns and opportunities promptly
+    - Report compliance issues and potential violations
+    - Report environmental incidents and concerns immediately
+    - Report record-keeping issues and compliance concerns
+    - Report record-keeping issues and improvement opportunities
+    - Report schedule changes and time-off requests
+    - Report security concerns and violations immediately
+    - Report training needs and effectiveness issues
+    - Report vendor issues and recommend contract modifications
+    - Review and approve team member timesheets
+    - Review departmental financial reports and explain variances
+    - Review team member expense reports for accuracy and compliance
+    - Specify departmental vendor requirements and service levels
+    - Submit departmental budget requests with supporting justification
+    - Submit purchase requests with detailed specifications
+    - Support auditor interviews and facility tours
+    - Support regulatory inspections and provide requested documentation
+    - Support safety inspections in their operational areas
+    - Train team members on applicable regulations
+    - Train team members on environmental requirements
+    - Train team members on proper record-keeping practices
+    - Train team members on safety requirements and hazard recognition
+    - Train team members on security procedures and requirements
+    :usage_count: 18
+    :sections_used:
+    - Administrative and Financial
+    - Safety and Compliance
+  Business Leader:
+    :responsibilities:
+    - Approve accounting policy changes and significant adjustments
+    - Approve annual budgets and major budget revisions
+    - Approve capital expenditures over $10,000
+    - Approve client communication strategies and retention initiatives
+    - Approve marketing budget and resource allocation
+    - Approve partnership agreements and financial commitments
+    - Approve payment terms for new clients
+    - Approve payroll policies and compensation changes
+    - Approve program financial structure and reward budgets
+    - Approve program financial structure and reward costs
+    - Approve promotional pricing and financial impact analysis
+    - Approve retention improvement investments based on analytics recommendations
+    - Approve seasonal campaign budgets and financial commitments
+    - Authorize budget transfers and significant variances
+    - Authorize overtime and special compensation arrangements
+    - Authorize tax professional services and representation
+    - Coordinate with external auditors and regulatory inspectors
+    - Coordinate with insurance broker on coverage needs and claims
+    - Define retention performance targets and business objectives
+    - Ensure adequate resources are allocated for audit support
+    - Establish expense policies and authorization limits
+    - Establish procurement policies and vendor selection criteria
+    - Make strategic decisions on risk retention and coverage levels
+    - Make strategic tax planning decisions
+    - Monitor competitive positioning and industry benchmarking
+    - Monitor competitive positioning and pricing strategies
+    - Monitor competitive positioning during seasonal periods
+    - Monitor overall collection performance and cash flow
+    - Monitor overall financial performance of promotional activities
+    - Monitor partnership impact on business performance
+    - Monitor retention impact on overall business performance and profitability
+    - Negotiate major contracts and approve contract terms
+    - Provide strategic direction for market expansion
+    - Provide strategic guidance on competitive positioning
+    - Provide strategic guidance on partnership selection and priorities
+    - Provide strategic guidance on program expansion or modification
+    - Provide strategic guidance on seasonal market opportunities
+    - Review and approve tax returns before filing
+    - Review and authorize write-offs for uncollectable accounts
+    - Review audit findings and approve corrective action plans
+    - Review client relationship reports and growth opportunities
+    - Review financial projections and return on investment analysis
+    - Review financial reports and analyze performance trends
+    - Review insurance coverage requirements and approve policy changes
+    - Review monthly expense reports and budget variances
+    - Review monthly financial performance against budget
+    - Review partnership terms and legal implications
+    - Review payroll reports and budget compliance
+    - Review profit margins and revenue projections
+    - Review program profitability and impact on client acquisition costs
+    - Review program profitability and impact on revenue
+    - Review retention analytics for strategic planning and resource allocation
+    - Review seasonal revenue projections and performance targets
+    - Review vendor performance and authorize contract renewals
+    - Use CRM data for strategic planning and business development
+    - Use financial information for strategic planning and decision-making
+    :usage_count: 17
+    :sections_used:
+    - Administrative and Financial
+    - Marketing and Client Retention
+  Avionics Shop Leader:
+    :responsibilities:
+    - Approve calibration procedures and service provider selections
+    - Approve documentation procedures and format requirements
+    - Approve emergency work authorization and billing procedures
+    - Approve installation completion and return to service
+    - Approve labor rates and billing procedures
+    - Approve modification completion and airworthiness certification
+    - Approve parts specifications and supplier selections
+    - Approve project status updates and timeline changes
+    - Approve repair completion and return to service authorization
+    - Approve test results and component disposition decisions
+    - Approve warranty policy and procedure updates
+    - Assess training needs and approve training programs
+    - Authorize emergency parts procurement and expedited orders
+    - Authorize emergency response actions and resource deployment
+    - Authorize equipment use and out-of-tolerance dispositions
+    - Authorize technician qualifications for specific work types
+    - Authorize work commencement after client approval
+    - Coordinate emergency parts procurement and expedited services
+    - Coordinate quality control inspection scheduling
+    - Coordinate safety training and awareness programs
+    - Coordinate with client service for complex technical discussions
+    - Coordinate with clients on billing questions and disputes
+    - Coordinate with manufacturers for technical support
+    - Coordinate with regulatory authorities for inspections and audits
+    - Ensure compliance with manufacturer testing requirements
+    - Ensure inspector qualifications and training currency
+    - Ensure team member compliance with safety requirements
+    - Ensure technician training on documentation requirements
+    - Evaluate technician competency and performance
+    - Implement safety procedures in daily operations
+    - Monitor billing accuracy and client satisfaction
+    - Oversee calibration budget and equipment replacement planning
+    - Oversee complex modifications and coordinate with regulatory authorities
+    - Oversee complex repairs and provide technical guidance
+    - Oversee emergency repair procedures and quality control
+    - Oversee parts quality control and acceptance procedures
+    - Oversee quality system implementation and effectiveness
+    - Oversee regulatory compliance verification
+    - Oversee service bulletin implementation and compliance
+    - Oversee system integration and final testing procedures
+    - Provide technical information for client communications
+    - Report safety concerns and environmental issues
+    - Review STC documentation and approve modification procedures
+    - Review and approve work order scope and technical requirements
+    - Review and sign off on completed work documentation
+    - Review client feedback and implement improvements
+    - Review complex billing situations and authorize adjustments
+    - Review equipment performance and calibration requirements
+    - Review inspection results and approve corrective actions
+    - Review installation procedures and approve configuration parameters
+    - Review parts requirements for work orders and projects
+    - Review test procedures and approve testing protocols
+    - Review training effectiveness and update requirements
+    - Review troubleshooting approach and approve repair methods
+    - Review warranty claims and approve warranty work
+    - Verify compliance with applicable regulations and airworthiness requirements
+    - Verify compliance with approved data and manufacturer instructions
+    - Verify technician qualifications and equipment availability
+    - Verify technician qualifications for specific component testing
+    - Verify technician qualifications for specific repair procedures
+    :usage_count: 16
+    :sections_used:
+    - Avionics Operations
+  Safety Officer:
+    :responsibilities:
+    - Assess safety risks and recommend appropriate coverage
+    - Audit compliance with safety-related FAA regulations
+    - Audit equipment maintenance practices and safety compliance
+    - Audit fuel safety procedures and compliance
+    - Audit ground handling safety procedures and compliance
+    - Audit training effectiveness and update requirements as needed
+    - Conduct emergency drills and training for all flight school team members
+    - Conduct emergency preparedness assessments and improvements
+    - Conduct regular safety inspections and coordinate corrective actions
+    - Conduct safety briefings and training for all flight school team members
+    - Conduct safety inspections and ensure compliance with environmental regulations
+    - Conduct safety training and compliance monitoring
+    - Coordinate emergency response planning and maintain emergency procedures documentation
+    - Coordinate equipment safety training programs
+    - Coordinate safety-related corrective actions
+    - Coordinate with FAA on safety-related compliance matters
+    - Coordinate with airport authority on safety protocols
+    - Coordinate with local emergency services and maintain emergency contact information
+    - Coordinate with local emergency services on response planning
+    - Coordinate with regulatory agencies when required
+    - Coordinate with regulatory authorities and waste disposal contractors
+    - Coordinate with regulatory authorities for safety compliance
+    - Develop and implement corrective action plans
+    - Develop and maintain hazardous materials management procedures and training
+      programs
+    - Develop and maintain safety procedures and cleanliness standards for maintenance
+      facilities
+    - Develop and maintain safety procedures for avionics operations
+    - Develop corrective action plans
+    - Develop corrective action plans and monitor implementation effectiveness
+    - Develop fuel safety training programs
+    - Develop ground handling safety training programs
+    - Ensure compliance with Aircraft Rescue and Fire Fighting (ARFF) requirements
+    - Establish equipment safety standards and inspection requirements
+    - Establish safety training requirements and standards
+    - Interface with regulatory authorities regarding workplace safety compliance
+    - Investigate all reported safety incidents and coordinate with regulatory authorities
+    - Investigate emergency incidents and implement corrective actions
+    - Investigate emergency incidents and implement corrective actions for prevention
+    - Investigate equipment-related safety incidents
+    - Investigate potential regulatory violations
+    - Investigate safety incidents and implement corrective actions
+    - Investigate serious fuel safety incidents
+    - Investigate serious ground handling incidents
+    - Investigate training-related safety incidents and implement improvements
+    - Lead OSHA audit preparation and coordination
+    - Lead incident investigation and analysis
+    - Maintain emergency response procedures and training programs
+    - Maintain safety incident database and trend analysis reporting
+    - Maintain safety management system compliance
+    - Maintain workplace safety documentation and records
+    - Manage hazardous materials inventory and documentation requirements
+    - Manage safety training programs and incident investigation procedures
+    - Monitor implementation of safety improvements
+    - Monitor regulatory changes affecting fuel operations
+    - Monitor regulatory changes affecting ground operations
+    - Monitor safety compliance during event execution
+    - Monitor safety performance affecting insurance rates
+    - Participate in safety management system audits
+    - Provide safety documentation and records
+    - Review and approve safety training content and materials
+    - Review event safety plans and risk assessments
+    - Serve as primary contact with OSHA compliance officers
+    - Support claims investigations with incident documentation
+    - Support safety-related audit activities
+    :usage_count: 16
+    :sections_used:
+    - Administrative and Financial
+    - Avionics Operations
+    - Flight School Operations
+    - Maintenance Operations
+    - Marketing and Client Retention
+    - Safety and Compliance
+  Finance Leader:
+    :responsibilities:
+    - Analyze financial performance and coordinate with leadership on pricing and
+      payment policies
+    - Analyze inventory turnover and carrying costs
+    - Analyze vendor costs and negotiate pricing improvements
+    - Coordinate insurance requirements with vendor contracts
+    - Coordinate tax preparation and filing activities
+    - Coordinate with department leaders on expense planning
+    - Coordinate with external CPA firms on audit requirements
+    - Coordinate with external auditors and tax authorities
+    - Coordinate with external collection agencies when necessary
+    - Coordinate with external payroll service providers
+    - Coordinate with vendors on payment terms and delivery schedules
+    - Develop budget templates and coordinate planning process
+    - Ensure accounting records are audit-ready and properly documented
+    - Ensure compliance with accounting standards and regulations
+    - Ensure compliance with financial regulations and accounting standards
+    - Ensure compliance with financial reporting and tax requirements
+    - Ensure record security and access controls
+    - Establish payment terms and collection policies
+    - Maintain financial records per regulatory requirements
+    - Maintain tax records and supporting documentation
+    - Manage tax withholdings and regulatory compliance
+    - Monitor accounts receivable and collection activities
+    - Monitor accounts receivable and coordinate collection activities
+    - Monitor accounts receivable and coordinate collection activities for overdue
+      accounts
+    - Monitor budget performance and prepare variance reports
+    - Monitor compliance with tax regulations and deadlines
+    - Monitor contract compliance and payment schedules
+    - Monitor expense compliance with budget and policies
+    - Monitor insurance costs and budget compliance
+    - Monitor inventory costs and budget compliance
+    - Monitor overtime costs and budget compliance
+    - Monitor purchase order compliance with budget and policies
+    - Oversee billing procedures and coordinate with accounting systems
+    - Oversee invoice accuracy and dispute resolution
+    - Oversee payroll processing and ensure accuracy
+    - Perform account reconciliations and resolve discrepancies
+    - Prepare financial records and support financial audits
+    - Prepare monthly financial statements and management reports
+    - Process expense reports and verify supporting documentation
+    - Process insurance payments and maintain policy records
+    - Process purchase orders and vendor payments
+    - Process time-off accruals and benefit calculations
+    - Provide financial analysis and recommendations for adjustments
+    - Review aged receivables and approve collection actions
+    - Review and approve billing policies and procedures
+    - Review and approve billing procedures and payment processing policies
+    - Review and approve purchase orders within authorization limits
+    - Review billing accuracy and approve credit terms and payment arrangements
+    - Review contract financial terms and payment obligations
+    - Review timekeeping records for payroll accuracy
+    :usage_count: 16
+    :sections_used:
+    - Administrative and Financial
+    - Flight School Operations
+    - Maintenance Operations
+  Client Experience Lead:
+    :responsibilities:
+    - Analyze feedback data and identify trends and opportunities
+    - Assist with content development and messaging validation
+    - Assist with follow-up activities and relationship building
+    - Assist with personalized targeting implementation
+    - Communicate with clients throughout the resolution process
+    - Coordinate client communication and campaign message delivery
+    - Coordinate complaint investigation and resolution activities
+    - Coordinate content distribution through client touchpoints
+    - Coordinate feedback collection across all client touchpoints
+    - Coordinate follow-up activities across all service areas
+    - Coordinate follow-up activities with community contacts
+    - Coordinate hospitality and client experience elements
+    - Coordinate partner service integration for seamless client experience
+    - Coordinate response to client inquiries and concerns via social media
+    - Coordinate reward fulfillment and recognition activities
+    - Design feedback collection systems and survey instruments
+    - Develop action plans based on feedback insights
+    - Develop personalized follow-up strategies and communication templates
+    - Gather feedback from event attendees and participants
+    - Gather feedback on community perception and needs
+    - Gather feedback on offer attractiveness and value perception
+    - Gather feedback on partnership value and effectiveness
+    - Gather feedback on seasonal campaign effectiveness and appeal
+    - Gather insights from social media interactions for service improvement
+    - Implement retention improvement initiatives based on analytics findings
+    - Manage day-to-day program operations and client inquiries
+    - Manage program enrollment and participant communication
+    - Monitor campaign impact on client experience and satisfaction
+    - Monitor client acquisition from community outreach efforts
+    - Monitor client feedback and engagement on social platforms
+    - Monitor client response and satisfaction during seasonal campaigns
+    - Monitor client satisfaction during promotional periods
+    - Monitor client satisfaction with partner-provided services
+    - Monitor complaint trends and recommend systemic improvements
+    - Monitor follow-up effectiveness and client response patterns
+    - Monitor participant satisfaction and program effectiveness
+    - Monitor retention program effectiveness and client satisfaction trends
+    - Provide client insights and feedback for content development
+    - Provide client interaction insights and feedback patterns
+    - Provide feedback on analytics accuracy and practical applications
+    - Provide input on client preferences and behavior patterns
+    - Provide insights on client preferences and communication channels
+    - Receive and document client complaints across all channels
+    - Review content for accuracy and client appeal
+    - Support content creation with client stories and testimonials
+    - Support data collection and analysis with client interaction insights
+    - Support data collection from client touchpoints
+    - Support event planning and client interaction management
+    - Support lead qualification and handoff processes
+    - Support outreach activities with client relationship insights
+    - Support partnership development with client experience insights
+    - Support program enrollment and client communication
+    - Support promotional offer communication and explanation
+    - Support seasonal campaign development with client behavior insights
+    - Support social media content creation with client stories and testimonials
+    - Track client participation and satisfaction with program benefits
+    - Track referral submissions and validate new client conversions
+    - Train team members on personalized communication techniques
+    - Validate segmentation accuracy based on field observations
+    :usage_count: 15
+    :sections_used:
+    - Marketing and Client Retention
+  Marketing Leader:
+    :responsibilities:
+    - Adjust campaigns based on weather and market conditions
+    - Analyze complaint impact on brand reputation and client relationships
+    - Analyze feedback for marketing and communication insights
+    - Analyze follow-up data for marketing insights and opportunities
+    - Analyze retention data for marketing program effectiveness
+    - Approve targeting strategies and budget allocation
+    - Coordinate campaign execution across marketing channels
+    - Coordinate content distribution across marketing channels
+    - Coordinate crisis communication and reputation recovery efforts
+    - Coordinate follow-up activities with broader marketing initiatives
+    - Coordinate follow-up marketing and retention activities
+    - Coordinate participation in aviation events and industry activities
+    - Coordinate program marketing and promotion activities
+    - Coordinate program promotion across marketing channels
+    - Coordinate promotional campaigns across marketing channels
+    - Coordinate retention improvement initiatives based on analytics insights
+    - Coordinate sponsorship opportunities and partnerships
+    - Coordinate with Operations Leader on service capacity planning
+    - Coordinate with external digital marketing vendors and agencies
+    - Coordinate with external survey vendors and platforms
+    - Create program marketing materials and communication campaigns
+    - Design reward systems and benefit tiers
+    - Develop campaign strategy and approve budget allocation
+    - Develop community outreach strategy and identify target organizations
+    - Develop content strategy and editorial calendar
+    - Develop event strategy and approve event concepts
+    - Develop loyalty program strategy and structure
+    - Develop promotional strategy and approve offer terms
+    - Develop referral program strategy and incentive structure
+    - Develop seasonal campaign strategy and calendar
+    - Develop social media strategy and content calendar
+    - Ensure promotional offers align with business objectives
+    - Identify potential partnership opportunities and develop partnership strategy
+    - Maintain relationships with aviation organization leaders
+    - Maintain relationships with key partnership contacts
+    - Manage event budgets and return on investment analysis
+    - Monitor campaign performance and return on investment
+    - Monitor complaint resolution effectiveness and client satisfaction
+    - Monitor content performance and engagement metrics
+    - Monitor follow-up impact on client retention and acquisition
+    - Monitor offer performance and return on investment
+    - Monitor outreach effectiveness and return on investment
+    - Monitor partnership performance and return on investment
+    - Monitor program performance and return on investment
+    - Monitor seasonal campaign performance and return on investment
+    - Monitor social media performance and engagement metrics
+    - Negotiate partnership agreements and coordinate joint marketing activities
+    - Oversee brand messaging and reputation management activities
+    - Oversee campaign execution and performance monitoring
+    - Oversee content creation and approve final materials
+    - Oversee event marketing and promotional activities
+    - Oversee market research and segmentation analysis
+    - Oversee retention analytics strategy and reporting requirements
+    - Report campaign results and return on investment to leadership
+    - Report feedback insights to leadership and stakeholders
+    - Report retention performance to leadership and stakeholders
+    - Support complaint resolution communication and relationship recovery
+    - Support feedback collection strategy and channel integration
+    - Support follow-up campaign development and automation
+    :usage_count: 15
+    :sections_used:
+    - Marketing and Client Retention
+  Avionics Technician:
+    :responsibilities:
+    - Communicate directly with clients on technical matters when appropriate
+    - Complete work order documentation accurately and completely
+    - Conduct initial assessment and technical evaluation
+    - Conduct required inspections and testing procedures
+    - Conduct system integration testing and verification
+    - Conduct systematic troubleshooting and fault isolation procedures
+    - Conduct visual inspections and component testing procedures
+    - Configure system parameters according to manufacturer specifications
+    - Coordinate with parts department for component availability
+    - Demonstrate competency in assigned work areas
+    - Document client interactions and technical discussions
+    - Document component requirements and special procedures
+    - Document installation procedures and configuration settings
+    - Document materials used and services provided
+    - Document modification procedures and configuration changes
+    - Document troubleshooting steps and repair actions taken
+    - Document warranty work and maintain accurate records
+    - Execute modification procedures according to approved STC instructions
+    - Execute system testing and verification procedures
+    - Follow established safety and environmental procedures
+    - Identify component defects and performance issues
+    - Identify warranty-eligible issues during maintenance
+    - Maintain component installation and configuration records
+    - Maintain current certifications and licenses
+    - Maintain detailed work records for billing verification
+    - Maintain equipment in proper condition between calibrations
+    - Operate test equipment according to calibration procedures
+    - Operate test equipment and document test results
+    - Participate in required training programs and assessments
+    - Participate in safety training and compliance activities
+    - Perform component-level repairs using approved techniques
+    - Perform corrective actions as directed by quality control
+    - Perform installation work and system integration testing
+    - Perform physical installation of avionics equipment and wiring
+    - Perform warranty repairs according to manufacturer procedures
+    - Prepare components for installation or return to service
+    - Prepare detailed work scope and time estimates
+    - Prepare work for quality control inspection
+    - Provide accurate project status and technical information
+    - Provide technical information and documentation to inspector
+    - Record accurate labor time and work performed
+    - Record all maintenance actions and test results
+    - Report billing discrepancies or special circumstances
+    - Report client concerns or requests to leadership
+    - Report equipment malfunctions and accuracy concerns
+    - Report safety hazards and environmental concerns
+    - Report service bulletin compliance and implementation
+    - Report training needs and skill development requirements
+    - Submit completed documentation for quality review
+    - Support inspector during inspection and testing procedures
+    - Use proper protective equipment and safety protocols
+    - Verify equipment calibration status before use
+    :usage_count: 14
+    :sections_used:
+    - Avionics Operations
+  Chief of Maintenance:
+    :responsibilities:
+    - Allocate resources for safety equipment and facility maintenance
+    - Approve billing adjustments and warranty work authorization
+    - Approve hazardous materials usage and disposal procedures
+    - Approve maintenance recommendations and cost estimates for client presentation
+    - Approve parts procurement policies and vendor selection criteria
+    - Approve quality control procedures and standards
+    - Approve tool and equipment procurement and calibration procedures
+    - Approve training budget and resource allocation
+    - Approve training programs and certification requirements for maintenance positions
+    - Assign qualified technicians to specific maintenance tasks
+    - Authorize equipment repairs and replacement decisions
+    - Authorize quality control personnel and qualifications
+    - Authorize technician certifications and qualifications
+    - Coordinate team member training on hazardous materials safety
+    - Coordinate with billing team for complex maintenance billing issues
+    - Coordinate with client service team for technical explanation requirements
+    - Coordinate with regulatory authorities during inspections and audits
+    - Coordinate with regulatory authorities for quality system audits
+    - Coordinate with regulatory authorities for record keeping requirements
+    - Coordinate with regulatory authorities regarding training compliance
+    - Coordinate with safety officer for incident response and prevention
+    - Ensure accuracy of labor time reporting and materials usage documentation
+    - Ensure adequate resources and training for quality control activities
+    - Ensure adequate resources for tool maintenance and calibration programs
+    - Ensure adequate resources for training activities and professional development
+    - Ensure compliance with manufacturer recommendations and regulatory requirements
+    - Ensure compliance with regulatory requirements for parts quality and documentation
+    - Ensure compliance with regulatory training requirements
+    - Ensure maintenance operations comply with all applicable regulations
+    - Ensure maintenance operations comply with hazardous materials handling requirements
+    - Ensure maintenance operations comply with safety and cleanliness requirements
+    - Ensure maintenance quality meets client expectations and regulatory standards
+    - Ensure regulatory compliance for all scheduled maintenance work
+    - Interface with clients regarding quality issues and corrective measures
+    - Maintain master maintenance record files and historical documentation
+    - Maintain oversight of technician certification and training compliance
+    - Oversee inventory management procedures and cost control measures
+    - Oversee maintenance documentation procedures and quality control
+    - Oversee quality control and final inspection of completed maintenance
+    - Oversee quality control program implementation and effectiveness
+    - Resolve scheduling conflicts and resource allocation issues
+    - Review and approve complex or high-value work orders
+    - Review and approve compliance procedures and training programs
+    - Review and approve maintenance work orders and cost estimates before billing
+    - Review and approve scheduled maintenance programs and intervals
+    - Review and authorize high-value parts purchases and emergency orders
+    - Review calibration program effectiveness and cost management
+    - Review complex maintenance entries and ensure regulatory compliance
+    - Review complex maintenance issues requiring client consultation
+    - Review incidents and implement corrective actions for safety improvements
+    - Review overall training program effectiveness
+    - Review quality metrics and approve corrective action plans
+    - Review quality metrics and system effectiveness
+    - Review safety performance and implement improvement initiatives
+    - Review training effectiveness and support career development initiatives
+    :usage_count: 14
+    :sections_used:
+    - Avionics Operations
+    - Maintenance Operations
+  Flight Instructor:
+    :responsibilities:
+    - Assess student knowledge application during flight training activities
+    - Brief students on aircraft systems and inspection procedures
+    - Brief students on safety lessons learned from incident investigations
+    - Communicate lesson objectives and requirements to scheduling team
+    - Complete accurate logbook entries and training record documentation
+    - Conduct initial student assessment and training readiness evaluation
+    - Conduct pre-flight briefings covering training objectives, safety procedures,
+      and flight planning
+    - Conduct simulator instruction and evaluate student performance
+    - Conduct thorough post-flight debriefings focusing on training objectives and
+      performance evaluation
+    - Conduct thorough pre-flight inspections before each training flight
+    - Coordinate aircraft scheduling and training resource allocation
+    - Coordinate emergency procedures review and risk assessment for planned training
+      activities
+    - Coordinate simulator scenarios with overall training progression
+    - Coordinate student evacuation and account for all assigned students during emergencies
+    - Coordinate with Chief Flight Instructor for training milestone approvals
+    - Coordinate with fuel operations for aircraft refueling scheduling
+    - Coordinate with ground instructors to address knowledge gaps
+    - Coordinate with maintenance team for aircraft status updates
+    - Coordinate with students on next lesson planning and training progression
+    - Document aircraft discrepancies and maintenance issues immediately
+    - Document student progress after each lesson and maintain accurate training records
+    - Encourage client feedback and maintain open communication with assigned students
+    - Evaluate student performance against established training standards and objectives
+    - Execute pre-flight checklists systematically and ensure student understanding
+    - Implement corrective actions and safety improvements in training activities
+    - Implement emergency procedures for students under their supervision
+    - Implement feedback-driven improvements in individual instruction methods
+    - Integrate ground school concepts into flight training lessons
+    - Integrate simulator training with actual flight training activities
+    - Maintain communication with operations leadership during emergency situations
+    - Maintain current flight instructor certificates and required endorsements
+    - Maintain ongoing communication with students regarding progress and requirements
+    - Monitor student fuel planning and decision-making during training activities
+    - Participate in client satisfaction improvement initiatives and training programs
+    - Participate in incident investigations and provide detailed incident information
+    - Participate in required proficiency checks and training activities
+    - Plan fuel requirements for training flights and coordinate with fuel operations
+    - Plan simulator training sessions to complement flight training objectives
+    - Prepare students for stage checks, knowledge tests, and practical examinations
+    - Provide additional ground instruction as needed for individual students
+    - Provide constructive feedback on student performance and identify areas for
+      improvement
+    - Provide first aid assistance and coordinate with emergency medical services
+    - Report aircraft discrepancies or maintenance needs affecting future scheduling
+    - Report all safety incidents immediately to Chief Flight Instructor and Safety
+      Officer
+    - Report certification status changes and renewal requirements
+    - Respond professionally to client concerns and coordinate resolution with leadership
+    - Review training objectives and establish learning milestones with students
+    - Review weather conditions and aircraft status before scheduled lessons
+    - Review weather conditions, aircraft status, and operational considerations with
+      students
+    - Submit availability schedules and coordinate with assigned students
+    - Verify adequate fuel for planned training activities and alternate airport requirements
+    :usage_count: 13
+    :sections_used:
+    - Flight School Operations
+  Chief Flight Instructor:
+    :responsibilities:
+    - Address individual instructor performance issues identified through client feedback
+    - Approve ground school curriculum content and ensure regulatory compliance
+    - Approve instructor assignments and training activity scheduling
+    - Approve instructor professional development and training activities
+    - Approve simulator training curricula and ensure training effectiveness
+    - Approve standardized briefing procedures and checklist requirements
+    - Approve training program selection and scheduling recommendations
+    - Assign appropriate flight instructors based on student needs and instructor
+      availability
+    - Assign instructors to students based on qualifications and training requirements
+    - Assign qualified instructors to ground school instruction responsibilities
+    - Conduct flight school orientation and safety briefings
+    - Conduct instructor proficiency checks and standardization training
+    - Conduct stage checks and evaluate student readiness for certification checkrides
+    - Coordinate emergency procedure training and risk management protocols
+    - Coordinate ground school scheduling with flight training activities
+    - Coordinate simulator instructor training and qualification requirements
+    - Coordinate training schedule adjustments for planned maintenance activities
+    - Coordinate with Safety Officer for incident investigation and analysis
+    - Coordinate with administration for training milestone billing and payment requirements
+    - Coordinate with compliance officer for training authorization decisions
+    - Coordinate with designated pilot examiners for practical test scheduling
+    - Coordinate with instructors on training effectiveness and improvement opportunities
+    - Coordinate with maintenance team for aircraft availability planning
+    - Ensure compliance with logbook documentation and record-keeping requirements
+    - Ensure flight instructors report aircraft discrepancies properly
+    - Ensure immediate reporting of all safety incidents and coordinate initial response
+    - Ensure training activities comply with security clearance limitations and conditions
+    - Evaluate simulator training outcomes and student learning benefits
+    - Implement safety-related training modifications based on incident findings
+    - Implement training program modifications based on client suggestions and needs
+    - Maintain oversight of training quality and regulatory compliance
+    - Make final decisions on weather-related flight training cancellations
+    - Monitor briefing quality and ensure consistent standards across all instructors
+    - Monitor debriefing quality and ensure consistent evaluation standards
+    - Monitor ground instruction quality and student learning outcomes
+    - Monitor instructor certification currency and coordinate renewal activities
+    - Monitor international student training progress and regulatory compliance
+    - Monitor simulator usage and coordinate with flight training schedules
+    - Monitor training quality metrics and client satisfaction outcomes
+    - Review and approve aircraft grounding decisions for maintenance issues
+    - Review briefing effectiveness and coordinate improvements based on safety outcomes
+    - Review incident reports and recommend training or procedural improvements
+    - Review international student training plans and coordinate with security clearance
+      requirements
+    - Review student account status before authorizing continued training activities
+    - Review student progress documentation and training milestone achievement
+    - Review student progress reports and approve training milestone achievements
+    - Review student progress to ensure appropriate lesson frequency and sequencing
+    - Review student qualifications and training goals during initial consultation
+    - Review training-related feedback and coordinate instructional improvements
+    - Support payment collection efforts through training progress coordination
+    - Verify aircraft airworthiness before authorizing training flights
+    - Verify training activity records for billing accuracy
+    :usage_count: 13
+    :sections_used:
+    - Flight School Operations
+  Client Service Representative:
+    :responsibilities:
+    - Capture service details and verify charges
+    - Collect initial maintenance requirements from clients
+    - Communicate cost estimates and timeline expectations
+    - Communicate inspection requirements and timeline to clients
+    - Communicate inspection results and revised estimates to clients
+    - Communicate problem diagnosis and repair options to clients
+    - Communicate scheduled maintenance requirements and timelines to clients
+    - Communicate warranty coverage and benefits to clients
+    - Communicate with clients regarding payment status
+    - Coordinate aircraft delivery and explain completed repair work
+    - Coordinate aircraft delivery scheduling and maintenance completion communication
+    - Coordinate aircraft delivery upon inspection completion
+    - Coordinate aircraft scheduling around mandatory maintenance intervals
+    - Coordinate follow-up communications and service requests
+    - Coordinate logbook transfers and historical record management
+    - Coordinate project updates and status communications
+    - Coordinate scheduling and aircraft availability
+    - Coordinate warranty claim processing with clients
+    - Deliver completed aircraft and maintenance documentation to clients
+    - Document client decisions regarding optional maintenance items
+    - Explain inspection process and potential outcomes to clients
+    - Explain maintenance findings, recommendations, and cost estimates to clients
+    - Explain maintenance logbook entries and work performed to aircraft owners
+    - Generate and distribute invoices to clients
+    - Handle initial billing inquiries and clarifications
+    - Initiate collection procedures per established timelines
+    - Maintain accurate client account information and service history
+    - Maintain client communication records related to maintenance actions
+    - Maintain ongoing communication throughout maintenance process
+    - Manage client expectations and satisfaction
+    - Manage client expectations for warranty service timelines
+    - Obtain client approvals for work scope and schedule changes
+    - Obtain client authorization and approval signatures
+    - Obtain client authorization for additional maintenance discovered during inspection
+    - Obtain client authorization for additional work discovered during inspection
+    - Obtain client authorization for repair work and associated costs
+    - Obtain written approvals for all maintenance work and scope changes
+    - Process client requests and coordinate responses
+    - Process payments and update account status
+    - Process work order amendments and changes
+    - Provide clients with copies of maintenance documentation upon request
+    - Provide cost estimates and timeline information to clients
+    - Provide progress updates throughout scheduled maintenance process
+    - Provide regular progress updates throughout inspection process
+    - Provide regular updates on repair progress and completion timeline
+    - Provide updates on warranty repair status and completion
+    - Record client interactions and preferences in CRM system
+    - Serve as primary communication contact between clients and maintenance team
+    - Serve as primary communication liaison with clients
+    :usage_count: 13
+    :sections_used:
+    - Administrative and Financial
+    - Avionics Operations
+    - Maintenance Operations
+  Quality Control Inspector:
+    :responsibilities:
+    - Approve completed work packages for record retention
+    - Approve components for installation or return to service
+    - Approve equipment for use in quality control activities
+    - Approve installation for return to service authorization
+    - Approve modifications for airworthiness certification
+    - Approve parts for installation and use
+    - Approve repaired systems for return to service
+    - Authorize return to service after successful inspection
+    - Conduct incoming parts inspection and acceptance
+    - Conduct independent inspection of installation workmanship
+    - Conduct independent inspections of all avionics work performed
+    - Conduct independent verification of STC compliance
+    - Conduct independent verification of critical test results
+    - Conduct independent verification of repair procedures
+    - Conduct periodic documentation audits and compliance reviews
+    - Confirm inspection requirements and quality checkpoints
+    - Inspect modification workmanship and regulatory compliance
+    - Inspect repair workmanship and compliance with approved methods
+    - Monitor calibration system effectiveness and compliance
+    - Review all documentation for completeness and accuracy
+    - Review calibration records for compliance and accuracy
+    - Review configuration documentation and test results
+    - Review documentation for completeness and accuracy
+    - Review modification documentation for completeness and accuracy
+    - Review parts documentation and traceability records
+    - Review test documentation for completeness and accuracy
+    - Review troubleshooting documentation and test results
+    - Review work order for regulatory compliance requirements
+    - Validate final work order completeness
+    - Verify approved data and technical documentation availability
+    - Verify calibration status of test equipment used
+    - Verify compliance with approved installation data
+    - Verify compliance with approved procedures and specifications
+    - Verify compliance with regulatory documentation requirements
+    - Verify equipment calibration status during inspections
+    - Verify parts compliance with specifications and standards
+    :usage_count: 10
+    :sections_used:
+    - Avionics Operations
+  Flight School Administrator:
+    :responsibilities:
+    - Communicate with affected students and families regarding incident status
+    - Communicate with students regarding billing questions and payment status
+    - Coordinate emergency communications and notifications to affected parties
+    - Coordinate instructor scheduling and availability management
+    - Coordinate medical certificate and documentation verification
+    - Coordinate with FAA and designated examiners for certification requirements
+    - Coordinate with instructors and schedulers for billing accuracy verification
+    - Coordinate with insurance providers and regulatory authorities for incident
+      reporting
+    - Coordinate with maintenance team for aircraft discrepancy reporting and resolution
+    - Coordinate with students for security clearance application completion
+    - Generate progress reports and communicate with students regarding certification
+      status
+    - Generate student invoices and process payment transactions
+    - Maintain accurate student account records and coordinate payment plan arrangements
+    - Maintain accurate student enrollment records and training agreements
+    - Maintain communication with students regarding clearance status updates
+    - Maintain current emergency contact information for all students and team members
+    - Maintain ground school records and track student attendance
+    - Maintain incident records and coordinate regulatory reporting requirements
+    - Maintain simulator usage records and billing information
+    - Maintain student training records and certification tracking systems
+    - Maintain training records and coordinate with billing for accurate flight time
+      recording
+    - Process incident documentation and coordinate with insurance providers
+    - Process instructor payroll and maintain employment records
+    - Process international student applications and collect required documentation
+    - Process knowledge test authorizations and practical test applications
+    - Process knowledge test endorsements and coordinate testing appointments
+    - Process simulator training payments and coordinate with student accounts
+    - Process student applications and verify eligibility requirements
+    - Process training milestone documentation and certification progress tracking
+    - Schedule ground school classes and coordinate classroom resources
+    - Schedule orientation sessions and initial flight training appointments
+    - Schedule simulator sessions and coordinate with student availability
+    - Support compliance activities with administrative and documentation assistance
+    - Support debriefing activities with documentation and administrative assistance
+    - Support emergency response activities with documentation and administrative
+      assistance
+    - Support ground instruction activities with materials and resources
+    - Support incident investigation activities and corrective action implementation
+    - Support instructor professional development and training coordination
+    - Support simulator operations with administrative and logistical assistance
+    - Track instructor certification expiration dates and renewal requirements
+    :usage_count: 10
+    :sections_used:
+    - Flight School Operations
+  A&P Mechanic:
+    :responsibilities:
+    - Assist with disassembly and reassembly as required for inspection access
+    - Complete detailed maintenance logbook entries for all work performed
+    - Document all findings and corrective actions in aircraft records
+    - Document all maintenance actions and findings in aircraft records
+    - Document all maintenance findings and recommendations clearly for client review
+    - Document parts installed, procedures followed, and inspection results
+    - Document work performed and parts installed for billing verification
+    - Ensure all entries are legible, complete, and signed appropriately
+    - Execute required maintenance actions identified during inspection
+    - Execute scheduled maintenance tasks according to manufacturer specifications
+    - Explain completed maintenance work during aircraft delivery process
+    - Follow proper tool storage and handling procedures
+    - Handle hazardous materials according to safety procedures and manufacturer specifications
+    - Identify and report additional maintenance requirements discovered during scheduled
+      work
+    - Maintain work order documentation and supporting records
+    - Participate in billing reviews when technical clarification is required
+    - Participate in client consultations when technical expertise is required
+    - Participate in hazardous materials training and safety programs
+    - Participate in tool care and maintenance training programs
+    - Perform detailed inspection procedures under Inspector supervision
+    - Perform operational tests and system checks following maintenance completion
+    - Provide technical information to client service team for client communication
+    - Record accurate labor time and materials usage for all maintenance activities
+    - Report any discrepancies in work order scope or cost estimates
+    - Report hazardous materials incidents and safety concerns immediately
+    - Report parts quality issues or discrepancies to Parts Coordinator
+    - Report tool damage, wear, or calibration concerns immediately
+    - Return unused parts to inventory with proper documentation
+    - Submit parts requests with detailed specifications and installation requirements
+    - Use appropriate personal protective equipment during hazardous materials operations
+    - Use tools and equipment according to manufacturer specifications and procedures
+    - Verify parts compatibility and configuration before installation
+    :usage_count: 8
+    :sections_used:
+    - Maintenance Operations
+  Team Members (All):
+    :responsibilities:
+    - Assist with emergency response activities as trained and directed
+    - Complete required runway incursion prevention training
+    - Contribute to continuous safety improvement initiatives
+    - Escort visitors and ensure proper security protocols are followed
+    - Follow established emergency procedures and evacuation routes
+    - Follow established environmental procedures and best practices
+    - Follow established runway access and communication procedures
+    - Follow established safety procedures and risk mitigation measures
+    - Follow established security procedures and access controls
+    - Implement assigned corrective actions
+    - Implement safety improvements and follow revised procedures
+    - Maintain awareness of safety lessons learned
+    - Maintain awareness of safety requirements in their work areas
+    - Maintain current security credentials and access authorization
+    - Maintain situational awareness during all ground operations
+    - Participate in emergency drills and training exercises
+    - Participate in environmental training and awareness programs
+    - Participate in hazard identification and safety reporting activities
+    - Participate in investigations as witnesses or subject matter experts
+    - Participate in safety inspections when requested
+    - Report emergencies immediately using established communication protocols
+    - Report incidents immediately without fear of retribution
+    - Report runway safety concerns and near-miss incidents immediately
+    - Report safety hazards and unsafe conditions immediately
+    - Report security concerns and suspicious activities
+    - Report spills, leaks, and environmental concerns immediately
+    - Support safety culture development through active participation
+    - Use environmentally responsible practices in daily work activities
+    :usage_count: 7
+    :sections_used:
+    - Safety and Compliance
+  Compliance Officer:
+    :responsibilities:
+    - Audit record-keeping practices and implement improvements
+    - Compile and organize required documentation
+    - Conduct compliance audits and corrective action implementation
+    - Coordinate TSA security clearance applications and maintain regulatory compliance
+    - Coordinate audit preparation and logistics
+    - Coordinate compliance verification activities
+    - Coordinate required reporting to FAA and other regulatory authorities
+    - Coordinate with regulatory agencies on documentation matters
+    - Develop compliance training programs and materials
+    - Establish regulatory documentation requirements and standards
+    - Maintain and nurture a positive relationships with FAA Tower and FSDO personnel
+    - Maintain current regulatory reference library and training materials
+    - Maintain security clearance records and ensure documentation accuracy
+    - Monitor FAA regulatory changes and updates
+    - Monitor clearance application status and coordinate with TSA processing centers
+    - Monitor compliance with record-keeping regulations
+    - Monitor regulatory changes and update compliance procedures accordingly
+    - Provide guidance on security clearance requirements and procedures
+    - Serve as primary liaison with FAA auditors
+    - Track corrective action implementation
+    :usage_count: 5
+    :sections_used:
+    - Flight School Operations
+    - Maintenance Operations
+    - Safety and Compliance
+  Line Service Technician:
+    :responsibilities:
+    - Conduct aircraft refueling operations following established safety procedures
+    - Conduct daily inventory checks and record usage
+    - Conduct pre-fueling safety inspections
+    - Document all services provided accurately
+    - Document fuel services provided and coordinate with billing for accurate records
+    - Follow established ground handling safety procedures
+    - Identify supply needs and report inventory shortages
+    - Maintain fuel handling equipment and coordinate maintenance and calibration
+      activities
+    - Maintain situational awareness during ramp operations
+    - Monitor fuel levels and report consumption patterns
+    - Monitor fueling operations for safety compliance
+    - Operate fueling equipment according to safety protocols
+    - Operate ground support equipment safely and competently
+    - Perform fuel quality checks and contamination testing before aircraft refueling
+    - Report any billing discrepancies immediately
+    - Report safety hazards and equipment malfunctions immediately
+    - Respond to fuel spills or emergency situations
+    - Verify fuel quantities and service completions
+    :usage_count: 5
+    :sections_used:
+    - Administrative and Financial
+    - Flight School Operations
+    - Safety and Compliance
+  Inspector (IA when required):
+    :responsibilities:
+    - Approve inspection documentation and work scope recommendations
+    - Approve return to service for major repairs and alterations
+    - Ensure compliance with 14 CFR Part 43 inspection requirements
+    - Ensure compliance with regulatory documentation requirements
+    - Ensure compliance with regulatory requirements for repair procedures
+    - Ensure proper documentation and certification of all maintenance actions
+    - Identify mandatory maintenance items and airworthiness directives
+    - Perform required inspections and approve return to service entries
+    - Review and approve maintenance logbook entries for accuracy and completeness
+    - Review complex repairs requiring inspection authorization
+    - Review inspection findings for regulatory compliance requirements
+    - Review maintenance work for compliance with regulatory requirements
+    - Sign off completed inspections and major repairs or alterations
+    - Sign off completed repairs and inspect work quality
+    - Sign return to service entries for inspections and major repairs
+    - Verify proper certification statements and required information
+    :usage_count: 4
+    :sections_used:
+    - Maintenance Operations
+  Quality Assurance Leader:
+    :responsibilities:
+    - Audit tool calibration program compliance and effectiveness
+    - Conduct final quality inspections before aircraft return to service
+    - Conduct internal compliance audits and quality assessments
+    - Coordinate corrective actions for calibration discrepancies
+    - Coordinate corrective actions for quality discrepancies and defects
+    - Coordinate regulatory reporting requirements
+    - Develop and maintain quality control procedures and inspection checklists
+    - Ensure documentation meets regulatory standards
+    - Ensure tool accuracy requirements meet maintenance quality standards
+    - Interface with external auditors and regulatory inspectors
+    - Maintain documentation of compliance activities and training records
+    - Monitor maintenance quality trends and implement improvement initiatives
+    - Review calibration records and equipment maintenance documentation
+    - Track corrective action effectiveness
+    - Track corrective actions and compliance improvement initiatives
+    - Verify investigation thoroughness and accuracy
+    :usage_count: 4
+    :sections_used:
+    - Maintenance Operations
+    - Safety and Compliance
+  Student Pilot:
+    :responsibilities:
+    - Ask questions about flight performance and areas requiring additional practice
+    - Ask questions about procedures, weather, or safety concerns during briefing
+    - Assist with pre-flight inspection and checklist execution under instructor supervision
+    - Complete aircraft inspection checklists as part of training requirements
+    - Complete required knowledge tests and practical test preparations
+    - Coordinate with instructors and administrators for certification scheduling
+    - Demonstrate knowledge of emergency procedures and aircraft systems operation
+    - Demonstrate proficiency in all required training areas and maneuvers
+    - Maintain accurate personal logbook records with instructor verification
+    - Maintain awareness of aircraft limitations and operational requirements
+    - Maintain personal logbook with accurate flight time and training records
+    - Participate actively in post-flight debriefing and self-assessment of performance
+    - Participate actively in pre-flight briefing and demonstrate understanding of
+      training objectives
+    - Participate in pre-flight inspection procedures under instructor supervision
+    - Report any observed aircraft discrepancies to flight instructor immediately
+    - Review feedback and prepare for subsequent training lessons
+    :usage_count: 4
+    :sections_used:
+    - Flight School Operations
+  Maintenance Coordinator:
+    :responsibilities:
+    - Communicate aircraft availability status to flight scheduling team
+    - Coordinate fuel system maintenance and inspection activities
+    - Coordinate scheduled maintenance to minimize training disruptions
+    - Coordinate with fuel operations for aircraft fuel system servicing
+    - Ensure fuel handling equipment maintenance and safety compliance
+    - Maintain maintenance records and coordinate with certified mechanics
+    - Monitor aircraft maintenance status and airworthiness compliance
+    - Monitor fuel system discrepancies and coordinate repair activities
+    - Plan maintenance activities during low-demand scheduling periods
+    - Provide aircraft availability status for scheduling purposes
+    - Report aircraft grounding or return-to-service status immediately
+    - Schedule and coordinate all aircraft maintenance activities with flight training
+      operations
+    :usage_count: 3
+    :sections_used:
+    - Flight School Operations
+  Lead A&P Mechanic:
+    :responsibilities:
+    - Conduct initial aircraft inspection and condition assessment
+    - Conduct initial problem diagnosis and troubleshooting procedures
+    - Conduct self-inspections of completed maintenance work before quality review
+    - Coordinate with Inspector for regulatory inspection requirements
+    - Coordinate with quality assurance team for final inspection scheduling
+    - Develop repair plans and coordinate with client for authorization
+    - Document all observed discrepancies and maintenance requirements
+    - Document all quality control activities and test results
+    - Document all troubleshooting steps and repair actions in aircraft records
+    - Execute approved repairs according to manufacturer specifications
+    - Perform operational testing and system checks following maintenance completion
+    - Verify aircraft configuration against maintenance records
+    :usage_count: 3
+    :sections_used:
+    - Maintenance Operations
+  Parts Manager:
+    :responsibilities:
+    - Coordinate component receipt and inspection scheduling
+    - Coordinate parts procurement and supplier relationships
+    - Coordinate replacement parts procurement and availability
+    - Maintain component storage and handling protocols
+    - Maintain parts inventory levels and storage conditions
+    - Manage component serialization and traceability records
+    - Manage repair parts inventory and supplier relationships
+    - Process parts orders and coordinate delivery schedules
+    - Process warranty claims for defective components
+    - Verify parts authenticity and traceability documentation
+    :usage_count: 3
+    :sections_used:
+    - Avionics Operations
+  Documentation Specialist:
+    :responsibilities:
+    - Coordinate with regulatory authorities for approvals
+    - Coordinate with regulatory authorities for required submissions
+    - Ensure compliance with documentation retention requirements
+    - Maintain STC documentation and revision control
+    - Maintain master documentation files and revision control
+    - Prepare required regulatory submissions and reports
+    - Process documentation updates and distribute current revisions
+    - Update aircraft records and equipment lists
+    :usage_count: 3
+    :sections_used:
+    - Avionics Operations
+  Parts Coordinator:
+    :responsibilities:
+    - Coordinate expedited delivery and emergency parts procurement
+    - Coordinate expedited parts delivery when schedule delays occur
+    - Ensure availability of required parts and materials before maintenance start
+    - Maintain accurate inventory records and cost tracking systems
+    - Maintain emergency stock of common repair components
+    - Maintain inventory of consumable items for scheduled maintenance tasks
+    - Manage daily parts inventory operations and stock level monitoring
+    - Order and receive parts according to manufacturer specifications and quality
+      standards
+    - Process parts orders and coordinate delivery scheduling with vendors
+    - Source required parts for unscheduled repairs with priority handling
+    - Verify parts authenticity and airworthiness certification
+    - Verify parts authenticity and airworthiness documentation upon receipt
+    :usage_count: 3
+    :sections_used:
+    - Maintenance Operations
+  Maintenance Scheduler:
+    :responsibilities:
+    - Adjust resource allocation based on identified maintenance needs
+    - Communicate schedule changes and resource requirements
+    - Communicate scope changes and cost impacts to clients
+    - Coordinate inspection scheduling with client operational requirements
+    - Coordinate inspection timing with client and maintenance schedule
+    - Coordinate scheduling with clients and maintenance team members
+    - Create and manage work orders in maintenance tracking system
+    - Ensure required parts and materials are available before inspection start
+    - Monitor work order progress and update status information
+    - Schedule follow-up maintenance for items requiring future attention
+    - Track inspection progress and communicate timeline updates to clients
+    - Update work orders based on inspection findings
+    :usage_count: 3
+    :sections_used:
+    - Maintenance Operations
+  Client Experience Coordinator:
+    :responsibilities:
+    - Address student questions and concerns throughout onboarding process
+    - Analyze feedback data and identify trends, issues, and improvement opportunities
+    - Coordinate payment processing and billing arrangements
+    - Coordinate with department leaders to implement feedback-driven improvements
+    - Design and implement client feedback collection systems and survey programs
+    - Follow up with students to ensure satisfaction with enrollment experience
+    - Maintain client communication regarding feedback responses and program changes
+    - Provide initial facility tour and introduce students to team members
+    :usage_count: 2
+    :sections_used:
+    - Flight School Operations
+  Human Resources Leader:
+    :responsibilities:
+    - Coordinate team member safety training programs
+    - Coordinate training administration and record keeping systems
+    - Ensure compliance with employment and certification requirements
+    - Handle OSHA-related personnel matters
+    - Maintain personnel safety training documentation
+    - Manage external training vendor relationships and contracts
+    - Support injury and illness record-keeping requirements
+    - Track training costs and budget compliance for professional development
+    :usage_count: 2
+    :sections_used:
+    - Maintenance Operations
+    - Safety and Compliance
+  Environmental Compliance Coordinator:
+    :responsibilities:
+    - Coordinate waste disposal and environmental protection procedures
+    - Coordinate waste disposal services and contractor management
+    - Maintain environmental compliance documentation
+    - Maintain regulatory compliance documentation and permits for hazardous materials
+    - Monitor environmental regulations and compliance requirements
+    - Monitor environmental regulations and update procedures accordingly
+    - Process environmental permits and regulatory submissions
+    - Track hazardous materials usage and disposal for regulatory reporting
+    :usage_count: 2
+    :sections_used:
+    - Avionics Operations
+    - Maintenance Operations
+  Fuel Safety Coordinator:
+    :responsibilities:
+    - Conduct equipment inspections and maintenance
+    - Coordinate fuel deliveries and maintain fuel inventory records while overseeing
+      safety training for fuel personnel
+    - Investigate fuel-related incidents and implement corrective actions
+    - Monitor fuel quality testing schedules and ensure compliance with fuel storage
+      and handling regulations
+    - Oversee daily fuel safety operations
+    - Train team members on fuel safety procedures
+    :usage_count: 2
+    :sections_used:
+    - FBO Services
+    - Safety and Compliance
+  Team Members:
+    :responsibilities:
+    - Coordinate schedule changes with supervisors and team members
+    - Follow expense policies and obtain proper approvals
+    - Maintain receipts and supporting documentation
+    - Maintain reliable attendance and punctuality standards
+    - Submit accurate timekeeping records and schedule requests
+    - Submit expense reports with complete documentation
+    :usage_count: 2
+    :sections_used:
+    - Administrative and Financial
+  Compliance Leader:
+    :responsibilities:
+    - Coordinate audit activities and regulatory inspections
+    - Establish record retention policies and procedures
+    - Monitor compliance with regulatory record-keeping requirements
+    - Monitor corrective action implementation and compliance verification
+    - Organize audit documentation and coordinate internal preparations
+    - Serve as primary contact for auditors and inspectors
+    :usage_count: 2
+    :sections_used:
+    - Administrative and Financial
+  Training Coordinator:
+    :responsibilities:
+    - Coordinate with external training providers and regulatory agencies
+    - Coordinate with training providers and manufacturers
+    - Develop and maintain safety training programs and materials
+    - Develop training plans and coordinate training schedules
+    - Maintain training records and compliance documentation
+    - Schedule and conduct safety training sessions and certifications
+    - Track training completion and certification status
+    - Track training completion and certification status for all team members
+    :usage_count: 2
+    :sections_used:
+    - Avionics Operations
+    - Safety and Compliance
+  Project Manager:
+    :responsibilities:
+    - Communicate cost overruns or changes to clients
+    - Coordinate billing schedules and payment terms
+    - Coordinate overall project communication strategy
+    - Ensure client satisfaction throughout project lifecycle
+    - Ensure project profitability and cost control
+    - Escalate issues requiring management attention
+    - Monitor project costs against estimates and budgets
+    - Monitor project milestones and communication schedules
+    :usage_count: 2
+    :sections_used:
+    - Avionics Operations
+  Emergency Response Coordinator:
+    :responsibilities:
+    - Activate emergency response procedures and coordinate overall response
+    - Communicate with leadership and external stakeholders during emergencies
+    - Coordinate emergency response and resource allocation
+    - Coordinate with clients and external support services
+    - Direct evacuation procedures and personnel accountability
+    - Maintain emergency contact lists and escalation procedures
+    - Monitor emergency response times and effectiveness
+    - Serve as primary contact with emergency services and airport authority
+    :usage_count: 2
+    :sections_used:
+    - Avionics Operations
+    - Safety and Compliance
+  A&P Mechanic/Inspector:
+    :responsibilities:
+    - Document completion status and any discovered discrepancies
+    - Execute assigned maintenance tasks according to work order specifications
+    - Maintain current certificates and required training documentation
+    - Participate in regulatory compliance training and assessment programs
+    - Perform maintenance activities in accordance with regulatory requirements
+    - Provide technical input for work scope and time estimates
+    - Report suspected unapproved parts and safety concerns through proper channels
+    - Review work order technical requirements and specifications
+    :usage_count: 2
+    :sections_used:
+    - Maintenance Operations
+  Security Coordinator:
+    :responsibilities:
+    - Coordinate with airport security and TSA on security requirements
+    - Investigate security violations and implement corrective actions
+    - Maintain security access databases and badge management systems
+    - Manage security screening and background check processes
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Environmental Compliance Officer:
+    :responsibilities:
+    - Conduct environmental training and awareness programs
+    - Coordinate spill prevention and response activities
+    - Maintain environmental permits and documentation
+    - Monitor environmental regulations and ensure compliance
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Equipment Maintenance Supervisor:
+    :responsibilities:
+    - Coordinate equipment safety inspections and preventive maintenance
+    - Develop and manage equipment maintenance schedules and procedures
+    - Investigate equipment failures and implement corrective actions
+    - Maintain equipment maintenance records and compliance documentation
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Equipment Operators:
+    :responsibilities:
+    - Conduct pre-operation safety checks and inspections
+    - Follow established equipment operation and maintenance procedures
+    - Participate in equipment safety training and certification programs
+    - Report equipment problems and safety concerns immediately
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Runway Safety Officer:
+    :responsibilities:
+    - Coordinate with air traffic control on runway safety initiatives
+    - Develop and deliver runway incursion prevention training programs
+    - Investigate runway incursion incidents and implement corrective actions
+    - Monitor runway safety performance and incident trends
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Ground Operations Supervisor:
+    :responsibilities:
+    - Coordinate ground operations with air traffic control
+    - Ensure compliance with runway safety procedures and communications
+    - Monitor ground crew situational awareness and safety performance
+    - Supervise ground vehicle operations and runway access procedures
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Safety Manager:
+    :responsibilities:
+    - Coordinate hazard identification and risk assessment activities
+    - Facilitate safety culture development and continuous improvement
+    - Lead SMS implementation and maintain system effectiveness
+    - Monitor safety performance indicators and trend analysis
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Fuel Service Technician:
+    :responsibilities:
+    - Conduct aircraft fueling operations following safety protocols and verify fuel
+      quality before delivery
+    - Maintain fuel system equipment and document all fuel transactions accurately
+      for billing and inventory control
+    :usage_count: 1
+    :sections_used:
+    - FBO Services
+  Records Management Coordinator:
+    :responsibilities:
+    - Coordinate regulatory inspections and document requests
+    - Ensure compliance with record retention requirements and schedules
+    - Maintain regulatory documentation systems and filing procedures
+    - Train personnel on documentation requirements and procedures
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Line Service Leader:
+    :responsibilities:
+    - Ensure proper grounding procedures and monitor environmental compliance during
+      all fuel handling activities
+    - Oversee fueling operations during complex aircraft servicing and coordinate
+      fuel truck positioning and scheduling
+    :usage_count: 1
+    :sections_used:
+    - FBO Services
+  Quality Assurance Technician:
+    :responsibilities:
+    - Conduct fuel quality testing and maintain testing equipment calibration and
+      documentation
+    - Investigate fuel quality issues and coordinate with suppliers for product quality
+      assurance and corrective actions
+    :usage_count: 1
+    :sections_used:
+    - FBO Services
+  Inspector (IA for Annual Inspections):
+    :responsibilities:
+    - Conduct or supervise all required inspection procedures
+    - Ensure compliance with all regulatory requirements and airworthiness directives
+    - Review and approve all maintenance actions performed during inspection
+    - Sign off completed inspections and return aircraft to service
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Purchasing Leader:
+    :responsibilities:
+    - Coordinate with finance team for payment processing and vendor relations
+    - Monitor parts procurement costs and budget compliance
+    - Negotiate vendor contracts and pricing agreements for parts procurement
+    - Review and approve vendor qualifications and quality certifications
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Tool Room Coordinator:
+    :responsibilities:
+    - Coordinate with external calibration services and equipment repair facilities
+    - Maintain calibration records and equipment maintenance documentation
+    - Manage daily tool inventory operations and calibration scheduling
+    - Track tool usage patterns and replacement requirements
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Training Leader:
+    :responsibilities:
+    - Assess training effectiveness and implement program improvements
+    - Coordinate training schedules and monitor completion of required training
+    - Develop and maintain training programs and certification tracking systems
+    - Maintain training records and documentation for regulatory compliance
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Individual Technician:
+    :responsibilities:
+    - Keep personal training records current and accessible
+    - Maintain current certificates and complete required training programs
+    - Participate actively in training activities and competency assessments
+    - Report training needs and professional development interests
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Maintenance Team Members:
+    :responsibilities:
+    - Follow established safety procedures and maintain clean work areas
+    - Participate in safety training and maintain awareness of safety requirements
+    - Report safety hazards and cleanliness issues immediately
+    - Use personal protective equipment and safety equipment properly
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Facility Maintenance Coordinator:
+    :responsibilities:
+    - Coordinate facility cleaning and maintenance activities
+    - Maintain inventory of cleaning supplies and safety equipment
+    - Monitor facility conditions and coordinate improvement projects
+    - Schedule facility maintenance and repair activities
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Billing Coordinator:
+    :responsibilities:
+    - Communicate with clients regarding billing questions and payment processing
+    - Maintain billing documentation and coordinate with collections procedures
+    - Process maintenance invoices and coordinate billing activities with accounting
+      systems
+    - Track work order costs and verify accuracy of labor and materials charges
+    :usage_count: 1
+    :sections_used:
+    - Maintenance Operations
+  Electrical Systems Specialist:
+    :responsibilities:
+    - Conduct electrical system integration testing
+    - Design and install electrical power and signal wiring
+    - Document electrical modifications and connections
+    - Verify proper grounding and shielding installation
+    :usage_count: 1
+    :sections_used:
+    - Avionics Operations
+  Inventory Specialist:
+    :responsibilities:
+    - Conduct periodic inventory audits and cycle counts
+    - Maintain accurate parts inventory records and locations
+    - Manage parts storage conditions and shelf life tracking
+    - Process parts returns and warranty claims
+    :usage_count: 1
+    :sections_used:
+    - Avionics Operations
+  Equipment Calibration Specialist:
+    :responsibilities:
+    - Coordinate calibration schedules and service provider relationships
+    - Maintain calibration records and certification tracking
+    - Monitor equipment performance and identify calibration needs
+    - Process calibration certificates and update equipment status
+    :usage_count: 1
+    :sections_used:
+    - Avionics Operations
+  Warranty Administrator:
+    :responsibilities:
+    - Coordinate warranty repairs and replacement procedures
+    - Maintain warranty documentation and claim records
+    - Process warranty claims and coordinate with manufacturers
+    - Track warranty periods and coverage for installed equipment
+    :usage_count: 1
+    :sections_used:
+    - Avionics Operations
+  Billing Administrator:
+    :responsibilities:
+    - Coordinate with accounting for payment processing
+    - Maintain billing records and client account information
+    - Process avionics billing and invoice generation
+    - Track labor hours and material costs for accuracy
+    :usage_count: 1
+    :sections_used:
+    - Avionics Operations
+  On-Call Avionics Technician:
+    :responsibilities:
+    - Coordinate with parts suppliers and external services
+    - Execute emergency repairs and troubleshooting procedures
+    - Maintain communication with clients throughout emergency response
+    - Respond to emergency calls and perform initial assessment
+    :usage_count: 1
+    :sections_used:
+    - Avionics Operations
+  Parts Expediter:
+    :responsibilities:
+    - Coordinate emergency parts procurement and delivery
+    - Maintain relationships with expedited parts suppliers
+    - Process emergency parts authorization and payment
+    - Track emergency parts orders and delivery status
+    :usage_count: 1
+    :sections_used:
+    - Avionics Operations
+  Flight School Scheduler:
+    :responsibilities:
+    - Communicate schedule changes to students and instructors promptly
+    - Coordinate aircraft and instructor assignments for all scheduled flight lessons
+    - Maintain scheduling system accuracy and resolve conflicts between bookings
+    - Monitor weather conditions and make scheduling adjustments as needed
+    :usage_count: 1
+    :sections_used:
+    - Flight School Operations
+  Ground Instructor:
+    :responsibilities:
+    - Assess student understanding through quizzes, tests, and practical applications
+    - Coordinate with flight instructors to reinforce ground school concepts during
+      flight training
+    - Deliver ground school curriculum using approved lesson plans and materials
+    - Maintain accurate records of ground instruction provided and student progress
+    :usage_count: 1
+    :sections_used:
+    - Flight School Operations
+  Simulator Operator:
+    :responsibilities:
+    - Develop training scenarios and coordinate with instructors for lesson planning
+    - Document simulator usage and maintain operational records
+    - Maintain simulator equipment and coordinate calibration and maintenance activities
+    - Operate flight simulation equipment and coordinate training sessions
+    :usage_count: 1
+    :sections_used:
+    - Flight School Operations
+  International Student:
+    :responsibilities:
+    - Comply with all security clearance conditions and training limitations
+    - Coordinate with flight school for application submission and processing
+    - Maintain communication regarding application status and any required updates
+    - Provide accurate and complete information for security clearance applications
+    :usage_count: 1
+    :sections_used:
+    - Flight School Operations
+  Student:
+    :responsibilities:
+    - Communicate payment difficulties or billing questions promptly
+    - Coordinate with flight school for payment plan arrangements when needed
+    - Make timely payments according to established payment schedules
+    - Provide accurate billing information and maintain current contact details
+    :usage_count: 1
+    :sections_used:
+    - Flight School Operations
+  Operations Coordinator:
+    :responsibilities:
+    - Coordinate aircraft availability and maintenance status for scheduled training
+      flights
+    - Maintain briefing room facilities and equipment for effective training preparation
+    - Provide current weather information and operational updates for flight planning
+    - Support briefing activities with charts, publications, and reference materials
+    :usage_count: 1
+    :sections_used:
+    - Flight School Operations
+  Fuel Operations Coordinator:
+    :responsibilities:
+    - Coordinate fuel orders and inventory management for training aircraft operations
+    - Ensure compliance with fuel handling safety regulations and environmental requirements
+    - Maintain fuel operation records and coordinate with finance for cost tracking
+    - Monitor fuel quality and coordinate contamination testing procedures
+    :usage_count: 1
+    :sections_used:
+    - Flight School Operations
+  Team Members (Designated):
+    :responsibilities:
+    - Create and schedule social media content
+    - Maintain website content and landing page updates
+    - Monitor campaign performance metrics and analytics
+    - Respond to digital inquiries and engagement
+    :usage_count: 1
+    :sections_used:
+    - Marketing and Client Retention
+  Team Members (All Departments):
+    :responsibilities:
+    - Collect informal feedback during client interactions
+    - Encourage client participation in formal feedback programs
+    - Implement feedback-driven improvements in their areas
+    - Report significant feedback themes to leadership
+    :usage_count: 1
+    :sections_used:
+    - Marketing and Client Retention
+  Team Members (Service-Specific):
+    :responsibilities:
+    - Conduct personalized follow-up calls and communications
+    - Coordinate follow-up scheduling with client availability
+    - Document client feedback and service opportunities
+    - Report significant client insights to leadership
+    :usage_count: 1
+    :sections_used:
+    - Marketing and Client Retention
+  Team Members (Subject Matter Experts):
+    :responsibilities:
+    - Contribute specialized knowledge for technical content
+    - Participate in content creation including photography and interviews
+    - Review content for accuracy within their expertise areas
+    - Support content distribution through professional networks
+    :usage_count: 1
+    :sections_used:
+    - Marketing and Client Retention
+  Team Members (Involved):
+    :responsibilities:
+    - Implement process improvements identified through complaint analysis
+    - Participate in resolution activities and corrective actions
+    - Provide factual information and documentation for complaint investigations
+    - Support prevention of similar complaints through improved service delivery
+    :usage_count: 1
+    :sections_used:
+    - Marketing and Client Retention
+  Team Members (Designated Social Media):
+    :responsibilities:
+    - Create and schedule social media content according to calendar
+    - Monitor social media platforms for mentions, comments, and messages
+    - Report significant social media issues or opportunities to leadership
+    - Respond to inquiries and engage with followers in timely manner
+    :usage_count: 1
+    :sections_used:
+    - Marketing and Client Retention
+  Team Members (Aviation Professionals):
+    :responsibilities:
+    - Build relationships with pilot community members
+    - Participate in community events and professional organizations
+    - Report community insights and opportunities to leadership
+    - Share expertise through presentations and educational activities
+    :usage_count: 1
+    :sections_used:
+    - Marketing and Client Retention
+  External CPA:
+    :responsibilities:
+    - Prepare complex tax returns and provide tax planning advice
+    - Provide updates on tax law changes affecting aviation businesses
+    - Represent company in tax audits and examinations
+    :usage_count: 1
+    :sections_used:
+    - Administrative and Financial
+  Fuel System Operator:
+    :responsibilities:
+    - Ensure fuel storage compliance with safety regulations
+    - Maintain fuel quality and conduct required testing
+    - Monitor fuel deliveries and verify quantities received
+    :usage_count: 1
+    :sections_used:
+    - Administrative and Financial
+  Client Service Leader:
+    :responsibilities:
+    - Establish client communication standards and follow-up procedures
+    - Monitor client satisfaction and relationship health metrics
+    - Oversee CRM system administration and data quality
+    :usage_count: 1
+    :sections_used:
+    - Administrative and Financial
+  Purchasing Coordinator:
+    :responsibilities:
+    - Process purchase orders and coordinate with vendors
+    - Track order status and delivery schedules
+    - Verify vendor information and maintain supplier database
+    :usage_count: 1
+    :sections_used:
+    - Administrative and Financial
+  Ramp Safety Coordinator:
+    :responsibilities:
+    - Conduct safety briefings for ground handling team members
+    - Inspect and maintain ground support equipment
+    - Investigate ground handling incidents and implement corrective actions
+    - Supervise ground handling operations for safety compliance
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance
+  Safety Inspector:
+    :responsibilities:
+    - Conduct scheduled and unscheduled safety inspections
+    - Coordinate corrective action implementation and verification
+    - Document safety hazards and non-compliance issues
+    - Maintain inspection records and trending analysis
+    :usage_count: 1
+    :sections_used:
+    - Safety and Compliance

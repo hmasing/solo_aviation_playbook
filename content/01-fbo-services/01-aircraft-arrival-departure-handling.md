@@ -21,21 +21,29 @@ This process establishes procedures for managing general aviation aircraft arriv
 ## Roles and Responsibilities
 
 **Line Service Technician:**
-Provide direct aircraft handling services including marshalling, parking guidance, and initial client contact
-Execute safety protocols and coordinate with ground support equipment operators during aircraft movements
 
-**Operations Leader:**
-Oversee ramp operations and coordinate between multiple aircraft movements and service requests
-Monitor safety compliance and resolve operational challenges during peak activity periods
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 
 **Client Service Representative:**
-Manage client communications and coordinate service requests from arrival through departure
-Process documentation and billing while maintaining professional client relationships throughout the experience
 
-**Ramp Safety Coordinator:**
-Ensure all ground operations comply with safety regulations and monitor hazardous conditions
-Conduct safety briefings and maintain situational awareness during complex aircraft movements
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Operations Leader:**
+
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Pre-Arrival Phase

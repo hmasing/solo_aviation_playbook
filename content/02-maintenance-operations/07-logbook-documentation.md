@@ -22,32 +22,27 @@ Establish systematic procedures for creating, maintaining, and updating aircraft
 
 **A&P Mechanic:**
 
-- Complete detailed maintenance logbook entries for all work performed
-- Document parts installed, procedures followed, and inspection results
-- Ensure all entries are legible, complete, and signed appropriately
-- Maintain work order documentation and supporting records
-
-**Inspector (IA when required):**
-
-- Review and approve maintenance logbook entries for accuracy and completeness
-- Sign return to service entries for inspections and major repairs
-- Ensure compliance with regulatory documentation requirements
-- Verify proper certification statements and required information
-
-**Chief of Maintenance:**
-
-- Oversee maintenance documentation procedures and quality control
-- Review complex maintenance entries and ensure regulatory compliance
-- Maintain master maintenance record files and historical documentation
-- Coordinate with regulatory authorities for record keeping requirements
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Client Service Representative:**
 
-- Provide clients with copies of maintenance documentation upon request
-- Explain maintenance logbook entries and work performed to aircraft owners
-- Coordinate logbook transfers and historical record management
-- Maintain client communication records related to maintenance actions
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Pre-Entry Documentation Review

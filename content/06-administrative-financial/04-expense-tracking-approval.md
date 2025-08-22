@@ -20,30 +20,21 @@ Establish systematic expense tracking and approval procedures that ensure proper
 
 ## Roles and Responsibilities
 
-**Business Leader:**
-
-- Approve capital expenditures over $10,000
-- Review monthly expense reports and budget variances
-- Establish expense policies and authorization limits
-
 **Finance Leader:**
 
-- Process expense reports and verify supporting documentation
-- Monitor expense compliance with budget and policies
-- Coordinate with department leaders on expense planning
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Department Leaders:**
+**Business Leader:**
 
-- Approve departmental expenses within authorization limits
-- Review team member expense reports for accuracy and compliance
-- Monitor departmental spending against approved budgets
-
-**Team Members:**
-
-- Submit expense reports with complete documentation
-- Follow expense policies and obtain proper approvals
-- Maintain receipts and supporting documentation
-
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 ## Process Steps
 
 ### Expense Documentation Phase

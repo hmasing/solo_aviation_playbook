@@ -20,34 +20,29 @@ This process establishes procedures for maintaining and calibrating avionics tes
 
 ## Roles and Responsibilities
 
-**Equipment Calibration Specialist:**
-
-- Coordinate calibration schedules and service provider relationships
-- Maintain calibration records and certification tracking
-- Monitor equipment performance and identify calibration needs
-- Process calibration certificates and update equipment status
-
-**Avionics Shop Leader:**
-
-- Approve calibration procedures and service provider selections
-- Review equipment performance and calibration requirements
-- Authorize equipment use and out-of-tolerance dispositions
-- Oversee calibration budget and equipment replacement planning
-
 **Avionics Technician:**
 
-- Operate test equipment according to calibration procedures
-- Report equipment malfunctions and accuracy concerns
-- Maintain equipment in proper condition between calibrations
-- Verify equipment calibration status before use
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Verify equipment calibration status during inspections
-- Review calibration records for compliance and accuracy
-- Approve equipment for use in quality control activities
-- Monitor calibration system effectiveness and compliance
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Calibration Planning and Scheduling Phase

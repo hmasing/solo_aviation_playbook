@@ -20,30 +20,30 @@ Establish systematic inventory management procedures that ensure adequate fuel a
 
 ## Roles and Responsibilities
 
-**Operations Leader:**
-
-- Establish inventory level requirements and reorder points
-- Monitor inventory usage patterns and operational needs
-- Coordinate with suppliers on delivery schedules and emergency orders
-
 **Line Service Technician:**
 
-- Monitor fuel levels and report consumption patterns
-- Conduct daily inventory checks and record usage
-- Identify supply needs and report inventory shortages
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 
 **Finance Leader:**
 
-- Monitor inventory costs and budget compliance
-- Process purchase orders and vendor payments
-- Analyze inventory turnover and carrying costs
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
-**Fuel System Operator:**
+**Operations Leader:**
 
-- Maintain fuel quality and conduct required testing
-- Monitor fuel deliveries and verify quantities received
-- Ensure fuel storage compliance with safety regulations
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Inventory Monitoring Phase

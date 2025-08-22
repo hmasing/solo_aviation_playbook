@@ -20,34 +20,21 @@ This process establishes procedures for managing avionics technician training, c
 
 ## Roles and Responsibilities
 
-**Training Coordinator:**
-
-- Develop training plans and coordinate training schedules
-- Track training completion and certification status
-- Coordinate with training providers and manufacturers
-- Maintain training records and compliance documentation
-
-**Avionics Shop Leader:**
-
-- Assess training needs and approve training programs
-- Evaluate technician competency and performance
-- Authorize technician qualifications for specific work types
-- Review training effectiveness and update requirements
-
 **Avionics Technician:**
 
-- Participate in required training programs and assessments
-- Maintain current certifications and licenses
-- Demonstrate competency in assigned work areas
-- Report training needs and skill development requirements
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
 **Chief of Maintenance:**
 
-- Approve training budget and resource allocation
-- Review overall training program effectiveness
-- Ensure compliance with regulatory training requirements
-- Authorize technician certifications and qualifications
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Training Needs Assessment Phase

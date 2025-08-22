@@ -20,34 +20,29 @@ Establish procedures for reporting, investigating, and responding to safety inci
 
 ## Roles and Responsibilities
 
+**Flight Instructor:**
+
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
+
 **Safety Officer:**
 
-- Investigate all reported safety incidents and coordinate with regulatory authorities
-- Maintain safety incident database and trend analysis reporting
-- Develop corrective action plans and monitor implementation effectiveness
-- Conduct safety briefings and training for all flight school team members
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
 **Chief Flight Instructor:**
 
-- Ensure immediate reporting of all safety incidents and coordinate initial response
-- Review incident reports and recommend training or procedural improvements
-- Coordinate with Safety Officer for incident investigation and analysis
-- Implement safety-related training modifications based on incident findings
-
-**Flight Instructor:**
-
-- Report all safety incidents immediately to Chief Flight Instructor and Safety Officer
-- Participate in incident investigations and provide detailed incident information
-- Implement corrective actions and safety improvements in training activities
-- Brief students on safety lessons learned from incident investigations
-
-**Flight School Administrator:**
-
-- Process incident documentation and coordinate with insurance providers
-- Maintain incident records and coordinate regulatory reporting requirements
-- Support incident investigation activities and corrective action implementation
-- Communicate with affected students and families regarding incident status
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ## Process Steps
 
 ### Immediate Response Phase

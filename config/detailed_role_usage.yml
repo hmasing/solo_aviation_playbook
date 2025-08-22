@@ -1,0 +1,470 @@
+# Detailed Role Usage by Procedure
+# Generated: 2025-08-22 06:24:11
+
+---
+FBO Services:
+  Fueling Operations:
+  - Fuel Service Technician
+  - Fuel Safety Coordinator
+  - Line Service Leader
+  - Quality Assurance Technician
+Safety and Compliance:
+  Aircraft Fueling Safety Procedures:
+  - Fuel Safety Coordinator
+  - Operations Leader
+  - Safety Officer
+  - Line Service Technician
+  FAA Regulations Compliance:
+  - Compliance Officer
+  - Operations Leader
+  - Safety Officer
+  - Department Leaders
+  FAA Compliance Audits:
+  - Compliance Officer
+  - Operations Leader
+  - Safety Officer
+  - Department Leaders
+  Regulatory Documentation and Record-Keeping:
+  - Compliance Officer
+  - Operations Leader
+  - Department Leaders
+  - Records Management Coordinator
+  Safety Incident Reporting and Investigation:
+  - Quality Assurance Leader
+  - Operations Leader
+  - Safety Officer
+  - Team Members (All)
+  OSHA Compliance Audits:
+  - Human Resources Leader
+  - Operations Leader
+  - Safety Officer
+  - Department Leaders
+  Ground Handling Safety Protocols:
+  - Operations Leader
+  - Safety Officer
+  - Line Service Technician
+  - Ramp Safety Coordinator
+  Emergency Response Plan Execution:
+  - Operations Leader
+  - Safety Officer
+  - Emergency Response Coordinator
+  - Team Members (All)
+  Ramp and Hangar Safety Inspections:
+  - Operations Leader
+  - Department Leaders
+  - Team Members (All)
+  - Safety Inspector
+  Team Member Safety Training and Certification:
+  - Operations Leader
+  - Safety Officer
+  - Training Coordinator
+  - Department Leaders
+  Security Screening for Personnel and Visitors:
+  - Operations Leader
+  - Department Leaders
+  - Team Members (All)
+  - Security Coordinator
+  Environmental Compliance:
+  - Operations Leader
+  - Department Leaders
+  - Team Members (All)
+  - Environmental Compliance Officer
+  Equipment Maintenance and Safety Checks:
+  - Operations Leader
+  - Safety Officer
+  - Equipment Maintenance Supervisor
+  - Equipment Operators
+  Runway Incursion Prevention Training:
+  - Operations Leader
+  - Team Members (All)
+  - Runway Safety Officer
+  - Ground Operations Supervisor
+  Safety Management System Implementation:
+  - Operations Leader
+  - Department Leaders
+  - Team Members (All)
+  - Safety Manager
+Maintenance Operations:
+  Work Order Creation and Scheduling:
+  - Maintenance Scheduler
+  - Client Service Representative
+  - Chief of Maintenance
+  - A&P Mechanic/Inspector
+  Pre-Maintenance Aircraft Inspection:
+  - Maintenance Scheduler
+  - Client Service Representative
+  - Lead A&P Mechanic
+  - Inspector (IA when required)
+  100-Hour and Annual Inspection Execution:
+  - Maintenance Scheduler
+  - Client Service Representative
+  - Inspector (IA for Annual Inspections)
+  - A&P Mechanic
+  Scheduled Maintenance:
+  - Client Service Representative
+  - Chief of Maintenance
+  - A&P Mechanic
+  - Parts Coordinator
+  Unscheduled Repair and Troubleshooting:
+  - Client Service Representative
+  - Lead A&P Mechanic
+  - Inspector (IA when required)
+  - Parts Coordinator
+  Maintenance Logbook Updates and Documentation:
+  - Client Service Representative
+  - Chief of Maintenance
+  - Inspector (IA when required)
+  - A&P Mechanic
+  Client Communication and Work Approval:
+  - Client Service Representative
+  - Chief of Maintenance
+  - A&P Mechanic
+  - Operations Leader
+  Parts Inventory Management and Ordering:
+  - Chief of Maintenance
+  - A&P Mechanic
+  - Parts Coordinator
+  - Purchasing Leader
+  FAA Regulatory Compliance and Reporting:
+  - Chief of Maintenance
+  - A&P Mechanic/Inspector
+  - Compliance Officer
+  - Quality Assurance Leader
+  Quality Control and Post-Maintenance Checks:
+  - Chief of Maintenance
+  - Lead A&P Mechanic
+  - Inspector (IA when required)
+  - Quality Assurance Leader
+  Tool and Equipment Calibration and Maintenance:
+  - Chief of Maintenance
+  - A&P Mechanic
+  - Quality Assurance Leader
+  - Tool Room Coordinator
+  Technician Training and Certification Tracking:
+  - Chief of Maintenance
+  - Training Leader
+  - Individual Technician
+  - Human Resources Leader
+  Hazardous Materials Handling and Disposal:
+  - Chief of Maintenance
+  - A&P Mechanic
+  - Safety Officer
+  - Environmental Compliance Coordinator
+  Shop Safety and Cleanliness Protocols:
+  - Chief of Maintenance
+  - Safety Officer
+  - Maintenance Team Members
+  - Facility Maintenance Coordinator
+  Billing and Invoicing for Maintenance Services:
+  - Chief of Maintenance
+  - A&P Mechanic
+  - Billing Coordinator
+  - Finance Leader
+Avionics Operations:
+  Work Order Creation and Authorization:
+  - Client Service Representative
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Quality Control Inspector
+  Avionics Client Communication and Progress Reporting:
+  - Client Service Representative
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Project Manager
+  Avionics Warranty and Service Support:
+  - Client Service Representative
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Warranty Administrator
+  Avionics Quality Control and Inspection:
+  - Chief of Maintenance
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Quality Control Inspector
+  Avionics Technician Training and Certification:
+  - Chief of Maintenance
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Training Coordinator
+  Avionics Environmental and Safety Compliance:
+  - Safety Officer
+  - Environmental Compliance Coordinator
+  - Avionics Shop Leader
+  - Avionics Technician
+  Avionics Component Inspection and Testing:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Quality Control Inspector
+  - Parts Manager
+  Avionics Installation and Configuration:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Quality Control Inspector
+  - Electrical Systems Specialist
+  Avionics Repair and Troubleshooting:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Quality Control Inspector
+  - Parts Manager
+  Avionics Modification and STC Implementation:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Quality Control Inspector
+  - Documentation Specialist
+  Avionics Parts and Component Management:
+  - Avionics Shop Leader
+  - Quality Control Inspector
+  - Parts Manager
+  - Inventory Specialist
+  Avionics Documentation and Records Management:
+  - Avionics Shop Leader
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Avionics Technician
+  - Quality Control Inspector
+  - Quality Control Inspector
+  - Documentation Specialist
+  - Documentation Specialist
+  Avionics Test Equipment Calibration:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Quality Control Inspector
+  - Equipment Calibration Specialist
+  Avionics Billing and Cost Management:
+  - Avionics Shop Leader
+  - Avionics Technician
+  - Project Manager
+  - Billing Administrator
+  Emergency and AOG Support:
+  - Avionics Shop Leader
+  - Emergency Response Coordinator
+  - On-Call Avionics Technician
+  - Parts Expediter
+Administrative and Financial:
+  Client Billing and Invoicing:
+  - Client Service Representative
+  - Operations Leader
+  - Finance Leader
+  - Line Service Technician
+  Payment Processing and Collections:
+  - Client Service Representative
+  - Operations Leader
+  - Finance Leader
+  - Business Leader
+  Client Account Management in CRM:
+  - Client Service Representative
+  - Operations Leader
+  - Business Leader
+  - Client Service Leader
+  Budget Planning and Monitoring:
+  - Operations Leader
+  - Finance Leader
+  - Business Leader
+  - Department Leaders
+  Payroll Administration for Team Members:
+  - Operations Leader
+  - Finance Leader
+  - Business Leader
+  - Department Leaders
+  Vendor and Supplier Contract Management:
+  - Operations Leader
+  - Finance Leader
+  - Business Leader
+  - Department Leaders
+  Financial Reporting and Reconciliation:
+  - Operations Leader
+  - Finance Leader
+  - Business Leader
+  - Department Leaders
+  Tax Filing and Compliance:
+  - Operations Leader
+  - Finance Leader
+  - Business Leader
+  - External CPA
+  Insurance Policy Management:
+  - Operations Leader
+  - Safety Officer
+  - Finance Leader
+  - Business Leader
+  Team Member Scheduling and Timekeeping:
+  - Operations Leader
+  - Finance Leader
+  - Department Leaders
+  - Team Members
+  Record-Keeping for Regulatory Compliance:
+  - Operations Leader
+  - Finance Leader
+  - Department Leaders
+  - Compliance Leader
+  Inventory Management for Fuel and Supplies:
+  - Operations Leader
+  - Finance Leader
+  - Line Service Technician
+  - Fuel System Operator
+  Purchase Order Processing:
+  - Operations Leader
+  - Finance Leader
+  - Department Leaders
+  - Purchasing Coordinator
+  Expense Tracking and Approval:
+  - Finance Leader
+  - Business Leader
+  - Department Leaders
+  - Team Members
+  Audit Preparation and Support:
+  - Finance Leader
+  - Business Leader
+  - Department Leaders
+  - Compliance Leader
+Flight School Operations:
+  TSA Security Clearance for International Students:
+  - Compliance Officer
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - International Student
+  Instructor Scheduling and Certification Renewal:
+  - Operations Leader
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Flight Instructor
+  Emergency Response and Evacuation Procedures:
+  - Operations Leader
+  - Safety Officer
+  - Flight School Administrator
+  - Flight Instructor
+  Client Feedback and Satisfaction Surveys:
+  - Operations Leader
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Client Experience Coordinator
+  Safety Incident Reporting:
+  - Safety Officer
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Flight Instructor
+  Billing and Payment Processing:
+  - Finance Leader
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Student
+  Student Enrollment and Onboarding:
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Client Experience Coordinator
+  Student Progress Tracking and Certification:
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Student Pilot
+  Ground School Curriculum Delivery:
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Ground Instructor
+  Flight Simulator Session Management:
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Simulator Operator
+  Post-Flight Debriefing and Logbook Updates:
+  - Flight School Administrator
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Student Pilot
+  Flight Lesson Scheduling:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Flight School Scheduler
+  - Maintenance Coordinator
+  Aircraft Maintenance and Inspection:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Maintenance Coordinator
+  - Student Pilot
+  Pre-Flight Briefing and Checklist Execution:
+  - Chief Flight Instructor
+  - Flight Instructor
+  - Student Pilot
+  - Operations Coordinator
+  Fuel Management and Refueling Operations:
+  - Flight Instructor
+  - Maintenance Coordinator
+  - Fuel Operations Coordinator
+  - Line Service Technician
+Marketing and Client Retention:
+  Client Segmentation and Targeting:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Business Leader
+  Digital Marketing Campaign Management:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Team Members (Designated)
+  Promotional Offer Development:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Business Leader
+  Event Hosting and Sponsorship:
+  - Operations Leader
+  - Safety Officer
+  - Marketing Leader
+  - Client Experience Lead
+  Client Feedback Collection and Analysis:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Team Members (All Departments)
+  Loyalty Program Management:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Business Leader
+  Personalized Client Follow-Up:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Team Members (Service-Specific)
+  Referral Program Administration:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Business Leader
+  Content Creation:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Team Members (Subject Matter Experts)
+  Partnership Development with Local Businesses:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Business Leader
+  Client Complaint Resolution:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Team Members (Involved)
+  Social Media Engagement and Reputation Management:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Team Members (Designated Social Media)
+  Pilot Community Outreach:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Team Members (Aviation Professionals)
+  Seasonal Marketing Campaigns:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Business Leader
+  Client Retention Analytics and Reporting:
+  - Operations Leader
+  - Marketing Leader
+  - Client Experience Lead
+  - Business Leader

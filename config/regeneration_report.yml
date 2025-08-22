@@ -1,0 +1,30 @@
+# Procedure Regeneration Report
+# Generated: 2025-08-22 06:29:26
+
+---
+:regeneration_date: '2025-08-22 06:29:26'
+:curated_roles_used:
+- A&P Mechanic
+- Avionics Technician
+- Business Leader
+- Chief Flight Instructor
+- Chief of Maintenance
+- Client Service Representative
+- Finance Leader
+- Flight Instructor
+- Line Service Technician
+- Marketing Leader
+- Operations Leader
+- Safety Officer
+:role_mappings_applied:
+  Maintenance Scheduler: Client Service Representative
+  Flight School Administrator: Chief Flight Instructor
+  Avionics Shop Leader: Chief of Maintenance
+  Quality Control Inspector: A&P Mechanic
+  Parts Coordinator: Client Service Representative
+  Compliance Officer: Safety Officer
+  Emergency Response Coordinator: Operations Leader
+  Human Resources Leader: Business Leader
+  Environmental Compliance Coordinator: Safety Officer
+:total_active_roles: 12
+:backup_location: content_backup

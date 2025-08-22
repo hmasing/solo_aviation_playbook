@@ -20,30 +20,38 @@ Establish a systematic approach to billing and invoicing that ensures accurate s
 
 ## Roles and Responsibilities
 
+**Line Service Technician:**
+
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
+
 **Finance Leader:**
 
 - Review and approve billing policies and procedures
-- Oversee invoice accuracy and dispute resolution
-- Monitor accounts receivable and collection activities
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
 **Client Service Representative:**
 
-- Capture service details and verify charges
-- Generate and distribute invoices to clients
-- Handle initial billing inquiries and clarifications
-
-**Line Service Technician:**
-
-- Document all services provided accurately
-- Verify fuel quantities and service completions
-- Report any billing discrepancies immediately
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
 **Operations Leader:**
 
-- Authorize service charge adjustments when appropriate
-- Review billing disputes and approve resolutions
-- Ensure billing procedures support operational efficiency
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Service Documentation Phase

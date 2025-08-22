@@ -20,34 +20,37 @@ This process establishes procedures for creating comprehensive avionics work ord
 
 ## Roles and Responsibilities
 
-**Avionics Shop Leader:**
-
-- Review and approve work order scope and technical requirements
-- Verify technician qualifications and equipment availability
-- Authorize work commencement after client approval
-- Oversee regulatory compliance verification
-
 **Avionics Technician:**
 
-- Conduct initial assessment and technical evaluation
+- Conduct avionics system assessments and repairs
 - Prepare detailed work scope and time estimates
-- Document component requirements and special procedures
-- Coordinate with parts department for component availability
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
+
+**A&P Mechanic:**
+
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Client Service Representative:**
 
-- Obtain client authorization and approval signatures
-- Communicate cost estimates and timeline expectations
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
 - Coordinate scheduling and aircraft availability
-- Process work order amendments and changes
+- Maintain professional client relationships
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Review work order for regulatory compliance requirements
-- Verify approved data and technical documentation availability
-- Confirm inspection requirements and quality checkpoints
-- Validate final work order completeness
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Initial Assessment Phase

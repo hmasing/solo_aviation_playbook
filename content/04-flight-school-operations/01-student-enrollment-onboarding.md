@@ -20,34 +20,21 @@ Establish a systematic approach to enrolling new students in Part 61 flight trai
 
 ## Roles and Responsibilities
 
-**Flight School Administrator:**
+**Flight Instructor:**
 
-- Process student applications and verify eligibility requirements
-- Coordinate medical certificate and documentation verification
-- Schedule orientation sessions and initial flight training appointments
-- Maintain accurate student enrollment records and training agreements
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Review student qualifications and training goals during initial consultation
-- Assign appropriate flight instructors based on student needs and instructor availability
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
 - Conduct flight school orientation and safety briefings
-- Approve training program selection and scheduling recommendations
-
-**Flight Instructor:**
-
-- Conduct initial student assessment and training readiness evaluation
-- Review training objectives and establish learning milestones with students
-- Coordinate aircraft scheduling and training resource allocation
-- Maintain ongoing communication with students regarding progress and requirements
-
-**Client Experience Coordinator:**
-
-- Provide initial facility tour and introduce students to team members
-- Coordinate payment processing and billing arrangements
-- Address student questions and concerns throughout onboarding process
-- Follow up with students to ensure satisfaction with enrollment experience
-
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ## Process Steps
 
 ### Application and Documentation Phase

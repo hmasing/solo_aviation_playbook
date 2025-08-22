@@ -20,34 +20,29 @@ Establish systematic procedures for tracking maintenance costs, preparing accura
 
 ## Roles and Responsibilities
 
-**Billing Coordinator:**
-
-- Process maintenance invoices and coordinate billing activities with accounting systems
-- Track work order costs and verify accuracy of labor and materials charges
-- Communicate with clients regarding billing questions and payment processing
-- Maintain billing documentation and coordinate with collections procedures
-
-**Chief of Maintenance:**
-
-- Review and approve maintenance work orders and cost estimates before billing
-- Ensure accuracy of labor time reporting and materials usage documentation
-- Coordinate with billing team for complex maintenance billing issues
-- Approve billing adjustments and warranty work authorization
-
 **A&P Mechanic:**
 
-- Record accurate labor time and materials usage for all maintenance activities
-- Document work performed and parts installed for billing verification
-- Report any discrepancies in work order scope or cost estimates
-- Participate in billing reviews when technical clarification is required
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Finance Leader:**
 
-- Oversee billing procedures and coordinate with accounting systems
-- Review billing accuracy and approve credit terms and payment arrangements
-- Monitor accounts receivable and coordinate collection activities
-- Ensure compliance with financial reporting and tax requirements
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Work Order Cost Tracking

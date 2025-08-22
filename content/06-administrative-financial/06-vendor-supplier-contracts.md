@@ -20,30 +20,30 @@ Establish systematic contract management procedures that secure favorable vendor
 
 ## Roles and Responsibilities
 
+**Finance Leader:**
+
+- Review and approve billing policies and procedures
+- Oversee invoice accuracy and accounts receivable
+- Monitor financial performance and budgets
+- Ensure compliance with financial regulations
+- Coordinate with external accounting services
+
 **Business Leader:**
 
-- Negotiate major contracts and approve contract terms
-- Review vendor performance and authorize contract renewals
-- Establish procurement policies and vendor selection criteria
+- Approve marketing budget and resource allocation
+- Review financial projections and business development strategies
+- Provide strategic direction for market expansion
+- Monitor competitive positioning and pricing strategies
+- Oversee vendor contracts and supplier relationships
 
 **Operations Leader:**
 
-- Identify operational needs and vendor requirements
-- Evaluate vendor performance and service quality
-- Coordinate with vendors on service delivery and issues
-
-**Finance Leader:**
-
-- Review contract financial terms and payment obligations
-- Monitor contract compliance and payment schedules
-- Analyze vendor costs and negotiate pricing improvements
-
-**Department Leaders:**
-
-- Specify departmental vendor requirements and service levels
-- Monitor vendor performance within their areas
-- Report vendor issues and recommend contract modifications
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Vendor Selection Phase

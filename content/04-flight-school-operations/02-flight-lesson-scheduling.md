@@ -20,34 +20,21 @@ Establish efficient scheduling procedures for flight training activities that ma
 
 ## Roles and Responsibilities
 
-**Flight School Scheduler:**
+**Flight Instructor:**
 
-- Coordinate aircraft and instructor assignments for all scheduled flight lessons
-- Monitor weather conditions and make scheduling adjustments as needed
-- Maintain scheduling system accuracy and resolve conflicts between bookings
-- Communicate schedule changes to students and instructors promptly
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Approve instructor assignments and training activity scheduling
-- Review student progress to ensure appropriate lesson frequency and sequencing
-- Coordinate with maintenance team for aircraft availability planning
-- Make final decisions on weather-related flight training cancellations
-
-**Flight Instructor:**
-
-- Submit availability schedules and coordinate with assigned students
-- Review weather conditions and aircraft status before scheduled lessons
-- Communicate lesson objectives and requirements to scheduling team
-- Report aircraft discrepancies or maintenance needs affecting future scheduling
-
-**Maintenance Coordinator:**
-
-- Provide aircraft availability status for scheduling purposes
-- Coordinate scheduled maintenance to minimize training disruptions
-- Report aircraft grounding or return-to-service status immediately
-- Plan maintenance activities during low-demand scheduling periods
-
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 ## Process Steps
 
 ### Daily Scheduling Review Phase

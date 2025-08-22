@@ -26,34 +26,28 @@ Establish safety protocols for aircraft fueling operations to prevent fire hazar
 
 **Line Service Technician:**
 
-- Conduct pre-fueling safety inspections
-- Operate fueling equipment according to safety protocols
-- Monitor fueling operations for safety compliance
-- Respond to fuel spills or emergency situations
-
-**Fuel Safety Coordinator:**
-
-- Oversee daily fuel safety operations
-- Conduct equipment inspections and maintenance
-- Train team members on fuel safety procedures
-- Investigate fuel-related incidents and implement corrective actions
-
-**Operations Leader:**
-
-- Ensure fuel safety program compliance
-- Authorize fuel safety equipment purchases and maintenance
-- Review fuel safety incidents and corrective actions
-- Coordinate with regulatory agencies on fuel safety matters
+- Provide direct aircraft handling services
+- Execute safety protocols during aircraft movements
+- Document all services provided accurately
+- Coordinate with ground support equipment
+- Monitor safety compliance during operations
 
 **Safety Officer:**
 
-- Audit fuel safety procedures and compliance
-- Develop fuel safety training programs
-- Investigate serious fuel safety incidents
-- Monitor regulatory changes affecting fuel operations
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
 
----
+**Operations Leader:**
 
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Pre-Fueling Safety Phase

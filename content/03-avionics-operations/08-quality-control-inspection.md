@@ -20,34 +20,29 @@ This process establishes procedures for conducting independent quality control i
 
 ## Roles and Responsibilities
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Conduct independent inspections of all avionics work performed
-- Verify compliance with approved procedures and specifications
-- Review documentation for completeness and accuracy
-- Authorize return to service after successful inspection
-
-**Avionics Shop Leader:**
-
-- Coordinate quality control inspection scheduling
-- Review inspection results and approve corrective actions
-- Ensure inspector qualifications and training currency
-- Oversee quality system implementation and effectiveness
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Avionics Technician:**
 
-- Prepare work for quality control inspection
-- Provide technical information and documentation to inspector
-- Perform corrective actions as directed by quality control
-- Support inspector during inspection and testing procedures
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
 **Chief of Maintenance:**
 
-- Approve quality control procedures and standards
-- Review quality metrics and system effectiveness
-- Authorize quality control personnel and qualifications
-- Coordinate with regulatory authorities for quality system audits
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Pre-Inspection Preparation Phase

@@ -1,0 +1,271 @@
+# Role Usage Analysis Report
+# Generated: 2025-08-22 06:24:11
+
+---
+:summary:
+  :total_roles: 84
+  :most_used_role: Operations Leader
+  :least_used_roles:
+  - Billing Administrator
+  - Billing Coordinator
+  - Client Service Leader
+  - Electrical Systems Specialist
+  - Environmental Compliance Officer
+  - Equipment Calibration Specialist
+  - Equipment Maintenance Supervisor
+  - Equipment Operators
+  - External CPA
+  - Facility Maintenance Coordinator
+  - Flight School Scheduler
+  - Fuel Operations Coordinator
+  - Fuel Service Technician
+  - Fuel System Operator
+  - Ground Instructor
+  - Ground Operations Supervisor
+  - Individual Technician
+  - Inspector (IA for Annual Inspections)
+  - International Student
+  - Inventory Specialist
+  - Line Service Leader
+  - Maintenance Team Members
+  - On-Call Avionics Technician
+  - Operations Coordinator
+  - Parts Expediter
+  - Purchasing Coordinator
+  - Purchasing Leader
+  - Quality Assurance Technician
+  - Ramp Safety Coordinator
+  - Records Management Coordinator
+  - Runway Safety Officer
+  - Safety Inspector
+  - Safety Manager
+  - Security Coordinator
+  - Simulator Operator
+  - Student
+  - Team Members (All Departments)
+  - Team Members (Aviation Professionals)
+  - Team Members (Designated Social Media)
+  - Team Members (Designated)
+  - Team Members (Involved)
+  - Team Members (Service-Specific)
+  - Team Members (Subject Matter Experts)
+  - Tool Room Coordinator
+  - Training Leader
+  - Warranty Administrator
+:role_frequency:
+  Fuel Service Technician: 1
+  Fuel Safety Coordinator: 2
+  Line Service Leader: 1
+  Quality Assurance Technician: 1
+  Maintenance Scheduler: 3
+  Client Service Representative: 13
+  Chief of Maintenance: 14
+  A&P Mechanic/Inspector: 2
+  Lead A&P Mechanic: 3
+  Inspector (IA when required): 4
+  Inspector (IA for Annual Inspections): 1
+  A&P Mechanic: 8
+  Parts Coordinator: 3
+  Purchasing Leader: 1
+  Compliance Officer: 5
+  Quality Assurance Leader: 4
+  Tool Room Coordinator: 1
+  Training Leader: 1
+  Individual Technician: 1
+  Human Resources Leader: 2
+  Operations Leader: 47
+  Safety Officer: 16
+  Environmental Compliance Coordinator: 2
+  Maintenance Team Members: 1
+  Facility Maintenance Coordinator: 1
+  Billing Coordinator: 1
+  Finance Leader: 16
+  Avionics Shop Leader: 16
+  Avionics Technician: 14
+  Quality Control Inspector: 10
+  Parts Manager: 3
+  Electrical Systems Specialist: 1
+  Documentation Specialist: 3
+  Inventory Specialist: 1
+  Equipment Calibration Specialist: 1
+  Training Coordinator: 2
+  Project Manager: 2
+  Warranty Administrator: 1
+  Billing Administrator: 1
+  Emergency Response Coordinator: 2
+  On-Call Avionics Technician: 1
+  Parts Expediter: 1
+  Flight School Administrator: 10
+  Chief Flight Instructor: 13
+  Flight Instructor: 13
+  Client Experience Coordinator: 2
+  Flight School Scheduler: 1
+  Maintenance Coordinator: 3
+  Student Pilot: 4
+  Ground Instructor: 1
+  Simulator Operator: 1
+  International Student: 1
+  Student: 1
+  Operations Coordinator: 1
+  Fuel Operations Coordinator: 1
+  Line Service Technician: 5
+  Marketing Leader: 15
+  Client Experience Lead: 15
+  Business Leader: 17
+  Team Members (Designated): 1
+  Team Members (All Departments): 1
+  Team Members (Service-Specific): 1
+  Team Members (Subject Matter Experts): 1
+  Team Members (Involved): 1
+  Team Members (Designated Social Media): 1
+  Team Members (Aviation Professionals): 1
+  Department Leaders: 18
+  Team Members: 2
+  External CPA: 1
+  Compliance Leader: 2
+  Fuel System Operator: 1
+  Client Service Leader: 1
+  Purchasing Coordinator: 1
+  Team Members (All): 7
+  Ramp Safety Coordinator: 1
+  Safety Inspector: 1
+  Security Coordinator: 1
+  Environmental Compliance Officer: 1
+  Equipment Maintenance Supervisor: 1
+  Equipment Operators: 1
+  Runway Safety Officer: 1
+  Ground Operations Supervisor: 1
+  Safety Manager: 1
+  Records Management Coordinator: 1
+:section_analysis:
+  FBO Services:
+    :role_count: 4
+    :roles:
+    - Fuel Safety Coordinator
+    - Fuel Service Technician
+    - Line Service Leader
+    - Quality Assurance Technician
+  Safety and Compliance:
+    :role_count: 21
+    :roles:
+    - Compliance Officer
+    - Department Leaders
+    - Emergency Response Coordinator
+    - Environmental Compliance Officer
+    - Equipment Maintenance Supervisor
+    - Equipment Operators
+    - Fuel Safety Coordinator
+    - Ground Operations Supervisor
+    - Human Resources Leader
+    - Line Service Technician
+    - Operations Leader
+    - Quality Assurance Leader
+    - Ramp Safety Coordinator
+    - Records Management Coordinator
+    - Runway Safety Officer
+    - Safety Inspector
+    - Safety Manager
+    - Safety Officer
+    - Security Coordinator
+    - Team Members (All)
+    - Training Coordinator
+  Maintenance Operations:
+    :role_count: 23
+    :roles:
+    - A&P Mechanic
+    - A&P Mechanic/Inspector
+    - Billing Coordinator
+    - Chief of Maintenance
+    - Client Service Representative
+    - Compliance Officer
+    - Environmental Compliance Coordinator
+    - Facility Maintenance Coordinator
+    - Finance Leader
+    - Human Resources Leader
+    - Individual Technician
+    - Inspector (IA for Annual Inspections)
+    - Inspector (IA when required)
+    - Lead A&P Mechanic
+    - Maintenance Scheduler
+    - Maintenance Team Members
+    - Operations Leader
+    - Parts Coordinator
+    - Purchasing Leader
+    - Quality Assurance Leader
+    - Safety Officer
+    - Tool Room Coordinator
+    - Training Leader
+  Avionics Operations:
+    :role_count: 19
+    :roles:
+    - Avionics Shop Leader
+    - Avionics Technician
+    - Billing Administrator
+    - Chief of Maintenance
+    - Client Service Representative
+    - Documentation Specialist
+    - Electrical Systems Specialist
+    - Emergency Response Coordinator
+    - Environmental Compliance Coordinator
+    - Equipment Calibration Specialist
+    - Inventory Specialist
+    - On-Call Avionics Technician
+    - Parts Expediter
+    - Parts Manager
+    - Project Manager
+    - Quality Control Inspector
+    - Safety Officer
+    - Training Coordinator
+    - Warranty Administrator
+  Administrative and Financial:
+    :role_count: 13
+    :roles:
+    - Business Leader
+    - Client Service Leader
+    - Client Service Representative
+    - Compliance Leader
+    - Department Leaders
+    - External CPA
+    - Finance Leader
+    - Fuel System Operator
+    - Line Service Technician
+    - Operations Leader
+    - Purchasing Coordinator
+    - Safety Officer
+    - Team Members
+  Flight School Operations:
+    :role_count: 18
+    :roles:
+    - Chief Flight Instructor
+    - Client Experience Coordinator
+    - Compliance Officer
+    - Finance Leader
+    - Flight Instructor
+    - Flight School Administrator
+    - Flight School Scheduler
+    - Fuel Operations Coordinator
+    - Ground Instructor
+    - International Student
+    - Line Service Technician
+    - Maintenance Coordinator
+    - Operations Coordinator
+    - Operations Leader
+    - Safety Officer
+    - Simulator Operator
+    - Student
+    - Student Pilot
+  Marketing and Client Retention:
+    :role_count: 12
+    :roles:
+    - Business Leader
+    - Client Experience Lead
+    - Marketing Leader
+    - Operations Leader
+    - Safety Officer
+    - Team Members (All Departments)
+    - Team Members (Aviation Professionals)
+    - Team Members (Designated Social Media)
+    - Team Members (Designated)
+    - Team Members (Involved)
+    - Team Members (Service-Specific)
+    - Team Members (Subject Matter Experts)

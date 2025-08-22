@@ -255,34 +255,37 @@ This process establishes procedures for creating comprehensive avionics work ord
 
 ### Roles and Responsibilities
 
-**Avionics Shop Leader:**
-
-- Review and approve work order scope and technical requirements
-- Verify technician qualifications and equipment availability
-- Authorize work commencement after client approval
-- Oversee regulatory compliance verification
-
 **Avionics Technician:**
 
-- Conduct initial assessment and technical evaluation
+- Conduct avionics system assessments and repairs
 - Prepare detailed work scope and time estimates
-- Document component requirements and special procedures
-- Coordinate with parts department for component availability
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
+
+**A&P Mechanic:**
+
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Client Service Representative:**
 
-- Obtain client authorization and approval signatures
-- Communicate cost estimates and timeline expectations
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
 - Coordinate scheduling and aircraft availability
-- Process work order amendments and changes
+- Maintain professional client relationships
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Review work order for regulatory compliance requirements
-- Verify approved data and technical documentation availability
-- Confirm inspection requirements and quality checkpoints
-- Validate final work order completeness
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Initial Assessment Phase
@@ -392,32 +395,27 @@ This process establishes procedures for comprehensive inspection and testing of 
 
 **Avionics Technician:**
 
-- Conduct visual inspections and component testing procedures
-- Operate test equipment and document test results
-- Identify component defects and performance issues
-- Prepare components for installation or return to service
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Avionics Shop Leader:**
+**A&P Mechanic:**
 
-- Review test procedures and approve testing protocols
-- Verify technician qualifications for specific component testing
-- Approve test results and component disposition decisions
-- Ensure compliance with manufacturer testing requirements
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Conduct independent verification of critical test results
-- Review test documentation for completeness and accuracy
-- Approve components for installation or return to service
-- Verify calibration status of test equipment used
-
-**Parts Manager:**
-
-- Coordinate component receipt and inspection scheduling
-- Manage component serialization and traceability records
-- Process warranty claims for defective components
-- Maintain component storage and handling protocols
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Component Receipt and Preparation Phase
@@ -527,32 +525,27 @@ This process establishes procedures for proper installation and configuration of
 
 **Avionics Technician:**
 
-- Perform physical installation of avionics equipment and wiring
-- Configure system parameters according to manufacturer specifications
-- Conduct system integration testing and verification
-- Document installation procedures and configuration settings
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Avionics Shop Leader:**
+**A&P Mechanic:**
 
-- Review installation procedures and approve configuration parameters
-- Verify compliance with approved data and manufacturer instructions
-- Oversee system integration and final testing procedures
-- Approve installation completion and return to service
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Conduct independent inspection of installation workmanship
-- Verify compliance with approved installation data
-- Review configuration documentation and test results
-- Approve installation for return to service authorization
-
-**Electrical Systems Specialist:**
-
-- Design and install electrical power and signal wiring
-- Verify proper grounding and shielding installation
-- Conduct electrical system integration testing
-- Document electrical modifications and connections
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Pre-Installation Preparation Phase
@@ -662,32 +655,27 @@ This process establishes systematic procedures for diagnosing and repairing avio
 
 **Avionics Technician:**
 
-- Conduct systematic troubleshooting and fault isolation procedures
-- Perform component-level repairs using approved techniques
-- Execute system testing and verification procedures
-- Document troubleshooting steps and repair actions taken
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Avionics Shop Leader:**
+**A&P Mechanic:**
 
-- Review troubleshooting approach and approve repair methods
-- Verify technician qualifications for specific repair procedures
-- Oversee complex repairs and provide technical guidance
-- Approve repair completion and return to service authorization
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Conduct independent verification of repair procedures
-- Review troubleshooting documentation and test results
-- Inspect repair workmanship and compliance with approved methods
-- Approve repaired systems for return to service
-
-**Parts Manager:**
-
-- Coordinate replacement parts procurement and availability
-- Verify parts authenticity and traceability documentation
-- Process warranty claims for defective components
-- Manage repair parts inventory and supplier relationships
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Initial Problem Assessment Phase
@@ -795,34 +783,29 @@ This process establishes procedures for implementing avionics modifications and 
 
 ### Roles and Responsibilities
 
-**Avionics Shop Leader:**
-
-- Review STC documentation and approve modification procedures
-- Verify compliance with applicable regulations and airworthiness requirements
-- Oversee complex modifications and coordinate with regulatory authorities
-- Approve modification completion and airworthiness certification
-
 **Avionics Technician:**
 
-- Execute modification procedures according to approved STC instructions
-- Perform installation work and system integration testing
-- Document modification procedures and configuration changes
-- Conduct required inspections and testing procedures
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Conduct independent verification of STC compliance
-- Review modification documentation for completeness and accuracy
-- Inspect modification workmanship and regulatory compliance
-- Approve modifications for airworthiness certification
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Documentation Specialist:**
+**Chief of Maintenance:**
 
-- Maintain STC documentation and revision control
-- Prepare required regulatory submissions and reports
-- Update aircraft records and equipment lists
-- Coordinate with regulatory authorities for approvals
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### STC Research and Approval Phase
@@ -930,34 +913,21 @@ This process establishes procedures for managing avionics parts inventory, procu
 
 ### Roles and Responsibilities
 
-**Parts Manager:**
+**A&P Mechanic:**
 
-- Coordinate parts procurement and supplier relationships
-- Maintain parts inventory levels and storage conditions
-- Verify parts authenticity and traceability documentation
-- Process parts orders and coordinate delivery schedules
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Avionics Shop Leader:**
+**Chief of Maintenance:**
 
-- Approve parts specifications and supplier selections
-- Review parts requirements for work orders and projects
-- Authorize emergency parts procurement and expedited orders
-- Oversee parts quality control and acceptance procedures
-
-**Quality Control Inspector:**
-
-- Conduct incoming parts inspection and acceptance
-- Verify parts compliance with specifications and standards
-- Review parts documentation and traceability records
-- Approve parts for installation and use
-
-**Inventory Specialist:**
-
-- Maintain accurate parts inventory records and locations
-- Conduct periodic inventory audits and cycle counts
-- Manage parts storage conditions and shelf life tracking
-- Process parts returns and warranty claims
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Parts Procurement Planning Phase
@@ -1065,34 +1035,29 @@ This process establishes procedures for maintaining comprehensive documentation 
 
 ### Roles and Responsibilities
 
-**Documentation Specialist:**
-
-- Maintain master documentation files and revision control
-- Process documentation updates and distribute current revisions
-- Coordinate with regulatory authorities for required submissions
-- Ensure compliance with documentation retention requirements
-
 **Avionics Technician:**
 
-- Complete work order documentation accurately and completely
-- Record all maintenance actions and test results
-- Maintain component installation and configuration records
-- Submit completed documentation for quality review
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Review all documentation for completeness and accuracy
-- Verify compliance with regulatory documentation requirements
-- Approve completed work packages for record retention
-- Conduct periodic documentation audits and compliance reviews
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Avionics Shop Leader:**
+**Chief of Maintenance:**
 
-- Approve documentation procedures and format requirements
-- Review and sign off on completed work documentation
-- Ensure technician training on documentation requirements
-- Coordinate with regulatory authorities for inspections and audits
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Work Order Documentation Phase
@@ -1200,34 +1165,29 @@ This process establishes procedures for maintaining comprehensive documentation 
 
 ### Roles and Responsibilities
 
-**Documentation Specialist:**
-
-- Maintain master documentation files and revision control
-- Process documentation updates and distribute current revisions
-- Coordinate with regulatory authorities for required submissions
-- Ensure compliance with documentation retention requirements
-
 **Avionics Technician:**
 
-- Complete work order documentation accurately and completely
-- Record all maintenance actions and test results
-- Maintain component installation and configuration records
-- Submit completed documentation for quality review
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Review all documentation for completeness and accuracy
-- Verify compliance with regulatory documentation requirements
-- Approve completed work packages for record retention
-- Conduct periodic documentation audits and compliance reviews
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Avionics Shop Leader:**
+**Chief of Maintenance:**
 
-- Approve documentation procedures and format requirements
-- Review and sign off on completed work documentation
-- Ensure technician training on documentation requirements
-- Coordinate with regulatory authorities for inspections and audits
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Work Order Documentation Phase
@@ -1335,34 +1295,29 @@ This process establishes procedures for conducting independent quality control i
 
 ### Roles and Responsibilities
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Conduct independent inspections of all avionics work performed
-- Verify compliance with approved procedures and specifications
-- Review documentation for completeness and accuracy
-- Authorize return to service after successful inspection
-
-**Avionics Shop Leader:**
-
-- Coordinate quality control inspection scheduling
-- Review inspection results and approve corrective actions
-- Ensure inspector qualifications and training currency
-- Oversee quality system implementation and effectiveness
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
 **Avionics Technician:**
 
-- Prepare work for quality control inspection
-- Provide technical information and documentation to inspector
-- Perform corrective actions as directed by quality control
-- Support inspector during inspection and testing procedures
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
 **Chief of Maintenance:**
 
-- Approve quality control procedures and standards
-- Review quality metrics and system effectiveness
-- Authorize quality control personnel and qualifications
-- Coordinate with regulatory authorities for quality system audits
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Pre-Inspection Preparation Phase
@@ -1470,34 +1425,29 @@ This process establishes procedures for maintaining and calibrating avionics tes
 
 ### Roles and Responsibilities
 
-**Equipment Calibration Specialist:**
-
-- Coordinate calibration schedules and service provider relationships
-- Maintain calibration records and certification tracking
-- Monitor equipment performance and identify calibration needs
-- Process calibration certificates and update equipment status
-
-**Avionics Shop Leader:**
-
-- Approve calibration procedures and service provider selections
-- Review equipment performance and calibration requirements
-- Authorize equipment use and out-of-tolerance dispositions
-- Oversee calibration budget and equipment replacement planning
-
 **Avionics Technician:**
 
-- Operate test equipment according to calibration procedures
-- Report equipment malfunctions and accuracy concerns
-- Maintain equipment in proper condition between calibrations
-- Verify equipment calibration status before use
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Quality Control Inspector:**
+**A&P Mechanic:**
 
-- Verify equipment calibration status during inspections
-- Review calibration records for compliance and accuracy
-- Approve equipment for use in quality control activities
-- Monitor calibration system effectiveness and compliance
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Calibration Planning and Scheduling Phase
@@ -1605,34 +1555,21 @@ This process establishes procedures for managing avionics technician training, c
 
 ### Roles and Responsibilities
 
-**Training Coordinator:**
-
-- Develop training plans and coordinate training schedules
-- Track training completion and certification status
-- Coordinate with training providers and manufacturers
-- Maintain training records and compliance documentation
-
-**Avionics Shop Leader:**
-
-- Assess training needs and approve training programs
-- Evaluate technician competency and performance
-- Authorize technician qualifications for specific work types
-- Review training effectiveness and update requirements
-
 **Avionics Technician:**
 
-- Participate in required training programs and assessments
-- Maintain current certifications and licenses
-- Demonstrate competency in assigned work areas
-- Report training needs and skill development requirements
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
 **Chief of Maintenance:**
 
-- Approve training budget and resource allocation
-- Review overall training program effectiveness
-- Ensure compliance with regulatory training requirements
-- Authorize technician certifications and qualifications
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Training Needs Assessment Phase
@@ -1740,34 +1677,29 @@ This process establishes procedures for maintaining effective communication with
 
 ### Roles and Responsibilities
 
-**Client Service Representative:**
-
-- Serve as primary communication liaison with clients
-- Coordinate project updates and status communications
-- Process client requests and coordinate responses
-- Manage client expectations and satisfaction
-
-**Avionics Shop Leader:**
-
-- Provide technical information for client communications
-- Approve project status updates and timeline changes
-- Coordinate with client service for complex technical discussions
-- Review client feedback and implement improvements
-
 **Avionics Technician:**
 
-- Provide accurate project status and technical information
-- Communicate directly with clients on technical matters when appropriate
-- Document client interactions and technical discussions
-- Report client concerns or requests to leadership
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Project Manager:**
+**Client Service Representative:**
 
-- Coordinate overall project communication strategy
-- Monitor project milestones and communication schedules
-- Escalate issues requiring management attention
-- Ensure client satisfaction throughout project lifecycle
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Initial Project Communication Phase
@@ -1875,34 +1807,29 @@ This process establishes procedures for ensuring compliance with environmental r
 
 ### Roles and Responsibilities
 
-**Safety Officer:**
-
-- Develop and maintain safety procedures for avionics operations
-- Conduct safety training and compliance monitoring
-- Investigate safety incidents and implement corrective actions
-- Coordinate with regulatory authorities for safety compliance
-
-**Environmental Compliance Coordinator:**
-
-- Monitor environmental regulations and compliance requirements
-- Coordinate waste disposal and environmental protection procedures
-- Maintain environmental compliance documentation
-- Process environmental permits and regulatory submissions
-
-**Avionics Shop Leader:**
-
-- Implement safety procedures in daily operations
-- Ensure team member compliance with safety requirements
-- Report safety concerns and environmental issues
-- Coordinate safety training and awareness programs
-
 **Avionics Technician:**
 
-- Follow established safety and environmental procedures
-- Use proper protective equipment and safety protocols
-- Report safety hazards and environmental concerns
-- Participate in safety training and compliance activities
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
+**Safety Officer:**
+
+- Monitor safety compliance across all operations
+- Conduct safety investigations and reporting
+- Coordinate safety training and certification
+- Ensure regulatory safety compliance
+- Authorize safety equipment and improvements
+
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### ESD Protection Implementation Phase
@@ -2008,34 +1935,29 @@ This process establishes procedures for managing warranty claims, implementing s
 
 ### Roles and Responsibilities
 
-**Warranty Administrator:**
-
-- Process warranty claims and coordinate with manufacturers
-- Track warranty periods and coverage for installed equipment
-- Maintain warranty documentation and claim records
-- Coordinate warranty repairs and replacement procedures
-
-**Avionics Shop Leader:**
-
-- Review warranty claims and approve warranty work
-- Coordinate with manufacturers for technical support
-- Oversee service bulletin implementation and compliance
-- Approve warranty policy and procedure updates
-
 **Avionics Technician:**
 
-- Identify warranty-eligible issues during maintenance
-- Perform warranty repairs according to manufacturer procedures
-- Document warranty work and maintain accurate records
-- Report service bulletin compliance and implementation
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
 **Client Service Representative:**
 
-- Communicate warranty coverage and benefits to clients
-- Coordinate warranty claim processing with clients
-- Provide updates on warranty repair status and completion
-- Manage client expectations for warranty service timelines
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Warranty Coverage Management Phase
@@ -2143,34 +2065,21 @@ This process establishes procedures for managing accurate billing and cost track
 
 ### Roles and Responsibilities
 
-**Billing Administrator:**
-
-- Process avionics billing and invoice generation
-- Track labor hours and material costs for accuracy
-- Coordinate with accounting for payment processing
-- Maintain billing records and client account information
-
-**Avionics Shop Leader:**
-
-- Approve labor rates and billing procedures
-- Review complex billing situations and authorize adjustments
-- Coordinate with clients on billing questions and disputes
-- Monitor billing accuracy and client satisfaction
-
 **Avionics Technician:**
 
-- Record accurate labor time and work performed
-- Document materials used and services provided
-- Report billing discrepancies or special circumstances
-- Maintain detailed work records for billing verification
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Project Manager:**
+**Chief of Maintenance:**
 
-- Monitor project costs against estimates and budgets
-- Coordinate billing schedules and payment terms
-- Communicate cost overruns or changes to clients
-- Ensure project profitability and cost control
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Labor Time Tracking Phase
@@ -2278,34 +2187,22 @@ This process establishes procedures for providing emergency avionics support and
 
 ### Roles and Responsibilities
 
-**Emergency Response Coordinator:**
+**Operations Leader:**
 
-- Coordinate emergency response and resource allocation
-- Maintain emergency contact lists and escalation procedures
-- Monitor emergency response times and effectiveness
-- Coordinate with clients and external support services
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 
-**Avionics Shop Leader:**
+**Chief of Maintenance:**
 
-- Authorize emergency response actions and resource deployment
-- Coordinate emergency parts procurement and expedited services
-- Oversee emergency repair procedures and quality control
-- Approve emergency work authorization and billing procedures
-
-**On-Call Avionics Technician:**
-
-- Respond to emergency calls and perform initial assessment
-- Execute emergency repairs and troubleshooting procedures
-- Coordinate with parts suppliers and external services
-- Maintain communication with clients throughout emergency response
-
-**Parts Expediter:**
-
-- Coordinate emergency parts procurement and delivery
-- Maintain relationships with expedited parts suppliers
-- Track emergency parts orders and delivery status
-- Process emergency parts authorization and payment
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ### Process Steps
 
 #### Emergency Response Activation Phase

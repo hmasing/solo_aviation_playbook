@@ -20,34 +20,30 @@ Establish procedures for systematically collecting, analyzing, and responding to
 
 ## Roles and Responsibilities
 
-**Client Experience Coordinator:**
+**Flight Instructor:**
 
-- Design and implement client feedback collection systems and survey programs
-- Analyze feedback data and identify trends, issues, and improvement opportunities
-- Coordinate with department leaders to implement feedback-driven improvements
-- Maintain client communication regarding feedback responses and program changes
+- Conduct student assessments and training
+- Review training objectives with students
+- Coordinate aircraft scheduling for training
+- Maintain communication with students on progress
+- Ensure safety and regulatory compliance
 
 **Chief Flight Instructor:**
 
-- Review training-related feedback and coordinate instructional improvements
-- Address individual instructor performance issues identified through client feedback
-- Implement training program modifications based on client suggestions and needs
-- Monitor training quality metrics and client satisfaction outcomes
+- Review student qualifications and training goals
+- Assign appropriate flight instructors based on needs
+- Conduct flight school orientation and safety briefings
+- Approve training program selection and scheduling
+- Ensure Part 61 compliance for all training operations
 
 **Operations Leader:**
 
-- Review overall client satisfaction trends and approve improvement initiatives
-- Coordinate with team leaders to address systemic issues identified through feedback
-- Ensure adequate resources are allocated for client satisfaction improvement programs
-- Monitor client retention and satisfaction metrics for business performance evaluation
-
-**Flight Instructor:**
-
-- Encourage client feedback and maintain open communication with assigned students
-- Respond professionally to client concerns and coordinate resolution with leadership
-- Implement feedback-driven improvements in individual instruction methods
-- Participate in client satisfaction improvement initiatives and training programs
-
+- Oversee daily operations and coordinate between departments
+- Authorize emergency response procedures and resource allocation
+- Monitor safety compliance and operational excellence
+- Coordinate scheduling across departments for operational coverage
+- Review billing disputes and approve service adjustments
+- Ensure regulatory compliance across all operations
 ## Process Steps
 
 ### Feedback Collection Phase

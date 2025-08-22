@@ -20,34 +20,29 @@ This process establishes procedures for maintaining effective communication with
 
 ## Roles and Responsibilities
 
-**Client Service Representative:**
-
-- Serve as primary communication liaison with clients
-- Coordinate project updates and status communications
-- Process client requests and coordinate responses
-- Manage client expectations and satisfaction
-
-**Avionics Shop Leader:**
-
-- Provide technical information for client communications
-- Approve project status updates and timeline changes
-- Coordinate with client service for complex technical discussions
-- Review client feedback and implement improvements
-
 **Avionics Technician:**
 
-- Provide accurate project status and technical information
-- Communicate directly with clients on technical matters when appropriate
-- Document client interactions and technical discussions
-- Report client concerns or requests to leadership
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Project Manager:**
+**Client Service Representative:**
 
-- Coordinate overall project communication strategy
-- Monitor project milestones and communication schedules
-- Escalate issues requiring management attention
-- Ensure client satisfaction throughout project lifecycle
+- Manage client communications and service requests
+- Process documentation and billing
+- Obtain client authorizations and approvals
+- Coordinate scheduling and aircraft availability
+- Maintain professional client relationships
 
+**Chief of Maintenance:**
+
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Initial Project Communication Phase

@@ -22,32 +22,27 @@ This process establishes procedures for proper installation and configuration of
 
 **Avionics Technician:**
 
-- Perform physical installation of avionics equipment and wiring
-- Configure system parameters according to manufacturer specifications
-- Conduct system integration testing and verification
-- Document installation procedures and configuration settings
+- Conduct avionics system assessments and repairs
+- Prepare detailed work scope and time estimates
+- Document component requirements and procedures
+- Coordinate with parts department for availability
+- Ensure regulatory compliance for avionics work
 
-**Avionics Shop Leader:**
+**A&P Mechanic:**
 
-- Review installation procedures and approve configuration parameters
-- Verify compliance with approved data and manufacturer instructions
-- Oversee system integration and final testing procedures
-- Approve installation completion and return to service
+- Execute assigned maintenance tasks per specifications
+- Review work order technical requirements
+- Provide technical input for work scope estimates
+- Document completion status and discrepancies
+- Ensure regulatory compliance in all maintenance work
 
-**Quality Control Inspector:**
+**Chief of Maintenance:**
 
-- Conduct independent inspection of installation workmanship
-- Verify compliance with approved installation data
-- Review configuration documentation and test results
-- Approve installation for return to service authorization
-
-**Electrical Systems Specialist:**
-
-- Design and install electrical power and signal wiring
-- Verify proper grounding and shielding installation
-- Conduct electrical system integration testing
-- Document electrical modifications and connections
-
+- Review and approve complex or high-value work orders
+- Assign qualified technicians to specific maintenance tasks
+- Ensure regulatory compliance for all maintenance work
+- Resolve scheduling conflicts and resource allocation issues
+- Oversee maintenance quality and safety standards
 ## Process Steps
 
 ### Pre-Installation Preparation Phase
