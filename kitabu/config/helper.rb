@@ -3,7 +3,7 @@
 module Kitabu
   module Helpers
     def lexers_list
-      buffer = [%[<ul class="lexers">]]
+      buffer = [%(<ul class="lexers">)]
 
       Rouge::Lexers.constants.each do |const|
         lexer = Rouge::Lexers.const_get(const)
@@ -16,14 +16,14 @@ module Kitabu
           next
         end
 
-        buffer << "<li>"
+        buffer << '<li>'
         buffer << "<strong>#{title}</strong> "
         buffer << "<code>#{tag}</code><br>"
         buffer << "<span>#{description}</span>"
-        buffer << "</li>"
+        buffer << '</li>'
       end
 
-      buffer << "</ul>"
+      buffer << '</ul>'
       buffer.join
     end
   end

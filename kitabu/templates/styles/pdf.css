@@ -52,8 +52,7 @@
 
 @page chapter:left {
   @top-left {
-    content: "Chapter " counter(chapter) " - " string(chapter-title) " - "
-      string(section-title);
+    content: "Chapter " counter(chapter) " - " string(chapter-title);
     font-size: 11pt;
     color: #1e3a8a;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -81,8 +80,7 @@
 
 @page chapter:right {
   @top-right {
-    content: "Chapter " counter(chapter) " - " string(chapter-title) " - "
-      string(section-title);
+    content: "Chapter " counter(chapter) " - " string(chapter-title);
     font-size: 11pt;
     color: #1e3a8a;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;

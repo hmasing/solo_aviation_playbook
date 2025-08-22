@@ -56,7 +56,7 @@ class OrganizeContent
           source_dir: dir_path,
           section_number: section_num,
           section_name: section_name,
-          output_file: format('%02d_%s.md', section_num + 1, section_name.gsub(' ', '_')),
+          output_file: format('%02d_%s.md', section_num, section_name.gsub(' ', '_')),
           readme_path: readme_path,
           procedure_files: procedure_files
         }
