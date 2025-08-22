@@ -304,7 +304,6 @@ h1 {
   margin: 0 0 1cm 0;
   padding-bottom: 0.3cm;
   border-bottom: 3px solid #3498db;
-  counter-increment: chapter;
   string-set: chapter-title content(text);
 }
 
