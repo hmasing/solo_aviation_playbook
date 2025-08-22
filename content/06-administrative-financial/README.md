@@ -76,7 +76,7 @@ Manage insurance policies to ensure adequate coverage and cost-effective risk ma
 - Claims processing and management
 - Policy renewal and adjustment procedures
 
-### [Team Member Scheduling and Timekeeping Process](10-employee-scheduling-timekeeping.md)
+### [Team Member Scheduling and Timekeeping Process](10-team-member-scheduling-timekeeping.md)
 
 Manage team member scheduling and timekeeping to optimize staffing and ensure accurate payroll processing.
 

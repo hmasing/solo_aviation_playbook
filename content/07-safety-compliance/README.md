@@ -28,15 +28,32 @@ Establish ground handling safety protocols to protect personnel and aircraft dur
 - Equipment operation procedures
 - Personnel protection protocols
 
-### [FAA and OSHA Compliance Audits Process](04-faa-osha-compliance-audits.md)
+### [FAA Regulations Compliance Process](04-faa-regulations-compliance.md)
 
-Manage regulatory compliance audits to ensure adherence to FAA and OSHA requirements and maintain operational certificates.
+Ensure ongoing compliance with Federal Aviation Administration regulations governing FBO operations, aircraft maintenance, and airport activities.
 
-- Audit preparation and coordination
-- Compliance verification procedures
-- Corrective action implementation
+- Regulatory monitoring and interpretation
+- Compliance verification and documentation
+- Training and implementation procedures
+- Positive relationship with the airport FAA Tower and the FSDO
 
-### [Emergency Response Plan Execution Process](05-emergency-response-plan.md)
+### [FAA Compliance Audits Process](05-faa-compliance-audits.md)
+
+Manage FAA compliance audits to ensure adherence to aviation regulations and maintain operational certificates.
+
+- FAA audit preparation and coordination
+- Aviation compliance verification procedures
+- Aviation-specific corrective action implementation
+
+### [OSHA Compliance Audits Process](06-osha-compliance-audits.md)
+
+Manage OSHA compliance audits to ensure adherence to workplace safety and health requirements.
+
+- OSHA audit preparation and coordination
+- Workplace safety compliance verification
+- Safety and health corrective action implementation
+
+### [Emergency Response Plan Execution Process](07-emergency-response-plan.md)
 
 Execute emergency response procedures to protect personnel and property during emergency situations.
 
@@ -44,7 +61,7 @@ Execute emergency response procedures to protect personnel and property during e
 - Personnel coordination and communication
 - Recovery and continuity procedures
 
-### [Fire Safety and Hazardous Materials Handling Process](06-fire-safety-hazmat.md)
+### [Fire Safety and Hazardous Materials Handling Process](08-fire-safety-hazmat.md)
 
 Implement fire safety and hazardous materials handling procedures to prevent incidents and ensure regulatory compliance.
 
@@ -52,7 +69,7 @@ Implement fire safety and hazardous materials handling procedures to prevent inc
 - Hazardous materials storage and handling
 - Emergency response and containment
 
-### [Ramp and Hangar Safety Inspections Process](07-ramp-hangar-safety-inspections.md)
+### [Ramp and Hangar Safety Inspections Process](09-ramp-hangar-safety-inspections.md)
 
 Conduct systematic ramp and hangar safety inspections to identify and address potential hazards.
 
@@ -60,7 +77,7 @@ Conduct systematic ramp and hangar safety inspections to identify and address po
 - Hazard identification and assessment
 - Corrective action tracking and verification
 
-### [Team Member Safety Training and Certification Process](08-employee-safety-training.md)
+### [Team Member Safety Training and Certification Process](10-team-member-safety-training.md)
 
 Manage team member safety training and certification to ensure competent and safe operations.
 
@@ -68,7 +85,7 @@ Manage team member safety training and certification to ensure competent and saf
 - Certification tracking and renewal
 - Competency assessment and documentation
 
-### [Security Screening for Personnel and Visitors Process](09-security-screening.md)
+### [Security Screening for Personnel and Visitors Process](11-security-screening.md)
 
 Implement security screening procedures for personnel and visitors to maintain airport security standards.
 
@@ -76,15 +93,7 @@ Implement security screening procedures for personnel and visitors to maintain a
 - Access control and monitoring
 - Security clearance management
 
-### [TSA Compliance for International Flight Operations Process](10-tsa-compliance-international.md)
-
-Ensure TSA compliance for international flight operations to meet federal security requirements.
-
-- International flight security procedures
-- Documentation and reporting requirements
-- Compliance monitoring and verification
-
-### [Environmental Compliance Process](11-environmental-compliance.md)
+### [Environmental Compliance Process](12-environmental-compliance.md)
 
 Implement environmental compliance procedures including spill prevention and response to protect environmental resources.
 
@@ -92,7 +101,7 @@ Implement environmental compliance procedures including spill prevention and res
 - Environmental monitoring and reporting
 - Regulatory compliance verification
 
-### [Equipment Maintenance and Safety Checks Process](12-equipment-maintenance-safety.md)
+### [Equipment Maintenance and Safety Checks Process](13-equipment-maintenance-safety.md)
 
 Maintain equipment safety through systematic maintenance and safety checks to ensure reliable and safe operations.
 
@@ -100,7 +109,7 @@ Maintain equipment safety through systematic maintenance and safety checks to en
 - Safety check procedures and documentation
 - Preventive maintenance programs
 
-### [Runway Incursion Prevention Training Process](13-runway-incursion-prevention.md)
+### [Runway Incursion Prevention Training Process](14-runway-incursion-prevention.md)
 
 Provide runway incursion prevention training to maintain situational awareness and prevent runway safety incidents.
 
@@ -108,7 +117,7 @@ Provide runway incursion prevention training to maintain situational awareness a
 - Communication procedures and protocols
 - Incident prevention strategies
 
-### [Safety Management System Implementation Process](14-sms-implementation.md)
+### [Safety Management System Implementation Process](15-sms-implementation.md)
 
 Implement and maintain Safety Management System to systematically manage safety risks and promote safety culture.
 
@@ -116,7 +125,7 @@ Implement and maintain Safety Management System to systematically manage safety 
 - Risk assessment and management
 - Safety performance monitoring
 
-### [Regulatory Documentation and Record-Keeping Process](15-regulatory-documentation.md)
+### [Regulatory Documentation and Record-Keeping Process](16-regulatory-documentation.md)
 
 Maintain regulatory documentation and records to ensure compliance with aviation safety and operational requirements.
 
