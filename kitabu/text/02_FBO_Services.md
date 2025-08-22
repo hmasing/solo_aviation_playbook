@@ -1,141 +1,88 @@
-<a id="chapter-1-start"></a>
+<a id="chapter-2-start"></a>
 
 # FBO Services
 
-Core client-facing operations that define the Fixed Base Operator experience. These procedures ensure consistent, professional service delivery for all aircraft operations and client interactions.
+## Chapter Overview
 
-### Procedures in this Section
+Fixed Base Operator (FBO) services represent the core client-facing operations that define our aviation experience. These procedures ensure consistent, professional service delivery for all aircraft operations and client interactions at our general aviation facility. Our 3,500-foot runway accommodates aircraft ranging from training aircraft like the Cessna 172 and Piper Cherokee to turbine aircraft such as King Air, Pilatus, and TBM series.
 
-#### [Aircraft Arrival and Departure Handling Process](01-aircraft-arrival-departure-handling.md)
+This chapter contains **14 comprehensive procedures** covering the essential processes for FBO services operations, from initial aircraft arrival through final departure. Each procedure is designed to maintain operational excellence while ensuring safety, regulatory compliance, and exceptional client experience.
 
-Provide handling services for arriving and departing general aviation aircraft to ensure safe, efficient, and professional client experience.
+### Operational Scope
 
-- Aircraft marshalling and parking coordination
-- Client greeting and service coordination  
-- Departure preparation and assistance
+Our FBO services encompass the complete spectrum of general aviation support:
 
-#### [Fueling Operations Process](02-fueling-operations.md)
+**Aircraft Operations:**
 
-Provide safe, accurate, and efficient aircraft fueling services for both Jet A and 100LL aviation gasoline while maintaining quality control and regulatory compliance.
+- Professional aircraft marshalling and parking coordination
+- Safe and efficient fueling operations for both Jet A and 100LL
+- Hangar and ramp space management for optimal facility utilization
+- Ground support equipment deployment and maintenance
 
-- Fuel quality control and safety procedures
-- Aircraft fueling protocols
-- Fuel system maintenance and monitoring
+**Client Experience:**
 
-#### [Hangar and Ramp Space Allocation Process](03-hangar-ramp-space-allocation.md)
+- Welcoming client check-in and concierge services
+- Crew and passenger transportation coordination
+- Weather briefing and flight planning assistance
+- Catering and specialized in-flight service arrangements
 
-Manage hangar and ramp space allocation to optimize facility utilization while ensuring safe aircraft operations and client satisfaction.
+**Facility Management:**
 
-- Space reservation and assignment
-- Hangar door operations
-- Ramp traffic management
+- Systematic facility maintenance and cleaning protocols
+- Regular safety and security inspections
+- Emergency response and incident management
+- Maintenance coordination for visiting aircraft
 
-#### [Client Check-In and Concierge Services Process](04-client-checkin-concierge.md)
+**Business Operations:**
 
-Provide exceptional client reception and concierge services to ensure a welcoming experience and address all client needs during their visit.
-
-- Client reception and registration
-- Concierge service coordination
-- Amenity provision and facility tours
-
-#### [Aircraft Marshalling and Parking Process](05-aircraft-marshalling-parking.md)
-
-Provide safe and efficient aircraft marshalling and parking services to ensure proper aircraft positioning and operational safety.
-
-- Ground guidance procedures
-- Parking space optimization
-- Safety protocols for aircraft movement
-
-#### [Ground Support Equipment Management Process](06-gse-management.md)
-
-Manage ground support equipment inventory, maintenance, and deployment to ensure reliable equipment availability for all operations.
-
-- Equipment inventory and maintenance
-- Operator training and certification
-- Service scheduling and deployment
-
-#### [Maintenance Coordination for Visiting Aircraft Process](07-maintenance-coordination-visiting.md)
-
-Coordinate maintenance services for visiting aircraft by managing vendor relationships and ensuring quality service delivery.
-
-- Service request processing
-- Vendor coordination and oversight
-- Quality assurance and client communication
-
-#### [Crew and Passenger Transportation Process](08-transportation-arrangements.md)
-
-Coordinate ground transportation and accommodation services for crew members and passengers to ensure convenient and comfortable travel experiences.
-
-- Ground transportation coordination
-- Hotel and accommodation booking
-- Local area information and recommendations
-
-#### [Billing and Invoicing for Services Process](09-billing-invoicing-services.md)
-
-Manage accurate billing and invoicing for all FBO services while maintaining transparent pricing and efficient payment processing.
-
+- Accurate billing and invoicing for all services
 - Service tracking and documentation
-- Invoice generation and processing
-- Payment collection and account management
+- Quality assurance and client satisfaction monitoring
 
-#### [Safety and Security Inspections Process](10-safety-security-inspections.md)
+### Key Operational Areas
 
-Conduct regular safety and security inspections to maintain facility safety standards and regulatory compliance.
+- **Aircraft Handling**: Safe marshalling, parking, and ground movement procedures
+- **Fuel Operations**: Quality-controlled fueling with strict safety protocols
+- **Client Services**: Professional reception, concierge, and support services
+- **Ground Support**: Equipment management and deployment for efficient operations
+- **Safety Management**: Comprehensive inspection and emergency response procedures
+- **Facility Operations**: Maintenance, cleaning, and operational readiness protocols
+- **Business Support**: Transportation, catering, and specialized service coordination
+- **Quality Assurance**: Billing accuracy, service documentation, and client satisfaction
 
-- Daily facility safety checks
-- Security protocol implementation
-- Incident prevention and reporting
+### Regulatory Framework
 
-#### [Facility Maintenance and Cleaning Process](11-facility-maintenance-cleaning.md)
+All FBO operations comply with applicable aviation regulations including:
 
-Maintain facility cleanliness and operational readiness through systematic maintenance and cleaning procedures.
+- **14 CFR Part 91**: General operating and flight rules
+- **14 CFR Part 139**: Airport operating requirements (where applicable)
+- **NFPA 407**: Standard for Aircraft Fuel Servicing
+- **OSHA Standards**: Workplace safety and health regulations
+- **Environmental Regulations**: Fuel handling and spill prevention requirements
 
-- Scheduled maintenance protocols
-- Cleaning standards and procedures
-- Equipment upkeep and replacement
+### Service Excellence Standards
 
-#### [Weather Briefing and Flight Planning Support Process](12-weather-flight-planning-support.md)
+Our FBO services maintain the highest standards through:
 
-Provide weather briefing and flight planning assistance to support safe and efficient flight operations.
+- **Professional Team Members**: Trained and certified personnel for all operations
+- **Safety-First Culture**: Comprehensive safety protocols and regular training
+- **Quality Equipment**: Well-maintained ground support and safety equipment
+- **Client Focus**: Personalized service and attention to individual client needs
+- **Continuous Improvement**: Regular procedure updates and team member feedback
 
-- Weather information services
-- Flight planning assistance
-- Regulatory briefing support
+### Training and Certification Requirements
 
-#### [Catering and In-Flight Service Requests Process](13-catering-inflight-services.md)
+All FBO service personnel must complete and maintain:
 
-Coordinate catering and specialized in-flight services to meet client requirements while managing vendor relationships and ensuring quality service delivery.
+- Client service training and professional development
+- Safety and security protocols certification
+- Equipment operation certification for assigned equipment
+- Emergency response procedures and regular drills
+- Annual recurrent training and competency assessment
 
-- Catering vendor coordination
-- Special service arrangements
-- Quality control and delivery timing
+This chapter provides the foundation for delivering exceptional FBO services that meet the diverse needs of general aviation clients while maintaining the highest standards of safety, efficiency, and professionalism.
 
-#### [Emergency Response and Incident Reporting Process](14-emergency-response-incident-reporting.md)
-
-Manage emergency response procedures and incident reporting to ensure rapid response and proper documentation of safety events.
-
-- Emergency procedure activation
-- Incident documentation and reporting
-- Follow-up and corrective action coordination
-
-### Quick Reference
-
-- **Emergency Contact**: [Phone Number]
-- **Operations Manager**: [Name/Extension]
-- **Client Service Hours**: [Hours]
-- **After-Hours Contact**: [Phone Number]
-
-### Training Requirements
-
-All FBO service personnel must complete:
-
-- Client service training
-- Safety and security protocols
-- Equipment operation certification
-- Emergency response procedures
-- Annual recurrent training
-
----
+<div style="page-break-before: always;"></div>
 
 ## Aircraft Arrival and Departure Handling
 
@@ -171,6 +118,7 @@ This process establishes procedures for managing general aviation aircraft arriv
 - Coordinate scheduling across departments for operational coverage
 - Review billing disputes and approve service adjustments
 - Ensure regulatory compliance across all operations
+
 ### Process Steps
 
 #### Pre-Arrival Phase

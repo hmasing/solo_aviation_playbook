@@ -1,137 +1,152 @@
-<a id="chapter-4-start"></a>
+<a id="chapter-5-start"></a>
 
 # Flight School Operations
 
-Comprehensive training operations for student pilots, from initial enrollment through certification. These procedures ensure safe, effective flight training while maintaining regulatory compliance and high educational standards.
+## Chapter Overview
 
-### Procedures in this Section
+Flight school operations provide comprehensive Part 61 flight training services designed to develop safe, competent pilots while maintaining the highest standards of aviation education and regulatory compliance. Our flight training programs serve students from initial discovery flights through advanced ratings and recurrent training for experienced pilots.
 
-<div class="procedure-cards">
+This chapter contains **15 comprehensive procedures** covering all aspects of flight training operations from student enrollment through certification and ongoing safety management. Each procedure ensures compliance with Federal Aviation Administration (FAA) Part 61 regulations while delivering exceptional educational experiences and maintaining operational safety.
 
-#### [Student Enrollment and Onboarding Process](01-student-enrollment-onboarding.md)
+### Educational Mission
 
-Manage student enrollment and onboarding to ensure smooth transition into flight training programs with proper documentation and orientation.
+Our flight school operations support aviation education through:
 
-- Student application processing
-- Documentation verification and collection  
-- Orientation and program introduction
+**Primary Training Programs:**
 
-#### [Flight Lesson Scheduling Process](02-flight-lesson-scheduling.md)
+- Private pilot certificate training
+- Instrument rating instruction
+- Commercial pilot certificate programs
+- Flight instructor certification and development
 
-Coordinate flight lesson scheduling to optimize aircraft and instructor utilization while meeting student training needs.
+**Specialized Training Services:**
 
-- Schedule coordination and management
-- Aircraft and instructor assignment
-- Weather and operational considerations
+- Discovery flights and introductory experiences
+- Recurrent training and proficiency checks
+- Insurance-required training and checkouts
+- Type-specific aircraft transition training
 
-#### [Aircraft Maintenance and Inspection Process](03-aircraft-maintenance-inspection.md)
+**Ground School Education:**
 
-Maintain training aircraft airworthiness through systematic maintenance and inspection programs to ensure safe flight operations.
+- Comprehensive ground school curriculum delivery
+- Test preparation and knowledge assessment
+- Aviation weather and flight planning instruction
+- Federal Aviation Regulations (FAR) and safety education
 
-- Scheduled maintenance coordination
-- Pre-flight inspection procedures
-- Post-Flight pilot and student procedures
-- Maintenance record management
+### Operational Framework
 
-#### [Student Progress Tracking and Certification Process](04-student-progress-certification.md)
+**Student Development:**
 
-Track student progress and manage certification requirements to ensure students meet regulatory standards and training objectives.
+- Systematic student enrollment and onboarding processes
+- Individual progress tracking and certification management
+- Customized training plans and milestone achievement
+- Safety incident reporting and corrective action implementation
 
-- Progress monitoring and documentation
-- Certification requirement tracking
-- Performance evaluation procedures
+**Instructor Excellence:**
 
-#### [Safety Incident Reporting Process](05-safety-incident-reporting.md)
+- Professional instructor scheduling and certification tracking
+- Ongoing instructor development and standardization
+- Safety management and quality assurance oversight
+- Client feedback integration and continuous improvement
 
-Manage safety incident reporting and investigation to maintain safe training environment and regulatory compliance.
+**Training Resources:**
 
-- Incident documentation and reporting
-- Investigation procedures
-- Corrective action implementation
+- Flight simulator management and utilization
+- Training aircraft maintenance and inspection coordination
+- Flight planning and weather briefing support services
+- Educational materials and curriculum management
 
-#### [Ground School Curriculum Delivery Process](06-ground-school-curriculum.md)
+### Regulatory Compliance Framework
 
-Deliver ground school curriculum to provide students with essential aviation knowledge and regulatory understanding.
+Flight school operations comply with comprehensive aviation education regulations:
 
-- Curriculum planning and delivery
-- Student assessment and evaluation
-- Resource management and coordination
+- **14 CFR Part 61**: Certification of pilots, flight instructors, and ground instructors
+- **14 CFR Part 91**: General operating and flight rules
+- **Transportation Security Administration (TSA)**: Security clearance requirements
+- **FAA Advisory Circulars**: Flight training standards and best practices
+- **Aviation Safety Reporting System (ASRS)**: Safety incident reporting
 
-#### [Instructor Scheduling and Certification Renewal Process](07-instructor-scheduling-certification.md)
+### Training Aircraft and Equipment
 
-Manage instructor scheduling and certification renewal to maintain qualified instruction staff and regulatory compliance.
+**Training Fleet Management:**
 
-- Instructor assignment and scheduling
-- Certification tracking and renewal
-- Professional development coordination
+- Cessna 172 and similar training aircraft operations
+- Aircraft scheduling and availability coordination
+- Maintenance inspection and airworthiness management
+- Fuel management and refueling procedures
 
-#### [Flight Simulator Session Management Process](08-flight-simulator-management.md)
+**Flight Training Devices:**
 
-Coordinate flight simulator sessions to enhance student training with cost-effective and safe simulation experiences.
+- Flight simulator operation and maintenance
+- Training device scheduling and utilization
+- Equipment calibration and regulatory compliance
+- Student proficiency development and assessment
 
-- Session scheduling and management
-- Equipment maintenance and calibration
-- Training scenario development
+**Educational Technology:**
 
-#### [TSA Security Clearance for International Students Process](09-tsa-security-clearance.md)
+- Ground school curriculum and materials management
+- Flight planning software and weather systems
+- Student progress tracking and record keeping
+- Digital logbook and certification documentation
 
-Manage TSA security clearance requirements for international students to ensure compliance with federal regulations.
+### Safety Management Excellence
 
-- Application processing and submission
-- Background check coordination
-- Compliance monitoring and documentation
+**Incident Prevention:**
 
-#### [Billing and Payment Processing Process](10-billing-payment-processing.md)
+- Comprehensive safety incident reporting and investigation
+- Hazard identification and risk assessment procedures
+- Safety culture development and team member training
+- Emergency response and evacuation procedures
 
-Process student billing and payments to maintain accurate financial records and ensure timely collection of training fees.
+**Training Standardization:**
 
-- Invoice generation and processing
-- Payment collection and recording
-- Account management and follow-up
+- Standardized training procedures and quality assurance
+- Instructor oversight and performance monitoring
+- Student evaluation and progress assessment
+- Certification requirements and testing coordination
 
-#### [Pre-Flight Briefing and Checklist Execution Process](11-preflight-briefing-checklist.md)
+### Student Experience and Support
 
-Conduct pre-flight briefings and checklist execution to ensure safe and effective flight training sessions.
+**Enrollment and Onboarding:**
 
-- Briefing preparation and delivery
-- Safety checklist verification
-- Training objective establishment
+- Professional student enrollment and orientation
+- Training plan development and goal setting
+- Financial planning and payment processing
+- TSA security clearance coordination
 
-#### [Post-Flight Debriefing and Logbook Updates Process](12-postflight-debriefing-logbook.md)
+**Training Delivery:**
 
-Conduct post-flight debriefings and maintain accurate logbook records to reinforce learning and track flight experience.
+- Professional preflight briefing and preparation
+- Quality flight instruction and skill development
+- Comprehensive postflight debriefing and logbook entries
+- Progress monitoring and milestone achievement
 
-- Performance review and feedback
-- Logbook entry verification
-- Progress assessment and planning
+**Client Relations:**
 
-#### [Emergency Response and Evacuation Procedures Process](13-emergency-response-evacuation.md)
+- Regular client feedback collection and analysis
+- Personalized attention and support services
+- Flexible scheduling and accommodation
+- Career guidance and advanced training opportunities
 
-Implement emergency response and evacuation procedures to protect students and staff during emergency situations.
+### Professional Development
 
-- Emergency procedure activation
-- Evacuation coordination and management
-- Communication and notification protocols
+**Instructor Qualifications:**
 
-#### [Fuel Management and Refueling Operations Process](14-fuel-management-refueling.md)
+- Certified Flight Instructor (CFI) certification requirements
+- Instrument Flight Instructor (CFII) qualifications
+- Multi-Engine Instructor (MEI) capabilities
+- Gold Seal Flight Instructor recognition and development
 
-Manage fuel operations for training aircraft to ensure safe, efficient, and cost-effective fuel management.
+**Continuing Education:**
 
-- Fuel planning and procurement
-- Refueling safety procedures
-- Fuel quality control and monitoring
+- Regular instructor training and standardization
+- Safety seminars and professional development
+- Industry best practices and regulatory updates
+- Teaching methodology and communication skills
 
-#### [Client Feedback and Satisfaction Surveys Process](15-client-feedback-surveys.md)
+This chapter establishes the framework for delivering exceptional flight training that develops competent, safety-conscious pilots while maintaining regulatory compliance and operational excellence in all educational activities.
 
-Collect and analyze client feedback to continuously improve training programs and maintain high satisfaction levels.
-
-- Feedback collection and management
-- Survey development and distribution
-- Analysis and improvement implementation
-
-</div>
-
----
+<div style="page-break-before: always;"></div>
 
 ## Student Enrollment and Onboarding
 

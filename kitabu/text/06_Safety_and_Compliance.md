@@ -1,141 +1,169 @@
-<a id="chapter-5-start"></a>
+<a id="chapter-6-start"></a>
 
 # Safety and Compliance
 
-Critical safety procedures and regulatory compliance requirements that form the foundation of all airport operations. These procedures ensure the safety of personnel, aircraft, and facilities while maintaining full regulatory compliance.
+## Chapter Overview
 
-### Procedures in this Section
+Safety and compliance procedures form the critical foundation of all airport operations, ensuring the protection of personnel, aircraft, and facilities while maintaining full regulatory compliance with Federal Aviation Administration (FAA), Occupational Safety and Health Administration (OSHA), and environmental requirements. These procedures establish a comprehensive safety management system that promotes a culture of safety excellence.
 
-#### [Safety Incident Reporting and Investigation Process](01-safety-incident-reporting-investigation.md)
+This chapter contains **16 essential procedures** covering all aspects of safety management and regulatory compliance from incident reporting through comprehensive audit management. Each procedure is designed to prevent accidents, ensure regulatory adherence, and maintain the highest standards of operational safety across all FBO activities.
 
-Manage comprehensive safety incident reporting and investigation to identify root causes and implement corrective actions.
+### Safety Management Philosophy
 
-- Incident documentation and reporting
-- Investigation procedures and analysis
-- Corrective action development and implementation
+Our safety and compliance framework is built on proactive risk management:
 
-#### [Aircraft Fueling Safety Procedures Process](02-aircraft-fueling-safety.md)
+**Safety Culture Development:**
 
-Implement safety protocols for aircraft fueling operations to prevent accidents and ensure regulatory compliance.
+- Comprehensive safety incident reporting and investigation
+- Proactive hazard identification and risk assessment
+- Team member safety training and awareness programs
+- Continuous safety performance monitoring and improvement
 
-- Fueling safety protocols and procedures
-- Equipment inspection and maintenance
-- Personnel training and certification
+**Regulatory Compliance:**
 
-#### [Ground Handling Safety Protocols Process](03-ground-handling-safety.md)
+- FAA regulations compliance and relationship management
+- OSHA workplace safety and health requirements
+- Environmental regulations and spill prevention programs
+- Security screening and access control procedures
 
-Establish ground handling safety protocols to protect personnel and aircraft during ramp operations.
+**Emergency Preparedness:**
 
-- Ground handling safety standards
-- Equipment operation procedures
-- Personnel protection protocols
+- Emergency response plan execution and coordination
+- Fire safety and hazardous materials handling
+- Runway incursion prevention and situational awareness
+- Personnel evacuation and emergency communication
 
-#### [FAA Regulations Compliance Process](04-faa-regulations-compliance.md)
+### Operational Safety Areas
 
-Ensure ongoing compliance with Federal Aviation Administration regulations governing FBO operations, aircraft maintenance, and airport activities.
+**Aircraft Operations Safety:**
 
-- Regulatory monitoring and interpretation
-- Compliance verification and documentation
-- Training and implementation procedures
-- Positive relationship with the airport FAA Tower and the FSDO
+- Ground handling safety protocols and procedures
+- Aircraft fueling safety and fire prevention
+- Ramp and hangar safety inspections
+- Equipment maintenance and safety checks
 
-#### [FAA Compliance Audits Process](05-faa-compliance-audits.md)
+**Personnel Safety:**
 
-Manage FAA compliance audits to ensure adherence to aviation regulations and maintain operational certificates.
+- Team member safety training and certification
+- Personal protective equipment requirements
+- Workplace hazard identification and mitigation
+- Accident prevention and injury reduction programs
 
-- FAA audit preparation and coordination
-- Aviation compliance verification procedures
-- Aviation-specific corrective action implementation
+**Facility Safety:**
 
-#### [OSHA Compliance Audits Process](06-osha-compliance-audits.md)
-
-Manage OSHA compliance audits to ensure adherence to workplace safety and health requirements.
-
-- OSHA audit preparation and coordination
-- Workplace safety compliance verification
-- Safety and health corrective action implementation
-
-#### [Emergency Response Plan Execution Process](07-emergency-response-plan.md)
-
-Execute emergency response procedures to protect personnel and property during emergency situations.
-
-- Emergency response activation
-- Personnel coordination and communication
-- Recovery and continuity procedures
-
-#### [Fire Safety and Hazardous Materials Handling Process](08-fire-safety-hazmat.md)
-
-Implement fire safety and hazardous materials handling procedures to prevent incidents and ensure regulatory compliance.
-
+- Regular facility safety inspections and maintenance
 - Fire prevention and suppression systems
-- Hazardous materials storage and handling
-- Emergency response and containment
+- Security measures and access control
+- Environmental protection and compliance
 
-#### [Ramp and Hangar Safety Inspections Process](09-ramp-hangar-safety-inspections.md)
+**Regulatory Oversight:**
 
-Conduct systematic ramp and hangar safety inspections to identify and address potential hazards.
+- FAA compliance audits and inspection preparation
+- OSHA compliance verification and corrective actions
+- Regulatory documentation and record-keeping
+- Safety Management System (SMS) implementation
 
-- Inspection scheduling and procedures
-- Hazard identification and assessment
-- Corrective action tracking and verification
+### Regulatory Compliance Framework
 
-#### [Team Member Safety Training and Certification Process](10-team-member-safety-training.md)
+Safety and compliance operations adhere to comprehensive regulatory requirements:
 
-Manage team member safety training and certification to ensure competent and safe operations.
+- **14 CFR Part 139**: Airport operating requirements and safety standards
+- **14 CFR Part 91**: General operating and flight rules compliance
+- **OSHA Standards**: Workplace safety and health regulations
+- **Environmental Protection Agency (EPA)**: Environmental compliance requirements
+- **Transportation Security Administration (TSA)**: Security and background check requirements
+- **National Fire Protection Association (NFPA)**: Fire safety standards and procedures
 
-- Training program development and delivery
-- Certification tracking and renewal
-- Competency assessment and documentation
+### Safety Management System Implementation
 
-#### [Security Screening for Personnel and Visitors Process](11-security-screening.md)
+**Risk Management:**
 
-Implement security screening procedures for personnel and visitors to maintain airport security standards.
+- Systematic hazard identification and risk assessment
+- Risk mitigation strategies and implementation
+- Safety performance indicators and monitoring
+- Continuous improvement and corrective action programs
 
-- Background check procedures
-- Access control and monitoring
-- Security clearance management
+**Training and Competency:**
 
-#### [Environmental Compliance Process](12-environmental-compliance.md)
+- Comprehensive safety training programs for all personnel
+- Specialized training for high-risk operations
+- Regular competency assessment and certification
+- Safety awareness and culture development initiatives
 
-Implement environmental compliance procedures including spill prevention and response to protect environmental resources.
+**Documentation and Reporting:**
+
+- Incident reporting and investigation procedures
+- Safety performance data collection and analysis
+- Regulatory reporting requirements and compliance
+- Safety communication and information sharing
+
+### Emergency Response Capabilities
+
+**Emergency Preparedness:**
+
+- Emergency response plan development and maintenance
+- Personnel training and emergency drill procedures
+- Communication systems and notification protocols
+- Coordination with local emergency services and authorities
+
+**Incident Management:**
+
+- Rapid response to safety incidents and emergencies
+- Incident command system implementation
+- Business continuity and recovery procedures
+- Post-incident analysis and corrective action implementation
+
+### Environmental and Fire Safety
+
+**Fire Prevention:**
+
+- Fire safety systems and equipment maintenance
+- Hot work permits and fire prevention protocols
+- Fuel handling and storage safety procedures
+- Emergency fire response and suppression capabilities
+
+**Environmental Protection:**
 
 - Spill prevention and response procedures
-- Environmental monitoring and reporting
-- Regulatory compliance verification
+- Hazardous materials handling and disposal
+- Environmental monitoring and compliance reporting
+- Waste management and recycling programs
 
-#### [Equipment Maintenance and Safety Checks Process](13-equipment-maintenance-safety.md)
+### Audit and Inspection Management
 
-Maintain equipment safety through systematic maintenance and safety checks to ensure reliable and safe operations.
+**Internal Audits:**
 
-- Equipment inspection and maintenance schedules
-- Safety check procedures and documentation
-- Preventive maintenance programs
+- Regular self-assessment and compliance verification
+- Internal safety audits and quality assurance reviews
+- Corrective action tracking and implementation
+- Management review and continuous improvement
 
-#### [Runway Incursion Prevention Training Process](14-runway-incursion-prevention.md)
+**External Audits:**
 
-Provide runway incursion prevention training to maintain situational awareness and prevent runway safety incidents.
+- FAA inspection preparation and coordination
+- OSHA audit management and compliance verification
+- Third-party safety assessments and certifications
+- Regulatory agency relationship management
 
-- Situational awareness training
-- Communication procedures and protocols
-- Incident prevention strategies
+### Training and Certification Excellence
 
-#### [Safety Management System Implementation Process](15-sms-implementation.md)
+**Personnel Development:**
 
-Implement and maintain Safety Management System to systematically manage safety risks and promote safety culture.
+- Safety training program development and delivery
+- Certification tracking and renewal management
+- Competency assessment and skills development
+- Safety leadership and culture development
 
-- SMS policy and procedures development
-- Risk assessment and management
-- Safety performance monitoring
+**Specialized Training:**
 
-#### [Regulatory Documentation and Record-Keeping Process](16-regulatory-documentation.md)
+- Runway incursion prevention training
+- Hazardous materials handling certification
+- Emergency response and first aid training
+- Security awareness and threat recognition
 
-Maintain regulatory documentation and records to ensure compliance with aviation safety and operational requirements.
+This chapter establishes the framework for maintaining the highest standards of safety and regulatory compliance while fostering a culture of safety excellence that protects all personnel, aircraft, and facilities in our aviation operations.
 
-- Documentation requirements and procedures
-- Record retention and management
-- Regulatory reporting obligations
-
----
+<div style="page-break-before: always;"></div>
 
 ## Safety Incident Reporting and Investigation
 
