@@ -148,7 +148,9 @@ Water Protection → Regulatory Compliance
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Some environmental incidents can pose immediate health and safety risks; ensure personnel safety before environmental response
+- ⚠️ **WARNING**: Some environmental incidents can pose immediate health and safety risks; ensure personnel safety before environmental response
+
+
 
 ⚠️ **WARNING**: Failure to report environmental incidents within required timeframes can result in significant penalties
 

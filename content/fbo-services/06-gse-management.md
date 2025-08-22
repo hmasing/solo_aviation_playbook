@@ -91,11 +91,9 @@ Flowchart showing equipment inspection, deployment, operational monitoring, and 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Verify equipment operator certification and conduct pre-operation safety briefing before equipment deployment
-⚠️ **WARNING**: Never operate equipment with known safety system malfunctions or incomplete maintenance requirements
-⚡ **CAUTION**: Maintain proper clearances when operating equipment near aircraft and ensure all personnel are clear of equipment operation areas
-ℹ️ **NOTE**: Monitor weather conditions and suspend equipment operations during unsafe environmental conditions
-✅ **BEST PRACTICE**: Conduct monthly equipment safety meetings and maintain current manufacturer service bulletins and updates
+- ✅ **BEST PRACTICE**: Conduct monthly equipment safety meetings and maintain current manufacturer service bulletins and updates
+
+
 
 ## Regulatory References
 

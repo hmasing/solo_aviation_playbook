@@ -121,7 +121,9 @@ Flowchart showing feedback management workflow from collection through implement
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Address all safety-related feedback immediately and implement corrective actions to prevent safety incidents
+- ⚠️ **WARNING**: Address all safety-related feedback immediately and implement corrective actions to prevent safety incidents
+
+
 
 ⚡ **CAUTION**: Maintain client confidentiality when handling feedback and ensure professional response to negative comments
 

@@ -130,7 +130,9 @@ Client Request → Initial Assessment → Work Scope Development → Cost Estima
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Ensure all avionics work complies with applicable airworthiness requirements and manufacturer instructions to prevent unsafe installations or modifications
+- ⚠️ **WARNING**: Ensure all avionics work complies with applicable airworthiness requirements and manufacturer instructions to prevent unsafe installations or modifications
+
+
 
 ⚡ **CAUTION**: Verify technician qualifications match work complexity requirements to prevent improper installations or repairs that could affect aircraft safety
 

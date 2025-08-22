@@ -109,6 +109,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never ignore safety hazards or allow unsafe work practices that could result in injury or equipment damage
 
+
+
 ⚡ **CAUTION:** Ensure all safety equipment is functional and accessible before beginning maintenance activities
 
 ℹ️ **NOTE:** All safety incidents must be reported immediately and investigated to prevent recurrence

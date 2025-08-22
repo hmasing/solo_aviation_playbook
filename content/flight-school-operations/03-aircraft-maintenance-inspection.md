@@ -112,7 +112,9 @@ Flowchart showing maintenance workflow from inspection through maintenance compl
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never authorize flight operations with aircraft that have unresolved airworthiness discrepancies or expired inspections
+- ⚠️ **WARNING**: Never authorize flight operations with aircraft that have unresolved airworthiness discrepancies or expired inspections
+
+
 
 ⚡ **CAUTION**: Ensure all maintenance work is performed by appropriately certified mechanics and properly documented in aircraft logbooks
 

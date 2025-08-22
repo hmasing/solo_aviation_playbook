@@ -115,6 +115,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Prioritize safety-critical purchases to prevent delays that could compromise operational safety or regulatory compliance
 
+
+
 ⚡ **CAUTION:** Ensure aviation-specific supplies meet regulatory requirements and quality standards
 
 ℹ️ **NOTE:** Coordinate deliveries with airport security requirements and operational schedules

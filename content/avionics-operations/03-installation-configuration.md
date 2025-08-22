@@ -122,7 +122,9 @@ Pre-Installation Planning → Physical Installation → Wiring and Connections �
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Verify all electrical connections are secure and properly torqued to prevent in-flight failures that could result in loss of critical avionics functions
+- ⚠️ **WARNING**: Verify all electrical connections are secure and properly torqued to prevent in-flight failures that could result in loss of critical avionics functions
+
+
 
 ⚡ **CAUTION**: Ensure proper ESD protection during installation to prevent damage to sensitive electronic components
 

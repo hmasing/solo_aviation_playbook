@@ -114,7 +114,9 @@ Time Recording → Work Documentation → Parts Tracking → Cost Calculation �
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Ensure all billed work is properly documented and supported by maintenance records to maintain regulatory compliance
+- ⚠️ **WARNING**: Ensure all billed work is properly documented and supported by maintenance records to maintain regulatory compliance
+
+
 
 ⚡ **CAUTION**: Verify all charges are accurate and justified to maintain client trust and satisfaction
 

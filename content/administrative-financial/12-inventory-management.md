@@ -123,6 +123,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure fuel quality testing meets regulatory requirements to prevent contaminated fuel from reaching aircraft
 
+
+
 ⚡ **CAUTION:** Store hazardous materials per OSHA and EPA requirements with proper labeling and safety equipment
 
 ℹ️ **NOTE:** Maintain adequate inventory levels to support emergency operations and unexpected demand

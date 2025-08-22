@@ -122,7 +122,9 @@ Work Order Creation → Documentation Assignment → Maintenance Recording → T
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Incomplete or inaccurate maintenance documentation may result in regulatory violations and compromise aircraft airworthiness
+- ⚠️ **WARNING**: Incomplete or inaccurate maintenance documentation may result in regulatory violations and compromise aircraft airworthiness
+
+
 
 ⚡ **CAUTION**: Ensure all documentation is legible and permanent to prevent loss of critical maintenance history information
 

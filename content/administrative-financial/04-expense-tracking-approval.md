@@ -116,6 +116,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Prioritize safety-related expenses to prevent delays that could compromise operational safety
 
+
+
 ⚡ **CAUTION:** Ensure fuel and maintenance expenses are processed promptly to maintain operational readiness
 
 ℹ️ **NOTE:** Maintain separation of duties between expense approval and payment processing for internal control

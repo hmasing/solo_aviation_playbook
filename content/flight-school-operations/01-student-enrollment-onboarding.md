@@ -112,7 +112,9 @@ Flowchart showing enrollment progression from initial inquiry through first sche
 
 ## Safety Considerations
 
-⚠️ **WARNING**: All students must complete safety orientation and demonstrate understanding of emergency procedures before participating in any flight activities
+- ⚠️ **WARNING**: All students must complete safety orientation and demonstrate understanding of emergency procedures before participating in any flight activities
+
+
 
 ⚡ **CAUTION**: Verify medical certificate validity and any limitations before authorizing student to begin flight training
 

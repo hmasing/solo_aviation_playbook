@@ -101,6 +101,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never skip inspection of critical flight systems or structural components even when time constraints exist
 
+
+
 ⚡ **CAUTION:** Ensure all inspection findings are properly documented before moving aircraft or beginning maintenance work
 
 ℹ️ **NOTE:** All inspection discrepancies must be resolved or properly deferred before aircraft return to service

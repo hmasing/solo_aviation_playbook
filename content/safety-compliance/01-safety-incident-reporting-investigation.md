@@ -156,7 +156,9 @@ Analysis & Root Cause → Corrective Actions → Implementation → Follow-up & 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never disturb incident scene until safety hazards are eliminated and proper authorities have been notified
+- ⚠️ **WARNING**: Never disturb incident scene until safety hazards are eliminated and proper authorities have been notified
+
+
 
 ⚡ **CAUTION**: Ensure all investigation team members are trained in evidence collection and interview techniques
 

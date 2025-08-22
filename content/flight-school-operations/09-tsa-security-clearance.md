@@ -112,7 +112,9 @@ Flowchart showing TSA clearance process from application preparation through tra
 
 ## Safety Considerations
 
-⚠️ **WARNING**: International students cannot begin flight training without approved TSA security clearance per federal regulations
+- ⚠️ **WARNING**: International students cannot begin flight training without approved TSA security clearance per federal regulations
+
+
 
 ⚡ **CAUTION**: Verify security clearance conditions and limitations before authorizing any flight training activities
 

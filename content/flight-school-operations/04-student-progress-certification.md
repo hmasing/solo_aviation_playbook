@@ -112,7 +112,9 @@ Flowchart showing progress tracking from initial training through certification 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Students must demonstrate consistent proficiency in all required areas before receiving endorsements for solo flight or practical examinations
+- ⚠️ **WARNING**: Students must demonstrate consistent proficiency in all required areas before receiving endorsements for solo flight or practical examinations
+
+
 
 ⚡ **CAUTION**: Verify all regulatory requirements are met before authorizing students to take knowledge tests or practical examinations
 

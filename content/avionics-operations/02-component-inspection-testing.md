@@ -122,7 +122,9 @@ Component Receipt → Initial Inspection → Test Setup → Equipment Calibratio
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never bypass or skip required component testing procedures as untested components may fail in flight and create unsafe conditions
+- ⚠️ **WARNING**: Never bypass or skip required component testing procedures as untested components may fail in flight and create unsafe conditions
+
+
 
 ⚡ **CAUTION**: Use proper ESD protection when handling sensitive electronic components to prevent damage that may not be immediately apparent during testing
 

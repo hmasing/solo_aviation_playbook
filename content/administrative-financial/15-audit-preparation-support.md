@@ -113,6 +113,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure audit activities don't compromise safety operations or create security vulnerabilities
 
+
+
 ⚡ **CAUTION:** Coordinate auditor facility access with airport security requirements and operational schedules
 
 ℹ️ **NOTE:** Maintain confidentiality of client information during audit activities and limit auditor access to necessary records only

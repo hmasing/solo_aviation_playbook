@@ -112,7 +112,9 @@ Flowchart showing ground school progression from curriculum planning through kno
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Ensure students demonstrate thorough understanding of emergency procedures and safety protocols before flight training authorization
+- ⚠️ **WARNING**: Ensure students demonstrate thorough understanding of emergency procedures and safety protocols before flight training authorization
+
+
 
 ⚡ **CAUTION**: Verify student comprehension of critical safety concepts through practical application and scenario-based assessment
 

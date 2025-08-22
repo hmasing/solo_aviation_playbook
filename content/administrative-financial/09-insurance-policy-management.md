@@ -133,6 +133,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure insurance coverage includes all aviation operations to prevent gaps that could result in uninsured losses
 
+
+
 ⚡ **CAUTION:** Review policy terms regularly to ensure operational changes don't create coverage exclusions
 
 ℹ️ **NOTE:** Maintain current certificates of insurance for all parties requiring proof of coverage

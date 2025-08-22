@@ -120,7 +120,9 @@ Flowchart showing incident response workflow from initial occurrence through cor
 
 ## Safety Considerations
 
-⚠️ **WARNING**: All safety incidents must be reported immediately regardless of severity to ensure proper investigation and regulatory compliance
+- ⚠️ **WARNING**: All safety incidents must be reported immediately regardless of severity to ensure proper investigation and regulatory compliance
+
+
 
 ⚡ **CAUTION**: Preserve all incident-related evidence and documentation until investigation is complete and regulatory requirements are met
 

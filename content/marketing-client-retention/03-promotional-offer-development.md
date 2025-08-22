@@ -136,7 +136,9 @@ Flowchart showing promotional offer lifecycle from strategy development through 
 
 ## Safety Considerations
 
-⚡ **CAUTION**: Ensure promotional offers don't encourage unsafe practices or compromise regulatory compliance requirements
+- ⚡ **CAUTION**: Ensure promotional offers don't encourage unsafe practices or compromise regulatory compliance requirements
+
+
 
 ℹ️ **NOTE**: Include appropriate disclaimers regarding weather cancellations, aircraft availability, and safety-related service limitations
 

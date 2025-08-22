@@ -156,7 +156,9 @@ Response Development → Implementation → Continuous Improvement
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Failure to address audit findings within specified timeframes may result in certificate suspension or revocation
+- ⚠️ **WARNING**: Failure to address audit findings within specified timeframes may result in certificate suspension or revocation
+
+
 
 ⚡ **CAUTION**: Ensure all personnel understand the importance of providing accurate and complete information to auditors
 

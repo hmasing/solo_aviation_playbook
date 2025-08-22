@@ -122,6 +122,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure tax compliance doesn't compromise safety expenditures or regulatory compliance
 
+
+
 ⚡ **CAUTION:** Maintain confidentiality of tax information and limit access to authorized personnel
 
 ℹ️ **NOTE:** Tax planning should consider aviation industry cycles and seasonal operational patterns

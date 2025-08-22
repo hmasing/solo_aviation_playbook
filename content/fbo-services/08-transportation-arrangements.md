@@ -99,10 +99,9 @@ Flowchart showing transportation needs assessment, vendor coordination, service 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Verify all transportation vendors maintain current licensing, insurance, and safety certifications
-⚡ **CAUTION**: Confirm passenger information accuracy and coordinate with vendors for any special transportation requirements
-ℹ️ **NOTE**: Provide emergency contact information to clients and maintain 24-hour communication availability
-✅ **BEST PRACTICE**: Conduct regular vendor performance reviews and maintain current local area information and recommendations
+- ✅ **BEST PRACTICE**: Conduct regular vendor performance reviews and maintain current local area information and recommendations
+
+
 
 ## Regulatory References
 

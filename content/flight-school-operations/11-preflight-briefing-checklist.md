@@ -112,7 +112,9 @@ Flowchart showing pre-flight preparation workflow from planning through final sa
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never authorize flight training activities if weather conditions, aircraft status, or student preparedness present safety risks
+- ⚠️ **WARNING**: Never authorize flight training activities if weather conditions, aircraft status, or student preparedness present safety risks
+
+
 
 ⚡ **CAUTION**: Ensure all pre-flight inspection items are completed thoroughly and any discrepancies are resolved before flight
 

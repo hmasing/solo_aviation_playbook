@@ -121,7 +121,9 @@ Flowchart showing instructor management workflow from qualification verification
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Instructors with expired certificates or ratings cannot provide flight instruction until certifications are renewed
+- ⚠️ **WARNING**: Instructors with expired certificates or ratings cannot provide flight instruction until certifications are renewed
+
+
 
 ⚡ **CAUTION**: Verify instructor currency and proficiency before assigning advanced training or checkride preparation responsibilities
 

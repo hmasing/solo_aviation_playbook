@@ -156,7 +156,9 @@ Corrective Maintenance → Safety Training → Compliance Documentation
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never operate equipment with known safety defects or missing safety devices
+- ⚠️ **WARNING**: Never operate equipment with known safety defects or missing safety devices
+
+
 
 ⚠️ **WARNING**: Ensure proper lockout/tagout procedures are followed during all maintenance activities
 

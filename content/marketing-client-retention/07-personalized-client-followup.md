@@ -128,7 +128,9 @@ Flowchart showing follow-up lifecycle from strategy development through client s
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure follow-up communications don't interfere with safety-critical operations or emergency procedures
+- ℹ️ **NOTE**: Ensure follow-up communications don't interfere with safety-critical operations or emergency procedures
+
+
 
 ⚡ **CAUTION**: Respect client privacy and confidentiality when discussing service history and operational details
 

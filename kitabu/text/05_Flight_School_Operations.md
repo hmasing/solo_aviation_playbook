@@ -250,7 +250,7 @@ Flowchart showing enrollment progression from initial inquiry through first sche
 
 ### Safety Considerations
 
-⚠️ **WARNING**: All students must complete safety orientation and demonstrate understanding of emergency procedures before participating in any flight activities
+- ⚠️ **WARNING**: All students must complete safety orientation and demonstrate understanding of emergency procedures before participating in any flight activities
 
 ⚡ **CAUTION**: Verify medical certificate validity and any limitations before authorizing student to begin flight training
 
@@ -370,7 +370,7 @@ Flowchart showing scheduling workflow from initial request through lesson comple
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Never schedule flight training activities when weather conditions are below established minimums for student pilot operations
+- ⚠️ **WARNING**: Never schedule flight training activities when weather conditions are below established minimums for student pilot operations
 
 ⚡ **CAUTION**: Verify aircraft airworthiness status before confirming any scheduled flight lesson
 
@@ -490,7 +490,7 @@ Flowchart showing maintenance workflow from inspection through maintenance compl
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Never authorize flight operations with aircraft that have unresolved airworthiness discrepancies or expired inspections
+- ⚠️ **WARNING**: Never authorize flight operations with aircraft that have unresolved airworthiness discrepancies or expired inspections
 
 ⚡ **CAUTION**: Ensure all maintenance work is performed by appropriately certified mechanics and properly documented in aircraft logbooks
 
@@ -610,7 +610,7 @@ Flowchart showing progress tracking from initial training through certification 
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Students must demonstrate consistent proficiency in all required areas before receiving endorsements for solo flight or practical examinations
+- ⚠️ **WARNING**: Students must demonstrate consistent proficiency in all required areas before receiving endorsements for solo flight or practical examinations
 
 ⚡ **CAUTION**: Verify all regulatory requirements are met before authorizing students to take knowledge tests or practical examinations
 
@@ -738,7 +738,7 @@ Flowchart showing incident response workflow from initial occurrence through cor
 
 ### Safety Considerations
 
-⚠️ **WARNING**: All safety incidents must be reported immediately regardless of severity to ensure proper investigation and regulatory compliance
+- ⚠️ **WARNING**: All safety incidents must be reported immediately regardless of severity to ensure proper investigation and regulatory compliance
 
 ⚡ **CAUTION**: Preserve all incident-related evidence and documentation until investigation is complete and regulatory requirements are met
 
@@ -858,7 +858,7 @@ Flowchart showing ground school progression from curriculum planning through kno
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Ensure students demonstrate thorough understanding of emergency procedures and safety protocols before flight training authorization
+- ⚠️ **WARNING**: Ensure students demonstrate thorough understanding of emergency procedures and safety protocols before flight training authorization
 
 ⚡ **CAUTION**: Verify student comprehension of critical safety concepts through practical application and scenario-based assessment
 
@@ -987,7 +987,7 @@ Flowchart showing instructor management workflow from qualification verification
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Instructors with expired certificates or ratings cannot provide flight instruction until certifications are renewed
+- ⚠️ **WARNING**: Instructors with expired certificates or ratings cannot provide flight instruction until certifications are renewed
 
 ⚡ **CAUTION**: Verify instructor currency and proficiency before assigning advanced training or checkride preparation responsibilities
 
@@ -1107,7 +1107,7 @@ Flowchart showing simulator session workflow from planning through post-session 
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Ensure students understand simulator limitations and do not attempt procedures that would be unsafe in actual aircraft
+- ⚠️ **WARNING**: Ensure students understand simulator limitations and do not attempt procedures that would be unsafe in actual aircraft
 
 ⚡ **CAUTION**: Verify simulator equipment safety systems are operational before beginning training sessions
 
@@ -1227,7 +1227,7 @@ Flowchart showing TSA clearance process from application preparation through tra
 
 ### Safety Considerations
 
-⚠️ **WARNING**: International students cannot begin flight training without approved TSA security clearance per federal regulations
+- ⚠️ **WARNING**: International students cannot begin flight training without approved TSA security clearance per federal regulations
 
 ⚡ **CAUTION**: Verify security clearance conditions and limitations before authorizing any flight training activities
 
@@ -1347,7 +1347,7 @@ Flowchart showing billing workflow from training activity collection through pay
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Maintain strict confidentiality of student financial information and comply with privacy regulations
+- ⚠️ **WARNING**: Maintain strict confidentiality of student financial information and comply with privacy regulations
 
 ⚡ **CAUTION**: Verify payment processing security measures to protect client financial data and prevent fraud
 
@@ -1467,7 +1467,7 @@ Flowchart showing pre-flight preparation workflow from planning through final sa
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Never authorize flight training activities if weather conditions, aircraft status, or student preparedness present safety risks
+- ⚠️ **WARNING**: Never authorize flight training activities if weather conditions, aircraft status, or student preparedness present safety risks
 
 ⚡ **CAUTION**: Ensure all pre-flight inspection items are completed thoroughly and any discrepancies are resolved before flight
 
@@ -1587,7 +1587,7 @@ Flowchart showing post-flight workflow from initial assessment through next less
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Address all safety-related performance issues immediately and ensure student understanding before next flight
+- ⚠️ **WARNING**: Address all safety-related performance issues immediately and ensure student understanding before next flight
 
 ⚡ **CAUTION**: Verify accuracy of logbook entries for regulatory compliance and insurance requirements
 
@@ -1724,7 +1724,7 @@ Flowchart showing emergency response workflow from detection through post-emerge
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Never attempt emergency response actions that exceed your training or put your safety at risk
+- ⚠️ **WARNING**: Never attempt emergency response actions that exceed your training or put your safety at risk
 
 ⚡ **CAUTION**: Ensure all emergency equipment is properly maintained and accessible during emergency situations
 
@@ -1844,7 +1844,7 @@ Flowchart showing fuel management workflow from planning through service documen
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Maintain strict fire safety procedures during all fuel handling operations and ensure emergency equipment availability
+- ⚠️ **WARNING**: Maintain strict fire safety procedures during all fuel handling operations and ensure emergency equipment availability
 
 ⚡ **CAUTION**: Verify proper grounding and electrical safety procedures before beginning fuel transfer operations
 
@@ -1973,7 +1973,7 @@ Flowchart showing feedback management workflow from collection through implement
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Address all safety-related feedback immediately and implement corrective actions to prevent safety incidents
+- ⚠️ **WARNING**: Address all safety-related feedback immediately and implement corrective actions to prevent safety incidents
 
 ⚡ **CAUTION**: Maintain client confidentiality when handling feedback and ensure professional response to negative comments
 

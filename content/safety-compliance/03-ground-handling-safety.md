@@ -164,7 +164,9 @@ Personnel Safety → Aircraft Securing → Equipment Storage
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never approach aircraft with engines running; maintain minimum 50-foot clearance from propeller arcs
+- ⚠️ **WARNING**: Never approach aircraft with engines running; maintain minimum 50-foot clearance from propeller arcs
+
+
 
 ⚠️ **WARNING**: Always use proper lifting techniques when handling heavy equipment; never exceed personal lifting capabilities
 

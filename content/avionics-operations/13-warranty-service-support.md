@@ -120,7 +120,9 @@ Warranty Tracking → Issue Identification → Claim Preparation → Claim Proce
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Ensure all service bulletin requirements are implemented within specified timeframes as delays may affect aircraft airworthiness
+- ⚠️ **WARNING**: Ensure all service bulletin requirements are implemented within specified timeframes as delays may affect aircraft airworthiness
+
+
 
 ⚡ **CAUTION**: Verify warranty work is performed according to manufacturer procedures to maintain warranty coverage and regulatory compliance
 

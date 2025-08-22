@@ -136,7 +136,9 @@ Flowchart showing retention analytics lifecycle from data collection and analysi
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure retention analytics and strategies don't compromise safety standards or create pressure for unsafe operations
+- ℹ️ **NOTE**: Ensure retention analytics and strategies don't compromise safety standards or create pressure for unsafe operations
+
+
 
 ⚡ **CAUTION**: Verify that retention improvement initiatives maintain appropriate safety margins and regulatory compliance
 

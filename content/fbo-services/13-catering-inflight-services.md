@@ -99,10 +99,9 @@ Flowchart showing service request processing, vendor coordination, quality contr
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Verify all food safety certifications and coordinate with vendors for compliance with food handling regulations
-⚡ **CAUTION**: Document all dietary restrictions and allergies accurately to prevent health incidents
-ℹ️ **NOTE**: Maintain current vendor certifications and coordinate with health authorities for food safety compliance
-✅ **BEST PRACTICE**: Conduct regular vendor facility inspections and maintain current food safety training for team members
+- ✅ **BEST PRACTICE**: Conduct regular vendor facility inspections and maintain current food safety training for team members
+
+
 
 ## Regulatory References
 

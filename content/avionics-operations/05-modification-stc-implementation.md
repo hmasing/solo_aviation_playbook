@@ -122,7 +122,9 @@ STC Research → Regulatory Review → Modification Planning → Parts Procureme
 
 ## Safety Considerations
 
-⚠️ **WARNING**: All modifications must be completed exactly according to STC instructions as deviations may void airworthiness certification and create unsafe conditions
+- ⚠️ **WARNING**: All modifications must be completed exactly according to STC instructions as deviations may void airworthiness certification and create unsafe conditions
+
+
 
 ⚡ **CAUTION**: Verify modification compatibility with all existing aircraft systems to prevent adverse interactions that could affect flight safety
 

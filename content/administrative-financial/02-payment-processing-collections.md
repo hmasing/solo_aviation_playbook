@@ -138,6 +138,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Never deny emergency services due to account status - safety always takes priority over collections
 
+
+
 ⚡ **CAUTION:** Coordinate service holds with operations to ensure no safety-critical services are affected
 
 ℹ️ **NOTE:** Maintain professional communication during collection activities to preserve client relationships

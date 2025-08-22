@@ -128,7 +128,9 @@ Flowchart showing community outreach lifecycle from identification and research 
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Use community outreach opportunities to promote aviation safety and best practices
+- ℹ️ **NOTE**: Use community outreach opportunities to promote aviation safety and best practices
+
+
 
 ⚡ **CAUTION**: Ensure all educational content and presentations maintain accuracy and regulatory compliance
 

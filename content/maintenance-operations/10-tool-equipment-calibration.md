@@ -109,6 +109,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never use tools or equipment that are past calibration due dates or show signs of accuracy problems
 
+
+
 ⚡ **CAUTION:** Ensure proper handling and storage of precision instruments to maintain calibration accuracy
 
 ℹ️ **NOTE:** All calibration activities must be performed by qualified personnel or approved calibration laboratories

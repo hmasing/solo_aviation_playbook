@@ -136,7 +136,9 @@ Flowchart showing seasonal campaign lifecycle from opportunity analysis through 
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure seasonal campaigns promote safe flying practices and appropriate weather decision-making
+- ℹ️ **NOTE**: Ensure seasonal campaigns promote safe flying practices and appropriate weather decision-making
+
+
 
 ⚡ **CAUTION**: Avoid creating pressure for unsafe operations during popular seasonal flying periods
 

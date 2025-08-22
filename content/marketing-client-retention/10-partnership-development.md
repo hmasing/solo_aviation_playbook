@@ -136,7 +136,9 @@ Flowchart showing partnership development lifecycle from identification and eval
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure all partner services maintain appropriate safety and quality standards that reflect positively on FBO reputation
+- ℹ️ **NOTE**: Ensure all partner services maintain appropriate safety and quality standards that reflect positively on FBO reputation
+
+
 
 ⚡ **CAUTION**: Verify partner insurance coverage and liability protection for services provided to FBO clients
 

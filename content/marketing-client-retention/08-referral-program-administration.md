@@ -136,7 +136,9 @@ Flowchart showing referral program lifecycle from design and launch through refe
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure referral program doesn't create pressure to compromise service quality or safety standards for program participants
+- ℹ️ **NOTE**: Ensure referral program doesn't create pressure to compromise service quality or safety standards for program participants
+
+
 
 ⚡ **CAUTION**: Verify that referral rewards don't create conflicts of interest or inappropriate business relationships
 

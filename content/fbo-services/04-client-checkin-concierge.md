@@ -99,10 +99,12 @@ Flowchart showing client greeting, check-in procedures, service coordination, an
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Verify client identification and aircraft ownership before providing facility access or sensitive information
-⚡ **CAUTION**: Maintain confidentiality of client information and coordinate with security personnel for access control
-ℹ️ **NOTE**: Provide emergency contact information and facility safety briefing to all visiting clients
-✅ **BEST PRACTICE**: Maintain current local vendor relationships and service quality standards through regular communication
+- ⚠️ **WARNING**: Verify client identification and aircraft ownership before providing facility access or sensitive information
+- ⚡ **CAUTION**: Maintain confidentiality of client information and coordinate with security personnel for access control
+- ℹ️ **NOTE**: Provide emergency contact information and facility safety briefing to all visiting clients
+- ✅ **BEST PRACTICE**: Maintain current local vendor relationships and service quality standards through regular communication
+
+
 
 ## Regulatory References
 

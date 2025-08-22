@@ -164,7 +164,9 @@ Post-Fueling Safety → Equipment Securing → Documentation
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never fuel aircraft with engines running, electrical systems on, or personnel smoking within 50 feet
+- ⚠️ **WARNING**: Never fuel aircraft with engines running, electrical systems on, or personnel smoking within 50 feet
+
+
 
 ⚠️ **WARNING**: Maintain proper grounding throughout entire fueling operation to prevent static electricity ignition
 

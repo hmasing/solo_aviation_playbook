@@ -114,10 +114,12 @@ Flowchart showing sequential steps from aircraft approach monitoring through pos
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Maintain minimum 25-foot clearance from operating aircraft engines and propellers at all times
-⚡ **CAUTION**: Verify aircraft parking brake engagement and proper chock placement before approaching aircraft
-ℹ️ **NOTE**: Monitor weather conditions and wind direction during all marshalling operations
-✅ **BEST PRACTICE**: Conduct pre-shift briefing on current NOTAMs, runway conditions, and operational priorities
+- ⚠️ **WARNING**: Maintain minimum 25-foot clearance from operating aircraft engines and propellers at all times
+- ⚡ **CAUTION**: Verify aircraft parking brake engagement and proper chock placement before approaching aircraft
+- ℹ️ **NOTE**: Monitor weather conditions and wind direction during all marshalling operations
+- ✅ **BEST PRACTICE**: Conduct pre-shift briefing on current NOTAMs, runway conditions, and operational priorities
+
+
 
 ## Regulatory References
 

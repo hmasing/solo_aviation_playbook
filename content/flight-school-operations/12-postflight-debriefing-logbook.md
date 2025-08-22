@@ -112,7 +112,9 @@ Flowchart showing post-flight workflow from initial assessment through next less
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Address all safety-related performance issues immediately and ensure student understanding before next flight
+- ⚠️ **WARNING**: Address all safety-related performance issues immediately and ensure student understanding before next flight
+
+
 
 ⚡ **CAUTION**: Verify accuracy of logbook entries for regulatory compliance and insurance requirements
 

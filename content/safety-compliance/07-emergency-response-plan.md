@@ -156,7 +156,9 @@ Communication Coordination → Recovery & Continuity
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never attempt emergency response activities beyond your training and capabilities
+- ⚠️ **WARNING**: Never attempt emergency response activities beyond your training and capabilities
+
+
 
 ⚠️ **WARNING**: Ensure personnel safety is the top priority; property protection is secondary to life safety
 

@@ -114,7 +114,9 @@ Requirements Planning → Supplier Research → Parts Ordering → Receiving and
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Use only approved parts from authorized sources as counterfeit or non-conforming parts may fail and create unsafe flight conditions
+- ⚠️ **WARNING**: Use only approved parts from authorized sources as counterfeit or non-conforming parts may fail and create unsafe flight conditions
+
+
 
 ⚡ **CAUTION**: Maintain proper ESD protection for all electronic components during storage and handling to prevent damage
 

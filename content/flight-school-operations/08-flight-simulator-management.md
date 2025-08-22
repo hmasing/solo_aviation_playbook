@@ -112,7 +112,9 @@ Flowchart showing simulator session workflow from planning through post-session 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Ensure students understand simulator limitations and do not attempt procedures that would be unsafe in actual aircraft
+- ⚠️ **WARNING**: Ensure students understand simulator limitations and do not attempt procedures that would be unsafe in actual aircraft
+
+
 
 ⚡ **CAUTION**: Verify simulator equipment safety systems are operational before beginning training sessions
 

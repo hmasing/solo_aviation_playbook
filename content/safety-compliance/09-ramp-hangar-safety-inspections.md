@@ -148,7 +148,9 @@ Hazard Identification → Corrective Action → Follow-up & Trending
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Stop work immediately in areas with imminent safety hazards until hazards are corrected
+- ⚠️ **WARNING**: Stop work immediately in areas with imminent safety hazards until hazards are corrected
+
+
 
 ⚠️ **WARNING**: Ensure inspectors are trained in hazard recognition and have authority to require immediate corrective action
 

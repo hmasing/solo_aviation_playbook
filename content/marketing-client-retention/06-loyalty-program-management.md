@@ -136,7 +136,9 @@ Flowchart showing loyalty program lifecycle from design and development through 
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure loyalty program benefits don't compromise safety standards or create pressure to rush services
+- ℹ️ **NOTE**: Ensure loyalty program benefits don't compromise safety standards or create pressure to rush services
+
+
 
 ⚡ **CAUTION**: Verify that priority service benefits maintain appropriate safety margins and regulatory compliance
 

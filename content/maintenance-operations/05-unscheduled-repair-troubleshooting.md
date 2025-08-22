@@ -101,6 +101,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never attempt repairs beyond technician qualifications or without proper tools and equipment
 
+
+
 ⚡ **CAUTION:** Ensure all troubleshooting activities are conducted safely with appropriate precautions for electrical and mechanical hazards
 
 ℹ️ **NOTE:** All unscheduled repairs must be properly documented and inspected before aircraft return to service

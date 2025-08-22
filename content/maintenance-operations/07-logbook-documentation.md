@@ -117,6 +117,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never make false or misleading entries in aircraft maintenance logbooks as this violates federal regulations
 
+
+
 ⚡ **CAUTION:** Ensure all maintenance entries are complete and accurate before aircraft return to service
 
 ℹ️ **NOTE:** All maintenance logbook entries must be made by appropriately certified personnel

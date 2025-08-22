@@ -126,13 +126,15 @@ Flowchart showing sequential steps from client request through service completio
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never use high-pressure water near aircraft engines, electrical components, or sensitive avionics
-⚡ **CAUTION**: Verify aircraft security and access controls before beginning any detailing operations
-⚡ **CAUTION**: Never use any physical cleaner that has contacted the ground or aircraft surfaces on clear acrylic components
-ℹ️ **NOTE**: Use only aviation-approved cleaning products and follow manufacturer guidelines for all surfaces
-ℹ️ **NOTE**: Degrease aircraft belly before main wash to prevent contamination of brushes and tools
-✅ **BEST PRACTICE**: Conduct pre-service briefing on aircraft-specific requirements and safety protocols
-✅ **BEST PRACTICE**: Use dedicated tools and cleaners for windows and canopies only
+- ⚠️ **WARNING**: Never use high-pressure water near aircraft engines, electrical components, or sensitive avionics
+- ⚡ **CAUTION**: Verify aircraft security and access controls before beginning any detailing operations
+- ⚡ **CAUTION**: Never use any physical cleaner that has contacted the ground or aircraft surfaces on clear acrylic components
+- ℹ️ **NOTE**: Use only aviation-approved cleaning products and follow manufacturer guidelines for all surfaces
+- ℹ️ **NOTE**: Degrease aircraft belly before main wash to prevent contamination of brushes and tools
+- ✅ **BEST PRACTICE**: Conduct pre-service briefing on aircraft-specific requirements and safety protocols
+- ✅ **BEST PRACTICE**: Use dedicated tools and cleaners for windows and canopies only
+
+
 
 ## Client Billing and Pricing
 

@@ -128,7 +128,9 @@ Flowchart showing feedback lifecycle from collection system design through imple
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure feedback collection methods don't interfere with safety-critical operations or emergency procedures
+- ℹ️ **NOTE**: Ensure feedback collection methods don't interfere with safety-critical operations or emergency procedures
+
+
 
 ⚡ **CAUTION**: Prioritize safety-related feedback for immediate investigation and resolution regardless of other improvement priorities
 

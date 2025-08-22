@@ -112,7 +112,9 @@ Flowchart showing billing workflow from training activity collection through pay
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Maintain strict confidentiality of student financial information and comply with privacy regulations
+- ⚠️ **WARNING**: Maintain strict confidentiality of student financial information and comply with privacy regulations
+
+
 
 ⚡ **CAUTION**: Verify payment processing security measures to protect client financial data and prevent fraud
 

@@ -114,7 +114,9 @@ Needs Assessment → Training Selection → Program Enrollment → Training Exec
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never assign technicians to work beyond their training and qualification levels as inadequate knowledge may result in unsafe installations or repairs
+- ⚠️ **WARNING**: Never assign technicians to work beyond their training and qualification levels as inadequate knowledge may result in unsafe installations or repairs
+
+
 
 ⚡ **CAUTION**: Ensure all training includes current safety procedures and regulatory requirements to prevent accidents and compliance violations
 

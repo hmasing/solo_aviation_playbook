@@ -112,7 +112,9 @@ Flowchart showing fuel management workflow from planning through service documen
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Maintain strict fire safety procedures during all fuel handling operations and ensure emergency equipment availability
+- ⚠️ **WARNING**: Maintain strict fire safety procedures during all fuel handling operations and ensure emergency equipment availability
+
+
 
 ⚡ **CAUTION**: Verify proper grounding and electrical safety procedures before beginning fuel transfer operations
 

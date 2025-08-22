@@ -128,7 +128,9 @@ Flowchart showing social media management lifecycle from strategy and planning t
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure all social media content accurately represents safety procedures and regulatory compliance
+- ℹ️ **NOTE**: Ensure all social media content accurately represents safety procedures and regulatory compliance
+
+
 
 ⚡ **CAUTION**: Avoid posting operational details that could compromise security or safety protocols
 

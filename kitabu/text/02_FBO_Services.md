@@ -188,10 +188,10 @@ Flowchart showing sequential steps from aircraft approach monitoring through pos
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Maintain minimum 25-foot clearance from operating aircraft engines and propellers at all times
-⚡ **CAUTION**: Verify aircraft parking brake engagement and proper chock placement before approaching aircraft
-ℹ️ **NOTE**: Monitor weather conditions and wind direction during all marshalling operations
-✅ **BEST PRACTICE**: Conduct pre-shift briefing on current NOTAMs, runway conditions, and operational priorities
+- ⚠️ **WARNING**: Maintain minimum 25-foot clearance from operating aircraft engines and propellers at all times
+- ⚡ **CAUTION**: Verify aircraft parking brake engagement and proper chock placement before approaching aircraft
+- ℹ️ **NOTE**: Monitor weather conditions and wind direction during all marshalling operations
+- ✅ **BEST PRACTICE**: Conduct pre-shift briefing on current NOTAMs, runway conditions, and operational priorities
 
 ### Regulatory References
 
@@ -275,11 +275,11 @@ Flowchart showing fuel quality testing, safety verification, fueling operation s
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Maintain proper grounding connections throughout fueling operations to prevent static electricity ignition
-⚠️ **WARNING**: Never smoke or use open flames within 50 feet of fueling operations or fuel storage areas
-⚡ **CAUTION**: Verify fuel type compatibility before connecting fuel lines to prevent aircraft fuel system contamination
-ℹ️ **NOTE**: Monitor weather conditions and suspend fueling during electrical storms or high wind conditions
-✅ **BEST PRACTICE**: Conduct daily fuel quality testing and maintain detailed records for regulatory compliance
+- ⚠️ **WARNING**: Maintain proper grounding connections throughout fueling operations to prevent static electricity ignition
+- ⚠️ **WARNING**: Never smoke or use open flames within 50 feet of fueling operations or fuel storage areas
+- ⚡ **CAUTION**: Verify fuel type compatibility before connecting fuel lines to prevent aircraft fuel system contamination
+- ℹ️ **NOTE**: Monitor weather conditions and suspend fueling during electrical storms or high wind conditions
+- ✅ **BEST PRACTICE**: Conduct daily fuel quality testing and maintain detailed records for regulatory compliance
 
 ### Regulatory References
 
@@ -371,10 +371,10 @@ Flowchart showing space availability assessment, reservation processing, aircraf
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Ensure minimum 10-foot clearance on all sides of aircraft when positioning in hangars
-⚡ **CAUTION**: Verify hangar door operation is clear of personnel and equipment before activating door controls
-ℹ️ **NOTE**: Monitor weather conditions and prioritize hangar space allocation during adverse weather forecasts
-✅ **BEST PRACTICE**: Conduct daily hangar inspections and maintain current aircraft positioning diagrams
+- ⚠️ **WARNING**: Ensure minimum 10-foot clearance on all sides of aircraft when positioning in hangars
+- ⚡ **CAUTION**: Verify hangar door operation is clear of personnel and equipment before activating door controls
+- ℹ️ **NOTE**: Monitor weather conditions and prioritize hangar space allocation during adverse weather forecasts
+- ✅ **BEST PRACTICE**: Conduct daily hangar inspections and maintain current aircraft positioning diagrams
 
 ### Regulatory References
 
@@ -475,10 +475,10 @@ Flowchart showing client greeting, check-in procedures, service coordination, an
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Verify client identification and aircraft ownership before providing facility access or sensitive information
-⚡ **CAUTION**: Maintain confidentiality of client information and coordinate with security personnel for access control
-ℹ️ **NOTE**: Provide emergency contact information and facility safety briefing to all visiting clients
-✅ **BEST PRACTICE**: Maintain current local vendor relationships and service quality standards through regular communication
+- ⚠️ **WARNING**: Verify client identification and aircraft ownership before providing facility access or sensitive information
+- ⚡ **CAUTION**: Maintain confidentiality of client information and coordinate with security personnel for access control
+- ℹ️ **NOTE**: Provide emergency contact information and facility safety briefing to all visiting clients
+- ✅ **BEST PRACTICE**: Maintain current local vendor relationships and service quality standards through regular communication
 
 ### Regulatory References
 
@@ -570,11 +570,7 @@ Flowchart showing pre-marshalling assessment, aircraft guidance sequence, parkin
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Maintain minimum 25-foot clearance from operating aircraft engines and never approach aircraft from engine intake areas
-⚠️ **WARNING**: Ensure all personnel wear high-visibility safety equipment and maintain radio communication during aircraft movements
-⚡ **CAUTION**: Verify aircraft parking brake engagement before approaching for chock placement or ground service connections
-ℹ️ **NOTE**: Monitor wind conditions and adjust marshalling position to maintain clear visual contact with pilot
-✅ **BEST PRACTICE**: Conduct daily briefing on current NOTAMs, runway conditions, and special aircraft handling requirements
+- ✅ **BEST PRACTICE**: Conduct daily briefing on current NOTAMs, runway conditions, and special aircraft handling requirements
 
 ### Regulatory References
 
@@ -667,11 +663,7 @@ Flowchart showing equipment inspection, deployment, operational monitoring, and 
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Verify equipment operator certification and conduct pre-operation safety briefing before equipment deployment
-⚠️ **WARNING**: Never operate equipment with known safety system malfunctions or incomplete maintenance requirements
-⚡ **CAUTION**: Maintain proper clearances when operating equipment near aircraft and ensure all personnel are clear of equipment operation areas
-ℹ️ **NOTE**: Monitor weather conditions and suspend equipment operations during unsafe environmental conditions
-✅ **BEST PRACTICE**: Conduct monthly equipment safety meetings and maintain current manufacturer service bulletins and updates
+- ✅ **BEST PRACTICE**: Conduct monthly equipment safety meetings and maintain current manufacturer service bulletins and updates
 
 ### Regulatory References
 
@@ -772,10 +764,7 @@ Flowchart showing maintenance request processing, vendor coordination, service m
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Verify maintenance provider certifications and regulatory compliance before authorizing any maintenance work
-⚡ **CAUTION**: Ensure all maintenance work is properly documented and meets regulatory requirements before aircraft return to service
-ℹ️ **NOTE**: Maintain current knowledge of regulatory requirements and coordinate with appropriate authorities when required
-✅ **BEST PRACTICE**: Conduct regular vendor performance reviews and maintain relationships with multiple qualified maintenance providers
+- ✅ **BEST PRACTICE**: Conduct regular vendor performance reviews and maintain relationships with multiple qualified maintenance providers
 
 ### Regulatory References
 
@@ -876,10 +865,7 @@ Flowchart showing transportation needs assessment, vendor coordination, service 
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Verify all transportation vendors maintain current licensing, insurance, and safety certifications
-⚡ **CAUTION**: Confirm passenger information accuracy and coordinate with vendors for any special transportation requirements
-ℹ️ **NOTE**: Provide emergency contact information to clients and maintain 24-hour communication availability
-✅ **BEST PRACTICE**: Conduct regular vendor performance reviews and maintain current local area information and recommendations
+- ✅ **BEST PRACTICE**: Conduct regular vendor performance reviews and maintain current local area information and recommendations
 
 ### Regulatory References
 
@@ -988,10 +974,7 @@ Flowchart showing service documentation, invoice generation, payment processing,
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Protect client financial information and maintain confidentiality in accordance with privacy regulations
-⚡ **CAUTION**: Verify service authorization before processing charges and maintain accurate documentation for all billable services
-ℹ️ **NOTE**: Maintain current knowledge of tax regulations and coordinate with tax professionals for compliance requirements
-✅ **BEST PRACTICE**: Conduct regular billing system audits and maintain backup procedures for critical financial data
+- ✅ **BEST PRACTICE**: Conduct regular billing system audits and maintain backup procedures for critical financial data
 
 ### Regulatory References
 
@@ -1109,11 +1092,7 @@ Flowchart showing inspection planning, systematic facility inspection, hazard id
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Report all safety hazards immediately and implement temporary protective measures until permanent corrections are completed
-⚠️ **WARNING**: Never compromise security protocols and coordinate with law enforcement for any security concerns or incidents
-⚡ **CAUTION**: Use appropriate personal protective equipment during all inspections and follow lockout/tagout procedures for equipment inspection
-ℹ️ **NOTE**: Maintain current knowledge of regulatory requirements and coordinate with authorities for compliance verification
-✅ **BEST PRACTICE**: Conduct monthly safety meetings and maintain current emergency response procedures and contact information
+- ✅ **BEST PRACTICE**: Conduct monthly safety meetings and maintain current emergency response procedures and contact information
 
 ### Regulatory References
 
@@ -1207,11 +1186,7 @@ Flowchart showing facility assessment, maintenance scheduling, cleaning operatio
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Use appropriate personal protective equipment during all maintenance and cleaning activities
-⚠️ **WARNING**: Follow lockout/tagout procedures when servicing electrical or mechanical equipment
-⚡ **CAUTION**: Use appropriate cleaning chemicals and maintain proper ventilation during cleaning operations
-ℹ️ **NOTE**: Coordinate with operations team before beginning maintenance activities that may affect client services
-✅ **BEST PRACTICE**: Conduct regular facility condition assessments and maintain current equipment maintenance schedules
+- ✅ **BEST PRACTICE**: Conduct regular facility condition assessments and maintain current equipment maintenance schedules
 
 ### Regulatory References
 
@@ -1312,11 +1287,7 @@ Flowchart showing weather information access, pilot consultation, route analysis
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Never provide weather briefings without current and complete weather information from authorized sources
-⚠️ **WARNING**: Advise pilots of all weather hazards and coordinate with meteorology professionals for complex weather situations
-⚡ **CAUTION**: Verify weather information currency and coordinate with Flight Service Station for official weather briefings when required
-ℹ️ **NOTE**: Maintain current knowledge of weather systems and coordinate with meteorology professionals for continuing education
-✅ **BEST PRACTICE**: Document all weather briefings and maintain current weather information system access and training
+- ✅ **BEST PRACTICE**: Document all weather briefings and maintain current weather information system access and training
 
 ### Regulatory References
 
@@ -1417,10 +1388,7 @@ Flowchart showing service request processing, vendor coordination, quality contr
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Verify all food safety certifications and coordinate with vendors for compliance with food handling regulations
-⚡ **CAUTION**: Document all dietary restrictions and allergies accurately to prevent health incidents
-ℹ️ **NOTE**: Maintain current vendor certifications and coordinate with health authorities for food safety compliance
-✅ **BEST PRACTICE**: Conduct regular vendor facility inspections and maintain current food safety training for team members
+- ✅ **BEST PRACTICE**: Conduct regular vendor facility inspections and maintain current food safety training for team members
 
 ### Regulatory References
 
@@ -1530,7 +1498,7 @@ Flowchart showing sequential steps from client request through service completio
 
 ### Success Metrics
 
-**Completion Time:** Standard wash completed within 2 hours, full detailing within 4 hours.
+**Completion Time:** Standard wash completed within 6 hours, full detailing within 12 hours.
 **Quality Standard:** 100% client satisfaction with aircraft appearance and service quality.
 **Safety Standard:** Zero safety incidents and proper environmental compliance throughout service.
 **Client Satisfaction:** 95% or higher client satisfaction rating for detailing services.
@@ -1548,13 +1516,13 @@ Flowchart showing sequential steps from client request through service completio
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Never use high-pressure water near aircraft engines, electrical components, or sensitive avionics
-⚡ **CAUTION**: Verify aircraft security and access controls before beginning any detailing operations
-⚡ **CAUTION**: Never use any physical cleaner that has contacted the ground or aircraft surfaces on clear acrylic components
-ℹ️ **NOTE**: Use only aviation-approved cleaning products and follow manufacturer guidelines for all surfaces
-ℹ️ **NOTE**: Degrease aircraft belly before main wash to prevent contamination of brushes and tools
-✅ **BEST PRACTICE**: Conduct pre-service briefing on aircraft-specific requirements and safety protocols
-✅ **BEST PRACTICE**: Use dedicated tools and cleaners for windows and canopies only
+- ⚠️ **WARNING**: Never use high-pressure water near aircraft engines, electrical components, or sensitive avionics
+- ⚡ **CAUTION**: Verify aircraft security and access controls before beginning any detailing operations
+- ⚡ **CAUTION**: Never use any physical cleaner that has contacted the ground or aircraft surfaces on clear acrylic components
+- ℹ️ **NOTE**: Use only aviation-approved cleaning products and follow manufacturer guidelines for all surfaces
+- ℹ️ **NOTE**: Degrease aircraft belly before main wash to prevent contamination of brushes and tools
+- ✅ **BEST PRACTICE**: Conduct pre-service briefing on aircraft-specific requirements and safety protocols
+- ✅ **BEST PRACTICE**: Use dedicated tools and cleaners for windows and canopies only
 
 ### Client Billing and Pricing
 
@@ -1563,19 +1531,19 @@ Flowchart showing sequential steps from client request through service completio
 **Standard Wash Service:**
 - Basic aircraft exterior cleaning and rinse
 - Standard pricing based on aircraft size category
-- Completion time: 1-2 hours
+- Completion time: 3-6 hours
 
 **Premium Wash and Wax Service:**
 - Complete exterior cleaning with wax application
 - Surface protection and polish treatment
 - Standard pricing plus premium service fee
-- Completion time: 2-3 hours
+- Completion time: 6-9 hours
 
 **Full Detailing Service:**
 - Complete exterior and interior detailing
 - Advanced surface protection and polish
 - Premium pricing for complete service package
-- Completion time: 3-4 hours
+- Completion time: 9-12 hours
 
 #### Aircraft Size Categories and Pricing
 
@@ -1736,11 +1704,7 @@ Flowchart showing emergency recognition, response activation, incident managemen
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Prioritize life safety above all other considerations and coordinate with emergency services for professional response
-⚠️ **WARNING**: Never compromise team member or client safety for operational continuity or property protection
-⚡ **CAUTION**: Follow established emergency procedures and coordinate with trained emergency response personnel
-ℹ️ **NOTE**: Maintain current emergency contact information and coordinate regular emergency response training
-✅ **BEST PRACTICE**: Conduct regular emergency drills and maintain current emergency equipment and supplies
+- ✅ **BEST PRACTICE**: Conduct regular emergency drills and maintain current emergency equipment and supplies
 
 ### Regulatory References
 

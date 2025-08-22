@@ -84,11 +84,13 @@ Flowchart showing fuel quality testing, safety verification, fueling operation s
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Maintain proper grounding connections throughout fueling operations to prevent static electricity ignition
-⚠️ **WARNING**: Never smoke or use open flames within 50 feet of fueling operations or fuel storage areas
-⚡ **CAUTION**: Verify fuel type compatibility before connecting fuel lines to prevent aircraft fuel system contamination
-ℹ️ **NOTE**: Monitor weather conditions and suspend fueling during electrical storms or high wind conditions
-✅ **BEST PRACTICE**: Conduct daily fuel quality testing and maintain detailed records for regulatory compliance
+- ⚠️ **WARNING**: Maintain proper grounding connections throughout fueling operations to prevent static electricity ignition
+- ⚠️ **WARNING**: Never smoke or use open flames within 50 feet of fueling operations or fuel storage areas
+- ⚡ **CAUTION**: Verify fuel type compatibility before connecting fuel lines to prevent aircraft fuel system contamination
+- ℹ️ **NOTE**: Monitor weather conditions and suspend fueling during electrical storms or high wind conditions
+- ✅ **BEST PRACTICE**: Conduct daily fuel quality testing and maintain detailed records for regulatory compliance
+
+
 
 ## Regulatory References
 

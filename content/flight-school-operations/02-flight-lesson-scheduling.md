@@ -112,7 +112,9 @@ Flowchart showing scheduling workflow from initial request through lesson comple
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never schedule flight training activities when weather conditions are below established minimums for student pilot operations
+- ⚠️ **WARNING**: Never schedule flight training activities when weather conditions are below established minimums for student pilot operations
+
+
 
 ⚡ **CAUTION**: Verify aircraft airworthiness status before confirming any scheduled flight lesson
 

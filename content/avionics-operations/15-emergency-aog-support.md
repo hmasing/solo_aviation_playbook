@@ -115,7 +115,9 @@ Emergency Call → Priority Assessment → Team Activation → Remote Diagnosis 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never compromise safety standards or regulatory requirements even under emergency time pressure as unsafe repairs create greater risks than continued downtime
+- ⚠️ **WARNING**: Never compromise safety standards or regulatory requirements even under emergency time pressure as unsafe repairs create greater risks than continued downtime
+
+
 
 ⚡ **CAUTION**: Ensure emergency repairs are performed by qualified personnel using approved procedures and properly tested before return to service
 

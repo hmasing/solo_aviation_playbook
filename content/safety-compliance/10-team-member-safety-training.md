@@ -156,7 +156,9 @@ Recurrent Training → Documentation → Continuous Improvement
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Team members must not perform safety-critical tasks without completing required training and demonstrating competency
+- ⚠️ **WARNING**: Team members must not perform safety-critical tasks without completing required training and demonstrating competency
+
+
 
 ⚠️ **WARNING**: Ensure training covers all significant hazards and emergency procedures relevant to each position
 

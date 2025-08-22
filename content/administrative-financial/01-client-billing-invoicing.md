@@ -129,6 +129,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure fuel billing accuracy to prevent client safety issues from incorrect fuel load calculations
 
+
+
 ⚡ **CAUTION:** Verify all service charges before invoice generation to maintain client trust and avoid billing disputes
 
 ℹ️ **NOTE:** Maintain confidentiality of client financial information and billing details at all times

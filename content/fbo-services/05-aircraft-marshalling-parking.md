@@ -90,11 +90,9 @@ Flowchart showing pre-marshalling assessment, aircraft guidance sequence, parkin
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Maintain minimum 25-foot clearance from operating aircraft engines and never approach aircraft from engine intake areas
-⚠️ **WARNING**: Ensure all personnel wear high-visibility safety equipment and maintain radio communication during aircraft movements
-⚡ **CAUTION**: Verify aircraft parking brake engagement before approaching for chock placement or ground service connections
-ℹ️ **NOTE**: Monitor wind conditions and adjust marshalling position to maintain clear visual contact with pilot
-✅ **BEST PRACTICE**: Conduct daily briefing on current NOTAMs, runway conditions, and special aircraft handling requirements
+- ✅ **BEST PRACTICE**: Conduct daily briefing on current NOTAMs, runway conditions, and special aircraft handling requirements
+
+
 
 ## Regulatory References
 

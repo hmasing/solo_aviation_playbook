@@ -117,6 +117,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never handle hazardous materials without proper personal protective equipment and safety procedures
 
+
+
 ⚡ **CAUTION:** Ensure proper ventilation and emergency equipment are available when working with hazardous materials
 
 ℹ️ **NOTE:** All hazardous materials incidents must be reported immediately to safety personnel and appropriate authorities

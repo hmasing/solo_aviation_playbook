@@ -122,7 +122,9 @@ Requirements Assessment → ESD Implementation → Environmental Procedures → 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Failure to follow ESD protection procedures may result in component damage that could cause in-flight system failures
+- ⚠️ **WARNING**: Failure to follow ESD protection procedures may result in component damage that could cause in-flight system failures
+
+
 
 ⚡ **CAUTION**: Ensure proper electrical safety procedures are followed when working with high-voltage avionics systems
 

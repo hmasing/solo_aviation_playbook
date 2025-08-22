@@ -90,10 +90,12 @@ Flowchart showing space availability assessment, reservation processing, aircraf
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Ensure minimum 10-foot clearance on all sides of aircraft when positioning in hangars
-⚡ **CAUTION**: Verify hangar door operation is clear of personnel and equipment before activating door controls
-ℹ️ **NOTE**: Monitor weather conditions and prioritize hangar space allocation during adverse weather forecasts
-✅ **BEST PRACTICE**: Conduct daily hangar inspections and maintain current aircraft positioning diagrams
+- ⚠️ **WARNING**: Ensure minimum 10-foot clearance on all sides of aircraft when positioning in hangars
+- ⚡ **CAUTION**: Verify hangar door operation is clear of personnel and equipment before activating door controls
+- ℹ️ **NOTE**: Monitor weather conditions and prioritize hangar space allocation during adverse weather forecasts
+- ✅ **BEST PRACTICE**: Conduct daily hangar inspections and maintain current aircraft positioning diagrams
+
+
 
 ## Regulatory References
 

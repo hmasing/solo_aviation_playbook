@@ -356,13 +356,13 @@ Safety Officer → All Departments → Operations Leader
 
 ## Safety Considerations
 
-⚠️ **WARNING**: All roles must prioritize safety in aviation operations - failure to follow safety protocols can result in serious injury or death
+- ⚠️ **WARNING**: All roles must prioritize safety in aviation operations - failure to follow safety protocols can result in serious injury or death
 
-⚡ **CAUTION**: Regulatory compliance is mandatory - violations can result in certificate action and operational penalties
+- ⚡ **CAUTION**: Regulatory compliance is mandatory - violations can result in certificate action and operational penalties
 
-ℹ️ **NOTE**: Role responsibilities may overlap during emergency situations - coordination and communication are essential
+- ℹ️ **NOTE**: Role responsibilities may overlap during emergency situations - coordination and communication are essential
 
-✅ **BEST PRACTICE**: Regular role training and competency validation ensure operational excellence
+- ✅ **BEST PRACTICE**: Regular role training and competency validation ensure operational excellence
 
 ---
 

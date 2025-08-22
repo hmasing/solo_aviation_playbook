@@ -128,7 +128,9 @@ Flowchart showing campaign lifecycle from planning and strategy through content 
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure all campaign content accurately represents FBO services and capabilities to avoid client disappointment or safety concerns
+- ℹ️ **NOTE**: Ensure all campaign content accurately represents FBO services and capabilities to avoid client disappointment or safety concerns
+
+
 
 ⚡ **CAUTION**: Verify that promotional offers and guarantees can be fulfilled without compromising safety standards or operational procedures
 

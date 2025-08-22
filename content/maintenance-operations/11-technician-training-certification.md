@@ -109,6 +109,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never allow technicians to perform maintenance beyond their certification level or without required training
 
+
+
 ⚡ **CAUTION:** Ensure all training records are current and accessible for regulatory inspection and compliance verification
 
 ℹ️ **NOTE:** All maintenance personnel must maintain current certificates and complete required training to perform maintenance activities

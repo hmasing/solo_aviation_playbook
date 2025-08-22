@@ -148,7 +148,9 @@ Situational Awareness → Recurrent Training → Performance Monitoring
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never enter runway areas without proper authorization from air traffic control
+- ⚠️ **WARNING**: Never enter runway areas without proper authorization from air traffic control
+
+
 
 ⚠️ **WARNING**: Always maintain radio contact with air traffic control when operating on airport movement areas
 

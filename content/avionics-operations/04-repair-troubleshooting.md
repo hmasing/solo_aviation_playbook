@@ -122,7 +122,9 @@ Problem Documentation → System History Review → Troubleshooting Planning →
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never return repaired avionics systems to service without complete functional testing as partially repaired systems may fail during critical flight phases
+- ⚠️ **WARNING**: Never return repaired avionics systems to service without complete functional testing as partially repaired systems may fail during critical flight phases
+
+
 
 ⚡ **CAUTION**: Use proper ESD protection during all repair procedures to prevent additional damage to sensitive electronic components
 

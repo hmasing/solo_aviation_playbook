@@ -136,7 +136,9 @@ Flowchart showing event lifecycle from concept development through planning, exe
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Ensure all event activities comply with airport security requirements and do not interfere with aircraft operations
+- ⚠️ **WARNING**: Ensure all event activities comply with airport security requirements and do not interfere with aircraft operations
+
+
 
 ⚡ **CAUTION**: Coordinate with airport authority and emergency services for events involving large crowds or aircraft displays
 

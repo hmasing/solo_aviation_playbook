@@ -101,6 +101,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never release aircraft to service without completing all required quality control inspections and operational tests
 
+
+
 ⚡ **CAUTION:** Ensure all quality defects are corrected and re-inspected before aircraft delivery to clients
 
 ℹ️ **NOTE:** Quality control activities must be performed by appropriately qualified personnel with current certifications

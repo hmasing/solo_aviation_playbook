@@ -124,6 +124,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure payroll processing never delays critical staffing for safety operations
 
+
+
 ⚡ **CAUTION:** Protect confidential payroll information and maintain secure access controls
 
 ℹ️ **NOTE:** Coordinate payroll schedules with operational needs to ensure adequate staffing coverage

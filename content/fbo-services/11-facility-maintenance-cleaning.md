@@ -91,11 +91,9 @@ Flowchart showing facility assessment, maintenance scheduling, cleaning operatio
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Use appropriate personal protective equipment during all maintenance and cleaning activities
-⚠️ **WARNING**: Follow lockout/tagout procedures when servicing electrical or mechanical equipment
-⚡ **CAUTION**: Use appropriate cleaning chemicals and maintain proper ventilation during cleaning operations
-ℹ️ **NOTE**: Coordinate with operations team before beginning maintenance activities that may affect client services
-✅ **BEST PRACTICE**: Conduct regular facility condition assessments and maintain current equipment maintenance schedules
+- ✅ **BEST PRACTICE**: Conduct regular facility condition assessments and maintain current equipment maintenance schedules
+
+
 
 ## Regulatory References
 

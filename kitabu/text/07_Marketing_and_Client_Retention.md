@@ -299,7 +299,7 @@ Flowchart showing progression from market research through segmentation developm
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure client data collection and analysis comply with privacy regulations and company data protection policies
+- ℹ️ **NOTE**: Ensure client data collection and analysis comply with privacy regulations and company data protection policies
 
 ⚡ **CAUTION**: Avoid making operational commitments in marketing materials that exceed current service capabilities or safety standards
 
@@ -432,7 +432,7 @@ Flowchart showing campaign lifecycle from planning and strategy through content 
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure all campaign content accurately represents FBO services and capabilities to avoid client disappointment or safety concerns
+- ℹ️ **NOTE**: Ensure all campaign content accurately represents FBO services and capabilities to avoid client disappointment or safety concerns
 
 ⚡ **CAUTION**: Verify that promotional offers and guarantees can be fulfilled without compromising safety standards or operational procedures
 
@@ -576,7 +576,7 @@ Flowchart showing promotional offer lifecycle from strategy development through 
 
 ### Safety Considerations
 
-⚡ **CAUTION**: Ensure promotional offers don't encourage unsafe practices or compromise regulatory compliance requirements
+- ⚡ **CAUTION**: Ensure promotional offers don't encourage unsafe practices or compromise regulatory compliance requirements
 
 ℹ️ **NOTE**: Include appropriate disclaimers regarding weather cancellations, aircraft availability, and safety-related service limitations
 
@@ -720,7 +720,7 @@ Flowchart showing event lifecycle from concept development through planning, exe
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Ensure all event activities comply with airport security requirements and do not interfere with aircraft operations
+- ⚠️ **WARNING**: Ensure all event activities comply with airport security requirements and do not interfere with aircraft operations
 
 ⚡ **CAUTION**: Coordinate with airport authority and emergency services for events involving large crowds or aircraft displays
 
@@ -857,7 +857,7 @@ Flowchart showing feedback lifecycle from collection system design through imple
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure feedback collection methods don't interfere with safety-critical operations or emergency procedures
+- ℹ️ **NOTE**: Ensure feedback collection methods don't interfere with safety-critical operations or emergency procedures
 
 ⚡ **CAUTION**: Prioritize safety-related feedback for immediate investigation and resolution regardless of other improvement priorities
 
@@ -1001,7 +1001,7 @@ Flowchart showing loyalty program lifecycle from design and development through 
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure loyalty program benefits don't compromise safety standards or create pressure to rush services
+- ℹ️ **NOTE**: Ensure loyalty program benefits don't compromise safety standards or create pressure to rush services
 
 ⚡ **CAUTION**: Verify that priority service benefits maintain appropriate safety margins and regulatory compliance
 
@@ -1137,7 +1137,7 @@ Flowchart showing follow-up lifecycle from strategy development through client s
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure follow-up communications don't interfere with safety-critical operations or emergency procedures
+- ℹ️ **NOTE**: Ensure follow-up communications don't interfere with safety-critical operations or emergency procedures
 
 ⚡ **CAUTION**: Respect client privacy and confidentiality when discussing service history and operational details
 
@@ -1281,7 +1281,7 @@ Flowchart showing referral program lifecycle from design and launch through refe
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure referral program doesn't create pressure to compromise service quality or safety standards for program participants
+- ℹ️ **NOTE**: Ensure referral program doesn't create pressure to compromise service quality or safety standards for program participants
 
 ⚡ **CAUTION**: Verify that referral rewards don't create conflicts of interest or inappropriate business relationships
 
@@ -1417,7 +1417,7 @@ Flowchart showing content creation lifecycle from strategy and planning through 
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure all content accurately represents safety procedures and regulatory compliance requirements
+- ℹ️ **NOTE**: Ensure all content accurately represents safety procedures and regulatory compliance requirements
 
 ⚡ **CAUTION**: Review technical content with subject matter experts to prevent dissemination of incorrect safety information
 
@@ -1561,7 +1561,7 @@ Flowchart showing partnership development lifecycle from identification and eval
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure all partner services maintain appropriate safety and quality standards that reflect positively on FBO reputation
+- ℹ️ **NOTE**: Ensure all partner services maintain appropriate safety and quality standards that reflect positively on FBO reputation
 
 ⚡ **CAUTION**: Verify partner insurance coverage and liability protection for services provided to FBO clients
 
@@ -1697,7 +1697,7 @@ Flowchart showing complaint resolution lifecycle from intake and documentation t
 
 ### Safety Considerations
 
-⚠️ **WARNING**: Immediately escalate any complaints involving safety concerns or regulatory compliance issues to appropriate authorities
+- ⚠️ **WARNING**: Immediately escalate any complaints involving safety concerns or regulatory compliance issues to appropriate authorities
 
 ⚡ **CAUTION**: Ensure complaint resolution doesn't compromise safety procedures or create unsafe conditions
 
@@ -1833,7 +1833,7 @@ Flowchart showing social media management lifecycle from strategy and planning t
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure all social media content accurately represents safety procedures and regulatory compliance
+- ℹ️ **NOTE**: Ensure all social media content accurately represents safety procedures and regulatory compliance
 
 ⚡ **CAUTION**: Avoid posting operational details that could compromise security or safety protocols
 
@@ -1969,7 +1969,7 @@ Flowchart showing community outreach lifecycle from identification and research 
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Use community outreach opportunities to promote aviation safety and best practices
+- ℹ️ **NOTE**: Use community outreach opportunities to promote aviation safety and best practices
 
 ⚡ **CAUTION**: Ensure all educational content and presentations maintain accuracy and regulatory compliance
 
@@ -2113,7 +2113,7 @@ Flowchart showing seasonal campaign lifecycle from opportunity analysis through 
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure seasonal campaigns promote safe flying practices and appropriate weather decision-making
+- ℹ️ **NOTE**: Ensure seasonal campaigns promote safe flying practices and appropriate weather decision-making
 
 ⚡ **CAUTION**: Avoid creating pressure for unsafe operations during popular seasonal flying periods
 
@@ -2257,7 +2257,7 @@ Flowchart showing retention analytics lifecycle from data collection and analysi
 
 ### Safety Considerations
 
-ℹ️ **NOTE**: Ensure retention analytics and strategies don't compromise safety standards or create pressure for unsafe operations
+- ℹ️ **NOTE**: Ensure retention analytics and strategies don't compromise safety standards or create pressure for unsafe operations
 
 ⚡ **CAUTION**: Verify that retention improvement initiatives maintain appropriate safety margins and regulatory compliance
 

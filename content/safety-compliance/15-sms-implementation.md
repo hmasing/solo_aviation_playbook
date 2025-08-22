@@ -148,7 +148,9 @@ Risk Mitigation → Performance Monitoring → Continuous Improvement
 
 ## Safety Considerations
 
-⚠️ **WARNING**: SMS implementation requires sustained leadership commitment and organizational culture change
+- ⚠️ **WARNING**: SMS implementation requires sustained leadership commitment and organizational culture change
+
+
 
 ⚠️ **WARNING**: Ineffective SMS can create false sense of security; ensure system is actively managed and continuously improved
 

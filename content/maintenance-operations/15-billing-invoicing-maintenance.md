@@ -117,6 +117,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never bill for maintenance work that was not properly performed or documented according to regulatory requirements
 
+
+
 ⚡ **CAUTION:** Ensure all billing charges are supported by accurate documentation and approved work orders
 
 ℹ️ **NOTE:** All billing disputes must be resolved promptly to maintain client relationships and regulatory compliance

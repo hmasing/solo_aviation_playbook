@@ -122,7 +122,9 @@ Calibration Planning → Schedule Coordination → Equipment Preparation → Cal
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never use test equipment that is overdue for calibration or shows questionable accuracy as inaccurate measurements may result in unsafe aircraft conditions
+- ⚠️ **WARNING**: Never use test equipment that is overdue for calibration or shows questionable accuracy as inaccurate measurements may result in unsafe aircraft conditions
+
+
 
 ⚡ **CAUTION**: Handle calibration equipment carefully during transport and storage to prevent damage that could affect accuracy
 

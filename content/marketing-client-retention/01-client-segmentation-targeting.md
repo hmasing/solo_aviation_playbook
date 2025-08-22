@@ -125,7 +125,9 @@ Flowchart showing progression from market research through segmentation developm
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure client data collection and analysis comply with privacy regulations and company data protection policies
+- ℹ️ **NOTE**: Ensure client data collection and analysis comply with privacy regulations and company data protection policies
+
+
 
 ⚡ **CAUTION**: Avoid making operational commitments in marketing materials that exceed current service capabilities or safety standards
 

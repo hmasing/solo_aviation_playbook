@@ -125,6 +125,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure all vendor contracts include appropriate insurance coverage and liability protection for airport operations
 
+
+
 ⚡ **CAUTION:** Verify vendor personnel have required airport security clearances and safety training
 
 ℹ️ **NOTE:** Include emergency contact procedures and backup service provisions in all critical vendor contracts

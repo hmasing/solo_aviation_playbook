@@ -126,6 +126,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never proceed with maintenance work without proper client authorization and written approval
 
+
+
 ⚡ **CAUTION:** Ensure all safety-related maintenance findings are communicated immediately to clients regardless of authorization status
 
 ℹ️ **NOTE:** All client communications regarding maintenance work must be documented and maintained for regulatory compliance

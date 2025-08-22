@@ -129,7 +129,9 @@ Flowchart showing emergency response workflow from detection through post-emerge
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never attempt emergency response actions that exceed your training or put your safety at risk
+- ⚠️ **WARNING**: Never attempt emergency response actions that exceed your training or put your safety at risk
+
+
 
 ⚡ **CAUTION**: Ensure all emergency equipment is properly maintained and accessible during emergency situations
 

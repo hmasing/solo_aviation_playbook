@@ -128,7 +128,9 @@ Flowchart showing complaint resolution lifecycle from intake and documentation t
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Immediately escalate any complaints involving safety concerns or regulatory compliance issues to appropriate authorities
+- ⚠️ **WARNING**: Immediately escalate any complaints involving safety concerns or regulatory compliance issues to appropriate authorities
+
+
 
 ⚡ **CAUTION**: Ensure complaint resolution doesn't compromise safety procedures or create unsafe conditions
 

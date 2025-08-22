@@ -123,6 +123,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Never compromise safety expenditures to meet budget targets - safety investments protect lives and prevent larger costs
 
+
+
 ⚡ **CAUTION:** Ensure maintenance and equipment budgets support regulatory compliance and operational safety
 
 ℹ️ **NOTE:** Budget planning should include adequate reserves for emergency situations and regulatory compliance

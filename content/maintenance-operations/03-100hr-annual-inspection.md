@@ -116,6 +116,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Never return aircraft to service with unresolved airworthiness discrepancies or incomplete inspection requirements
 
+
+
 ⚡ **CAUTION:** Ensure proper documentation of all inspection findings and corrective actions before aircraft release
 
 ℹ️ **NOTE:** All inspection work must be performed by appropriately certified personnel with current qualifications

@@ -122,7 +122,9 @@ Work Completion → Inspection Scheduling → Documentation Review → Physical 
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never authorize return to service for work that does not fully comply with all safety and regulatory requirements
+- ⚠️ **WARNING**: Never authorize return to service for work that does not fully comply with all safety and regulatory requirements
+
+
 
 ⚡ **CAUTION**: Ensure all test equipment is properly calibrated and functioning correctly to provide accurate inspection results
 

@@ -116,6 +116,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure safety and maintenance records are maintained per FAA requirements to support continued airworthiness
 
+
+
 ⚡ **CAUTION:** Protect confidential client and team member information with appropriate access controls and security measures
 
 ℹ️ **NOTE:** Record retention requirements vary by regulation - ensure compliance with longest applicable retention period

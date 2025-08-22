@@ -156,7 +156,9 @@ Retrieval & Access → Retention & Disposal → Audit & Compliance
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Failure to maintain required regulatory records can result in significant penalties and operational restrictions
+- ⚠️ **WARNING**: Failure to maintain required regulatory records can result in significant penalties and operational restrictions
+
+
 
 ⚠️ **WARNING**: Ensure confidential records are properly protected and access is limited to authorized personnel only
 

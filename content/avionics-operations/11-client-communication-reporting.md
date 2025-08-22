@@ -122,7 +122,9 @@ Initial Contact → Project Planning → Regular Updates → Issue Communication
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Immediately communicate any safety-related findings or concerns to clients as delays in notification could affect flight safety decisions
+- ⚠️ **WARNING**: Immediately communicate any safety-related findings or concerns to clients as delays in notification could affect flight safety decisions
+
+
 
 ⚡ **CAUTION**: Ensure all technical information provided to clients is accurate and verified to prevent misunderstandings that could affect aircraft operation
 

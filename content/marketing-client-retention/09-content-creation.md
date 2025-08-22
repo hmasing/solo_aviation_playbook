@@ -128,7 +128,9 @@ Flowchart showing content creation lifecycle from strategy and planning through 
 
 ## Safety Considerations
 
-ℹ️ **NOTE**: Ensure all content accurately represents safety procedures and regulatory compliance requirements
+- ℹ️ **NOTE**: Ensure all content accurately represents safety procedures and regulatory compliance requirements
+
+
 
 ⚡ **CAUTION**: Review technical content with subject matter experts to prevent dissemination of incorrect safety information
 

@@ -122,6 +122,8 @@ flowchart TD
 
 ⚠️ **WARNING:** Ensure financial reporting accurately reflects safety and maintenance expenditures for regulatory compliance
 
+
+
 ⚡ **CAUTION:** Protect confidential financial information and maintain appropriate access controls
 
 ℹ️ **NOTE:** Financial reports should support safety decision-making and regulatory compliance monitoring

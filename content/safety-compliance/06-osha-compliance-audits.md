@@ -164,7 +164,9 @@ Citation Response → Abatement Implementation → Follow-up Verification
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Failure to abate OSHA citations within required timeframes may result in additional penalties and enforcement action
+- ⚠️ **WARNING**: Failure to abate OSHA citations within required timeframes may result in additional penalties and enforcement action
+
+
 
 ⚡ **CAUTION**: Never retaliate against team members who report safety concerns or speak with OSHA inspectors
 

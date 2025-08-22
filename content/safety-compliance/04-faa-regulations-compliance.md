@@ -156,7 +156,9 @@ Training & Implementation → Documentation → Continuous Improvement
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Non-compliance with FAA regulations can result in certificate suspension, fines, or operational restrictions
+- ⚠️ **WARNING**: Non-compliance with FAA regulations can result in certificate suspension, fines, or operational restrictions
+
+
 
 ⚡ **CAUTION**: Always verify regulatory interpretation with FAA before implementing significant operational changes
 

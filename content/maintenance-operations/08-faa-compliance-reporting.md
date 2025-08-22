@@ -109,6 +109,8 @@ Flowchart to show sequential steps
 
 ⚠️ **WARNING:** Failure to comply with regulatory requirements can result in certificate suspension or revocation
 
+
+
 ⚡ **CAUTION:** All regulatory reporting must be accurate and submitted within required timeframes to avoid enforcement action
 
 ℹ️ **NOTE:** Regulatory compliance is every team member's responsibility and must be integrated into all maintenance activities

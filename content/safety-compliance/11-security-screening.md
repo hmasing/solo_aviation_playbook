@@ -148,7 +148,9 @@ Access Monitoring → Security Training → Compliance Auditing
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never allow unauthorized access to secure areas; security breaches can result in serious safety and regulatory consequences
+- ⚠️ **WARNING**: Never allow unauthorized access to secure areas; security breaches can result in serious safety and regulatory consequences
+
+
 
 ⚠️ **WARNING**: Report all security violations immediately to appropriate authorities; delays can compromise facility security
 

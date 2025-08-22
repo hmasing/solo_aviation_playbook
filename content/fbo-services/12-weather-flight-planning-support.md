@@ -99,11 +99,9 @@ Flowchart showing weather information access, pilot consultation, route analysis
 
 ## Safety Considerations
 
-⚠️ **WARNING**: Never provide weather briefings without current and complete weather information from authorized sources
-⚠️ **WARNING**: Advise pilots of all weather hazards and coordinate with meteorology professionals for complex weather situations
-⚡ **CAUTION**: Verify weather information currency and coordinate with Flight Service Station for official weather briefings when required
-ℹ️ **NOTE**: Maintain current knowledge of weather systems and coordinate with meteorology professionals for continuing education
-✅ **BEST PRACTICE**: Document all weather briefings and maintain current weather information system access and training
+- ✅ **BEST PRACTICE**: Document all weather briefings and maintain current weather information system access and training
+
+
 
 ## Regulatory References
 
