@@ -11,12 +11,13 @@
     <%= highlight_theme %>
   </head>
 
-  <body>
+  <body data-version="<%= version %>" data-revision-date="<%= revision_date %>">
     <div class="frontcover container">
       <div>
         <div class="logo"><%= image_tag 'solo-logo.jpg', alt: 'Solo Aviation Services' %></div>
         <p class="description"><%= subject %></p>
         <p class="authors"><%= authors.to_sentence %></p>
+        <p class="version">Version <%= version %> - <%= revision_date %></p>
       </div>
     </div>
 
@@ -24,6 +25,11 @@
 
     <div class="table-of-contents">
       <h2 class="no-toc">Table of Contents</h2>
+      <div class="toc-version-info">
+        <p><strong>Version:</strong> <%= version %></p>
+        <p><strong>Revision Date:</strong> <%= revision_date %></p>
+        <%# <p><strong>Published:</strong> <%= published_at %></p> %>
+      </div>
       <div id="toc">
         <%= toc %>
       </div>

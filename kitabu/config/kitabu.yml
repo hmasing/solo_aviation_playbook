@@ -13,6 +13,10 @@ publisher: "Solo Aviation Services"
 # When this book was published.
 published_at: "2025-08-21"
 
+# Version information
+version: "0.1"
+revision_date: "2025-AUG-21"
+
 # Some book description.
 subject: "Operations Playbook"
 
