@@ -93,7 +93,8 @@ flowchart TD
 
 ## Success Metrics
 
-**Completion Time:** Monthly schedules published 2 weeks before start of month.
+- **Completion Time:** Monthly schedules published 2 weeks before start of month.
+
 
 **Quality Standard:** 98% schedule adherence with minimal last-minute changes or coverage gaps.
 
@@ -105,6 +106,8 @@ flowchart TD
 
 - **Issue:** Difficulty finding coverage for unexpected absences affecting service delivery
 - **Solution:** Maintain on-call list of qualified team members and cross-train personnel for multiple roles. Establish clear call-out procedures and response expectations.
+
+
 
 
 

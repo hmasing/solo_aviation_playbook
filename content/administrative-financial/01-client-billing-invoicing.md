@@ -106,7 +106,8 @@ flowchart TD
 
 ## Success Metrics
 
-**Completion Time:** Invoice generated and distributed within 24 hours of service completion.
+- **Completion Time:** Invoice generated and distributed within 24 hours of service completion.
+
 
 **Quality Standard:** 99% invoice accuracy with less than 2% requiring corrections or adjustments.
 
@@ -118,6 +119,8 @@ flowchart TD
 
 - **Issue:** Service charges disputed by client due to unclear documentation
 - **Solution:** Provide detailed service breakdown with timestamps and supporting documentation. Review with client and adjust if warranted.
+
+
 
 
 

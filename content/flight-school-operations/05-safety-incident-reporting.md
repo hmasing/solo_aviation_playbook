@@ -102,15 +102,18 @@ Flowchart showing incident response workflow from initial occurrence through cor
 
 ## Success Metrics
 
-**Completion Time:** Initial incident reports submitted within 2 hours of occurrence.
-**Quality Standard:** 100% of incidents receive thorough investigation and documented corrective actions.
-**Safety Standard:** Corrective actions implemented within 30 days of incident investigation completion.
-**Client Satisfaction:** Transparent communication maintained with affected students and families throughout process.
+- **Completion Time:** Initial incident reports submitted within 2 hours of occurrence.
+- **Quality Standard:** 100% of incidents receive thorough investigation and documented corrective actions.
+- **Safety Standard:** Corrective actions implemented within 30 days of incident investigation completion.
+- **Client Satisfaction:** Transparent communication maintained with affected students and families throughout process.
+
 
 ## Common Issues and Solutions
 
 - **Issue:** Delayed incident reporting due to uncertainty about reporting requirements
 - **Solution:** Provide clear incident reporting training to all team members and establish "when in doubt, report" policy
+
+
 
 
 

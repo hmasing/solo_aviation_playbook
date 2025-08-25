@@ -134,10 +134,11 @@ Analysis & Root Cause → Corrective Actions → Implementation → Follow-up & 
 
 ## Success Metrics
 
-**Completion Time:** Initial incident report completed within 24 hours; investigation completed within 30 days.
-**Quality Standard:** 100% of investigations include root cause analysis and corrective action plans.
-**Safety Standard:** Zero repeat incidents of the same type within 12 months of corrective action implementation.
-**Client Satisfaction:** Maintain client confidence through transparent communication and effective safety improvements.
+- **Completion Time:** Initial incident report completed within 24 hours; investigation completed within 30 days.
+- **Quality Standard:** 100% of investigations include root cause analysis and corrective action plans.
+- **Safety Standard:** Zero repeat incidents of the same type within 12 months of corrective action implementation.
+- **Client Satisfaction:** Maintain client confidence through transparent communication and effective safety improvements.
+
 
 ---
 
@@ -145,6 +146,8 @@ Analysis & Root Cause → Corrective Actions → Implementation → Follow-up & 
 
 - **Issue:** Witnesses reluctant to provide statements due to fear of blame
 - **Solution:** Emphasize just culture policy focusing on system improvement rather than individual punishment; ensure confidentiality protections
+
+
 
 
 

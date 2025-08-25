@@ -100,7 +100,8 @@ flowchart TD
 
 ## Success Metrics
 
-**Completion Time:** Annual budget completed and approved by December 15th for following year.
+- **Completion Time:** Annual budget completed and approved by December 15th for following year.
+
 
 **Quality Standard:** Budget variance within 5% of actual results for major expense categories.
 
@@ -112,6 +113,8 @@ flowchart TD
 
 - **Issue:** Fuel price volatility causing significant budget variances
 - **Solution:** Implement quarterly fuel price reviews and establish fuel price hedging strategies. Create fuel surcharge policies for extreme price movements.
+
+
 
 
 

@@ -39,7 +39,7 @@ Create a complete procedure document following this exact structure:
 5. **Process Steps**: Checklist format organized by logical phases with actionable items and detailed descriptions
 6. **Process Mapping**: Placeholder for flowchart description
 7. **Tools and Resources**: Specific equipment, software, forms, or references needed
-8. **Success Metrics**: 4 measurable indicators (Completion Time, Quality Standard, Safety Standard, Client Satisfaction)
+8. **Success Metrics**: 4 measurable indicators formatted as bulleted lists (Completion Time, Quality Standard, Safety Standard, Client Satisfaction)
 9. **Common Issues and Solutions**: 2-5 realistic problems with specific solutions formatted as bulleted lists with spacing between issue/solution pairs
 10. **Safety Considerations**: Aviation-appropriate WARNING, CAUTION, and NOTE items formatted as bulleted lists
 11. **Regulatory References**: Relevant FAA, OSHA, and industry standards
@@ -116,12 +116,12 @@ List all tools, software, or templates required.
 
 ## Success Metrics
 
-Define measurable indicators to evaluate process effectiveness.
+Define measurable indicators to evaluate process effectiveness using bulleted lists.
 
-**Completion Time:** Process completed within [X hours/days].
-**Quality Standard:** [Specific quality measure]
-**Safety Standard:** [Safety requirement met]
-**Client Satisfaction:** [Target satisfaction level]
+- **Completion Time:** Process completed within [X hours/days]
+- **Quality Standard:** [Specific quality measure]
+- **Safety Standard:** [Safety requirement met]
+- **Client Satisfaction:** [Target satisfaction level]
 
 ## Common Issues and Solutions
 
@@ -204,6 +204,13 @@ Use standard phraseology:
 - **Maintain operational flow** ensuring phases follow logical sequence of actual work
 - **Enable field use** format suitable for printed checklists, mobile devices, and operational reference
 
+### Success Metrics Format Requirements
+- **Use bulleted lists** for all success metrics without exception
+- **Bold metric labels** followed by specific, measurable criteria
+- **Include target values** with specific timeframes, percentages, or quantitative measures
+- **Maintain consistent structure** across all procedures in the playbook
+- **Order logically** typically: Completion Time, Quality Standard, Safety Standard, Client Satisfaction
+
 ### Common Issues and Solutions Format Requirements
 - **Use bulleted lists** with `- **Issue:**` and `- **Solution:**` format for all problem/resolution pairs
 - **Include blank line spacing** between each issue/solution pair for improved readability
@@ -238,6 +245,16 @@ Use standard phraseology:
 - **Conduct quality inspection** - Verify service meets standards and requirements
 - **Complete documentation** - Update service records and billing information
 - **Coordinate follow-up** - Schedule any required follow-up services or communication
+```
+
+### Success Metrics Example Format
+```markdown
+## Success Metrics
+
+- **Completion Time:** Aircraft handling process completed within 15 minutes of arrival
+- **Quality Standard:** Zero safety incidents and 100% client satisfaction with arrival/departure experience
+- **Safety Standard:** All ground operations completed without FOD incidents or equipment damage
+- **Client Satisfaction:** 95% or higher client satisfaction rating for arrival and departure services
 ```
 
 ### Common Issues and Solutions Example Format

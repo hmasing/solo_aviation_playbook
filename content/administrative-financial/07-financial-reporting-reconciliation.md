@@ -99,7 +99,8 @@ flowchart TD
 
 ## Success Metrics
 
-**Completion Time:** Monthly financial reports completed and distributed within 10 business days of month end.
+- **Completion Time:** Monthly financial reports completed and distributed within 10 business days of month end.
+
 
 **Quality Standard:** 99% accuracy in financial reports with less than 1% requiring restatements.
 
@@ -111,6 +112,8 @@ flowchart TD
 
 - **Issue:** Bank reconciliation discrepancies delaying month-end closing
 - **Solution:** Implement daily cash management procedures and automated bank feeds. Investigate and resolve discrepancies immediately rather than accumulating them.
+
+
 
 
 

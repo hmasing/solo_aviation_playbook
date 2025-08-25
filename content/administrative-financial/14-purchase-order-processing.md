@@ -92,7 +92,8 @@ flowchart TD
 
 ## Success Metrics
 
-**Completion Time:** Purchase orders processed and sent to vendors within 2 business days of approval.
+- **Completion Time:** Purchase orders processed and sent to vendors within 2 business days of approval.
+
 
 **Quality Standard:** 95% of deliveries received match purchase order specifications without requiring returns or exchanges.
 
@@ -104,6 +105,8 @@ flowchart TD
 
 - **Issue:** Vendor delivery delays affecting operational capabilities and client service
 - **Solution:** Maintain relationships with multiple suppliers for critical items and establish emergency procurement procedures. Monitor vendor performance and address delivery issues promptly.
+
+
 
 
 

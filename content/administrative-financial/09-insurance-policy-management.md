@@ -110,7 +110,8 @@ flowchart TD
 
 ## Success Metrics
 
-**Completion Time:** Policy renewals completed 30 days before expiration with no coverage gaps.
+- **Completion Time:** Policy renewals completed 30 days before expiration with no coverage gaps.
+
 
 **Quality Standard:** 100% of required insurance certificates current and meeting all regulatory requirements.
 
@@ -122,6 +123,8 @@ flowchart TD
 
 - **Issue:** Insurance rates increasing significantly at renewal due to claims history
 - **Solution:** Implement enhanced safety programs and risk management initiatives. Work with broker to find alternative markets and consider higher deductibles to reduce premiums.
+
+
 
 
 

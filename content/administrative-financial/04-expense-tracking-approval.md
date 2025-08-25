@@ -93,7 +93,8 @@ flowchart TD
 
 ## Success Metrics
 
-**Completion Time:** Expense reports processed and paid within 5 business days of approval.
+- **Completion Time:** Expense reports processed and paid within 5 business days of approval.
+
 
 **Quality Standard:** 98% of expense reports submitted with complete documentation requiring no additional information.
 
@@ -105,6 +106,8 @@ flowchart TD
 
 - **Issue:** Missing receipts or incomplete documentation delaying expense processing
 - **Solution:** Implement digital receipt capture system and provide training on documentation requirements. Establish procedures for handling lost receipts with supervisor attestation.
+
+
 
 
 

@@ -72,15 +72,18 @@ Flowchart showing pre-marshalling assessment, aircraft guidance sequence, parkin
 
 ## Success Metrics
 
-**Completion Time:** Aircraft marshalling and parking completed within 10 minutes of initial contact.
-**Quality Standard:** 100% accuracy in aircraft positioning within designated parking boundaries.
-**Safety Standard:** Zero incidents involving aircraft or ground personnel during marshalling operations.
-**Client Satisfaction:** 96% pilot satisfaction with marshalling service quality and professionalism.
+- **Completion Time:** Aircraft marshalling and parking completed within 10 minutes of initial contact.
+- **Quality Standard:** 100% accuracy in aircraft positioning within designated parking boundaries.
+- **Safety Standard:** Zero incidents involving aircraft or ground personnel during marshalling operations.
+- **Client Satisfaction:** 96% pilot satisfaction with marshalling service quality and professionalism.
+
 
 ## Common Issues and Solutions
 
 - **Issue:** Poor visibility conditions affecting marshalling signal clarity
 - **Solution:** Use additional lighting equipment, coordinate with ground control for alternative guidance, and implement radio communication backup procedures
+
+
 
 
 
