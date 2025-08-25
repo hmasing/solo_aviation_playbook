@@ -109,8 +109,11 @@ Flowchart showing incident response workflow from initial occurrence through cor
 
 ## Common Issues and Solutions
 
-**Issue:** Delayed incident reporting due to uncertainty about reporting requirements
-**Solution:** Provide clear incident reporting training to all team members and establish "when in doubt, report" policy
+- **Issue:** Delayed incident reporting due to uncertainty about reporting requirements
+- **Solution:** Provide clear incident reporting training to all team members and establish "when in doubt, report" policy
+
+
+
 
 **Issue:** Inadequate incident investigation due to limited investigation experience
 **Solution:** Partner with experienced safety professionals and provide investigation training for key personnel

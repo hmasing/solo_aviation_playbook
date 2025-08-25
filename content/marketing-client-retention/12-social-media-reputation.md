@@ -117,8 +117,11 @@ Flowchart showing social media management lifecycle from strategy and planning t
 
 ## Common Issues and Solutions
 
-**Issue:** Low engagement rates and limited reach for social media content
-**Solution:** Research audience preferences, experiment with different content formats and posting times, and increase interaction with aviation community content
+- **Issue:** Low engagement rates and limited reach for social media content
+- **Solution:** Research audience preferences, experiment with different content formats and posting times, and increase interaction with aviation community content
+
+
+
 
 **Issue:** Negative comments or reviews affecting online reputation
 **Solution:** Respond professionally and promptly, offer to resolve issues privately, and implement service improvements to prevent similar complaints

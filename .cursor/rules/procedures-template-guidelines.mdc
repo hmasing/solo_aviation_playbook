@@ -40,8 +40,8 @@ Create a complete procedure document following this exact structure:
 6. **Process Mapping**: Placeholder for flowchart description
 7. **Tools and Resources**: Specific equipment, software, forms, or references needed
 8. **Success Metrics**: 4 measurable indicators (Completion Time, Quality Standard, Safety Standard, Client Satisfaction)
-9. **Common Issues and Solutions**: 2-3 realistic problems with specific solutions
-10. **Safety Considerations**: Aviation-appropriate WARNING, CAUTION, and NOTE items
+9. **Common Issues and Solutions**: 2-5 realistic problems with specific solutions formatted as bulleted lists with spacing between issue/solution pairs
+10. **Safety Considerations**: Aviation-appropriate WARNING, CAUTION, and NOTE items formatted as bulleted lists
 11. **Regulatory References**: Relevant FAA, OSHA, and industry standards
 
 ### Document Structure Template
@@ -125,15 +125,25 @@ Define measurable indicators to evaluate process effectiveness.
 
 ## Common Issues and Solutions
 
-Identify potential challenges and their resolutions.
+Identify potential challenges and their resolutions using bulleted lists with spacing between issue/solution pairs.
 
-**Issue:** [Problem description]
-**Solution:** [Resolution steps]
+- **Issue:** [Problem description]
+- **Solution:** [Resolution steps]
+
+- **Issue:** [Problem description]
+- **Solution:** [Resolution steps]
+
+- **Issue:** [Problem description]
+- **Solution:** [Resolution steps]
 
 ## Safety Considerations
-⚠️ **WARNING**: Critical safety information
-⚡ **CAUTION**: Operational cautions
-ℹ️ **NOTE**: Important operational information
+
+All safety considerations must be formatted as bulleted lists for consistency and readability.
+
+- ⚠️ **WARNING**: Critical safety information
+- ⚡ **CAUTION**: Operational cautions
+- ℹ️ **NOTE**: Important operational information
+- ✅ **BEST PRACTICE**: Recommended approaches for optimal results
 
 ## Regulatory References
 - [FAA Regulation/Advisory Circular]
@@ -194,6 +204,20 @@ Use standard phraseology:
 - **Maintain operational flow** ensuring phases follow logical sequence of actual work
 - **Enable field use** format suitable for printed checklists, mobile devices, and operational reference
 
+### Common Issues and Solutions Format Requirements
+- **Use bulleted lists** with `- **Issue:**` and `- **Solution:**` format for all problem/resolution pairs
+- **Include blank line spacing** between each issue/solution pair for improved readability
+- **Group related issues** logically when multiple issues are presented
+- **Provide specific, actionable solutions** rather than generic recommendations
+- **Maintain consistent formatting** across all procedures in the playbook
+
+### Safety Considerations Format Requirements
+- **Use bulleted lists** for all safety items without exception
+- **Include all safety hierarchy levels** as appropriate: WARNING, CAUTION, NOTE, and BEST PRACTICE
+- **Use consistent emoji indicators**: ⚠️ for WARNING, ⚡ for CAUTION, ℹ️ for NOTE, ✅ for BEST PRACTICE
+- **Bold the safety level labels** for visual emphasis and quick scanning
+- **Order by severity** with WARNING items first, followed by CAUTION, NOTE, and BEST PRACTICE
+
 
 
 ### Process Steps Example Format
@@ -214,6 +238,34 @@ Use standard phraseology:
 - **Conduct quality inspection** - Verify service meets standards and requirements
 - **Complete documentation** - Update service records and billing information
 - **Coordinate follow-up** - Schedule any required follow-up services or communication
+```
+
+### Common Issues and Solutions Example Format
+```markdown
+## Common Issues and Solutions
+
+- **Issue:** Weather conditions prevent safe or effective operations
+- **Solution:** Reschedule service for suitable conditions and communicate revised timing to client
+
+- **Issue:** Equipment malfunction discovered during critical service period
+- **Solution:** Implement backup equipment protocols and coordinate with maintenance team for immediate repair
+
+- **Issue:** Client requirements exceed available resources or capabilities
+- **Solution:** Coordinate with operations leader for resource allocation and provide alternative service options
+```
+
+### Safety Considerations Example Format
+```markdown
+## Safety Considerations
+
+- ⚠️ **WARNING**: Never approach aircraft engines while running or during startup procedures
+- ⚠️ **WARNING**: Maintain proper grounding connections during all fuel operations
+- ⚡ **CAUTION**: Verify equipment operational status before beginning service operations
+- ⚡ **CAUTION**: Coordinate with air traffic control during aircraft movement operations
+- ℹ️ **NOTE**: Monitor weather conditions throughout service delivery
+- ℹ️ **NOTE**: Maintain current certifications and training requirements
+- ✅ **BEST PRACTICE**: Conduct pre-service safety briefing with all team members
+- ✅ **BEST PRACTICE**: Document all safety observations and corrective actions taken
 ```
 
 ### Aviation-Specific Considerations

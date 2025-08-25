@@ -151,8 +151,11 @@ Post-Fueling Safety → Equipment Securing → Documentation
 
 ## Common Issues and Solutions
 
-**Issue:** Static electricity buildup during fuel transfer
-**Solution:** Ensure proper grounding, maintain slower fuel flow rates, and allow adequate static dissipation time
+- **Issue:** Static electricity buildup during fuel transfer
+- **Solution:** Ensure proper grounding, maintain slower fuel flow rates, and allow adequate static dissipation time
+
+
+
 
 **Issue:** Fuel contamination detected in aircraft tanks
 **Solution:** Stop fueling immediately, drain contaminated fuel, investigate source, and notify fuel supplier

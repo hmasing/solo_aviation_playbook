@@ -112,8 +112,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Vendor service quality declining after contract execution
-**Solution:** Implement regular performance reviews with measurable service level agreements. Include performance improvement requirements and contract termination provisions for persistent issues.
+- **Issue:** Vendor service quality declining after contract execution
+- **Solution:** Implement regular performance reviews with measurable service level agreements. Include performance improvement requirements and contract termination provisions for persistent issues.
+
+
+
 
 **Issue:** Contract terms not addressing aviation-specific requirements
 **Solution:** Develop aviation contract templates with standard airport access, security clearance, and insurance requirements. Require legal review for all aviation service contracts.

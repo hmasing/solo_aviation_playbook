@@ -100,8 +100,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Missing or incomplete documentation discovered during audit preparation
-**Solution:** Implement regular internal audit procedures to identify documentation gaps before external audits. Establish backup documentation procedures and maintain duplicate records for critical items.
+- **Issue:** Missing or incomplete documentation discovered during audit preparation
+- **Solution:** Implement regular internal audit procedures to identify documentation gaps before external audits. Establish backup documentation procedures and maintain duplicate records for critical items.
+
+
+
 
 **Issue:** Auditor requests exceeding scope or requiring excessive resources
 **Solution:** Clarify audit scope and objectives with audit leader. Coordinate with legal counsel if requests appear unreasonable or outside audit authority.

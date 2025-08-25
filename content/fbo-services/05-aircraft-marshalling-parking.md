@@ -79,8 +79,11 @@ Flowchart showing pre-marshalling assessment, aircraft guidance sequence, parkin
 
 ## Common Issues and Solutions
 
-**Issue:** Poor visibility conditions affecting marshalling signal clarity
-**Solution:** Use additional lighting equipment, coordinate with ground control for alternative guidance, and implement radio communication backup procedures
+- **Issue:** Poor visibility conditions affecting marshalling signal clarity
+- **Solution:** Use additional lighting equipment, coordinate with ground control for alternative guidance, and implement radio communication backup procedures
+
+
+
 
 **Issue:** Aircraft size exceeds designated parking space dimensions
 **Solution:** Coordinate alternative parking location assignment and adjust ground support equipment positioning for larger aircraft requirements

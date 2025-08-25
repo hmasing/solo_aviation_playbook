@@ -118,8 +118,11 @@ Flowchart showing emergency response workflow from detection through post-emerge
 
 ## Common Issues and Solutions
 
-**Issue:** Confusion during evacuation due to inadequate training or unclear procedures
-**Solution:** Conduct regular emergency drills and provide clear evacuation route marking and training
+- **Issue:** Confusion during evacuation due to inadequate training or unclear procedures
+- **Solution:** Conduct regular emergency drills and provide clear evacuation route marking and training
+
+
+
 
 **Issue:** Inability to account for all persons during evacuation due to incomplete attendance records
 **Solution:** Maintain current attendance records and assign specific accountability responsibilities to instructors

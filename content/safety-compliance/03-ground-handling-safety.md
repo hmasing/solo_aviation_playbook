@@ -151,8 +151,11 @@ Personnel Safety → Aircraft Securing → Equipment Storage
 
 ## Common Issues and Solutions
 
-**Issue:** Communication breakdown between ground crew and flight crew
-**Solution:** Establish clear communication protocols, use standard hand signals, and ensure backup communication methods are available
+- **Issue:** Communication breakdown between ground crew and flight crew
+- **Solution:** Establish clear communication protocols, use standard hand signals, and ensure backup communication methods are available
+
+
+
 
 **Issue:** Ground support equipment malfunction during operations
 **Solution:** Conduct thorough pre-operation inspections, maintain backup equipment availability, and implement immediate equipment shutdown procedures

@@ -110,8 +110,11 @@ Flowchart showing instructor management workflow from qualification verification
 
 ## Common Issues and Solutions
 
-**Issue:** Instructor certification lapses due to missed renewal deadlines
-**Solution:** Implement automated tracking system with advance notifications and coordinate renewal support services
+- **Issue:** Instructor certification lapses due to missed renewal deadlines
+- **Solution:** Implement automated tracking system with advance notifications and coordinate renewal support services
+
+
+
 
 **Issue:** Instructor scheduling conflicts affecting student training continuity
 **Solution:** Maintain backup instructor assignments and cross-train instructors for multiple student assignments

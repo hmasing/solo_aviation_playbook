@@ -103,8 +103,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Difficulty finding coverage for unexpected absences affecting service delivery
-**Solution:** Maintain on-call list of qualified team members and cross-train personnel for multiple roles. Establish clear call-out procedures and response expectations.
+- **Issue:** Difficulty finding coverage for unexpected absences affecting service delivery
+- **Solution:** Maintain on-call list of qualified team members and cross-train personnel for multiple roles. Establish clear call-out procedures and response expectations.
+
+
+
 
 **Issue:** Overtime costs exceeding budget due to scheduling inefficiencies
 **Solution:** Analyze overtime patterns and adjust base schedules to reduce regular overtime needs. Implement scheduling software to optimize shift assignments and minimize gaps.

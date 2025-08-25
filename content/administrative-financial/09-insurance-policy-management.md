@@ -120,8 +120,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Insurance rates increasing significantly at renewal due to claims history
-**Solution:** Implement enhanced safety programs and risk management initiatives. Work with broker to find alternative markets and consider higher deductibles to reduce premiums.
+- **Issue:** Insurance rates increasing significantly at renewal due to claims history
+- **Solution:** Implement enhanced safety programs and risk management initiatives. Work with broker to find alternative markets and consider higher deductibles to reduce premiums.
+
+
+
 
 **Issue:** Policy exclusions limiting coverage for specific FBO operations
 **Solution:** Work with aviation insurance specialist to find carriers offering broader coverage. Consider separate policies for excluded activities if operationally necessary.

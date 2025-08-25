@@ -104,8 +104,11 @@ Emergency Call → Priority Assessment → Team Activation → Remote Diagnosis 
 
 ## Common Issues and Solutions
 
-**Issue:** Required parts not available from normal suppliers causing extended AOG time
-**Solution:** Maintain relationships with multiple parts suppliers including international sources, consider approved alternate parts when available, and explore temporary operational limitations if approved by engineering
+- **Issue:** Required parts not available from normal suppliers causing extended AOG time
+- **Solution:** Maintain relationships with multiple parts suppliers including international sources, consider approved alternate parts when available, and explore temporary operational limitations if approved by engineering
+
+
+
 
 **Issue:** Complex problems requiring specialized expertise not immediately available
 **Solution:** Maintain contact list of manufacturer technical support representatives, establish relationships with specialized avionics repair facilities, and consider remote technical support options

@@ -135,8 +135,11 @@ Risk Mitigation → Performance Monitoring → Continuous Improvement
 
 ## Common Issues and Solutions
 
-**Issue:** Resistance to SMS implementation due to perceived bureaucracy
-**Solution:** Emphasize practical benefits of SMS; involve personnel in development process; start with simple, effective procedures
+- **Issue:** Resistance to SMS implementation due to perceived bureaucracy
+- **Solution:** Emphasize practical benefits of SMS; involve personnel in development process; start with simple, effective procedures
+
+
+
 
 **Issue:** Difficulty maintaining SMS momentum and continuous improvement
 **Solution:** Establish regular review cycles; celebrate safety improvements; link SMS to operational performance

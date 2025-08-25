@@ -135,8 +135,11 @@ Situational Awareness → Recurrent Training → Performance Monitoring
 
 ## Common Issues and Solutions
 
-**Issue:** Personnel difficulty understanding complex runway layouts and markings
-**Solution:** Use visual aids and hands-on training at actual runway locations; provide simplified reference materials
+- **Issue:** Personnel difficulty understanding complex runway layouts and markings
+- **Solution:** Use visual aids and hands-on training at actual runway locations; provide simplified reference materials
+
+
+
 
 **Issue:** Communication problems due to language barriers or inexperience
 **Solution:** Provide additional communication training; use experienced personnel as mentors; practice standard phraseology

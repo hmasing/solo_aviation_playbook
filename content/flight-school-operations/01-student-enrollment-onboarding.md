@@ -101,8 +101,11 @@ Flowchart showing enrollment progression from initial inquiry through first sche
 
 ## Common Issues and Solutions
 
-**Issue:** Incomplete or missing medical certificate documentation
-**Solution:** Provide clear guidance on medical certificate requirements and assist students with Aviation Medical Examiner appointment scheduling
+- **Issue:** Incomplete or missing medical certificate documentation
+- **Solution:** Provide clear guidance on medical certificate requirements and assist students with Aviation Medical Examiner appointment scheduling
+
+
+
 
 **Issue:** International student TSA clearance delays
 **Solution:** Initiate TSA clearance process immediately upon application receipt and maintain regular follow-up with TSA processing center

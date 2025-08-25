@@ -80,8 +80,11 @@ Flowchart showing equipment inspection, deployment, operational monitoring, and 
 
 ## Common Issues and Solutions
 
-**Issue:** Equipment breakdown during critical service operations
-**Solution:** Implement backup equipment protocols, coordinate immediate maintenance response, and deploy alternative equipment to maintain service continuity
+- **Issue:** Equipment breakdown during critical service operations
+- **Solution:** Implement backup equipment protocols, coordinate immediate maintenance response, and deploy alternative equipment to maintain service continuity
+
+
+
 
 **Issue:** Operator certification lapses affecting equipment availability
 **Solution:** Maintain current training schedules, implement certification tracking alerts, and cross-train operators on multiple equipment types

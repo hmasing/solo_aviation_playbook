@@ -96,8 +96,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Incomplete aircraft maintenance records affecting work scope determination
-**Solution:** Contact previous maintenance providers, review FAA records, and conduct thorough pre-maintenance inspection to establish baseline
+- **Issue:** Incomplete aircraft maintenance records affecting work scope determination
+- **Solution:** Contact previous maintenance providers, review FAA records, and conduct thorough pre-maintenance inspection to establish baseline
+
+
+
 
 **Issue:** Parts availability delays impacting scheduled maintenance completion
 **Solution:** Maintain preferred vendor relationships, establish minimum stock levels for common components, and communicate delivery delays immediately to clients

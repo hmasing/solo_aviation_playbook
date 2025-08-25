@@ -111,8 +111,11 @@ Calibration Planning → Schedule Coordination → Equipment Preparation → Cal
 
 ## Common Issues and Solutions
 
-**Issue:** Test equipment fails calibration or shows out-of-tolerance conditions
-**Solution:** Evaluate impact on previous measurements and work performed, implement corrective actions for affected work if required, and consider equipment replacement if recurring calibration failures occur
+- **Issue:** Test equipment fails calibration or shows out-of-tolerance conditions
+- **Solution:** Evaluate impact on previous measurements and work performed, implement corrective actions for affected work if required, and consider equipment replacement if recurring calibration failures occur
+
+
+
 
 **Issue:** Calibration schedules not maintained resulting in overdue equipment
 **Solution:** Implement automated calibration reminder systems, establish backup equipment for critical functions, and coordinate calibration schedules with operational requirements to prevent disruptions

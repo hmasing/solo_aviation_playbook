@@ -88,8 +88,11 @@ Flowchart showing transportation needs assessment, vendor coordination, service 
 
 ## Common Issues and Solutions
 
-**Issue:** Transportation vendor unavailable during high-demand periods or weather events
-**Solution:** Maintain relationships with multiple transportation providers and coordinate alternative service options with comparable quality
+- **Issue:** Transportation vendor unavailable during high-demand periods or weather events
+- **Solution:** Maintain relationships with multiple transportation providers and coordinate alternative service options with comparable quality
+
+
+
 
 **Issue:** Hotel accommodations unavailable at preferred locations during peak periods
 **Solution:** Provide alternative accommodation options with comparable amenities and coordinate shuttle services if location differs from preferences

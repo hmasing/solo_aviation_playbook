@@ -125,8 +125,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Client disputes invoice accuracy affecting payment timing
-**Solution:** Provide detailed service documentation and work with client to resolve discrepancies. Adjust billing if error confirmed and process corrected invoice promptly.
+- **Issue:** Client disputes invoice accuracy affecting payment timing
+- **Solution:** Provide detailed service documentation and work with client to resolve discrepancies. Adjust billing if error confirmed and process corrected invoice promptly.
+
+
+
 
 **Issue:** Credit card processing failures causing payment delays
 **Solution:** Maintain backup payment processors and alternative payment methods. Contact client immediately to arrange alternative payment when processing fails.

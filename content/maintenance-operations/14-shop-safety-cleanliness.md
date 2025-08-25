@@ -96,8 +96,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Team member resistance to safety procedures and cleanliness requirements affecting compliance
-**Solution:** Provide clear training on safety benefits, establish accountability measures, and recognize good safety performance
+- **Issue:** Team member resistance to safety procedures and cleanliness requirements affecting compliance
+- **Solution:** Provide clear training on safety benefits, establish accountability measures, and recognize good safety performance
+
+
+
 
 **Issue:** Facility maintenance costs impacting operational budgets
 **Solution:** Implement preventive maintenance procedures, negotiate competitive service contracts, and prioritize maintenance based on safety requirements

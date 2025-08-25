@@ -101,8 +101,11 @@ Flowchart showing post-flight workflow from initial assessment through next less
 
 ## Common Issues and Solutions
 
-**Issue:** Rushed debriefings due to schedule pressures affecting learning reinforcement
-**Solution:** Allocate adequate time for debriefings and prioritize learning outcomes over schedule adherence
+- **Issue:** Rushed debriefings due to schedule pressures affecting learning reinforcement
+- **Solution:** Allocate adequate time for debriefings and prioritize learning outcomes over schedule adherence
+
+
+
 
 **Issue:** Students defensive about performance feedback limiting learning effectiveness
 **Solution:** Create supportive learning environment focused on improvement rather than criticism

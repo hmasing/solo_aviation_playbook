@@ -88,8 +88,11 @@ Flowchart showing weather information access, pilot consultation, route analysis
 
 ## Common Issues and Solutions
 
-**Issue:** Rapidly changing weather conditions affecting briefing accuracy
-**Solution:** Provide updated briefings closer to departure time and coordinate with pilots for real-time weather monitoring during flight
+- **Issue:** Rapidly changing weather conditions affecting briefing accuracy
+- **Solution:** Provide updated briefings closer to departure time and coordinate with pilots for real-time weather monitoring during flight
+
+
+
 
 **Issue:** Complex weather systems requiring specialized meteorological analysis
 **Solution:** Coordinate with meteorology consultant for analysis and provide briefing with multiple weather scenarios for safe Part 91 operations

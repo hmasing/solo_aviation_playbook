@@ -101,8 +101,11 @@ Flowchart showing simulator session workflow from planning through post-session 
 
 ## Common Issues and Solutions
 
-**Issue:** Simulator equipment malfunctions disrupting scheduled training sessions
-**Solution:** Implement preventive maintenance program and maintain backup training options for equipment failures
+- **Issue:** Simulator equipment malfunctions disrupting scheduled training sessions
+- **Solution:** Implement preventive maintenance program and maintain backup training options for equipment failures
+
+
+
 
 **Issue:** Student difficulty adapting to simulator controls and displays
 **Solution:** Provide thorough simulator orientation and allow additional familiarization time before training scenarios

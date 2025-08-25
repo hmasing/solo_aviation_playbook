@@ -104,8 +104,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Increasing costs of hazardous waste disposal affecting maintenance operation budgets
-**Solution:** Implement waste minimization procedures, evaluate alternative materials when possible, and negotiate competitive disposal service contracts
+- **Issue:** Increasing costs of hazardous waste disposal affecting maintenance operation budgets
+- **Solution:** Implement waste minimization procedures, evaluate alternative materials when possible, and negotiate competitive disposal service contracts
+
+
+
 
 **Issue:** Team member resistance to personal protective equipment requirements affecting safety compliance
 **Solution:** Provide training on hazardous materials risks, ensure comfortable and properly fitted PPE, and establish accountability measures for safety compliance

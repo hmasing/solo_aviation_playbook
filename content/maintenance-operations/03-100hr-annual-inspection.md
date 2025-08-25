@@ -103,8 +103,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Discovery of airworthiness directives not previously complied with during inspection
-**Solution:** Maintain current AD database subscriptions, implement systematic AD tracking procedures, and budget time for unexpected compliance actions
+- **Issue:** Discovery of airworthiness directives not previously complied with during inspection
+- **Solution:** Maintain current AD database subscriptions, implement systematic AD tracking procedures, and budget time for unexpected compliance actions
+
+
+
 
 **Issue:** Parts availability delays for discrepancies discovered during inspection
 **Solution:** Maintain inventory of common inspection-related parts, establish expedited parts ordering procedures, and communicate delays immediately to clients

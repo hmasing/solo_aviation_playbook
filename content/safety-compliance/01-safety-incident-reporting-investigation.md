@@ -143,8 +143,11 @@ Analysis & Root Cause → Corrective Actions → Implementation → Follow-up & 
 
 ## Common Issues and Solutions
 
-**Issue:** Witnesses reluctant to provide statements due to fear of blame
-**Solution:** Emphasize just culture policy focusing on system improvement rather than individual punishment; ensure confidentiality protections
+- **Issue:** Witnesses reluctant to provide statements due to fear of blame
+- **Solution:** Emphasize just culture policy focusing on system improvement rather than individual punishment; ensure confidentiality protections
+
+
+
 
 **Issue:** Investigation delayed due to regulatory agency involvement
 **Solution:** Maintain parallel internal investigation while coordinating with external agencies; establish clear communication protocols

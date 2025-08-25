@@ -110,8 +110,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Fuel price volatility causing significant budget variances
-**Solution:** Implement quarterly fuel price reviews and establish fuel price hedging strategies. Create fuel surcharge policies for extreme price movements.
+- **Issue:** Fuel price volatility causing significant budget variances
+- **Solution:** Implement quarterly fuel price reviews and establish fuel price hedging strategies. Create fuel surcharge policies for extreme price movements.
+
+
+
 
 **Issue:** Unexpected maintenance expenses exceeding budget allocations
 **Solution:** Establish equipment replacement schedules and increase contingency reserves. Implement preventive maintenance programs to reduce unexpected repairs.

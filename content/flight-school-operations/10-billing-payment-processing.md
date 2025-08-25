@@ -101,8 +101,11 @@ Flowchart showing billing workflow from training activity collection through pay
 
 ## Common Issues and Solutions
 
-**Issue:** Billing discrepancies between training records and student accounts
-**Solution:** Implement daily reconciliation procedures between instructors, schedulers, and billing team to ensure accuracy
+- **Issue:** Billing discrepancies between training records and student accounts
+- **Solution:** Implement daily reconciliation procedures between instructors, schedulers, and billing team to ensure accuracy
+
+
+
 
 **Issue:** Student payment difficulties affecting training continuity
 **Solution:** Offer flexible payment plan options and coordinate with students to establish manageable payment schedules

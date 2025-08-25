@@ -125,8 +125,11 @@ Flowchart showing referral program lifecycle from design and launch through refe
 
 ## Common Issues and Solutions
 
-**Issue:** Low referral submission rates despite program enrollment
-**Solution:** Increase program awareness through regular communication, simplify referral submission process, and provide referral conversation training to participants
+- **Issue:** Low referral submission rates despite program enrollment
+- **Solution:** Increase program awareness through regular communication, simplify referral submission process, and provide referral conversation training to participants
+
+
+
 
 **Issue:** Poor quality referrals that don't convert to active clients
 **Solution:** Improve referral qualification criteria, provide guidance on ideal referral characteristics, and implement referral quality scoring systems

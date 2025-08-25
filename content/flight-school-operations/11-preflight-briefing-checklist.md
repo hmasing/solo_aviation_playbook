@@ -101,8 +101,11 @@ Flowchart showing pre-flight preparation workflow from planning through final sa
 
 ## Common Issues and Solutions
 
-**Issue:** Rushed pre-flight briefings due to schedule pressures affecting thoroughness
-**Solution:** Allocate adequate time for briefings and emphasize safety priority over schedule adherence
+- **Issue:** Rushed pre-flight briefings due to schedule pressures affecting thoroughness
+- **Solution:** Allocate adequate time for briefings and emphasize safety priority over schedule adherence
+
+
+
 
 **Issue:** Students unprepared for briefing content or lacking understanding of procedures
 **Solution:** Provide pre-briefing study materials and require demonstration of knowledge before flight activities

@@ -239,8 +239,8 @@ Flowchart showing enrollment progression from initial inquiry through first sche
 
 ### Common Issues and Solutions
 
-**Issue:** Incomplete or missing medical certificate documentation
-**Solution:** Provide clear guidance on medical certificate requirements and assist students with Aviation Medical Examiner appointment scheduling
+- **Issue:** Incomplete or missing medical certificate documentation
+- **Solution:** Provide clear guidance on medical certificate requirements and assist students with Aviation Medical Examiner appointment scheduling
 
 **Issue:** International student TSA clearance delays
 **Solution:** Initiate TSA clearance process immediately upon application receipt and maintain regular follow-up with TSA processing center
@@ -359,8 +359,8 @@ Flowchart showing scheduling workflow from initial request through lesson comple
 
 ### Common Issues and Solutions
 
-**Issue:** Weather-related lesson cancellations creating scheduling backlog
-**Solution:** Implement flexible rescheduling system with priority booking for cancelled lessons and maintain weather alternate activity options
+- **Issue:** Weather-related lesson cancellations creating scheduling backlog
+- **Solution:** Implement flexible rescheduling system with priority booking for cancelled lessons and maintain weather alternate activity options
 
 **Issue:** Aircraft maintenance conflicts with scheduled training activities
 **Solution:** Coordinate weekly maintenance planning meetings with scheduling team and maintain backup aircraft availability for critical training milestones
@@ -479,8 +479,8 @@ Flowchart showing maintenance workflow from inspection through maintenance compl
 
 ### Common Issues and Solutions
 
-**Issue:** Unexpected aircraft discrepancies disrupting scheduled training flights
-**Solution:** Maintain backup aircraft availability and implement rapid discrepancy assessment procedures to minimize training disruptions
+- **Issue:** Unexpected aircraft discrepancies disrupting scheduled training flights
+- **Solution:** Maintain backup aircraft availability and implement rapid discrepancy assessment procedures to minimize training disruptions
 
 **Issue:** Maintenance scheduling conflicts with peak training demand periods
 **Solution:** Schedule routine maintenance during low-demand periods and coordinate with flight school scheduler for advance planning
@@ -599,8 +599,8 @@ Flowchart showing progress tracking from initial training through certification 
 
 ### Common Issues and Solutions
 
-**Issue:** Student progress plateaus or training standards not being met consistently
-**Solution:** Implement additional one-on-one instruction sessions and coordinate with Chief Flight Instructor for alternative training approaches
+- **Issue:** Student progress plateaus or training standards not being met consistently
+- **Solution:** Implement additional one-on-one instruction sessions and coordinate with Chief Flight Instructor for alternative training approaches
 
 **Issue:** Delays in practical examination scheduling with designated pilot examiners
 **Solution:** Maintain relationships with multiple designated examiners and schedule examinations well in advance of student readiness
@@ -727,8 +727,8 @@ Flowchart showing incident response workflow from initial occurrence through cor
 
 ### Common Issues and Solutions
 
-**Issue:** Delayed incident reporting due to uncertainty about reporting requirements
-**Solution:** Provide clear incident reporting training to all team members and establish "when in doubt, report" policy
+- **Issue:** Delayed incident reporting due to uncertainty about reporting requirements
+- **Solution:** Provide clear incident reporting training to all team members and establish "when in doubt, report" policy
 
 **Issue:** Inadequate incident investigation due to limited investigation experience
 **Solution:** Partner with experienced safety professionals and provide investigation training for key personnel
@@ -847,8 +847,8 @@ Flowchart showing ground school progression from curriculum planning through kno
 
 ### Common Issues and Solutions
 
-**Issue:** Students struggling with complex aerodynamic or weather concepts
-**Solution:** Provide additional visual aids, practical examples, and one-on-one instruction sessions to reinforce difficult concepts
+- **Issue:** Students struggling with complex aerodynamic or weather concepts
+- **Solution:** Provide additional visual aids, practical examples, and one-on-one instruction sessions to reinforce difficult concepts
 
 **Issue:** Scheduling conflicts between ground school and flight training activities
 **Solution:** Coordinate ground school scheduling with flight training calendar and offer flexible class scheduling options
@@ -976,8 +976,8 @@ Flowchart showing instructor management workflow from qualification verification
 
 ### Common Issues and Solutions
 
-**Issue:** Instructor certification lapses due to missed renewal deadlines
-**Solution:** Implement automated tracking system with advance notifications and coordinate renewal support services
+- **Issue:** Instructor certification lapses due to missed renewal deadlines
+- **Solution:** Implement automated tracking system with advance notifications and coordinate renewal support services
 
 **Issue:** Instructor scheduling conflicts affecting student training continuity
 **Solution:** Maintain backup instructor assignments and cross-train instructors for multiple student assignments
@@ -1096,8 +1096,8 @@ Flowchart showing simulator session workflow from planning through post-session 
 
 ### Common Issues and Solutions
 
-**Issue:** Simulator equipment malfunctions disrupting scheduled training sessions
-**Solution:** Implement preventive maintenance program and maintain backup training options for equipment failures
+- **Issue:** Simulator equipment malfunctions disrupting scheduled training sessions
+- **Solution:** Implement preventive maintenance program and maintain backup training options for equipment failures
 
 **Issue:** Student difficulty adapting to simulator controls and displays
 **Solution:** Provide thorough simulator orientation and allow additional familiarization time before training scenarios
@@ -1216,8 +1216,8 @@ Flowchart showing TSA clearance process from application preparation through tra
 
 ### Common Issues and Solutions
 
-**Issue:** Delays in TSA security clearance processing affecting student training schedules
-**Solution:** Submit applications as early as possible and maintain regular communication with TSA processing centers to monitor status
+- **Issue:** Delays in TSA security clearance processing affecting student training schedules
+- **Solution:** Submit applications as early as possible and maintain regular communication with TSA processing centers to monitor status
 
 **Issue:** Incomplete or inaccurate application documentation causing processing delays
 **Solution:** Implement thorough document review procedures and provide clear guidance to students on required documentation
@@ -1336,8 +1336,8 @@ Flowchart showing billing workflow from training activity collection through pay
 
 ### Common Issues and Solutions
 
-**Issue:** Billing discrepancies between training records and student accounts
-**Solution:** Implement daily reconciliation procedures between instructors, schedulers, and billing team to ensure accuracy
+- **Issue:** Billing discrepancies between training records and student accounts
+- **Solution:** Implement daily reconciliation procedures between instructors, schedulers, and billing team to ensure accuracy
 
 **Issue:** Student payment difficulties affecting training continuity
 **Solution:** Offer flexible payment plan options and coordinate with students to establish manageable payment schedules
@@ -1456,8 +1456,8 @@ Flowchart showing pre-flight preparation workflow from planning through final sa
 
 ### Common Issues and Solutions
 
-**Issue:** Rushed pre-flight briefings due to schedule pressures affecting thoroughness
-**Solution:** Allocate adequate time for briefings and emphasize safety priority over schedule adherence
+- **Issue:** Rushed pre-flight briefings due to schedule pressures affecting thoroughness
+- **Solution:** Allocate adequate time for briefings and emphasize safety priority over schedule adherence
 
 **Issue:** Students unprepared for briefing content or lacking understanding of procedures
 **Solution:** Provide pre-briefing study materials and require demonstration of knowledge before flight activities
@@ -1576,8 +1576,8 @@ Flowchart showing post-flight workflow from initial assessment through next less
 
 ### Common Issues and Solutions
 
-**Issue:** Rushed debriefings due to schedule pressures affecting learning reinforcement
-**Solution:** Allocate adequate time for debriefings and prioritize learning outcomes over schedule adherence
+- **Issue:** Rushed debriefings due to schedule pressures affecting learning reinforcement
+- **Solution:** Allocate adequate time for debriefings and prioritize learning outcomes over schedule adherence
 
 **Issue:** Students defensive about performance feedback limiting learning effectiveness
 **Solution:** Create supportive learning environment focused on improvement rather than criticism
@@ -1713,8 +1713,8 @@ Flowchart showing emergency response workflow from detection through post-emerge
 
 ### Common Issues and Solutions
 
-**Issue:** Confusion during evacuation due to inadequate training or unclear procedures
-**Solution:** Conduct regular emergency drills and provide clear evacuation route marking and training
+- **Issue:** Confusion during evacuation due to inadequate training or unclear procedures
+- **Solution:** Conduct regular emergency drills and provide clear evacuation route marking and training
 
 **Issue:** Inability to account for all persons during evacuation due to incomplete attendance records
 **Solution:** Maintain current attendance records and assign specific accountability responsibilities to instructors
@@ -1833,8 +1833,8 @@ Flowchart showing fuel management workflow from planning through service documen
 
 ### Common Issues and Solutions
 
-**Issue:** Fuel contamination discovered during quality testing requiring fuel system servicing
-**Solution:** Implement rigorous fuel testing procedures and maintain fuel system maintenance to prevent contamination
+- **Issue:** Fuel contamination discovered during quality testing requiring fuel system servicing
+- **Solution:** Implement rigorous fuel testing procedures and maintain fuel system maintenance to prevent contamination
 
 **Issue:** Refueling delays affecting training schedule due to equipment problems or fuel availability
 **Solution:** Maintain backup refueling equipment and coordinate fuel inventory management to prevent shortages
@@ -1962,8 +1962,8 @@ Flowchart showing feedback management workflow from collection through implement
 
 ### Common Issues and Solutions
 
-**Issue:** Low response rates to feedback surveys affecting data quality and representation
-**Solution:** Implement multiple feedback collection methods and incentivize participation through training milestone integration
+- **Issue:** Low response rates to feedback surveys affecting data quality and representation
+- **Solution:** Implement multiple feedback collection methods and incentivize participation through training milestone integration
 
 **Issue:** Negative feedback not addressed promptly leading to client dissatisfaction and retention issues
 **Solution:** Establish rapid response procedures for negative feedback and maintain proactive client communication

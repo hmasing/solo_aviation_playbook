@@ -88,8 +88,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Intermittent problems that are difficult to reproduce during troubleshooting
-**Solution:** Implement systematic testing procedures, use data logging equipment when available, and coordinate with client for operational pattern information
+- **Issue:** Intermittent problems that are difficult to reproduce during troubleshooting
+- **Solution:** Implement systematic testing procedures, use data logging equipment when available, and coordinate with client for operational pattern information
+
+
+
 
 **Issue:** Parts availability delays for unusual or obsolete components
 **Solution:** Maintain relationships with specialized parts suppliers, consider approved alternate parts when available, and communicate delays immediately to clients

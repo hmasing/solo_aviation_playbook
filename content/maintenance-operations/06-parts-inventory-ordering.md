@@ -104,8 +104,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Parts availability delays from suppliers affecting maintenance schedules
-**Solution:** Maintain multiple approved suppliers for common parts, establish minimum stock levels for critical components, and implement expedited ordering procedures
+- **Issue:** Parts availability delays from suppliers affecting maintenance schedules
+- **Solution:** Maintain multiple approved suppliers for common parts, establish minimum stock levels for critical components, and implement expedited ordering procedures
+
+
+
 
 **Issue:** Parts quality or documentation discrepancies discovered upon receipt
 **Solution:** Implement systematic receiving inspection procedures, maintain vendor quality ratings, and establish clear return and replacement protocols

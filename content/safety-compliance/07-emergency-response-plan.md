@@ -143,8 +143,11 @@ Communication Coordination → Recovery & Continuity
 
 ## Common Issues and Solutions
 
-**Issue:** Communication systems failure during emergency
-**Solution:** Maintain multiple backup communication methods including cell phones, radios, and runners
+- **Issue:** Communication systems failure during emergency
+- **Solution:** Maintain multiple backup communication methods including cell phones, radios, and runners
+
+
+
 
 **Issue:** Personnel unfamiliar with emergency procedures
 **Solution:** Conduct regular emergency training and drills; maintain current emergency procedure cards

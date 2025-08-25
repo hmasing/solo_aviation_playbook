@@ -109,8 +109,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Complex aviation transactions requiring specialized tax treatment
-**Solution:** Work with CPA specializing in aviation industry tax issues. Develop procedures for common aviation transactions like aircraft sales, leases, and maintenance reserves.
+- **Issue:** Complex aviation transactions requiring specialized tax treatment
+- **Solution:** Work with CPA specializing in aviation industry tax issues. Develop procedures for common aviation transactions like aircraft sales, leases, and maintenance reserves.
+
+
+
 
 **Issue:** Multiple state tax obligations due to aircraft operations across state lines
 **Solution:** Implement state tax tracking system and work with multi-state tax specialist. Monitor aircraft movements and establish nexus tracking procedures.

@@ -101,8 +101,11 @@ Flowchart showing ground school progression from curriculum planning through kno
 
 ## Common Issues and Solutions
 
-**Issue:** Students struggling with complex aerodynamic or weather concepts
-**Solution:** Provide additional visual aids, practical examples, and one-on-one instruction sessions to reinforce difficult concepts
+- **Issue:** Students struggling with complex aerodynamic or weather concepts
+- **Solution:** Provide additional visual aids, practical examples, and one-on-one instruction sessions to reinforce difficult concepts
+
+
+
 
 **Issue:** Scheduling conflicts between ground school and flight training activities
 **Solution:** Coordinate ground school scheduling with flight training calendar and offer flexible class scheduling options

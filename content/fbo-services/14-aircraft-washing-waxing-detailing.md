@@ -115,14 +115,15 @@ Flowchart showing sequential steps from client request through service completio
 
 ## Common Issues and Solutions
 
-**Issue:** Weather conditions prevent safe or effective detailing operations
-**Solution:** Reschedule service for suitable weather conditions and communicate revised timing to client
+- **Issue:** Weather conditions prevent safe or effective detailing operations
+- **Solution:** Reschedule service for suitable weather conditions and communicate revised timing to client
 
-**Issue:** Aircraft surface damage discovered during detailing process
-**Solution:** Document damage immediately, notify client, and coordinate with maintenance team for assessment
 
-**Issue:** Environmental regulations require special handling of cleaning chemicals
-**Solution:** Implement proper containment and disposal procedures following EPA and local regulations
+- **Issue:** Aircraft surface damage discovered during detailing process
+- **Solution:** Document damage immediately, notify client, and coordinate with maintenance team for assessment
+
+- **Issue:** Environmental regulations require special handling of cleaning chemicals
+- **Solution:** Implement proper containment and disposal procedures following EPA and local regulations
 
 ## Safety Considerations
 

@@ -96,8 +96,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Calibration service delays affecting tool availability for maintenance operations
-**Solution:** Maintain backup instruments for critical tools, establish multiple calibration service providers, and implement proactive scheduling procedures
+- **Issue:** Calibration service delays affecting tool availability for maintenance operations
+- **Solution:** Maintain backup instruments for critical tools, establish multiple calibration service providers, and implement proactive scheduling procedures
+
+
+
 
 **Issue:** High calibration costs impacting maintenance operation budgets
 **Solution:** Evaluate calibration intervals based on usage patterns, consider in-house calibration capabilities, and optimize tool inventory levels

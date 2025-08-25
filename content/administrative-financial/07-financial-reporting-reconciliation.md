@@ -109,8 +109,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Bank reconciliation discrepancies delaying month-end closing
-**Solution:** Implement daily cash management procedures and automated bank feeds. Investigate and resolve discrepancies immediately rather than accumulating them.
+- **Issue:** Bank reconciliation discrepancies delaying month-end closing
+- **Solution:** Implement daily cash management procedures and automated bank feeds. Investigate and resolve discrepancies immediately rather than accumulating them.
+
+
+
 
 **Issue:** Missing transaction documentation affecting report accuracy
 **Solution:** Establish daily transaction review procedures and require supporting documentation for all entries. Implement digital document capture and approval workflows.

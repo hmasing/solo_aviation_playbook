@@ -143,8 +143,11 @@ Recurrent Training → Documentation → Continuous Improvement
 
 ## Common Issues and Solutions
 
-**Issue:** Team members unable to attend scheduled training due to operational demands
-**Solution:** Offer multiple training sessions; develop online training options; provide make-up training opportunities
+- **Issue:** Team members unable to attend scheduled training due to operational demands
+- **Solution:** Offer multiple training sessions; develop online training options; provide make-up training opportunities
+
+
+
 
 **Issue:** Training content not relevant to actual job duties and hazards
 **Solution:** Conduct job hazard analysis; involve frontline workers in training development; update content based on operational changes

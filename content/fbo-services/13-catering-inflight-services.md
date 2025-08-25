@@ -88,8 +88,11 @@ Flowchart showing service request processing, vendor coordination, quality contr
 
 ## Common Issues and Solutions
 
-**Issue:** Last-minute catering requests exceeding vendor preparation time capabilities
-**Solution:** Maintain relationships with multiple vendors offering expedited service and coordinate alternative menu options for quick preparation
+- **Issue:** Last-minute catering requests exceeding vendor preparation time capabilities
+- **Solution:** Maintain relationships with multiple vendors offering expedited service and coordinate alternative menu options for quick preparation
+
+
+
 
 **Issue:** Dietary restriction requirements not available from primary vendor
 **Solution:** Coordinate with specialized dietary vendors and maintain directory of vendors capable of handling specific dietary requirements

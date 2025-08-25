@@ -102,8 +102,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Vendor delivery delays affecting operational capabilities and client service
-**Solution:** Maintain relationships with multiple suppliers for critical items and establish emergency procurement procedures. Monitor vendor performance and address delivery issues promptly.
+- **Issue:** Vendor delivery delays affecting operational capabilities and client service
+- **Solution:** Maintain relationships with multiple suppliers for critical items and establish emergency procurement procedures. Monitor vendor performance and address delivery issues promptly.
+
+
+
 
 **Issue:** Purchase orders exceeding budget allocations requiring additional approvals
 **Solution:** Implement real-time budget checking in purchase order system and provide budget visibility to requestors. Establish emergency purchase procedures for safety-critical items.

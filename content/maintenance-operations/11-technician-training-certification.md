@@ -96,8 +96,11 @@ Flowchart to show sequential steps
 
 ## Common Issues and Solutions
 
-**Issue:** Training schedule conflicts with maintenance operations affecting completion rates
-**Solution:** Implement flexible training scheduling, use online training when available, and coordinate training during slower operational periods
+- **Issue:** Training schedule conflicts with maintenance operations affecting completion rates
+- **Solution:** Implement flexible training scheduling, use online training when available, and coordinate training during slower operational periods
+
+
+
 
 **Issue:** High training costs impacting maintenance operation budgets
 **Solution:** Evaluate training cost-effectiveness, negotiate group training rates, and prioritize training based on operational needs and regulatory requirements

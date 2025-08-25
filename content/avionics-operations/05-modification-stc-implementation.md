@@ -111,8 +111,11 @@ STC Research → Regulatory Review → Modification Planning → Parts Procureme
 
 ## Common Issues and Solutions
 
-**Issue:** STC instructions unclear or incomplete for specific aircraft configuration
-**Solution:** Contact STC holder for clarification and additional guidance, consult with FAA engineering for interpretation, and document any approved deviations or alternate methods
+- **Issue:** STC instructions unclear or incomplete for specific aircraft configuration
+- **Solution:** Contact STC holder for clarification and additional guidance, consult with FAA engineering for interpretation, and document any approved deviations or alternate methods
+
+
+
 
 **Issue:** Modification conflicts with existing aircraft equipment or previous modifications
 **Solution:** Review aircraft modification history and equipment lists, consult with STC holder and aircraft manufacturer for compatibility guidance, and consider alternate modification approaches if approved

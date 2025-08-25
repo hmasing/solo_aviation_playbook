@@ -101,8 +101,11 @@ Flowchart showing maintenance workflow from inspection through maintenance compl
 
 ## Common Issues and Solutions
 
-**Issue:** Unexpected aircraft discrepancies disrupting scheduled training flights
-**Solution:** Maintain backup aircraft availability and implement rapid discrepancy assessment procedures to minimize training disruptions
+- **Issue:** Unexpected aircraft discrepancies disrupting scheduled training flights
+- **Solution:** Maintain backup aircraft availability and implement rapid discrepancy assessment procedures to minimize training disruptions
+
+
+
 
 **Issue:** Maintenance scheduling conflicts with peak training demand periods
 **Solution:** Schedule routine maintenance during low-demand periods and coordinate with flight school scheduler for advance planning

@@ -79,8 +79,11 @@ Flowchart showing space availability assessment, reservation processing, aircraf
 
 ## Common Issues and Solutions
 
-**Issue:** Multiple aircraft requests for limited hangar space during weather events
-**Solution:** Implement priority system based on client agreements and coordinate temporary outdoor tie-down with weather protection
+- **Issue:** Multiple aircraft requests for limited hangar space during weather events
+- **Solution:** Implement priority system based on client agreements and coordinate temporary outdoor tie-down with weather protection
+
+
+
 
 **Issue:** Hangar door malfunction during aircraft movement operations
 **Solution:** Activate backup door systems, coordinate with maintenance for immediate repair, and implement manual door operation procedures if safe

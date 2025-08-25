@@ -101,8 +101,11 @@ Flowchart showing scheduling workflow from initial request through lesson comple
 
 ## Common Issues and Solutions
 
-**Issue:** Weather-related lesson cancellations creating scheduling backlog
-**Solution:** Implement flexible rescheduling system with priority booking for cancelled lessons and maintain weather alternate activity options
+- **Issue:** Weather-related lesson cancellations creating scheduling backlog
+- **Solution:** Implement flexible rescheduling system with priority booking for cancelled lessons and maintain weather alternate activity options
+
+
+
 
 **Issue:** Aircraft maintenance conflicts with scheduled training activities
 **Solution:** Coordinate weekly maintenance planning meetings with scheduling team and maintain backup aircraft availability for critical training milestones

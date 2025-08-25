@@ -103,8 +103,11 @@ flowchart TD
 
 ## Common Issues and Solutions
 
-**Issue:** Missing receipts or incomplete documentation delaying expense processing
-**Solution:** Implement digital receipt capture system and provide training on documentation requirements. Establish procedures for handling lost receipts with supervisor attestation.
+- **Issue:** Missing receipts or incomplete documentation delaying expense processing
+- **Solution:** Implement digital receipt capture system and provide training on documentation requirements. Establish procedures for handling lost receipts with supervisor attestation.
+
+
+
 
 **Issue:** Expenses exceeding budget allocations requiring additional approvals
 **Solution:** Provide real-time budget monitoring tools to department leaders. Establish quarterly budget reviews to identify and address spending trends early.

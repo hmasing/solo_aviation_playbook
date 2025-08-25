@@ -135,8 +135,11 @@ Hazard Identification → Corrective Action → Follow-up & Trending
 
 ## Common Issues and Solutions
 
-**Issue:** Limited time available for thorough safety inspections
-**Solution:** Develop efficient inspection procedures; train multiple personnel to conduct inspections; use technology to streamline documentation
+- **Issue:** Limited time available for thorough safety inspections
+- **Solution:** Develop efficient inspection procedures; train multiple personnel to conduct inspections; use technology to streamline documentation
+
+
+
 
 **Issue:** Resistance to implementing costly safety improvements
 **Solution:** Demonstrate cost-benefit of accident prevention; prioritize high-risk hazards; explore cost-effective correction alternatives

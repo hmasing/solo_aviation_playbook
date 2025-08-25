@@ -194,8 +194,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Incomplete aircraft maintenance records affecting work scope determination
-**Solution:** Contact previous maintenance providers, review FAA records, and conduct thorough pre-maintenance inspection to establish baseline
+- **Issue:** Incomplete aircraft maintenance records affecting work scope determination
+- **Solution:** Contact previous maintenance providers, review FAA records, and conduct thorough pre-maintenance inspection to establish baseline
 
 **Issue:** Parts availability delays impacting scheduled maintenance completion
 **Solution:** Maintain preferred vendor relationships, establish minimum stock levels for common components, and communicate delivery delays immediately to clients
@@ -301,8 +301,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Discovering additional maintenance requirements not identified in initial work scope
-**Solution:** Implement systematic inspection procedures, maintain current technical references, and establish clear client communication protocols for scope changes
+- **Issue:** Discovering additional maintenance requirements not identified in initial work scope
+- **Solution:** Implement systematic inspection procedures, maintain current technical references, and establish clear client communication protocols for scope changes
 
 **Issue:** Incomplete or inaccurate aircraft maintenance records affecting baseline assessment
 **Solution:** Conduct more detailed physical inspection, contact previous maintenance providers for records, and document all assumptions in inspection report
@@ -424,8 +424,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Discovery of airworthiness directives not previously complied with during inspection
-**Solution:** Maintain current AD database subscriptions, implement systematic AD tracking procedures, and budget time for unexpected compliance actions
+- **Issue:** Discovery of airworthiness directives not previously complied with during inspection
+- **Solution:** Maintain current AD database subscriptions, implement systematic AD tracking procedures, and budget time for unexpected compliance actions
 
 **Issue:** Parts availability delays for discrepancies discovered during inspection
 **Solution:** Maintain inventory of common inspection-related parts, establish expedited parts ordering procedures, and communicate delays immediately to clients
@@ -548,8 +548,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Discovery of additional maintenance requirements during scheduled maintenance execution
-**Solution:** Implement thorough pre-maintenance inspections, maintain current technical references, and establish clear client communication protocols for scope changes
+- **Issue:** Discovery of additional maintenance requirements during scheduled maintenance execution
+- **Solution:** Implement thorough pre-maintenance inspections, maintain current technical references, and establish clear client communication protocols for scope changes
 
 **Issue:** Parts quality or availability issues affecting scheduled maintenance completion
 **Solution:** Maintain approved vendor relationships, establish minimum stock levels for scheduled maintenance items, and implement expedited ordering procedures
@@ -656,8 +656,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Intermittent problems that are difficult to reproduce during troubleshooting
-**Solution:** Implement systematic testing procedures, use data logging equipment when available, and coordinate with client for operational pattern information
+- **Issue:** Intermittent problems that are difficult to reproduce during troubleshooting
+- **Solution:** Implement systematic testing procedures, use data logging equipment when available, and coordinate with client for operational pattern information
 
 **Issue:** Parts availability delays for unusual or obsolete components
 **Solution:** Maintain relationships with specialized parts suppliers, consider approved alternate parts when available, and communicate delays immediately to clients
@@ -780,8 +780,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Parts availability delays from suppliers affecting maintenance schedules
-**Solution:** Maintain multiple approved suppliers for common parts, establish minimum stock levels for critical components, and implement expedited ordering procedures
+- **Issue:** Parts availability delays from suppliers affecting maintenance schedules
+- **Solution:** Maintain multiple approved suppliers for common parts, establish minimum stock levels for critical components, and implement expedited ordering procedures
 
 **Issue:** Parts quality or documentation discrepancies discovered upon receipt
 **Solution:** Implement systematic receiving inspection procedures, maintain vendor quality ratings, and establish clear return and replacement protocols
@@ -906,8 +906,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Incomplete or illegible logbook entries affecting regulatory compliance
-**Solution:** Implement standardized entry templates, provide training on documentation requirements, and establish quality review procedures
+- **Issue:** Incomplete or illegible logbook entries affecting regulatory compliance
+- **Solution:** Implement standardized entry templates, provide training on documentation requirements, and establish quality review procedures
 
 **Issue:** Missing supporting documentation for maintenance entries
 **Solution:** Create systematic filing procedures, implement work order tracking, and establish documentation checklists for all maintenance activities
@@ -1022,8 +1022,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Difficulty staying current with rapidly changing regulatory requirements
-**Solution:** Implement subscription services for regulatory updates, establish regular review procedures, and maintain relationships with regulatory experts
+- **Issue:** Difficulty staying current with rapidly changing regulatory requirements
+- **Solution:** Implement subscription services for regulatory updates, establish regular review procedures, and maintain relationships with regulatory experts
 
 **Issue:** Incomplete documentation affecting regulatory compliance verification
 **Solution:** Establish standardized documentation procedures, implement regular compliance audits, and provide training on record keeping requirements
@@ -1130,8 +1130,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Quality defects discovered during final inspection requiring maintenance rework
-**Solution:** Implement progressive quality checks throughout maintenance process, provide additional technician training, and establish clear quality standards
+- **Issue:** Quality defects discovered during final inspection requiring maintenance rework
+- **Solution:** Implement progressive quality checks throughout maintenance process, provide additional technician training, and establish clear quality standards
 
 **Issue:** Delays in quality control process affecting client delivery schedules
 **Solution:** Integrate quality planning into maintenance scheduling, establish realistic inspection timeframes, and maintain adequate quality assurance resources
@@ -1246,8 +1246,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Calibration service delays affecting tool availability for maintenance operations
-**Solution:** Maintain backup instruments for critical tools, establish multiple calibration service providers, and implement proactive scheduling procedures
+- **Issue:** Calibration service delays affecting tool availability for maintenance operations
+- **Solution:** Maintain backup instruments for critical tools, establish multiple calibration service providers, and implement proactive scheduling procedures
 
 **Issue:** High calibration costs impacting maintenance operation budgets
 **Solution:** Evaluate calibration intervals based on usage patterns, consider in-house calibration capabilities, and optimize tool inventory levels
@@ -1362,8 +1362,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Training schedule conflicts with maintenance operations affecting completion rates
-**Solution:** Implement flexible training scheduling, use online training when available, and coordinate training during slower operational periods
+- **Issue:** Training schedule conflicts with maintenance operations affecting completion rates
+- **Solution:** Implement flexible training scheduling, use online training when available, and coordinate training during slower operational periods
 
 **Issue:** High training costs impacting maintenance operation budgets
 **Solution:** Evaluate training cost-effectiveness, negotiate group training rates, and prioritize training based on operational needs and regulatory requirements
@@ -1495,8 +1495,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Client unavailability delaying maintenance approvals and aircraft delivery schedules
-**Solution:** Establish multiple client contact methods, implement electronic approval systems, and maintain clear authorization delegation procedures
+- **Issue:** Client unavailability delaying maintenance approvals and aircraft delivery schedules
+- **Solution:** Establish multiple client contact methods, implement electronic approval systems, and maintain clear authorization delegation procedures
 
 **Issue:** Client resistance to additional maintenance recommendations affecting aircraft safety or regulatory compliance
 **Solution:** Provide clear technical explanations, document regulatory requirements, and establish escalation procedures for safety-related issues
@@ -1619,8 +1619,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Increasing costs of hazardous waste disposal affecting maintenance operation budgets
-**Solution:** Implement waste minimization procedures, evaluate alternative materials when possible, and negotiate competitive disposal service contracts
+- **Issue:** Increasing costs of hazardous waste disposal affecting maintenance operation budgets
+- **Solution:** Implement waste minimization procedures, evaluate alternative materials when possible, and negotiate competitive disposal service contracts
 
 **Issue:** Team member resistance to personal protective equipment requirements affecting safety compliance
 **Solution:** Provide training on hazardous materials risks, ensure comfortable and properly fitted PPE, and establish accountability measures for safety compliance
@@ -1735,8 +1735,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Team member resistance to safety procedures and cleanliness requirements affecting compliance
-**Solution:** Provide clear training on safety benefits, establish accountability measures, and recognize good safety performance
+- **Issue:** Team member resistance to safety procedures and cleanliness requirements affecting compliance
+- **Solution:** Provide clear training on safety benefits, establish accountability measures, and recognize good safety performance
 
 **Issue:** Facility maintenance costs impacting operational budgets
 **Solution:** Implement preventive maintenance procedures, negotiate competitive service contracts, and prioritize maintenance based on safety requirements
@@ -1859,8 +1859,8 @@ Flowchart to show sequential steps
 
 ### Common Issues and Solutions
 
-**Issue:** Inaccurate labor time reporting affecting billing accuracy and profitability analysis
-**Solution:** Implement systematic time tracking procedures, provide training on time reporting requirements, and establish review processes for labor documentation
+- **Issue:** Inaccurate labor time reporting affecting billing accuracy and profitability analysis
+- **Solution:** Implement systematic time tracking procedures, provide training on time reporting requirements, and establish review processes for labor documentation
 
 **Issue:** Client disputes regarding maintenance charges and work performed
 **Solution:** Provide detailed work documentation, maintain clear communication throughout maintenance process, and establish dispute resolution procedures

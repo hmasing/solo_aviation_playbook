@@ -111,8 +111,11 @@ Pre-Installation Planning → Physical Installation → Wiring and Connections �
 
 ## Common Issues and Solutions
 
-**Issue:** Interference between newly installed equipment and existing avionics systems
-**Solution:** Verify proper wiring separation and shielding installation, check for ground loops or improper connections, and consult manufacturer technical support for interference mitigation techniques
+- **Issue:** Interference between newly installed equipment and existing avionics systems
+- **Solution:** Verify proper wiring separation and shielding installation, check for ground loops or improper connections, and consult manufacturer technical support for interference mitigation techniques
+
+
+
 
 **Issue:** Configuration parameters not properly set resulting in system malfunction
 **Solution:** Review manufacturer configuration procedures, verify aircraft-specific settings requirements, and use manufacturer programming software or tools to ensure proper parameter settings
