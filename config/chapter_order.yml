@@ -66,6 +66,13 @@ chapters:
     include_overview: true
     description: "Administrative procedures, billing, and financial management"
 
+  # Legal and Business Operations - Legal framework and business governance
+  - directory: "legal-business"
+    title: "Legal and Business"
+    enabled: true
+    include_overview: true
+    description: "Legal procedures, contracts, risk management, and human resources"
+
   # Reference Materials - Glossary and references
   - directory: "glossary"
     title: "Aviation Glossary"
