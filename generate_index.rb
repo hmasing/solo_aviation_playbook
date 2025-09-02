@@ -14,7 +14,7 @@ Dir.chdir('kitabu') do
   
   puts ""
   puts "✅ Index generated successfully!"
-  puts "📄 Index file: kitabu/text/09_Keyword_Index.md"
+  puts "📄 Index file: kitabu/text/[Chapter_Number]_Keyword_Index.md"
   
   puts ""
   puts "🚀 To rebuild the complete playbook with updated index:"

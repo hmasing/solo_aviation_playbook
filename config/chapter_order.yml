@@ -73,7 +73,7 @@ chapters:
     include_overview: true
     description: "Legal procedures, contracts, risk management, and human resources"
 
-  # Reference Materials - Glossary and references
+  # Reference Materials - Glossary and references (INDEX - Very Last Chapter)
   - directory: "glossary"
     title: "Aviation Glossary"
     enabled: true

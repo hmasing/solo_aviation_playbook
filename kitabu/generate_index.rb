@@ -11,6 +11,7 @@ class IndexGenerator
   # Paths
   TEXT_DIR = Pathname.new('./text')
   OUTPUT_DIR = Pathname.new('./text')
+  CHAPTER_CONFIG = Pathname.new('../config/chapter_order.yml')
 
   # Aviation-specific terms to always include in index
   AVIATION_TERMS = %w[
@@ -79,6 +80,7 @@ class IndexGenerator
   def initialize
     @index_entries = {}
     @all_terms = (AVIATION_TERMS + OPERATIONAL_TERMS + REGULATORY_TERMS).uniq.sort
+    @index_chapter_number = determine_index_chapter_number
   end
 
   def generate!
@@ -89,10 +91,37 @@ class IndexGenerator
     create_index_file
 
     puts '✅ Keyword index generation complete!'
-    puts "📄 Index saved to: #{OUTPUT_DIR}/09_Keyword_Index.md"
+    puts "📄 Index saved to: #{OUTPUT_DIR}/#{format('%02d_Keyword_Index.md', @index_chapter_number)}"
   end
 
   private
+
+  def determine_index_chapter_number
+    # Read the chapter order configuration to determine the index chapter number
+    # The index should always be the last chapter
+    unless CHAPTER_CONFIG.exist?
+      puts "⚠️  Chapter configuration not found, using default chapter 10 for index"
+      return 10
+    end
+
+    begin
+      config = YAML.load_file(CHAPTER_CONFIG)
+      chapters = config['chapters'] || []
+      
+      if chapters.empty?
+        puts "⚠️  No chapters found in configuration, using default chapter 10 for index"
+        return 10
+      end
+
+      # The index should be the last chapter number
+      index_chapter = chapters.length
+      puts "📖 Index will be Chapter #{index_chapter} (last chapter)"
+      index_chapter
+    rescue => e
+      puts "⚠️  Error reading chapter configuration: #{e.message}, using default chapter 10 for index"
+      10
+    end
+  end
 
   def scan_content_files
     return unless TEXT_DIR.exist?
@@ -100,11 +129,12 @@ class IndexGenerator
     text_files = Dir.glob(TEXT_DIR.join('*.md')).sort
     puts "  🔍 Scanning #{text_files.length} content files..."
 
-          text_files.each do |file_path|
-        next if File.basename(file_path).start_with?('09_') # Skip existing index files
+    text_files.each do |file_path|
+      # Skip existing index files (any file starting with the index chapter number)
+      next if File.basename(file_path).start_with?("#{format('%02d', @index_chapter_number)}_")
 
-        scan_file(file_path)
-      end
+      scan_file(file_path)
+    end
   end
 
   def scan_file(file_path)
@@ -243,7 +273,7 @@ class IndexGenerator
 
     index_content = generate_index_markdown
 
-    output_path = OUTPUT_DIR.join('09_Keyword_Index.md')
+    output_path = OUTPUT_DIR.join("#{format('%02d', @index_chapter_number)}_Keyword_Index.md")
     File.write(output_path, index_content)
 
     puts "    ✅ Index file created with #{@index_entries.keys.length} indexed terms"
