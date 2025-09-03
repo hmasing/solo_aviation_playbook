@@ -176,3 +176,4 @@ flowchart TD
 - **Strategic Alignment**: IP protection supporting long-term business objectives and competitive advantages
 
 
+
