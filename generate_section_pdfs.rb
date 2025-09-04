@@ -516,6 +516,23 @@ class SectionPDFGenerator
     config_path = File.join(temp_dir, 'config', 'kitabu.yml')
     config = YAML.load_file(config_path)
     
+    # Load central configuration
+    central_config_path = File.join(__dir__, 'config', 'playbook.yml')
+    if File.exist?(central_config_path)
+      central_config = YAML.load_file(central_config_path)
+      
+      # Update with central config values
+      config['version'] = central_config['version']
+      config['revision_date'] = central_config['revision_date']
+      config['published_at'] = central_config['published_at']
+      config['publisher'] = central_config['publisher']
+      config['copyright'] = central_config['copyright']
+      config['authors'] = central_config['authors']
+      config['subject'] = central_config['subject']
+      config['keywords'] = central_config['keywords']
+      config['language'] = central_config['language']
+    end
+    
     # Update title and metadata for this section
     config['title'] = section_title
     config['uid'] = "solo-aviation-#{sanitize_filename(section_title).downcase}-#{Time.now.strftime('%Y%m%d')}"

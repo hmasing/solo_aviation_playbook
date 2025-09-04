@@ -1,0 +1,32 @@
+# Solo Aviation Services Playbook Configuration
+# Central configuration for version, dates, and metadata
+
+# Version information
+version: "0.3"
+revision_date: "2025-SEP-03"
+
+# Publication information
+published_at: "2025-09-03"
+
+# Book metadata
+title: "Operations Playbook"
+publisher: "Solo Aviation Services"
+copyright: "Copyright (C) 2025 Solo Aviation Services, LLC. All rights reserved."
+
+# Book identification
+uid: "solo-aviation-services-playbook-2025"
+identifier:
+  id: "solo-aviation-services-playbook"
+  type: "URL"
+
+# Authors
+authors:
+  - "Solo Aviation Services, LLC"
+
+# Subject and keywords
+subject: "Operations Playbook"
+keywords: "FBO, aviation, operations, procedures, aircraft, maintenance, safety, compliance"
+
+# Language
+language: "en"
+

@@ -1,43 +1,17 @@
-# The book's title. Will be used everywhere!
-title: "Operations Playbook"
-
-# The book's language.
+---
+title: Operations Playbook
 language: en
-
-# Your book copyright info.
-copyright: "Copyright (C) 2025 Solo Aviation Services, LLC. All rights reserved."
-
-# Who's publishing this book.
-publisher: "Solo Aviation Services"
-
-# When this book was published.
-published_at: "2025-09-03"
-
-# Version information
-version: "0.3"
-revision_date: "2025-SEP-03"
-
-# Some book description.
-subject: "Operations Playbook"
-
-# Some keywords that identify this book.
-keywords: "FBO, aviation, operations, procedures, aircraft, maintenance, safety, compliance"
-
-# Some unique identification. Works great with your domain
-uid: "solo-aviation-services-playbook-2025"
-
-# Your book identification like ISBN or ISSN.
+copyright: Copyright (C) 2025 Solo Aviation Services, LLC. All rights reserved.
+publisher: Solo Aviation Services
+published_at: '2025-09-03'
+version: '0.3'
+revision_date: 2025-SEP-03
+subject: Operations Playbook
+keywords: FBO, aviation, operations, procedures, aircraft, maintenance, safety, compliance
+uid: solo-aviation-services-playbook-2025
 identifier:
-  id: "solo-aviation-services-playbook"
-  type: "URL"
-
-# This book authors.
+  id: solo-aviation-services-playbook
+  type: URL
 authors:
-  - "Solo Aviation Services, LLC"
-
-# Syntax highlight theme. Can be any of supported by Rouge.
-# theme: github
+- Solo Aviation Services, LLC
 theme: monokai
-
-# Output directory - keeping default for now
-# Custom copying handled in build script
