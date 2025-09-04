@@ -39,10 +39,10 @@ class SectionPDFGenerator
 
     generate_summary_report
     puts ""
-    puts "✅ Section PDF generation complete!"
-    puts "📁 Generated #{@generated_pdfs.length} individual PDFs in: #{OUTPUT_DIR}"
+    puts "✅ Section PDF and Markdown generation complete!"
+    puts "📁 Generated #{@generated_pdfs.length} individual PDFs and #{@generated_pdfs.length} Markdown files in: #{OUTPUT_DIR}"
     puts ""
-    puts "🚀 To view all generated PDFs:"
+    puts "🚀 To view all generated files:"
     puts "   open #{OUTPUT_DIR}"
   end
 
@@ -201,12 +201,14 @@ class SectionPDFGenerator
     if custom_title
       section_title = custom_title
       output_filename = "#{chapter_number}_#{sanitize_filename(section[:section_name])}_#{section_number}_#{sanitize_filename(custom_title)}.pdf"
+      markdown_filename = "#{chapter_number}_#{sanitize_filename(section[:section_name])}_#{section_number}_#{sanitize_filename(custom_title)}.md"
     else
       # Extract title from the markdown file
       content = File.read(file_path)
       title_match = content.match(/^#\s+(.+)$/)
       section_title = title_match ? title_match[1].strip : file_name.gsub(/^\d+-/, '').gsub('-', ' ').titleize
       output_filename = "#{chapter_number}_#{sanitize_filename(section[:section_name])}_#{section_number}_#{sanitize_filename(section_title)}.pdf"
+      markdown_filename = "#{chapter_number}_#{sanitize_filename(section[:section_name])}_#{section_number}_#{sanitize_filename(section_title)}.md"
     end
 
     puts "    📖 Creating: #{chapter_dir_name}/#{output_filename}"
@@ -219,8 +221,12 @@ class SectionPDFGenerator
       result = generate_pdf_with_kitabu(temp_kitabu_dir, output_filename, chapter_dir_name)
       
       if result
+        # Copy the source Markdown file to the output directory
+        copy_markdown_file(file_path, markdown_filename, chapter_dir_name)
+        
         pdf_info = {
           filename: output_filename,
+          markdown_filename: markdown_filename,
           chapter_dir: chapter_dir_name,
           section: section[:section_name],
           title: section_title
@@ -234,6 +240,7 @@ class SectionPDFGenerator
         
         @generated_pdfs << pdf_info
         puts "      ✅ Generated: #{chapter_dir_name}/#{output_filename}"
+        puts "      📄 Copied: #{chapter_dir_name}/#{markdown_filename}"
       else
         puts "      ❌ Failed to generate: #{chapter_dir_name}/#{output_filename}"
       end
@@ -583,6 +590,17 @@ class SectionPDFGenerator
     false
   end
 
+  def copy_markdown_file(source_path, markdown_filename, chapter_dir_name)
+    # Ensure output directory exists
+    output_path = File.expand_path(OUTPUT_DIR)
+    chapter_path = File.join(output_path, chapter_dir_name)
+    FileUtils.mkdir_p(chapter_path)
+    
+    # Copy the source Markdown file to the output directory
+    target_path = File.join(chapter_path, markdown_filename)
+    FileUtils.cp(source_path, target_path)
+  end
+
   def sanitize_filename(filename)
     # Remove or replace characters that aren't safe for filenames
     filename.gsub(/[^a-zA-Z0-9\s\-_]/, '')
@@ -597,8 +615,9 @@ class SectionPDFGenerator
     
     report_content = "# Section PDF Generation Report\n\n"
     report_content += "Generated on: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
-    report_content += "Total PDFs generated: #{@generated_pdfs.length}\n\n"
-    report_content += "**Note**: PDFs are now organized in separate chapter directories for better navigation.\n\n"
+    report_content += "Total PDFs generated: #{@generated_pdfs.length}\n"
+    report_content += "Total Markdown files copied: #{@generated_pdfs.length}\n\n"
+    report_content += "**Note**: Both PDFs and source Markdown files are organized in separate chapter directories for better navigation.\n\n"
     
     # Group by section
     grouped_pdfs = @generated_pdfs.group_by { |pdf| pdf[:section] }
@@ -607,7 +626,9 @@ class SectionPDFGenerator
       report_content += "## #{section_name}\n\n"
       pdfs.each do |pdf|
         size_mb = pdf[:size] ? (pdf[:size] / 1024.0 / 1024.0).round(2) : 'Unknown'
-        report_content += "- **#{pdf[:title]}** → `#{pdf[:chapter_dir]}/#{pdf[:filename]}` (#{size_mb} MB)\n"
+        report_content += "- **#{pdf[:title]}**\n"
+        report_content += "  - PDF: `#{pdf[:chapter_dir]}/#{pdf[:filename]}` (#{size_mb} MB)\n"
+        report_content += "  - Markdown: `#{pdf[:chapter_dir]}/#{pdf[:markdown_filename]}`\n"
       end
       report_content += "\n"
     end
