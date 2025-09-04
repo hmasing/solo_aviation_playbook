@@ -1,0 +1,29 @@
+<!doctype html>
+<html class="html">
+  <head>
+    <title><%= title %></title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <link name="stylesheet" rel="stylesheet" type="text/css" href="styles/html.css" />
+    <meta name="author" content="<%= authors.join(', ') %>" />
+    <meta name="subject" content="<%= subject %>" />
+    <meta name="keywords" content="<%= keywords %>" />
+    <meta name="date" content="<%= published_at %>" />
+    <%= highlight_theme %>
+  </head>
+
+  <body data-version="<%= version %>" data-revision-date="<%= revision_date %>">
+    <!-- No frontcover for individual sections -->
+    
+    <!-- No table of contents for individual sections -->
+    
+    <div id="chapters">
+      <%= content %>
+    </div>
+
+    <!-- No changelog for individual sections -->
+    
+    <!-- No white page after content -->
+    
+    <!-- No imprint for individual sections -->
+  </body>
+</html>

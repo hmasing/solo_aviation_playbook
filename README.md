@@ -8,6 +8,7 @@ This playbook provides standardized procedures for Solo Aviation Services Fixed 
 
 ### Generate PDF Documentation
 
+#### Main Playbook PDF
 ```bash
 ./build_playbook.sh
 ```
@@ -15,10 +16,32 @@ This playbook provides standardized procedures for Solo Aviation Services Fixed 
 This creates: `solo-aviation-services-playbook.pdf` (287KB document)
 
 **To open the PDF:**
-
 ```bash
 open solo-aviation-services-playbook.pdf
 ```
+
+#### Individual Section PDFs
+```bash
+./build_section_pdfs.sh
+```
+
+This creates individual PDF files for each procedure in: `./section-pdfs/`
+
+**To view all generated PDFs:**
+```bash
+open ./section-pdfs/
+```
+
+**Benefits of Individual PDFs:**
+- **Training Materials**: Distribute specific procedures to team members
+- **Reference Documents**: Quick access to individual procedures  
+- **Client Handouts**: Share specific procedures with clients
+- **Compliance Documentation**: Provide specific procedures to auditors
+- **Optimized Format**: No cover page or table of contents - just the procedure content
+- **Page Numbers & Footers**: Professional page numbering and Solo Aviation branding
+- **No Blank Pages**: Content starts immediately without useless first pages
+
+See [SECTION-PDF-GENERATION.md](SECTION-PDF-GENERATION.md) for detailed documentation.
 
 ## Playbook Structure
 
@@ -217,13 +240,22 @@ This playbook follows Solo Aviation Services vocabulary standards:
 
 ### PDF Generation Workflow
 
-The playbook uses an automated PDF generation system:
+The playbook uses an automated PDF generation system with two output options:
 
+#### Main Playbook PDF
 1. **Content Creation**: Write procedures in Markdown format in `content/` directories
 2. **Template Compliance**: Follow standardized procedure templates in `templates/`
 3. **Vocabulary Standards**: Apply Solo Aviation vocabulary from `.cursor/rules/vocabulary-standards.mdc`
 4. **PDF Generation**: Run `./build_playbook.sh` or `ruby build_playbook.rb` to generate PDF
 5. **Output**: PDF created as `solo-aviation-services-playbook.pdf` in root directory
+
+#### Individual Section PDFs
+1. **Content Discovery**: System scans `content/` directories for chapters and procedures
+2. **Individual Processing**: Each procedure generates its own PDF file
+3. **Custom Templates**: Uses specialized templates that exclude cover and table of contents
+4. **PDF Generation**: Run `./build_section_pdfs.sh` or `ruby build_section_pdfs.rb`
+5. **Output**: Individual PDFs created in `./section-pdfs/` directory with page numbering starting from 1
+6. **Reporting**: Generation report created at `./section-pdfs/generation_report.md`
 
 ### Build Process Details
 

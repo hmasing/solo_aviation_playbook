@@ -1,0 +1,357 @@
+@import "./files/normalize.css";
+
+/* Prince XML specific styles to hide logo */
+@prince-pdf {
+  prince-pdf-page-layout: single-page;
+}
+
+/* Hide Prince logo globally */
+@page {
+  prince-pdf-page-mode: use-none;
+}
+
+:root {
+  --solo-light-blue: #85d4ff;
+  --solo-dark-blue: #008df5;
+  --page-height: 22.86cm;
+  --page-height: 19.05cm;
+}
+
+/* Page headers and footers for individual sections */
+@page chapter {
+  size: letter portrait;
+  margin: 2.5cm 1.5cm 2cm 1.5cm;
+  
+  @top-left {
+    content: string(chapter-info);
+    font-size: 11px;
+    color: var(--solo-dark-blue);
+    font-family: Arial, sans-serif;
+  }
+  
+  @top-right {
+    content: "Section " string(section-number) ": " string(section-name);
+    font-size: 11px;
+    color: var(--solo-dark-blue);
+    font-family: Arial, sans-serif;
+  }
+  
+  @bottom-left {
+    content: url("../../images/solo-logo-footer.jpeg");
+    width: 30px;
+    height: 15px;
+    padding-left: 10px;
+  }
+  
+  @bottom-right {
+    content: "Page " counter(page);
+    font-size: 9px;
+    color: #666;
+    font-family: Arial, sans-serif;
+  }
+}
+
+/* Ensure page numbering starts from 1 for first page */
+@page :first {
+  @top-left {
+    content: string(chapter-info);
+    font-size: 11px;
+    color: var(--solo-dark-blue);
+    font-family: Arial, sans-serif;
+  }
+  
+  @top-right {
+    content: "Section " string(section-number) ": " string(section-name);
+    font-size: 11px;
+    color: var(--solo-dark-blue);
+    font-family: Arial, sans-serif;
+  }
+  
+  @bottom-left {
+    content: url("../../images/solo-logo-footer.jpeg");
+    width: 30px;
+    height: 15px;
+    padding-left: 10px;
+  }
+  
+  @bottom-right {
+    content: "Page " counter(page);
+    font-size: 9px;
+    color: #666;
+    font-family: Arial, sans-serif;
+  }
+}
+
+/* No frontcover styles for individual sections */
+/* No table of contents styles for individual sections */
+
+/* Style chapter content */
+.chapters {
+  counter-reset: chapter;
+}
+
+.chapter {
+  page: chapter;
+  page-break-before: always;
+  counter-increment: chapter;
+  counter-reset: section;
+  string-set: chapter-number attr(data-chapter);
+  string-set: section-number attr(data-section);
+}
+
+.chapter h1 {
+  counter-increment: section;
+}
+
+/* Hide the title elements used for string-set */
+.hidden-chapter-title,
+.hidden-section-title,
+.hidden-section-number,
+.hidden-section-name {
+  display: none;
+}
+
+/* Set string values for headers from content elements */
+.chapter-info {
+  string-set: chapter-info content(text);
+}
+
+.section-title {
+  string-set: section-title content(text);
+}
+
+/* Start page numbering from 1 for individual sections */
+#chapters .chapter:first-child {
+  counter-reset: page 1;
+}
+
+/* Ensure each H1 section starts on a new page */
+h1 {
+  page: chapter;
+  font-family: Arial, sans-serif;
+  font-weight: 300;
+  font-size: 28pt;
+  color: #2c3e50;
+  margin: 0 0 1cm 0;
+  padding-bottom: 0.3cm;
+  border-bottom: 3px solid #3498db;
+  string-set: chapter-title content(text);
+}
+
+/* Force page break before H1 except for the first one */
+h1:not(:first-of-type) {
+  page-break-before: always;
+}
+
+/* Removed the "Section X" prefix from H1 headers */
+
+/* Style H2 headers */
+h2 {
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+  font-size: 20pt;
+  color: #2c3e50;
+  margin: 1.5cm 0 0.5cm 0;
+  padding-bottom: 0.2cm;
+  border-bottom: 2px solid #3498db;
+}
+
+/* Style H3 headers */
+h3 {
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16pt;
+  color: #2c3e50;
+  margin: 1cm 0 0.3cm 0;
+  padding-bottom: 0.1cm;
+  border-bottom: 1px solid #bdc3c7;
+}
+
+/* Style H4 headers */
+h4 {
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  font-size: 14pt;
+  color: #2c3e50;
+  margin: 0.8cm 0 0.2cm 0;
+}
+
+/* Style H5 headers */
+h5 {
+  font-family: Arial, sans-serif;
+  font-weight: 600;
+  font-size: 12pt;
+  color: #2c3e50;
+  margin: 0.6cm 0 0.2cm 0;
+}
+
+/* Style H6 headers */
+h6 {
+  font-family: Arial, sans-serif;
+  font-weight: 600;
+  font-size: 11pt;
+  color: #2c3e50;
+  margin: 0.4cm 0 0.1cm 0;
+}
+
+/* Body text styling */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 11pt;
+  line-height: 1.4;
+  color: #2c3e50;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0.3cm 0;
+  text-align: justify;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0.3cm 0;
+  padding-left: 0.5cm;
+}
+
+li {
+  margin: 0.1cm 0;
+}
+
+/* Code blocks */
+pre {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  padding: 0.3cm;
+  margin: 0.3cm 0;
+  font-family: monospace;
+  font-size: 9pt;
+}
+
+code {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 3px;
+  padding: 0.1cm 0.2cm;
+  font-family: monospace;
+  font-size: 9pt;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.3cm 0;
+  font-size: 10pt;
+}
+
+th, td {
+  border: 1px solid #bdc3c7;
+  padding: 0.2cm;
+  text-align: left;
+}
+
+th {
+  background: #ecf0f1;
+  font-weight: 600;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #3498db;
+  margin: 0.3cm 0;
+  padding-left: 0.3cm;
+  font-style: italic;
+  color: #7f8c8d;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 2px solid #bdc3c7;
+  margin: 0.5cm 0;
+}
+
+/* Links */
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.3cm auto;
+}
+
+/* Page breaks */
+.page-break {
+  page-break-before: always;
+}
+
+/* Avoid page breaks inside these elements */
+h1, h2, h3, h4, h5, h6, pre, table, blockquote {
+  page-break-inside: avoid;
+}
+
+/* Allow page breaks after these elements */
+h1, h2, h3, h4, h5, h6 {
+  page-break-after: avoid;
+}
+
+/* Footnotes */
+.footnotes {
+  margin-top: 0.5cm;
+  padding-top: 0.3cm;
+  border-top: 1px solid #bdc3c7;
+  font-size: 9pt;
+}
+
+.footnotes hr {
+  display: none;
+}
+
+/* Notes and callouts */
+.note {
+  background: #e8f4fd;
+  border: 1px solid #3498db;
+  border-radius: 4px;
+  padding: 0.3cm;
+  margin: 0.3cm 0;
+  font-size: 10pt;
+}
+
+.warning {
+  background: #fdf2e9;
+  border: 1px solid #e67e22;
+  border-radius: 4px;
+  padding: 0.3cm;
+  margin: 0.3cm 0;
+  font-size: 10pt;
+}
+
+.caution {
+  background: #fef9e7;
+  border: 1px solid #f39c12;
+  border-radius: 4px;
+  padding: 0.3cm;
+  margin: 0.3cm 0;
+  font-size: 10pt;
+}
+
+.best-practice {
+  background: #e8f5e8;
+  border: 1px solid #27ae60;
+  border-radius: 4px;
+  padding: 0.3cm;
+  margin: 0.3cm 0;
+  font-size: 10pt;
+}
