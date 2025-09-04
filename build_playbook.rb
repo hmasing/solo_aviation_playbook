@@ -17,19 +17,35 @@ Dir.chdir('kitabu') do
     puts ""
     puts "✅ PDF generated successfully!"
     
-    # Copy PDF to root directory for easy access
+    # Copy PDF to root output directory for organized structure
     if File.exist?('output/kitabu.pdf')
       require 'fileutils'
-      FileUtils.cp('output/kitabu.pdf', '../solo-aviation-services-playbook.pdf')
-      puts "📄 PDF copied to root directory: solo-aviation-services-playbook.pdf"
-      puts "📁 Original location: kitabu/output/"
+      FileUtils.mkdir_p('../output')
+      begin
+        FileUtils.cp('output/kitabu.pdf', '../output/solo-aviation-services-playbook.pdf')
+        puts "📄 Main playbook PDF copied to: output/solo-aviation-services-playbook.pdf"
+        puts "📁 Original location: kitabu/output/kitabu.pdf"
+      rescue => e
+        puts "❌ Failed to copy main playbook PDF: #{e.message}"
+        exit 1
+      end
+    else
+      puts "⚠️  Main playbook PDF not found in expected location"
+      exit 1
+    end
+    
+    # Return to root directory and generate individual section PDFs
+    Dir.chdir('..') do
+      puts ""
+      puts "🛩️  Generating individual section PDFs..."
+      system('ruby build_section_pdfs.rb')
       
       puts ""
-      puts "🚀 To open the PDF:"
-      puts "   open solo-aviation-services-playbook.pdf"
-      puts "   # Or from original location: open kitabu/output/kitabu.pdf"
-    else
-      puts "⚠️  PDF not found in expected location"
+      puts "🚀 To open the main playbook:"
+      puts "   open output/solo-aviation-services-playbook.pdf"
+      puts ""
+      puts "🚀 To view all generated PDFs:"
+      puts "   open output/"
     end
   else
     puts ""

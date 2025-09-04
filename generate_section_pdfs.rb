@@ -14,7 +14,7 @@ class SectionPDFGenerator
   # Paths
   SOURCE_DIR = Pathname.new('./content')
   KITABU_DIR = Pathname.new('./kitabu')
-  OUTPUT_DIR = Pathname.new('./section-pdfs')
+  OUTPUT_DIR = Pathname.new('./output')
   CHAPTER_CONFIG = Pathname.new('./config/chapter_order.yml')
 
   def initialize
@@ -162,8 +162,8 @@ class SectionPDFGenerator
 
   def clear_existing_section_pdfs
     puts "🧹 Clearing existing section PDFs..."
-    # Remove all PDF files in the root directory
-    FileUtils.rm_rf(Dir.glob("#{OUTPUT_DIR}/*.pdf"))
+    # Remove all PDF files in the root directory EXCEPT the main playbook PDF
+    FileUtils.rm_rf(Dir.glob("#{OUTPUT_DIR}/*.pdf").reject { |f| f.include?('solo-aviation-services-playbook.pdf') })
     # Remove all chapter directories and their contents
     FileUtils.rm_rf(Dir.glob("#{OUTPUT_DIR}/*/"))
   end
